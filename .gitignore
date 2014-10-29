@@ -1,0 +1,10 @@
+#Игнорим все картинки в директории /images
+/images/**/*.jpg
+/images/**/*.png
+/images/**/*.gif
+
+#Игнорим архивы
+.zip
+.rar
+
+#Help http://ivan-orlov.com/ru/articles/podrobnee-o-faile-gitignore

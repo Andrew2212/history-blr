@@ -1,0 +1,79 @@
+
+/*==========Dividers===================================*/
+
+/*Divider vertical right for div*/
+.divider-vertical-right {
+/*height: 50px;
+margin: 0 9px;*/
+border-right: 1px solid #F2F2F2;
+}
+
+/*Divider vertical left for div*/
+.divider-vertical-left{
+border-left: 1px solid #F2F2F2;
+}
+
+/*==========Left sidebar================================*/
+.left-bar{
+height: 800px;	
+overflow-y: auto;
+border-right: 1px solid #F2F2F2;
+border-top: 1px solid #F2F2F2;
+border-bottom: 1px solid #F2F2F2;
+}
+
+/*==========Right sidebar================================*/
+.right-bar{
+height: 800px;	
+overflow-y: auto;
+border-left: 1px solid #F2F2F2;
+border-top: 1px solid #F2F2F2;
+border-bottom: 1px solid #F2F2F2;
+text-align: center;
+}
+
+
+/*=================Item state===========================*/
+
+/*Directory item is unable*/
+.item-unable{
+color: gray;
+}
+
+/*Directory item is corrected*/
+.item-edit{
+color: green;
+}
+/*Directory item without link*/
+.item-link{
+color: maroon;
+}
+/*==============Images size within right sidebar================*/
+
+/*Style images within right sidebar*/
+.img-right-180{
+max-width:180px; 	
+margin-top: 0px;
+vertical-align: middle;
+}
+.img-right-120{
+max-width:120px; 	
+margin-top: 0px;
+}
+
+/*==================Images on pages=======================*/
+
+.img-float-left{
+	float: left; 
+	margin-right: 10px
+}
+
+.img-float-right{
+	float: right; 
+	margin-left: 10px
+}
+
+.img-float-center{
+	text-align: center;
+	
+}
