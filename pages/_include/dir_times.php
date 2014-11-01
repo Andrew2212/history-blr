@@ -1,9 +1,9 @@
 
       <div class="col-md-2  left-bar">
       <ul>
-	    <li>
+
           <h4>Время</h4>
-        </li>
+
         <li>
           <a href="#" class="item-unable">X век</a>
         </li>

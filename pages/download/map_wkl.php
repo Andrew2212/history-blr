@@ -17,7 +17,13 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Карты <a href="../terms/wkl.php">ВКЛ</a></h3>
-		</br></br>
+		<h4>
+		Узнать больше и заказать печать можно 
+		<a href="https://www.facebook.com/pages/%D0%9C%D0%B0%D0%B9%D1%81%D1%82%D1%8D%D1%80%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D0%B0%D0%B4%D0%B0%D1%9E%D0%BD%D1%96%D1%85-%D0%B3%D0%B5%D0%B0%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%87%D0%BD%D1%8B%D1%85-%D0%BC%D0%B0%D0%BF/527727034041838">
+		тут
+		</a>
+		</h4>
+		</br>
 		
 		<div class="col-md-12">
 			<p>
@@ -35,7 +41,7 @@
 			</br>
 			<p>
 			<img src="../../images/img-download/wkl_thumb.jpg" class="img-float-left"/>
-				Context 
+			</br> Карта Речи Посполитой 1710 года
 			</p>
 			<p>
 			Размер 1200 х 1020</br>
@@ -48,7 +54,6 @@
 			</br>
 			<p>
 			<img src="../../images/img-download/map_1711_thumb.jpg" class="img-float-left"/>
-				Context 
 				</br> Карта Речи Посполитой 1711 года
 			</p>
 			<p>

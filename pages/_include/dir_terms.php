@@ -1,9 +1,9 @@
 
       <div class="col-md-2 left-bar">
       <ul>
-	    <li>
+
           <h4>Термины</h4>
-        </li>
+
 		<li>
           <a href="bnr.php" class="item-edit">БНР</a>
         </li>

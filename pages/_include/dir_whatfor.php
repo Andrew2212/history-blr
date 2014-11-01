@@ -1,9 +1,9 @@
 
       <div class="col-md-2 left-bar">
       <ul>
-	    <li>
+
           <h4>What for?</h4>
-        </li>
+
         <li>
           <a href="../articles/essay.php">Эссе на заданную тему</a>
         </li>
@@ -30,6 +30,9 @@
         </li>
 		<li>
           <a href="../events/fails.php">Неудачные попытки</a>
+        </li>
+        <li>
+          <a href="../articles/book_mova.php">Хоршая горькая книга</a>
         </li>
         <li>
           <a href="#" class="item-unable">...</a>

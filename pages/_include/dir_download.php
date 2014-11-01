@@ -1,9 +1,9 @@
 
       <div class="col-md-2 left-bar">
       <ul>
-	    <li>
+
           <h4>Download</h4>
-        </li>
+
         <li>
           <a href="../download/map_radziwill.php">Карта Magni Ducatus Lithaniae 1630 г. Радзивилла "Сиротки"</a>
         </li>

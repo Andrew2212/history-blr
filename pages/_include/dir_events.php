@@ -1,9 +1,9 @@
 
       <div class="col-md-2 left-bar">
       <ul>
-	    <li>
+
           <h4>События</h4>
-        </li>
+
         <li>
           <a href="sinie_wody.php" class="item-edit">Битва на Синих Водах 1362 г.</a>
         </li>

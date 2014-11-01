@@ -1,9 +1,8 @@
 
       <div class="col-md-2 left-bar">
       <ul>
-	    <li>
+
           <h4>Топонимы</h4>
-        </li>
 
         <li>
           <a href="wilno.php" class="item-edit">Вильно</a>

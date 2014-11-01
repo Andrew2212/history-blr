@@ -1,9 +1,9 @@
 
       <div class="col-md-2 left-bar">
       <ul>
-	    <li>
+
           <h4>Люди</h4>
-        </li>
+
         <li>
           <a href="you.php">Лично ТЫ и история</a>
         </li>
