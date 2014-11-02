@@ -22,7 +22,6 @@
 		<div class="col-md-12">
 			<p>
 			<img src="../../images/img-download/ziemie_ruskie_thumb.jpg" class="img-float-left"/>
-				Context
 				</br>Земли, отошедшие от ВКЛ к Польше по <a href="../events/unia_liublin.php">Люблинской Унии</a> 1569 года 
 			</p>
 			<p>

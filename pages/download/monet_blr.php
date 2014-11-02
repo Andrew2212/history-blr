@@ -19,7 +19,6 @@
 		<h3>Монеты Беларуси до 1707 года</h3>
 			<p>
 			<img src="../../images/img-download/monet_blr.jpg" class="img-float-left"/>
-			Context
 			<p>
 	
 			</p>

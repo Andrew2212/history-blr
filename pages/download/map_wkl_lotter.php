@@ -17,16 +17,18 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Карты <a href="../terms/wkl.php">ВКЛ</a> Тобиаса Лоттера</h3> 
-		<h4>
+		<p>
+		<i>
 		Узнать больше и заказать печать можно 
 		<a href="https://www.facebook.com/pages/%D0%9C%D0%B0%D0%B9%D1%81%D1%82%D1%8D%D1%80%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D0%B0%D0%B4%D0%B0%D1%9E%D0%BD%D1%96%D1%85-%D0%B3%D0%B5%D0%B0%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%87%D0%BD%D1%8B%D1%85-%D0%BC%D0%B0%D0%BF/527727034041838">
 		тут
 		</a>
-		</h4>
-		</br>
+		</i>
+		</p>
 		
 		<div class="col-md-12">
 			<p>
+			</br>
 			<img src="../../images/img-download/map_Lotter_litwa_1770_thumb.jpg" class="img-float-left"/>
 				Карта Великого княжества Литовского 1778 года. Зеленым показаны территории, захваченные Россией после 
 				<a href="../events/razbor_rechi.php">Первого Раздела Речи Посполитой</a> 
@@ -39,8 +41,8 @@
 		</div>
 		
 		<div class="col-md-12">
-			</br>
 			<p>
+			</br>
 			<img src="../../images/img-download/map_Lotter_polska_litwa_1759_thumb.jpg" class="img-float-left"/>
 				Карта Речи Посполитой 1759 года. Великое княжество Литовское  и Королевство Польша. 
 			</p>

@@ -4,31 +4,31 @@
   <head>
 
 <!-- ***Include Header*** -->
-<? include ("../_include/header_events.php"); ?>
+<? include ("../_include/header_places.php"); ?>
   
   <!-- ***Content & Sidebars*** -->
   <div class="container-fluid">
   
 
       <!-- ***Sidebar Left - include CurrentDir*** -->
-<? include ("../_include/dir_events.php"); ?>
+<? include ("../_include/dir_places.php"); ?>
 
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Разделы Речи Посполитой 1772-1795 года</h3>
-		
-		<p class="img-float-left">
-			<img src="../../images/img-events/razbor_rechi.jpg"/>
-		</p>
-		
+		<h3>Литва</h3>
 		<p>
-			Context		
+			Some context
+		</p>
+		<p class="img-float-center">
+			<img src="../../images/img-places/litwa/map_litwa_14_century_by_historic_source.jpg"/>
 		</p>
 		
 		<p class="img-float-center">
-			<img src="../../images/img-events/razbor_rechi/razbor_rechi_new.jpg"/>
+			<img src="../../images/img-places/litwa/Goroda VKL_Rus.jpg"/>
 		</p>
+
+		
 		
 		</br></br></br>
 		<p><small>
@@ -43,7 +43,7 @@
 	
 	<!-- ***Sidebar Right*** -->
 
-	<? include ("../_include/right_sidebar_events.php"); ?>
+	<? include ("../_include/right_sidebar_places.php"); ?>
 
 	
 </div>

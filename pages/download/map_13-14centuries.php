@@ -16,7 +16,7 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Карты <a href="../terms/wkl.php">ВКЛ</a></h3>
+		<h3>Белорусские земли XIII-XIV вв.</h3>
 		<p>
 		<i>
 		Узнать больше и заказать печать можно 
@@ -25,46 +25,46 @@
 		</a>
 		</i>
 		</p>
-
 		
 		<div class="col-md-12">
 			<p>
 			</br>
-			<img src="../../images/img-download/map_1696_thumb.jpg" class="img-float-left"/>
-				Карта Речи Посполитой 1696 года 
+			<img src="../../images/img-download/map_13_14_centuries_thumb.jpg" class="img-float-left"/>
+			</br>Карта XIII-XIV в. Образование ВКЛ 
 			</p>
 			<p>
-			Размер 1024 х 880</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DZ1dGUnYyNDc1d28/view?usp=sharing" class="btn btn-default img-float-left"
+			Размер 2466 х 1610</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39DM1FnbjNvYnhaSjg/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
 		
 		<div class="col-md-12">
-			</br>
 			<p>
-			<img src="../../images/img-download/wkl_thumb.jpg" class="img-float-left"/>
-			</br> Карта Речи Посполитой 1710 года
+			</br>
+			<img src="../../images/img-download/map_litwa_14_century_by_historic_source_thumb.jpg" class="img-float-left"/>
+			</br>Территория Литовской метрополии XIII-XIV на основе исторических источников
 			</p>
 			<p>
-			Размер 1200 х 1020</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DazFyeHlaRVF2M1E/view?usp=sharing" class="btn btn-default img-float-left"
+			Размер 1447 х 2048</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39DaURzX296NWkyaGM/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
 		
 		<div class="col-md-12">
-			</br>
 			<p>
-			<img src="../../images/img-download/map_1711_thumb.jpg" class="img-float-left"/>
-				</br> Карта Речи Посполитой 1711 года
+			</br>
+			<img src="../../images/img-download/map_13_14_centuries1_thumb.jpg" class="img-float-left"/>
+			</br>Карта XIV-XV в. ВКЛ в годы правления <a href="../figures/vitovt.php">Витовта</a>
 			</p>
 			<p>
-			Размер 1200 х 1020</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DSEptRzhCSmpsUms/view?usp=sharing" class="btn btn-default img-float-left"
+			Размер 1085 х 1619</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39DZ3FrY2RBaGNHUVU/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
+		
 	</div>
 	
 	<!-- ***Sidebar Right*** -->

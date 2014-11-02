@@ -16,7 +16,7 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Карта Magni Ducatus Lithaniae 1630 г.</h3>
+		<h3>Белорусские земли XVII в.</h3>
 		<p>
 		<i>
 		Узнать больше и заказать печать можно 
@@ -26,10 +26,12 @@
 		</i>
 		</p>
 		
-		</br>
+		<div class="col-md-12">
 			<p>
+			</br>
 			<img src="../../images/img-download/map_nikola_radziwill_thumb.jpg" class="img-float-left"/>
-			К наиболее ценным предметам коллекции Национального Исторического музея РБ можно отнести карту 
+			Карта Magni Ducatus Lithaniae 1630 г.
+			</br>К наиболее ценным предметам коллекции Национального Исторического музея РБ можно отнести карту 
 			<a href="../terms/wkl.php">Великого княжества Литовского</a> 1613-1630 (?) гг.
 			</br> Инициатором и фунадаром ее создания был один с самых богатых магнатов ВКЛ - 
 			<a href="../figures/radziwill_sirotka.php">Николай Криштоф Радзивилл (Сиротка)</a>. 
@@ -47,6 +49,21 @@
 			<a href="https://drive.google.com/file/d/0B_T3PThCY39DeDRJNDJZTFFmSWc/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
+		</div>
+		
+		<div class="col-md-12">
+			<p>
+			</br>
+			<img src="../../images/img-download/map_1696_thumb.jpg" class="img-float-left"/>
+				Карта Речи Посполитой 1696 года 
+			</p>
+			<p>
+			Размер 1024 х 880</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39DZ1dGUnYyNDc1d28/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
+		
 	</div>
 	
 	<!-- ***Sidebar Right*** -->
