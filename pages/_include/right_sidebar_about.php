@@ -29,16 +29,19 @@
           <a href="http://ru.wikipedia.org">ru.wikipedia.org</a>
         </li>
         <li>
+          <a href="http://dodontitikaka.ucoz.com/" >Великое Княжество Литовское как наследие Беларусов</a>
+        </li>
+		<li>
+          <a href="http://dodontitikaka.narod.ru/" >Великое Княжество Литовское как наследие Беларусов W</a>
+        </li>
+        <li>
           <a href="http://histmuseum.by/">Национальный исторический музей РБ</a>
         </li>
 		<li>
           <a href="http://www.karty.by/">karty.by</a>
         </li>
-		<li>
-          <a href="http://dodontitikaka.ucoz.com/" >Великое Княжество Литовское как наследие Беларусов</a>
-        </li>
-		<li>
-          <a href="http://dodontitikaka.narod.ru/" >Великое Княжество Литовское как наследие Беларусов W</a>
+        <li>
+          <a href="http://yan-k.livejournal.com">Ян Карпов</a>
         </li>
 		<li>
           <a href="http://czeslaw-list.livejournal.com/tag/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C">czeslaw-list.livejournal.com</a>

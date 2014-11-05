@@ -54,12 +54,38 @@
 		<div class="col-md-12">
 			<p>
 			</br>
+			<img src="../../images/img-download/europe_17_vek_thumb.jpg" class="img-float-left"/>
+				Карта Европы, XVII век
+			</p>
+			<p>
+			Размер 2291 х 1682</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39Dd3ZnbzRfREpoekU/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
+		
+		<div class="col-md-12">
+			<p>
+			</br>
 			<img src="../../images/img-download/map_1696_thumb.jpg" class="img-float-left"/>
 				Карта Речи Посполитой 1696 года 
 			</p>
 			<p>
 			Размер 1024 х 880</br>
 			<a href="https://drive.google.com/file/d/0B_T3PThCY39DZ1dGUnYyNDc1d28/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
+		
+		<div class="col-md-12">
+			<p>
+			</br>
+			<img src="../../images/img-download/1690_Moscovia_Visscher_thumb.jpg" class="img-float-left"/>
+				Карта Московии и части Европы 1690 года 
+			</p>
+			<p>
+			Размер 3650 х 3072</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39DaGlheDFpZldQUXM/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>

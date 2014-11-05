@@ -16,16 +16,16 @@
           <a href="#" class="item-unable">Белорусске земли XII в.</a>
         </li>
         <li>
-          <a href="map_13-14centuries.php" class="item-edit">Белорусске земли XIII-XIV в.</a>
+          <a href="map_13-14centuries.php">Белорусске земли XIII-XIV в.</a>
         </li>
         <li>
-          <a href="map_15century.php" class="item-edit">Белорусске земли XV в.</a>
+          <a href="map_15century.php">Белорусске земли XV в.</a>
         </li>
         <li>
-          <a href="map_16century.php" class="item-edit">Белорусске земли XVI в.</a>
+          <a href="map_16century.php">Белорусске земли XVI в.</a>
         </li>
         <li>
-          <a href="map_17century.php" class="item-edit">Белорусске земли XVII в.</a>
+          <a href="map_17century.php">Белорусске земли XVII в.</a>
         </li>
         <li>
           <a href="map_18century.php">Белорусске земли XVIII в.</a>
@@ -67,7 +67,7 @@
           <a href="carta_marina.php">Карта морей Севера 1539 г.</a>
         </li>
         <li>
-          <a href="#" class="item-unable">Some link</a>
+          <a href="#" class="item-unable">Alba Russia (Белая Русь) на картах</a>
         </li>
 		<li>
           <a href="#" class="item-unable">Some link</a>

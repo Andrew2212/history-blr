@@ -25,6 +25,12 @@
 			</br>В любом случае
 			</br>Enjoy		
 		</p>
+		<p>
+		<small>
+			Основной картографический материал предоставила <a href="https://www.facebook.com/pages/%D0%9C%D0%B0%D0%B9%D1%81%D1%82%D1%8D%D1%80%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D0%B0%D0%B4%D0%B0%D1%9E%D0%BD%D1%96%D1%85-%D0%B3%D0%B5%D0%B0%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%87%D0%BD%D1%8B%D1%85-%D0%BC%D0%B0%D0%BF/527727034041838">
+			Майстэрня старадаўніх геаграфічных мап </a> 
+		</small>
+		</p>
 		
 		<p class="img-float-center">
 			<img src="../../images/img-download/map_radziwill.jpg" />

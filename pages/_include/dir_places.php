@@ -11,10 +11,10 @@
           <a href="wostra_brama.php" class="item-edit">Вострая Брама</a>
         </li>
         <li>
-          <a href="samogitia.php" class="item-edit">Жемайтия (Самогития)-Летува (Lietuva)</a>
+          <a href="samogitia.php" class="item-edit">Летува (Lietuva) — Жемайтия (Самогития)</a>
         </li>
         <li>
-          <a href="litwa.php" class="item-edit">Литва</a>
+          <a href="litwa.php" class="item-edit">Литва (Litvaniae, Lithuania)</a>
         </li>
         <li>
           <a href="kossowo.php" class="item-edit">Коссово</a>

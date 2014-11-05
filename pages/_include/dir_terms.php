@@ -41,6 +41,9 @@
           <a href="litwiny.php" class="item-edit">Литвины</a>
         </li>
         <li>
+          <a href="#" class="item-unable">Литовец, белорусец</a>
+        </li>
+        <li>
           <a href="myths.php" class="item-edit">Мифы про историю</a>
         </li>
         <li>
