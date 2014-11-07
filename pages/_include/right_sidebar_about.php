@@ -3,6 +3,13 @@
       <ul style="text-align: left">
       	
           <h4>Помощь и консультации</h4>
+          
+        <li>
+        	<img src="../../images/img-about/talaka.jpg" class="img-right-120"/></br>
+           <a href="http://www.talaka.by/">
+		   Кропка збору неабыякавых людзей Talaka.by
+		  </a>
+        </li>
        
         <li>
         	<img src="../../images/img-about/maps.jpg" class="img-right-120"/></br>

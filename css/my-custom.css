@@ -40,16 +40,22 @@ text-align: center;
 
 /*Directory item is unable*/
 .item-unable{
-color: gray;
+color: #CCCCCC;
+}
+
+/*Directory item is edited*/
+.item-edit{
+color: #999999; 
 }
 
 /*Directory item is corrected*/
-.item-edit{
-color: green;
+.item-correct{
+color: #669966;
 }
+
 /*Directory item without link*/
 .item-link{
-color: maroon;
+color: #CC9966;
 }
 /*==============Images size within right sidebar================*/
 
