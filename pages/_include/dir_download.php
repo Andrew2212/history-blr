@@ -49,6 +49,9 @@
           <a href="map_wkl_lotter.php">Карты ВКЛ Тобиаса Лоттера</a>
         </li>
         <li>
+          <a href="map_mercator.php">Герард Меркатор, Lithvania, 1595 г.</a>
+        </li>
+        <li>
           <a href="zemie_ruskie.php">Земли Русские</a>
         </li>
         <li>

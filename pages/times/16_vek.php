@@ -24,6 +24,9 @@
 		Эта страница требует вашего участия
 		</p>
 	</div>
+	<p>
+	Исторические карты белорусских земель XVI века можно посмотреть <a href="../download/map_16century.php">тут </a>
+	</p>
 	
 		<p class="img-float-center">
 			<img src="../../images/img-places/litwa/Goroda VKL_Rus.jpg"/>

@@ -19,7 +19,7 @@
 		<h3>Белорусские земли XVI в.</h3>
 		<p>
 		<i>
-		Узнать больше и заказать печать можно 
+		Узнать больше можно 
 		<a href="https://www.facebook.com/pages/%D0%9C%D0%B0%D0%B9%D1%81%D1%82%D1%8D%D1%80%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D0%B0%D0%B4%D0%B0%D1%9E%D0%BD%D1%96%D1%85-%D0%B3%D0%B5%D0%B0%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%87%D0%BD%D1%8B%D1%85-%D0%BC%D0%B0%D0%BF/527727034041838">
 		тут
 		</a>
@@ -96,12 +96,13 @@
 		<div class="col-md-12">
 			<p>
 			</br>
-			<img src="../../images/img-download/16_vek/1550_Munster_Littaw_DETAIL_thumb.jpg" class="img-float-left"/>
-			1562, Sebastian Munster, Kosmografia — Mapa Polonia, Littaw, Podolia, Sarmatia	
+			<img src="../../images/img-download/16_vek/Europa Regina_thumb.jpg" class="img-float-left"/>
+			1537, Первая версия карты Europa Regina(Королева Европа), Иоганн Буч
+			</br>Забавно, что Литва (Litvania) представлена городом Гродно (я не знаю, почему не Вильно)
 			</p>
 			<p>
-			Размер 920 х 717</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DOHdQdUtaZnVOd28/view?usp=sharing" class="btn btn-default img-float-left"
+			Размер 2628 х 2330</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39DSTFnNW9OS3BlaUk/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -135,12 +136,12 @@
 		<div class="col-md-12">
 			<p>
 			</br>
-			<img src="../../images/img-download/16_vek/1578_ Munster_Littaw_thumb.jpg" class="img-float-left"/>
-			1578, Sebastian Munster, Landtafel des Ungerlands, Polands, Reuffen, Littaw, Walachen und Bulgaren
+			<img src="../../images/img-download/16_vek/1550_Munster_Littaw_DETAIL_thumb.jpg" class="img-float-left"/>
+			1562, Sebastian Munster, Kosmografia — Mapa Polonia, Littaw, Podolia, Sarmatia	
 			</p>
 			<p>
-			Размер 1497 х 1300</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39Db3dWYWhtbnp5UFE/view?usp=sharing" class="btn btn-default img-float-left"
+			Размер 920 х 717</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39DOHdQdUtaZnVOd28/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -148,12 +149,12 @@
 		<div class="col-md-12">
 			<p>
 			</br>
-			<img src="../../images/img-download/16_vek/Europa Regina_thumb.jpg" class="img-float-left"/>
-			1537, Первая версия карты Europa Regina(Королева Европа), Иоганн Буч
+			<img src="../../images/img-download/16_vek/1578_ Munster_Littaw_thumb.jpg" class="img-float-left"/>
+			1578, Sebastian Munster, Landtafel des Ungerlands, Polands, Reuffen, Littaw, Walachen und Bulgaren
 			</p>
 			<p>
-			Размер 2628 х 2330</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DSTFnNW9OS3BlaUk/view?usp=sharing" class="btn btn-default img-float-left"
+			Размер 1497 х 1300</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39Db3dWYWhtbnp5UFE/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>

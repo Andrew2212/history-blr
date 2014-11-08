@@ -38,7 +38,7 @@
 	<div class=" pagination pagination-centered col-centered">
 		<div class="btn-group" style="margin-left: 20px">
 				<h4>
-					<a href="/pages/times/_times_intro.php" class="btn btn-large btn-danger"
+					<a href="/pages/download/_download_intro.php" class="btn btn-large btn-danger"
 						> <i class="glyphicon glyphicon-heart"></i> Я хочу узнать больше</a>
 				</h4>
 		</div>
