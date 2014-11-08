@@ -16,7 +16,7 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Carta Marina 1539г. Карта морей Севера.</h3>
+		<h3>Герард Меркатор, Lithvania, 1595</h3>
 		<p>
 		<i>
 		Узнать больше можно 
