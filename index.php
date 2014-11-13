@@ -28,7 +28,7 @@
 			<small>Иосиф Сталин, генералиссимус Советского Союза</small>
 		</p>
 		<p>
-		Проект развивается при поддержке <a href="http://www.talaka.by/" style="color:red">Talaka.by </a>
+		Проект развивается при поддержке <a href="http://www.talaka.by/projects/565" style="color:red">Talaka.by </a>
 		</p>		
 		
 		<img src="/img/map_Old_New.jpg">
