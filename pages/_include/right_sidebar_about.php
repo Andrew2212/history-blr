@@ -16,6 +16,9 @@
 		<li>
           <a href="http://uk.wikipedia.org">uk.wikipedia.org</a>
         </li>
+        <li>
+          <a href="http://lt.wikipedia.org">lt.wikipedia.org</a>
+        </li>
 		<li>
           <a href="http://ru.wikipedia.org">ru.wikipedia.org</a>
         </li>
