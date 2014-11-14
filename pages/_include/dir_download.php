@@ -1,19 +1,48 @@
 
       <div class="col-md-2 left-bar">
       <ul>
+      
+    	<h4>Документы</h4>
+    	<li>
+          <a href="statut_wkl.php">Статут ВКЛ</a>
+        </li>
+        <li>
+          <a href="chronicles.php">Хроника Литовская и Жемойтская. Хроника Быховца</a>
+        </li>
+        <li>
+          <a href="zbor_shliahty.php">Собрание имен шляхты Польши и ВКЛ, 1805 г.</a>
+        </li>
+        <li>
+          <a href="metrica_litwa.php">Литовские Метрики</a>
+        </li>
+        <li>
+          <a href="spis_voiska.php">Перепись войска Литовского 1528-1565 г.</a>
+        </li>
+        <li>
+          <a href="kraina_blr.php">Kраiна Беларусь</a>
+        </li>
+        <li>
+          <a href="monet_blr.php">Монеты ВКЛ-Беларуси до 1707 года</a>
+        </li>
 
-          <h4>Download</h4>
+        <h4>Карты</h4>
         <li>
           <a href="blr_people.php">Этнографическая карта белорусов</a>
         </li>
+        <li>
+          <a href="wkl_equal_etno.php">Этнографическая карта белорусов на карте ВКЛ</a>
+        </li>
+        <li>
+          <a href="map_ptolemy.php">Европа на картах от Птолемея (150 г. н.э.) до XV века</a>
+        </li>
          <li>
-          <a href="#" class="item-unable">Белорусске земли X в.</a>
+          <a href="map_10century.php">Белорусске земли X в.</a>
         </li>
         <li>
-          <a href="#" class="item-unable">Белорусске земли XI в.</a>
+          <a href="map_11century.php" >Белорусске земли XI в.</a>
         </li>
         <li>
-          <a href="#" class="item-unable">Белорусске земли XII в.</a>
+          <a href="map_12century.php" >Белорусске земли XII в.</a>
         </li>
         <li>
           <a href="map_13-14centuries.php">Белорусске земли XIII-XIV в.</a>
@@ -40,34 +69,13 @@
           <a href="map_radziwill.php">Карта Magni Ducatus Lithaniae 1630 г. Радзивилла "Сиротки"</a>
         </li>
         <li>
-          <a href="wkl_rp_belarus_16vek.php">Подробная карта Беларуси-ВКЛ в составе Речи Посполитой, конец XVI в.</a>
-        </li>
-        <li>
-          <a href="map_wkl.php">Карты ВКЛ</a>
+          <a href="map_wkl.php">Карты ВКЛ-Беларуси</a>
         </li>
         <li>
           <a href="map_wkl_lotter.php">Карты ВКЛ Тобиаса Лоттера</a>
         </li>
         <li>
-          <a href="map_mercator.php">Герард Меркатор, Lithvania, 1595 г.</a>
-        </li>
-        <li>
           <a href="zemie_ruskie.php">Земли Русские</a>
-        </li>
-        <li>
-          <a href="zbor_shliahty.php">Собрание имен шляхты Польши и ВКЛ, 1805 г.</a>
-        </li>
-        <li>
-          <a href="monet_blr.php">Монеты Беларуси до 1707 года</a>
-        </li>
-        <li>
-          <a href="metrica_litwa.php">Литовские Метрики</a>
-        </li>
-        <li>
-          <a href="spis_voiska.php">Перепись войска Литовского 1528-1565 г.</a>
-        </li>
-        <li>
-          <a href="carta_marina.php">Карта морей Севера 1539 г.</a>
         </li>
         <li>
           <a href="#" class="item-unable">Alba Russia (Белая Русь) на картах</a>

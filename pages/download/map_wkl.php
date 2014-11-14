@@ -16,7 +16,7 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Карты <a href="../terms/wkl.php">ВКЛ</a></h3>
+		<h3>Карты <a href="../terms/wkl.php">ВКЛ</a>-Беларуси</h3>
 		<p>
 		<i>
 		Узнать больше и заказать печать можно 
@@ -25,6 +25,51 @@
 		</a>
 		</i>
 		</p>
+		
+		<div class="col-md-12">
+			<p>
+			</br>
+			<img src="../../images/img-download/15_vek/1450 fra mauro_thumb.jpg" class="img-float-left"/>
+			</br>1459, Перевёрнутая географическая карта Старого Света, Фра Мауро
+			</br>Карта примечательна тем, что на ней собраны все термины, вызывающие сейчас столько споров:
+			</br>LITUANIA, ROSSIA BLANCHA, ROSSIA NEGRA, ROSSIA ROSSA, ROSSIA, TARTARIA
+			</p>
+			<p>
+			Размер 5037 х 5032</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39DUl95NG40WkNfNjg/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
+		
+		<div class="col-md-12">
+		
+			<p>
+			</br>
+			
+			<p>
+				<i>
+				Начиная с этой карты и последующие 500 лет, все картографы разделяют Lituanie (Беларусь-Литва) и Samogethia (Летува-Жмудь)
+				</br>Эта традиция прервется только в XX веке.
+				</i>
+			</p>
+			
+			<img src="../../images/img-download/Carta_Marina_thumb.jpg" class="img-float-left"/>
+			1539, "Carta Marina" - одна из самых ранних и самых достоверных исторических карт Северной Европы, 
+			созданная шведским церковным деятелем, дипломатом и писателем  Олафом Магнусом.
+			</br></br>После того, как он и его брат были вынуждены покинуть Швецию (1530), 
+			Олаф до конца жизни занимался изучением её истории и географии. 
+			Результатом этой работы стали Carta Marina и комментарии к ней - 
+			книга Historia de Gentibus Septentrionalibus (История северных народов). 
+			Источниками для карты ему послужили собственные путевые заметки, карты скандинавских моряков 
+			и карты из Geographia (География) Птолемая.
+			</br><i>karty.by</i>
+			</p>
+			<p>
+			Размер 5016 х 3715</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39DZUR4U1FEbGFNa0E/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
 		
 		<div class="col-md-12">
 			<p>
@@ -42,6 +87,32 @@
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
+		
+		<div class="col-md-12">
+		
+		</br>
+			<p>
+			<img src="../../images/img-download/map_nikola_radziwill_thumb.jpg" class="img-float-left"/>
+			1630, Карта Magni Ducatus Lithaniae
+			</br>К наиболее ценным предметам коллекции Национального Исторического музея РБ можно отнести карту 
+			<a href="../terms/wkl.php">Великого княжества Литовского</a> 1613-1630 (?) гг.
+			</br> Инициатором и фунадаром ее создания был один с самых богатых магнатов ВКЛ - 
+			<a href="../figures/radziwill_sirotka.php">Николай Криштоф Радзивилл (Сиротка)</a>. 
+			</p>
+			<p>
+			Работа по сбору материалов и изданию карты проходила в концы XVI - начала XVII вв. в Несвиже. Рисунок и художественное оформление карты сделал известный гравер Фома Маковский. 
+			</br>Полная версия карты состоит из двух частей: непосредственно карты ВКЛ и карты нижнего течения р. Днепр с порогами. Всего на карте обозначено 1039 населенных пунктов, в т.ч. 544 в границах  ВКЛ, из них 342 непосредственно на территории Беларуси.  
+			</p>
+			<p>
+			Все надписи на латинском языке, большинство из их - исторические сведения, комментарии к населенных пунктов и пр. 
+			Это первая крупномасштабная (1:1300000) карта Великого Княжества Литовского.			
+			</p>
+			<p>
+			Размер 5100 х 3700</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39DeDRJNDJZTFFmSWc/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+	</div>
 
 		
 		<div class="col-md-12">
@@ -94,6 +165,34 @@
 			<p>
 			Размер 7120 х 6200</br>
 			<a href="https://drive.google.com/file/d/0B_T3PThCY39DMzkycEc3YXFzdUE/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
+		
+		<div class="col-md-8">
+			<p>
+			</br>
+			<img src="../../images/img-download/rp_16_vek_nac_thumb.jpg" class="img-float-left"/>
+			Подробная карта Беларуси-ВКЛ в составе Речи Посполитой, конец XVI в	
+			</p>
+			<p>
+			Размер 3200 х 2200</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39DZlIzTmNaZ0puUHM/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
+		
+		<div class="col-md-12">
+			<p>
+			</br>
+			<img src="../../images/img-download/bssr_20vekstart_thumb.jpg" class="img-float-left"/>
+			</br> Границы расселения белорусов и административные границы во второй половине XIX - первой половине XX вв.
+			</br>Карты Карского Е. Ф. (1903), Риттиха А. Ф. (1875) и Довнар-Запольского М. В. (1919)
+			</br>
+			</p>
+			<p>
+			Размер 4039 х 2602</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39DYlJiclcyV3VPVHM/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>

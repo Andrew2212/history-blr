@@ -36,7 +36,6 @@
 			</br>
 			<h4>Императорская историческая библиотека </h4>
 			<img src="../../images/img-download/wkl_spis_woiska_1565.jpg" class="img-float-left"/>
-			Context
 			<p>
 	
 			</p>

@@ -17,6 +17,20 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Белорусские земли XV в.</h3>
+		
+		<div class="col-md-12">
+			<p>
+			</br>
+			<img src="../../images/img-download/15_vek/1450 fra mauro_thumb.jpg" class="img-float-left"/>
+			</br>Пример картографии XV века
+			</br>Перевёрнутая географическая карта Старого Света, Фра Мауро, 1459
+			</p>
+			<p>
+			Размер 5037 х 5032</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39DUl95NG40WkNfNjg/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
 				
 		<div class="col-md-12">
 			<p>
