@@ -78,7 +78,7 @@
           <a href="zemie_ruskie.php">Земли Русские</a>
         </li>
         <li>
-          <a href="#" class="item-unable">Alba Russia (Белая Русь) на картах</a>
+          <a href="alba_ruthenia.php" class="item-edit">Alba Ruthenia (Белая Русь) на картах</a>
         </li>
 		<li>
           <a href="#" class="item-unable">Some link</a>

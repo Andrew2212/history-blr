@@ -5,6 +5,9 @@
           <h4>Термины</h4>
 
 		<li>
+          <a href="blr_etnos.php">Белорусский этнос</a>
+        </li>
+		<li>
           <a href="bnr.php" class="item-edit">БНР</a>
         </li>
 		<li>
@@ -30,6 +33,12 @@
         </li>
         <li>
           <a href="blr_hymn.php" class="item-edit">Гимн Беларуси</a>
+        </li>
+        <li>
+          <a href="yotving.php">Готы, ятвяги, пруссы</a>
+        </li>
+        <li>
+          <a href="gudai.php">Гуды и Белая Русь</a>
         </li>
 		<li>
           <a href="kalumny.php" class="item-edit">Калюмны</a>
@@ -64,6 +73,9 @@
         <li>
           <a href="ross_empire.php" class="item-edit">Российская империя</a>
         </li>
+        <li>
+          <a href="slavs.php">Славяне</a>
+        </li>
 		<li>
           <a href="statut.php" class="item-edit">Статут ВКЛ</a>
         </li>
@@ -75,9 +87,6 @@
         </li>
 		<li>
           <a href="shlahta.php" class="item-edit">Шляхта</a>
-        </li>
-		<li>
-          <a href="#" class="item-unable">Ятвяги и пруссы</a>
         </li>
 		<li>
           <a href="#" class="item-unable">Магдебургское право</a>

@@ -29,7 +29,7 @@
           <a href="nowogrudok.php" class="item-edit">Новогрудок</a>
         </li>
         <li>
-          <a href="#" class="item-unable">Море Геродота</a>
+          <a href="sea_herodotus.php" class="item-edit">Море Геродота</a>
         </li>
         <li>
           <a href="#" class="item-unable">Some link</a>

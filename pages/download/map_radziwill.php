@@ -16,7 +16,7 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Карта Magni Ducatus Lithaniae 1630 г.</h3>
+		<h3>Карта Magni Ducatus Lithvaniae 1630 г.</h3>
 		<p>
 		<i>
 		Узнать больше и заказать печать можно 
