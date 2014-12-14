@@ -31,6 +31,24 @@
 
  
 		</p>
+		
+		<div class="col-md-12">
+			<p>
+			</br>
+			<h4>Издание НАН Беларуси, Институт истории</h4>
+			<img src="../../images/img-download/metrica_wkl/book_523.jpg" class="img-float-left"/>
+			<p>
+	
+			</p>
+
+			<p>
+			Файл PDF, 165 Мб</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39DMUVKbV9OYTRETVk/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+			
+		</div>
+		
 		<div class="col-md-12">
 			<p>
 			</br>
