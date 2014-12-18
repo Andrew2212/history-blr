@@ -40,6 +40,9 @@
         <li>
           <a href="gudai.php">Гуды и Белая Русь</a>
         </li>
+        <li>
+          <a href="zemiane.php">Земяне и панцирные бояре</a>
+        </li>
 		<li>
           <a href="kalumny.php" class="item-edit">Калюмны</a>
         </li>
@@ -86,7 +89,7 @@
           <a href="blr_flag.php" class="item-edit">Флаг Беларуси</a>
         </li>
 		<li>
-          <a href="shlahta.php" class="item-edit">Шляхта</a>
+          <a href="shliahta.php">Шляхта</a>
         </li>
 		<li>
           <a href="#" class="item-unable">Магдебургское право</a>
