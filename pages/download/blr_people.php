@@ -16,10 +16,11 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Этнографическая карта белорусов (профессор Е. Ф. Карский, 1903 г.)</h3>
-			<p>
+		<h3>Этнографические карты белорусов</h3>
+		
+	<div class="col-md-12">
+		<h4>Этнографическая карта белорусского племени (профессор Е. Ф. Карский, 1903 г.)</h4>		
 			<img src="../../images/img-download/map_blr_people_thumb.jpg" class="img-float-left"/>
-
 			<p>
 			Атлас 1864 года А. Ф. Риттиха и составленная им «Этнографическая карта Европейской России» (1875) так очерчивали территорию расселения белорусов: 
 			</br>"на запад и юг от Сувалок (на запад от Белостока), и дальше по реках Нарев, Ясельда, Припять до ее впадения в Днепр,
@@ -36,19 +37,29 @@
 			<a href="https://drive.google.com/file/d/0B_T3PThCY39Dbk1OUTlJUDhRbDQ/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
-			</p>
+		</div>
 			
 		<div class="col-md-12">
-			<p>
 			</br>
+			<h4>Границы расселения белорусов и административные границы <small>во второй половине XIX - первой половине XX вв.</small></h4>
 			<img src="../../images/img-download/bssr_20vekstart_thumb.jpg" class="img-float-left"/>
-			</br> Границы расселения белорусов и административные границы во второй половине XIX - первой половине XX вв.
-			</br>Карты Карского Е. Ф. (1903), Риттиха А. Ф. (1875) и Довнар-Запольского М. В. (1919)
-			</br>
+			<p>
+			Карты Карского Е. Ф. (1903), Риттиха А. Ф. (1875) и Довнар-Запольского М. В. (1919)
 			</p>
 			<p>
 			Размер 4039 х 2602</br>
 			<a href="https://drive.google.com/file/d/0B_T3PThCY39DYlJiclcyV3VPVHM/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
+		
+		<div class="col-md-12">
+			</br>
+			<h4>Распределние народностей европейской России, Д. Рихтер, 1897 г.</h4>
+			<img src="../../images/img-download/slavs_in_russ_thumb.jpg" class="img-float-left"/>
+			<p>
+			Размер 2127 х 2798</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39DbVd0LVdoc1R5QXc/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>

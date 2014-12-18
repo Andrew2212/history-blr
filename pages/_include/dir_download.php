@@ -19,6 +19,9 @@
           <a href="spis_voiska.php">Перепись войска Литовского 1528-1565 г.</a>
         </li>
         <li>
+          <a href="kirkor.php">Адам Гонорий Киркор. Litwa i Bialorus</a>
+        </li>
+        <li>
           <a href="kraina_blr.php">Kраiна Беларусь</a>
         </li>
         <li>

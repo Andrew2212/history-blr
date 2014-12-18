@@ -17,6 +17,9 @@
 		   Майстэрня старадаўніх геаграфічных мап
 		  </a>
         </li>
+        <li>
+          <a href="http://daggir84.livejournal.com/">DAggir84</a>
+        </li>
 
           <h4>В проекте принимали участие</h4>
 
@@ -26,9 +29,6 @@
         <li>
           <a href="https://twitter.com/IMrFreeman">Александр</a>,
 		  </br>редактор <a href="https://twitter.com/Belbriefhistory">Твиттер-блога</a></a>
-        </li>
-        <li>
-          <a href="https://plus.google.com/u/0/111012658151554491803/about">Игорь Харитонович</a>
         </li>
         <li>
           <a href="#" class="item-unable">Some link</a>

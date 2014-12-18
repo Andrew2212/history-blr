@@ -6,7 +6,7 @@
 <? include ("pages/_include/header_index.php"); ?>
   
   <!-- ***Page & Sidebars*** -->
-  <div class="container-fluid">
+<div class="container-fluid">
   
 
 	<!-- ***Sidebar Left*** -->
@@ -15,51 +15,62 @@
 
 	
     <!-- ***Page Content*** -->
-    <div class="col-md-8" style="float: left">
+<div class="col-md-8">	
+
+	<div class="col-md-12">		
+		<p>
+		<a href="pages/download/kirkor.php">
+		<img src="/img/belarus_txt.jpg" width="300" class="img-float-left">
+		</a>
+		</p>
+		
 		<p>
 		<i>
 			Память — это наша сила. Те, кто жив,</br>
 			получают мандат от тех, кто умолк навсегда.
-			</i></br>
+		</i></br>
 			<small>Чеслав Милош, лауреат Нобелевской премии </small>
 		</p>		
-		<p>
-			<i>Здоровое недоверие — хорошая основа для совместной работы.</i></br>
-			<small>Иосиф Сталин, генералиссимус Советского Союза</small>
-		</p>
+		
 		<p>
 		Проект развивается при поддержке <a href="http://www.talaka.by/projects/565" style="color:red">Talaka.by </a>
-		</p>		
-		
-		<img src="/img/map_Old_New.jpg">
+		</p>
+	</div>
 
-	<div class="container-fluid">
-	Тебе выбирать:
-	<div class=" pagination pagination-centered col-centered">
-		<div class="btn-group" style="margin-left: 20px">
+	<div class="col-md-12">
+		<p>
+		<img src="/img/map_Old_New.jpg" style="float: centr">
+		</p>
+	</div>
+
+	<div class="col-md-12">
+		Тебе выбирать:
+		<div class=" pagination pagination-centered col-centered">
+			<div class="btn-group" style="margin-left: 20px">
 				<h4>
 					<a href="/pages/download/_download_intro.php" class="btn btn-large btn-danger"
 						> <i class="glyphicon glyphicon-heart"></i> Я хочу узнать больше</a>
 				</h4>
-		</div>
-		<div class="btn-group" style="margin-left: 20px">
+			</div>
+			<div class="btn-group" style="margin-left: 20px">
 				<h4>
 					<a href="http://natribu.org/by/" class="btn btn-large btn-info"
 						data-toggle="modal"> <i class="glyphicon glyphicon-volume-up"></i> Я знаю все и верю в русский мир uber alles</a>
 				</h4>
+			</div>
 		</div>
-	</div>
-	<p><small>
+	
+		<p><small>
 		<i>
 		— Выбери красную, и я покажу тебе, как глубока эта кроличья нора.</br>
 		— Выберешь синюю — и забудешь все, что увидел здесь...
 		</i>
 		</br> Морфеус
 		</small>
-	</p>
+		</p>
 	</div>
 	
-	</div>
+</div>
 	
 	<!-- ***Sidebar Right*** -->
 	<div class="col-md-2 ">
