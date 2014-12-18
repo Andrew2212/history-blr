@@ -48,7 +48,7 @@
 		
 		<div class="col-md-12">
 		</br>
-		<a href="http://krukouski.iatp.by/art1.html">СТАРАЖЫТНЫЯ БЕЛАРУСКІЯ ШЛЯХОЦКІЯ РОДЫ</a>
+		<a href="../articles/old_bel_shliahta.php">СТАРАЖЫТНЫЯ БЕЛАРУСКІЯ ШЛЯХОЦКІЯ РОДЫ</a>
 		</div>
 		
 		<div class="col-md-12">

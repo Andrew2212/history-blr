@@ -17,7 +17,7 @@
           <a href="essay.php">Эссе на заданную тему</a>
         </li>
         <li>
-          <a href="#" class="item-unable">Some link</a>
+          <a href="old_bel_shliahta.php">СРЭБНАЯ СТРАЛА Ў ЧЫРВОНЫМ ПОЛІ</a>
         </li>
         <li>
           <a href="#" class="item-unable">Some link</a>
