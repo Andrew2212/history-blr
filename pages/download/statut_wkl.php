@@ -45,11 +45,11 @@
 			<p>
 			</br>
 			<h4>Статут 1566 г. </h4>
-
 			</p>
-
+			
 			<p>
-			Файл .doc в архиве .zip
+			Статут Вялікага княства Літоўскага 1566 года. - Мінск, 2003. - С.35-263. 
+		</br>Файл .doc в архиве .zip
 			</br>
 			<a href="https://drive.google.com/file/d/0B_T3PThCY39DWUJxMEJZSDNteXM/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
@@ -57,13 +57,15 @@
 			
 			<p>
 			</br></br>
+			<img src="../../images/img-download/statut_enc.jpg" class="img-float-left"/>
 			Вялікае княства Літоўскае. Энцыклапедыя.
 			</br>Файл .PDF
 			</br><small>Большой файл (169 Мб). Гугл может сказать: "Не удалось загрузить документ для предпросмотра". Вирусов нет.</small>
 			</br>
 			<a href="https://drive.google.com/file/d/0B_T3PThCY39DamZVTGFqT3VsRU0/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
-			</p>									
+			</p>
+									
 		</div>
 		
 		<div class="col-md-12">
@@ -75,6 +77,7 @@
 
 			<p>
 			Издание Льва Сапеги
+			<img src="../../images/img-download/statut_lev.jpg" class="img-float-left"/>
 			<i>
 			</br>"И в том заключается наша вольность, которою мы гордимся меж других народов христианских, 
 			что государь нами правит не по воле своей собственной, а согласно праву нашему...
