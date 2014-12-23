@@ -9,7 +9,6 @@
     <nav id="footer">
         <form>
         <div class="col-md-2">
-            <a href="#">Something</a>
 
 			<!-- HotLog -->
 			<span id="hotlog_counter"></span>
