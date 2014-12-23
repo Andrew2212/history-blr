@@ -1,4 +1,4 @@
-
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 	<!-- ***Footer*** -->
 <div class="container-fluid">
     <ul class="nav nav-list">
@@ -8,7 +8,7 @@
 
     <nav id="footer">
         <form>
-        
+        <div class="col-md-2">
             <a href="#">Something</a>
 
 			<!-- HotLog -->
@@ -26,17 +26,43 @@
 			title="HotLog" alt="HotLog"></a>
 			</noscript>
 			<!-- /HotLog -->
-            
+		</div>
+			
+		<div class="col-md-4">
+			 <!--***Add SocialNet link from Yandex***-->
+			<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script><div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="link" data-yashareQuickServices="vkontakte,facebook,twitter,odnoklassniki,moimir,lj,friendfeed,moikrug,gplus,surfingbird"></div>
+			<!--/***Add SocialNet link from Yandex***-->
+        </div>
+        
+        <div class="col-md-4">
+        Сайт в социальных сетях 
+        <a href="https://twitter.com/Belbriefhistory" target="blanc">
+		<img src="../../images/_img-icons/twitter.png" title="Twitter" width="32">
+		</a>
+        </div>
+
+		<div class="col-md-2">  
 			<span style="float: right;"> ProjectStudio <a href="#"></a>
 			</span>
-
+		</div>
+		
         </form>
     </nav>
 
+	<div class="col-md-12">
     <ul class="nav nav-list">
         <!--It's just line-->
         <li class="nav-divider"></li>
     </ul>
+    </div>
+    
+    <div class="col-md-12" style="text-align: center">
+    	<p>
+		<small>Эл. почта для писем </small>
+		 <font style="color:#F00;"> history.msg<img src="../../images/img-about/dog.jpg"/>gmail.com</font>
+		</p>
+    </div>
+    
 </div>
 	<!-- /***Footer*** -->
 	
@@ -44,6 +70,7 @@
   <script src="https://code.jquery.com/jquery.js"></script> 
   <!-- Include all compiled plugins (below), or include individual files as needed --> 
   <script src="../../js/bootstrap.min.js"></script>
+  
   
   </body>
 </html>
