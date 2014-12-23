@@ -1,4 +1,4 @@
-﻿<!-- ***Meta*** -->
+<!-- ***Meta*** -->
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Краткая история Беларуси" />
@@ -86,6 +86,10 @@
 		  
 		  <li>
             <a href="../download/_download_intro.php">Download</a>
+          </li>
+          
+          <li>
+            <a href="../dates/_dates_intro.php">Календарь</a>
           </li>
         </ul>
       </div>

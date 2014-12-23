@@ -1,4 +1,4 @@
-﻿	    <!-- ***Meta*** -->
+  <!-- ***Meta*** -->
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Краткая история Беларуси" />
@@ -16,14 +16,6 @@
 	<link href="../../css/my-custom.css" rel="stylesheet" />
 	<!-- Favicon -->
 	<link href="../../favicon.ico" rel="shortcut icon" type="image/x-icon" />	
-	
-    <!-- ***Test Styles*** -->
-    <style>
-        .block0 {
-    background: #999999;
-    }
-          
-</style>
 
 <!-- ***Scripts*** -->
 <script src="../../js/bootstrap.min.js"></script>
@@ -61,34 +53,45 @@
 
         <ul class="nav navbar-nav">
           <li>
-            <a href="#">Время</a>
+            <a href="../times/_times_intro.php">Время</a>
           </li>
+		  
           <li>
-            <a href="events.php">События</a>
+            <a href="../events/_events_intro.php">События</a>
           </li>
-          </li>
+		  
           <li>
-            <a href="#">Люди</a>
+            <a href="../figures/_figures_intro.php">Люди</a>
           </li>
+		  
 		  <li>
-		  <li>
-            <a href="#">Термины</a>
+            <a href="../terms/_terms_intro.php">Термины</a>
           </li>
+		  
 		  <li>
-            <a href="#">Топонимы</a>
+            <a href="../places/_places_intro.php">Топонимы</a>
           </li>
+		  
 		  <li>
-            <a href="#">Статьи</a>
+            <a href="../articles/_articles_intro.php">Статьи</a>
           </li>
+		  
           <li>
-            <a href="#">What for?</a>
+            <a href="../whatfor/_whatfor_intro.php">What for?</a>
           </li>
+		  
           <li>
-            <a href="#">About</a>
+            <a href="../about/_about_intro.php">About</a>
           </li>
+		  
 		  <li>
-            <a href="#">Download</a>
+            <a href="../download/_download_intro.php">Download</a>
           </li>
+          
+         <li>
+            <a href="_dates_intro.php" style="color:red">Календарь</a>
+          </li>
+          
         </ul>
       </div>
       <!-- /.navbar-collapse -->

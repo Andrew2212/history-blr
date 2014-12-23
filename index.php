@@ -80,4 +80,4 @@
 </div>
 
 <!-- ***Include Footer*** -->
-<? include ("/pages/_include/footer.php"); ?>
+<? include ("pages/_include/footer.php"); ?>
