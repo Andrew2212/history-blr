@@ -8,7 +8,7 @@
           <a href="blr_etnos.php">Белорусский этнос</a>
         </li>
 		<li>
-          <a href="bnr.php" class="item-edit">БНР</a>
+          <a href="bnr.php">БНР</a>
         </li>
 		<li>
           <a href="bssr.php" class="item-edit">БССР</a>

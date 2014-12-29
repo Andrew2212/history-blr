@@ -50,7 +50,7 @@
           <a href="http://www.istpravda.ru/bel/">Историческая правда</a>
         </li>
 		<li>
-          <a href="https://www.facebook.com/groups/294216490626997/?fref=ts">Інстытут беларускай гісторыі і культуры</a>
+          <a href="http://inbelhist.org/">Інстытут беларускай гісторыі і культуры</a>
         </li>
         <li>
           <a href="http://90s.by/">Беларусь. 90's</a>

@@ -10,6 +10,9 @@
 		<li>
           <a href="bogdanowich.php" class="item-edit">Богданович Максим</a>
         </li>
+        <li>
+          <a href="bulak.php" class="item-edit">Булак-Балахович</a>
+        </li>
 		<li>
           <a href="vitovt.php" class="item-edit">Витовт</a>
         </li>

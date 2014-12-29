@@ -38,6 +38,9 @@
           <a href="war_1812.php" class="item-edit">Война 1812 года</a>
         </li>
         <li>
+          <a href="war_green_oak.php" class="item-edit">Война "Зеленого дуба"</a>
+        </li>
+        <li>
           <a href="grunwald.php" class="item-edit">Грюнвальдская битва 1410 г.</a>
         </li>
         <li>
