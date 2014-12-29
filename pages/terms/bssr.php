@@ -41,6 +41,16 @@
 		</p>
 	</div>
 	
+		</br></br></br>
+		<p><small>
+		be-x-old.wikipedia.org</br>
+		be.wikipedia.org</br>
+		pl.wikipedia.org</br>
+		uk.wikipedia.org</br>
+		ru.wikipedia.org</br>
+		</small></p>
+	</div>
+	
 	<!-- ***Sidebar Right*** -->
 
 	<? include ("../_include/right_sidebar_terms.php"); ?>

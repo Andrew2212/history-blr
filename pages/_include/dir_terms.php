@@ -29,12 +29,6 @@
           <a href="weliki_marshalok.php" class="item-link">Великий маршалок литовский</a>
         </li>
         <li>
-          <a href="blr_gerb.php" class="item-edit">Герб Беларуси</a>
-        </li>
-        <li>
-          <a href="blr_hymn.php" class="item-edit">Гимн Беларуси</a>
-        </li>
-        <li>
           <a href="yotving.php">Готы, ятвяги, пруссы</a>
         </li>
         <li>
@@ -59,10 +53,19 @@
           <a href="myths.php" class="item-edit">Мифы про историю</a>
         </li>
         <li>
+          <a href="blr_gerb.php" class="item-edit">Национальный герб Беларуси</a>
+        </li>
+        <li>
+          <a href="blr_hymn.php" class="item-edit">Национальный гимн Беларуси</a>
+        </li>
+        <li>
+          <a href="blr_flag.php">Национальный флаг Беларуси</a>
+        </li>
+        <li>
           <a href="polotsk_principality.php" class="item-edit">Полоцкое княжество</a>
         </li>
         <li>
-          <a href="pogonia.php" class="item-edit">Погоня</a>
+          <a href="blr_gerb.php" class="item-edit">Погоня</a>
         </li>
         <li>
           <a href="rzeczpospolita.php" class="item-edit">Речь Посполитая</a>
@@ -77,6 +80,9 @@
           <a href="ross_empire.php" class="item-edit">Российская империя</a>
         </li>
         <li>
+          <a href="sssr.php" class="item-edit">СССР</a>
+        </li>
+        <li>
           <a href="slavs.php">Славяне</a>
         </li>
 		<li>
@@ -84,9 +90,6 @@
         </li>
         <li>
           <a href="sewero_zapadny_kraj.php" class="item-edit">Северо-Западный край</a>
-        </li>
-        <li>
-          <a href="blr_flag.php" class="item-edit">Флаг Беларуси</a>
         </li>
 		<li>
           <a href="shliahta.php">Шляхта</a>

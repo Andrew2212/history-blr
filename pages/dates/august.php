@@ -129,7 +129,7 @@
 					<td>11</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>Первое официальное описание <a href="../terms/blr_gerb.php">герба</a> и <a href="../terms/blr_flag.php">флага</a>. 1917г., газета "Вольная Беларусь"</li>
 						</ul>
 					</td>
 				</tr>

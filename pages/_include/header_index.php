@@ -1,9 +1,11 @@
 	    <!-- ***Meta*** -->
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Краткая история Беларуси" />
+    <meta name="description" content="История Беларуси в кратком интерактивном изложении со ссылками на исторические документы и общедоступные ресурсы" />
     <meta name="keywords" itemprop="keywords" content="Беларусь, история" />
 	<meta name="robots" content="all" />
+	<!--***Check for MailRu finder-->
+	<meta name='wmail-verification' content='bbb54a20dd76cd57' />	
     <!-- ***Title*** -->
     <title>Краткая история Беларуси</title>
     <!-- ***Styles*** -->

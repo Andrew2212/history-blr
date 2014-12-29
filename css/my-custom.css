@@ -15,7 +15,7 @@ border-left: 1px solid #F2F2F2;
 
 /*==========Left sidebar================================*/
 .left-bar{
-height: 800px;	
+height: 900px;	
 overflow-y: auto;
 border-right: 1px solid #F2F2F2;
 border-top: 1px solid #F2F2F2;
@@ -27,7 +27,7 @@ text-align: center;
 }
 /*==========Right sidebar================================*/
 .right-bar{
-height: 800px;	
+height: 900px;	
 overflow-y: auto;
 border-left: 1px solid #F2F2F2;
 border-top: 1px solid #F2F2F2;
@@ -84,9 +84,14 @@ margin-top: 0px;
 
 .img-float-center{
 	text-align: center;
+	margin-bottom: 10px
 	
 }
 
+/*================Important Dates============================*/
+.data-vip{
+	color: red;	
+}
 /*===============Image increase=====================*/
 /*===http://shpargalkablog.ru/2011/05/kak-uvelichit-izobrazhenie.html#close===*/
 /*===http://www.jstoolbox.com/2010/01/17/lightgallery-1-3/===*/
