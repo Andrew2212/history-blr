@@ -23,7 +23,7 @@
           <a href="old_bel_shliahta.php">СРЭБНАЯ СТРАЛА Ў ЧЫРВОНЫМ ПОЛІ</a>
         </li>
         <li>
-          <a href="#" class="item-unable">Some link</a>
+          <a href="blr_family_names.php">Наши фамилии</a>
         </li>
         <li>
           <a href="#" class="item-unable">Some link</a>
