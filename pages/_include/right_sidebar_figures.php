@@ -9,8 +9,8 @@
 			<small><a href="../figures/sapega.php">Лев Сапега</a>, великй гетман Литовский</small></br></br>
 	   </p>
 	   	<p>
-		<img src="../../images/img-figures/radziwill_cherny.jpg" class="img-right-120"/></br>
-			<small><a href="../figures/radziwill_cherny.php">Николай Радзивилл Черный</a>, великй канцлер Литовский</small></br></br>
+		<img src="../../images/img-figures/simienowicz.jpg" class="img-right-120"/></br>
+			<small><a href="../figures/simienowicz.php">Казимир Семенович</a>, пионер ракетостроения</small></br></br>
 	   </p>
 	   	<p>
 			<img src="../../images/img-figures/hodkewich.jpg" class="img-right-120"/></br>

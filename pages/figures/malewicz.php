@@ -16,7 +16,7 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Анджей Тадеуш Костюшко</h3>
+		<h3>Казимир Малевич</h3>
 		<p>
 			Статья на 6000 знаков (с пробелами)</br></br>
 			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
@@ -41,14 +41,14 @@
 		</p>
 		
 		</br></br></br>
-		<p><small>		
+		<p><small>
 		be-x-old.wikipedia.org</br>
 		be.wikipedia.org</br>
 		pl.wikipedia.org</br>
 		uk.wikipedia.org</br>
 		ru.wikipedia.org</br>
+		inbelhist.org/?p=4737
 		</small></p>
-		
 	</div>
 	
 	<!-- ***Sidebar Right*** -->

@@ -34,8 +34,20 @@
         <li>
           <a href="kesgajla.php" class="item-edit">Кезгайло</a>
         </li>
+        <li>
+          <a href="#" class="item-unable">Коненков С. Т., скульптор</a>
+        </li>
+        <li>
+          <a href="mickiewicz.php" class="item-edit">Мицкевич Адам</a>
+        </li>
        	<li>
           <a href="mindowg.php" class="item-edit">Миндовг</a>
+        </li>
+        <li>
+        <a href="#" class="item-unable">Минейко Зигмунд, почетный гражданин Греции</a>
+        </li>
+        <li>
+          <a href="narkewicz.php" class="item-edit">Наркевич-Иодко, "электрический человек" — профессор электрографии и магнетизма</a>
         </li>
 		<li>
           <a href="olgerd.php" class="item-edit">Ольгерд</a>
@@ -48,6 +60,9 @@
         </li>
         <li>
           <a href="pac_hetman.php" class="item-edit">Пац Михаил, гетман великий литовский</a>
+        </li>
+        <li>
+          <a href="przewalskij.php" class="item-edit">Пржевальский Н. М., путешевтвенник и натуралист</a>
         </li>
         <li>
           <a href="#" class="item-unable">Радзивиллы</a>
@@ -65,13 +80,25 @@
           <a href="sapega.php" class="item-edit">Сапега Лев Иванович</a>
         </li>
         <li>
+          <a href="simienowicz.php" >Семенович Казимир, основопложник ракетостроения</a>
+        </li>
+        <li>
           <a href="skorina.php" class="item-edit">Скорина, литвин из Полоцка</a>
         </li>
 		<li>
-          <a href="#" class="item-unable">Скосырев Б. М., король Андорры</a>
+          <a href="skosyrew.php" class="item-edit">Скосырев Б. М., король Андорры</a>
+        </li>
+        <li>
+          <a href="sudzilowskij.php" class="item-edit">Судзиловский Н. К., президент сената Территории Гавайи</a>
+        </li>
+        <li>
+          <a href="#" class="item-edit">Станкевич Ян, историк, основатель Великолитовского фонда им. Льва Сапеги</a>
         </li>
 		<li>
           <a href="hodkewich.php" class="item-edit">Ходкевич Ян Кароль, гетман великй литовский</a>
+        </li>
+        <li>
+          <a href="#" class="item-unable">Шостакович Д. Д., композитор</a>
         </li>
 		<li>
           <a href="jagellony.php" class="item-edit">Ягеллоны</a>
