@@ -16,6 +16,9 @@
 		<li>
           <a href="vitovt.php" class="item-edit">Витовт</a>
         </li>
+        <li>
+          <a href="gedimin.php" class="item-edit">Гедимин</a>
+        </li>
 		<li>
           <a href="domeyko.php" class="item-edit">Домейко Игнацы, национальный герой Чили</a>
         </li>
@@ -29,7 +32,7 @@
           <a href="kostiushko.php" class="item-edit">Костюшко Тадеуш, национальный герой США</a>
         </li>
 		<li>
-          <a href="#" class="item-unable">Конашевич-Сагайдачный, гетман Войска Запорожского</a>
+          <a href="konashewicz.php" class="item-edit">Конашевич-Сагайдачный, гетман Войска Запорожского</a>
         </li>
         <li>
           <a href="kesgajla.php" class="item-edit">Кезгайло</a>
@@ -96,6 +99,9 @@
         </li>
 		<li>
           <a href="hodkewich.php" class="item-edit">Ходкевич Ян Кароль, гетман великй литовский</a>
+        </li>
+        <li>
+          <a href="shagal.php" class="item-edit">Шагал Марк, художник</a>
         </li>
         <li>
           <a href="#" class="item-unable">Шостакович Д. Д., композитор</a>

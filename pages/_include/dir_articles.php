@@ -26,10 +26,13 @@
           <a href="blr_family_names.php">Наши фамилии</a>
         </li>
         <li>
-          <a href="nation_id.php" class="item-unable">Национальная идентификация</a>
+          <a href="nation_id.php">Национальная идентификация</a>
         </li>
 		<li>
-          <a href="#" class="item-unable">Some link</a>
+          <a href="#" class="item-unable">Нация — элита vs крестьяство</a>
+        </li>
+        <li>
+          <a href="#" class="item-unable">Иностранный компонент в белорусской культуре</a>
         </li>
         <li>
           <a href="#" class="item-unable">...</a>

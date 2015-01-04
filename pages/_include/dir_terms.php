@@ -25,6 +25,9 @@
 		<li>
           <a href="weliki_kancler.php" class="item-link">Великий канцлер литовский</a>
         </li>
+        <li>
+          <a href="duke_wkl.php" class="item-edit">Великий князь литовский</a>
+        </li>
 		<li>
           <a href="weliki_marshalok.php" class="item-link">Великий маршалок литовский</a>
         </li>
