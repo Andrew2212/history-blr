@@ -28,8 +28,20 @@
 			</br>Среди них были <a href="radziwill_cherny.php">воины</a> и <a href="mickiewicz.php">поэты</a>, 
 			<a href="malewicz.php">художники</a> и <a href="konenkow.php">скульпторы</a>, 
 			<a href="narkewicz.php">ученые</a> и <a href="przewalskij.php">путешественники</a>, 
-			единственный <a href="skosyrew.php">король Андорры</a> и <a href="sudzilowskij.php">президент</a> сената территории Гавайи.  
-			</br> <a href="you.php"> Прикоснись</a> к истории, и, может, имена <a href="mindowg.php">Миндовг</a>,<a href="hodkewich.php"> Ходкевич</a>, <a href="kostiushko.php">Костюшко</a>, <a href="kalinowski.php">Калиновский</a> и многие другие перестанут быть для тебя просто буквами на странице.
+			 <a href="skosyrew.php">авантюристы</a> и <a href="../terms/filomaty.php">интеллектуалы-романтики</a>, 
+			 <a href="sudzilowskij.php">президент Гавайев</a> и <a href="simienowicz.php">основоположник ракетостроения</a>. 
+		</p>
+		<p>
+			Многие из них жили, когда слова <i>белорус</i> еще не было. Как не было слов <i>русский, литовец, украинец</i>. Эти термины возникли не так давно, и никогда
+			не были эндоэтнонимами, как <a href="../terms/litwiny.php">литвин</a>, <a href="../download/zemie_ruskie.php">русин</a>, <a href="../places/samogitia.php">жмудин</a>. 
+		</p>
+		<p>
+			А принципы <a href="../articles/nation_id.php">национальной идентификации</a> — они стары, и едины для любого народа, в любой точке мира.  
+		</p>
+		
+		<p> 
+			<a href="you.php"> Прикоснись</a> к истории, и, может, имена <a href="mindowg.php">Миндовг</a>,<a href="hodkewich.php"> Ходкевич</a>, 
+			<a href="kostiushko.php">Костюшко</a>, <a href="kalinowski.php">Калиновский</a> и многие другие перестанут быть для тебя просто буквами на странице.
 		
 		</p>
 		
