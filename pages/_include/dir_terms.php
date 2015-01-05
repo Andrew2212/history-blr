@@ -53,6 +53,9 @@
           <a href="#" class="item-unable">Литовец, белорусец</a>
         </li>
         <li>
+          <a href="#" class="item-unable">Магдебургское право</a>
+        </li>
+        <li>
           <a href="myths.php" class="item-edit">Мифы про историю</a>
         </li>
         <li>
@@ -94,11 +97,11 @@
         <li>
           <a href="sewero_zapadny_kraj.php" class="item-edit">Северо-Западный край</a>
         </li>
-		<li>
-          <a href="shliahta.php">Шляхта</a>
+        <li>
+          <a href="filomaty.php" class="item-edit">Филоматы</a>
         </li>
 		<li>
-          <a href="#" class="item-unable">Магдебургское право</a>
+          <a href="shliahta.php">Шляхта</a>
         </li>
 		<li>
           <a href="#" class="item-unable">Шляхетская демократия</a>
