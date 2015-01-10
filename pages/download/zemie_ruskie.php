@@ -17,7 +17,9 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
     
-		<h3>Земли русские <a href="../terms/rzeczpospolita.php">Речи Посполитой</a></h3>
+		<h3>Земли русские 
+		</br><small>в <a href="../terms/rzeczpospolita.php">Речи Посполитой</a></small>
+		</h3>
 		</br></br>
 		<div class="col-md-12">
 			<p>

@@ -47,7 +47,7 @@
           <a href="husaria.php" class="item-edit">Крылатые гусары</a>
         </li>
 		<li>
-          <a href="litwiny.php" class="item-edit">Литвины</a>
+          <a href="litwiny.php">Литвины</a>
         </li>
         <li>
           <a href="#" class="item-unable">Литовец, белорусец</a>
