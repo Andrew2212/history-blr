@@ -17,6 +17,9 @@
           <a href="vitovt.php" class="item-edit">Витовт</a>
         </li>
         <li>
+          <a href="volovicz.php" class="item-edit">Волович Евстафий,  епископ виленский, меценат и библиофил</a>
+        </li>
+        <li>
           <a href="gedimin.php" class="item-edit">Гедимин</a>
         </li>
 		<li>

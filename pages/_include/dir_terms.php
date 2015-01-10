@@ -92,7 +92,7 @@
           <a href="slavs.php">Славяне</a>
         </li>
 		<li>
-          <a href="statut.php" class="item-edit">Статут ВКЛ</a>
+          <a href="statut.php">Статут ВКЛ</a>
         </li>
         <li>
           <a href="sewero_zapadny_kraj.php" class="item-edit">Северо-Западный край</a>

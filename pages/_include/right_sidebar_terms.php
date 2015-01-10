@@ -2,7 +2,7 @@
       <div class="col-md-2 right-bar">
 	   <p>
 			<img src="../../images/img-terms/pogonia.jpg" class="img-right-120"/></br>
-			<small><a href="pogonia.php">Погоня</a> (знак с пограничного столба Республики Беларусь, 1995 г.)</small></br></br>
+			<small><a href="blr_gerb.php">Погоня</a> (знак с пограничного столба Республики Беларусь, 1995 г.)</small></br></br>
 	   </p>
 	   <p>
 			<img src="../../images/img-terms/statut.jpg" class="img-right-120"/></br>
