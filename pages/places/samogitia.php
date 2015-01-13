@@ -16,29 +16,113 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Жемайтия (Самогития)</h3>
+		<h3>Samogitia. Летува (Lietuva)</h3>
 		<p>
-			Статья на 6000 знаков (с пробелами)</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		
-		
+		Context		
 		</p>
+		
+		<p>
+		<i>"Производство глиняных сосудов постепенно становилось ремеслом, но довольно долго находилось на более низком уровне, 
+		чем в соседних славянских землях; посуда однообразна по форме и орнаментике. 
+		</br>Лишь во второй половине XIII - начале XIV века, когда в поселениях городского типа нашел применение быстро вращающийся тяжелый гончарный круг, 
+		в этом деле появились значительные сдвиги. Отсутствие городов тормозило развитие специализации среди ремесленников; 
+		здесь еще пока не применялись такие известные соседям достижения, как производство кирпича и возведение каменных построек, 
+		изготовление стеклянной глазури".</i><small> "История Литовской ССР" (Вильнюс, 1978, с. 21)</small>
+
+		</p>
+		
+		<div class="col-md-12">
+		
+		
+		
+		
+		<div class="col-md-4">
+			<a target="_blank" href="../../images/img-places/samogitia/baltic_1380.jpg">
+			<img class="img-float-centr" src="../../images/img-places/samogitia/baltic_1380_thumb.jpg" height="200"/>
+			</a>	
+			<p>
+			Samogitia, 1380
+			</p>			
+		</div>
+		
+		<div class="col-md-4">
+			<a target="_blank" href="../../images/img-places/samogitia/ordensgebiete.jpg">
+			<img class="img-float-centr" src="../../images/img-places/samogitia/ordensgebiete_thumb.jpg" height="200"/>
+			</a>	
+			<p>
+			Deutschen Ordens, 1397-1523
+			</p>			
+		</div>
+		
+		<div class="col-md-4">
+			<a target="_blank" href="../../images/img-places/samogitia/teutonic_state_1455.jpg">
+			<img class="img-float-centr" src="../../images/img-places/samogitia/teutonic_state_1455_thumb.jpg" height="200"/>
+			</a>	
+			<p>
+			Тевтонский Орден, 1398-1411
+			</p>			
+		</div>
+		
+		<div class="col-md-4">
+			<a target="_blank" href="../../images/img-places/samogitia/1659_samogitia.jpg">
+			<img class="img-float-centr" src="../../images/img-places/samogitia/1659_samogitia_thumb.jpg" height="200"/>
+			</a>	
+			<p>
+			Samogitia, 1659
+			</p>			
+		</div>
+		
+		<div class="col-md-4">
+			<a target="_blank" href="../../images/img-places/samogitia/1696-Rzeczpospolita.jpg">
+			<img class="img-float-centr" src="../../images/img-places/samogitia/1696-Rzeczpospolita_thumb.jpg" height="200"/>
+			</a>	
+			<p>
+			Речь Посполитая, 1696
+			</p>			
+		</div>
+		
+		<div class="col-md-4">
+			<a target="_blank" href="../../images/img-places/samogitia/1711_Peter-Schenk.jpg">
+			<img class="img-float-centr" src="../../images/img-places/samogitia/1711_Peter-Schenk_thumb.jpg" height="200"/>
+			</a>	
+			<p>
+			Речь Посполитая, 1711
+			</p>			
+		</div>
+		
+		<div class="col-md-4">
+			<a target="_blank" href="../../images/img-places/samogitia/lietuva_1921.jpg">
+			<img class="img-float-centr" src="../../images/img-places/samogitia/lietuva_1921_thumb.jpg" height="200"/>
+			</a>	
+			<p>
+			Летува (Lietuva), 1921
+			</p>			
+		</div>
+		
+		<div class="col-md-4">
+			<a target="_blank" href="../../images/img-places/samogitia/lssr_1946.jpg">
+			<img class="img-float-centr" src="../../images/img-places/samogitia/lssr_1946_thumb.jpg" height="200"/>
+			</a>	
+			<p>
+			Литовская Советская Социалистическая Республика, 1946
+			</p>			
+		</div>
+		
+		</div>
+		
+		</br></br></br>
+		<p><small>
+		http://ru-history.livejournal.com/3494312.html</br>
+		http://www.kommersant.ru/doc/579399</br>
+		http://www.runivers.ru/doc/d2.php?PORTAL_ID=6369</br>
+		http://francis-maks.livejournal.com/144849.html</br>
+		be-x-old.wikipedia.org</br>
+		be.wikipedia.org</br>
+		pl.wikipedia.org</br>
+		uk.wikipedia.org</br>
+		ru.wikipedia.org</br>
+		inbelhist.org/?p=4737
+		</small></p>
 	</div>
 	
 	<!-- ***Sidebar Right*** -->
