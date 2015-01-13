@@ -39,6 +39,18 @@
 		
 		
 		</p>
+		
+		</br></br></br>
+		<p><small>
+		http://www.mayaktour.by/priem_v_belarusii/znamenitie-ludi-belarusi/francisk-skorina/</br>
+		http://knihi.com/Donald_Kodier/Moj_Francisk_Skorina-ru.html</br>
+		http://www.day.kiev.ua/ru/article/ukraina-incognita/francisk-skorina-vostochnoslavyanskiy-pervopechatnik</br>
+		be-x-old.wikipedia.org</br>
+		be.wikipedia.org</br>
+		pl.wikipedia.org</br>
+		uk.wikipedia.org</br>
+		ru.wikipedia.org</br>
+		</small></p>
 	</div>
 	
 	<!-- ***Sidebar Right*** -->

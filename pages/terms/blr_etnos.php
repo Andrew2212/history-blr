@@ -59,8 +59,8 @@
 		</p>
 		
 		<p class="img-float-center">
-		<a target="_blank" href="../../images/img-terms/slavs/baltic_hidro.jpg">
-			<img src="../../images/img-terms/slavs/baltic_hidro_thumb.jpg" />
+		<a target="_blank" href="../../images/img-terms/slavs/brothers.jpg">
+			<img src="../../images/img-terms/slavs/brothers_thumb.jpg" />
 		</a>
 		</p>
 		
@@ -88,20 +88,34 @@
 			Названия «кривичи», «дреговичи», «ятвяги», «радимичи» обозначают территориальные культурно-этнические сообщества. 
 			Примерно за 1000 лет их сблизила между собой славянизация. 
 			Именно за этот тысячелетний период возникла традиционная беларуская ментальность, воплощенная в архетипах.
-		<p>
+		</p>
+	
+	<div class="col-md-12">
 		
-		<p >
 		<a target="_blank" href="../../images/img-terms/slavs/baltic_tribes.jpg">
-			<img src="../../images/img-terms/slavs/baltic_tribes_thumb.jpg" />
+			<img class="img-float-left" src="../../images/img-terms/slavs/baltic_tribes_thumb.jpg" height="200"/>
 		</a>
+		
+		
 		
 		<a target="_blank" href="../../images/img-terms/slavs/etno_slavs_7-9vek.jpg">
-			<img src="../../images/img-terms/slavs/etno_slavs_7-9vek_thumb.jpg" />
+			<img class="img-float-left" src="../../images/img-terms/slavs/etno_slavs_7-9vek_thumb.jpg" height="200"/>
 		</a>
-		</p>
 		
-		</p>
-			Беларуский народ сложился на основе территориальных культурно-этнических сообществ во времена Великого Княжества Литовского. 	
+		
+		
+		<a target="_blank" href="../../images/img-terms/slavs/blr_etnos.jpg">
+			<img class="img-float-left" src="../../images/img-terms/slavs/blr_etnos_thumb.jpg" height="200"/>
+		</a>
+		
+		<a target="_blank" href="../../images/img-terms/slavs/map_Lotter_litwa_1778_etno.jpg">
+			<img class="img-float-left" src="../../images/img-terms/slavs/map_Lotter_litwa_1778_etno_thumb.jpg" height="200"/>
+		</a>
+	</div>
+		
+		<p>
+			Беларуский народ сложился на основе территориальных культурно-этнических сообществ во времена <a href="wkl.php">Великого Княжества Литовского</a>.
+			Тогда же он принял эндоэтноним "<a href="litwiny.php">литвины</a>", который в XIX-XX вв. был заменен на "белорусы". 	
 			</br>«Основным результатом действия комплекса социально-экономических, политических, этнических процессов ХIV-ХVI веков на Беларуси явилось сложение 
 			самостоятельной восточно-славянской этносоциальной общности — беларуской народности и ее основных этнических признаков — языка, культуры, самосознания.»
 			(<i>Игорь Чаквин, Павел Терешкович</i>)

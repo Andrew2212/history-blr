@@ -42,6 +42,7 @@
 		
 		</br></br></br>
 		<p><small>
+		https://ru.wikisource.org/wiki/ЭСБЕ/Будный,_Симон</br>
 		be-x-old.wikipedia.org</br>
 		be.wikipedia.org</br>
 		pl.wikipedia.org</br>

@@ -41,6 +41,9 @@
           <a href="kesgajla.php" class="item-edit">Кезгайло</a>
         </li>
         <li>
+          <a href="kishky.php" class="item-edit">Кишки, магнатский род</a>
+        </li>
+        <li>
           <a href="#" class="item-unable">Коненков С. Т., скульптор</a>
         </li>
         <li>
@@ -71,7 +74,7 @@
           <a href="przewalskij.php" class="item-edit">Пржевальский Н. М., путешевтвенник и натуралист</a>
         </li>
         <li>
-          <a href="#" class="item-unable">Радзивиллы</a>
+          <a href="#" class="item-unable">Радзивиллы, магнатский род</a>
         </li>
         <li>
           <a href="radziwill_cherny.php" class="item-edit">Радзивилл Николай "Черный", канцлер великий Литовский</a>
