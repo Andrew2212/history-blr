@@ -39,6 +39,16 @@
 		
 		
 		</p>
+		
+		</br></br></br>
+		<p><small>
+		be-x-old.wikipedia.org</br>
+		be.wikipedia.org</br>
+		pl.wikipedia.org</br>
+		uk.wikipedia.org</br>
+		ru.wikipedia.org</br>
+		inbelhist.org/?p=4737
+		</small></p>
 	</div>
 	
 	<!-- ***Sidebar Right*** -->

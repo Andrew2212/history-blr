@@ -14,13 +14,22 @@
           <a href="bulak.php" class="item-edit">Булак-Балахович</a>
         </li>
 		<li>
-          <a href="vitovt.php" class="item-edit">Витовт</a>
+          <a href="vitovt.php" class="item-edit">Великий князь Литовский Витовт</a>
+        </li>
+        <li>
+          <a href="gedimin.php" class="item-edit">Великий князь Литовский Гедимин</a>
+        </li>
+        <li>
+          <a href="mindowg.php" class="item-edit">Великий князь Литовский Миндовг</a>
+        </li>
+        <li>
+          <a href="olgerd.php" class="item-edit">Великий князь Литовский Ольгерд</a>
+        </li>
+        <li>
+          <a href="svidrigailo.php" class="item-edit">Великий князь Литовский Свдригайло</a>
         </li>
         <li>
           <a href="volovicz.php" class="item-edit">Волович Евстафий,  епископ виленский, меценат и библиофил</a>
-        </li>
-        <li>
-          <a href="gedimin.php" class="item-edit">Гедимин</a>
         </li>
 		<li>
           <a href="domeyko.php" class="item-edit">Домейко Игнацы, национальный герой Чили</a>
@@ -49,17 +58,11 @@
         <li>
           <a href="mickiewicz.php" class="item-edit">Мицкевич Адам</a>
         </li>
-       	<li>
-          <a href="mindowg.php" class="item-edit">Миндовг</a>
-        </li>
         <li>
         <a href="#" class="item-unable">Минейко Зигмунд, почетный гражданин Греции</a>
         </li>
         <li>
           <a href="narkewicz.php" class="item-edit">Наркевич-Иодко, "электрический человек" — профессор электрографии и магнетизма</a>
-        </li>
-		<li>
-          <a href="olgerd.php" class="item-edit">Ольгерд</a>
         </li>
     	<li>
           <a href="oginski_mihail_hetman.php" class="item-edit">Огинский Михаил, гетман великий литовский</a>

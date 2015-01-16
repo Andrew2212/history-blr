@@ -38,8 +38,8 @@
 		</p>
 
 		<p class="img-float-center">
-		<a target="_blank" href="../../images/img-terms/slavs/baltic_hidro.jpg">
-			<img src="../../images/img-terms/slavs/baltic_hidro_thumb.jpg" />
+		<a target="_blank" href="../../images/img-terms/slavs/brothers.jpg">
+			<img src="../../images/img-terms/slavs/brothers_thumb.jpg" />
 		</a>
 		</p>
 		

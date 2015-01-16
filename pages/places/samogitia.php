@@ -33,79 +33,86 @@
 		
 		<div class="col-md-12">
 		
-		
+		<div class="col-md-4">
+			<a target="_blank" href="../../images/img-places/samogitia/zmud_law.jpg">
+			<img class="img-float-centr" src="../../images/img-places/samogitia/zmud_law.jpg" height="200"/>				
+			<p>
+			Грамота Жмудская
+			</p>
+			</a>			
+		</div>
 		
 		
 		<div class="col-md-4">
 			<a target="_blank" href="../../images/img-places/samogitia/baltic_1380.jpg">
-			<img class="img-float-centr" src="../../images/img-places/samogitia/baltic_1380_thumb.jpg" height="200"/>
-			</a>	
+			<img class="img-float-centr" src="../../images/img-places/samogitia/baltic_1380_thumb.jpg" height="200"/>	
 			<p>
 			Samogitia, 1380
-			</p>			
+			</p>
+			</a>			
 		</div>
 		
 		<div class="col-md-4">
 			<a target="_blank" href="../../images/img-places/samogitia/ordensgebiete.jpg">
-			<img class="img-float-centr" src="../../images/img-places/samogitia/ordensgebiete_thumb.jpg" height="200"/>
-			</a>	
+			<img class="img-float-centr" src="../../images/img-places/samogitia/ordensgebiete_thumb.jpg" height="200"/>	
 			<p>
 			Deutschen Ordens, 1397-1523
-			</p>			
+			</p>
+			</a>			
 		</div>
 		
 		<div class="col-md-4">
 			<a target="_blank" href="../../images/img-places/samogitia/teutonic_state_1455.jpg">
-			<img class="img-float-centr" src="../../images/img-places/samogitia/teutonic_state_1455_thumb.jpg" height="200"/>
-			</a>	
+			<img class="img-float-centr" src="../../images/img-places/samogitia/teutonic_state_1455_thumb.jpg" height="200"/>	
 			<p>
 			Тевтонский Орден, 1398-1411
-			</p>			
+			</p>
+			</a>			
 		</div>
 		
 		<div class="col-md-4">
 			<a target="_blank" href="../../images/img-places/samogitia/1659_samogitia.jpg">
-			<img class="img-float-centr" src="../../images/img-places/samogitia/1659_samogitia_thumb.jpg" height="200"/>
-			</a>	
+			<img class="img-float-centr" src="../../images/img-places/samogitia/1659_samogitia_thumb.jpg" height="200"/>	
 			<p>
 			Samogitia, 1659
-			</p>			
+			</p>
+			</a>			
 		</div>
 		
 		<div class="col-md-4">
 			<a target="_blank" href="../../images/img-places/samogitia/1696-Rzeczpospolita.jpg">
-			<img class="img-float-centr" src="../../images/img-places/samogitia/1696-Rzeczpospolita_thumb.jpg" height="200"/>
-			</a>	
+			<img class="img-float-centr" src="../../images/img-places/samogitia/1696-Rzeczpospolita_thumb.jpg" height="200"/>	
 			<p>
 			Речь Посполитая, 1696
-			</p>			
+			</p>
+			</a>			
 		</div>
 		
 		<div class="col-md-4">
 			<a target="_blank" href="../../images/img-places/samogitia/1711_Peter-Schenk.jpg">
-			<img class="img-float-centr" src="../../images/img-places/samogitia/1711_Peter-Schenk_thumb.jpg" height="200"/>
-			</a>	
+			<img class="img-float-centr" src="../../images/img-places/samogitia/1711_Peter-Schenk_thumb.jpg" height="200"/>	
 			<p>
 			Речь Посполитая, 1711
-			</p>			
+			</p>
+			</a>			
 		</div>
 		
 		<div class="col-md-4">
 			<a target="_blank" href="../../images/img-places/samogitia/lietuva_1921.jpg">
-			<img class="img-float-centr" src="../../images/img-places/samogitia/lietuva_1921_thumb.jpg" height="200"/>
-			</a>	
+			<img class="img-float-centr" src="../../images/img-places/samogitia/lietuva_1921_thumb.jpg" height="200"/>	
 			<p>
 			Летува (Lietuva), 1921
-			</p>			
+			</p>
+			</a>			
 		</div>
 		
 		<div class="col-md-4">
 			<a target="_blank" href="../../images/img-places/samogitia/lssr_1946.jpg">
-			<img class="img-float-centr" src="../../images/img-places/samogitia/lssr_1946_thumb.jpg" height="200"/>
-			</a>	
+			<img class="img-float-centr" src="../../images/img-places/samogitia/lssr_1946_thumb.jpg" height="200"/>	
 			<p>
 			Литовская Советская Социалистическая Республика, 1946
-			</p>			
+			</p>
+			</a>			
 		</div>
 		
 		</div>
