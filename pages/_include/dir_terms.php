@@ -32,7 +32,7 @@
           <a href="weliki_marshalok.php" class="item-link">Великий маршалок литовский</a>
         </li>
         <li>
-          <a href="yotving.php">Готы, ятвяги, пруссы</a>
+          <a href="yotving.php">Готы, ятвяги, пруссы, венеды</a>
         </li>
         <li>
           <a href="gudai.php">Гуды и Белая Русь</a>
@@ -50,7 +50,7 @@
           <a href="litwiny.php">Литвины</a>
         </li>
         <li>
-          <a href="#" class="item-unable">Литовец, белорусец</a>
+          <a href="lutizy.php">Лютичи, полабские славяне</a>
         </li>
         <li>
           <a href="#" class="item-unable">Магдебургское право</a>

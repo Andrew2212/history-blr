@@ -34,7 +34,7 @@
 		</p>
 		
 	<h4></br>Беларусь
-	<small><a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_15century.php">карты</a></small>
+	<small><a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_14century.php">карты</a></small>
 	</h4>
 
 	
