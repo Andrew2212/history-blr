@@ -8,6 +8,9 @@
           <a href="sinie_wody.php" class="item-edit">Битва на Синих Водах 1362 г.</a>
         </li>
         <li>
+          <a href="buttle_worskla.php" class="item-edit">Битва на Ворскле 1399 г.</a>
+        </li>
+        <li>
           <a href="orsha_battle.php" class="item-edit">Битва под Оршей 1514 г.</a>
         </li>
         <li>

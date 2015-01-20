@@ -29,7 +29,13 @@
           <a href="svidrigailo.php" class="item-edit">Великий князь Литовский Свдригайло</a>
         </li>
         <li>
+          <a href="shwarn.php" class="item-edit">Великий князь Литовский Шварн</a>
+        </li>
+        <li>
           <a href="volovicz.php" class="item-edit">Волович Евстафий,  епископ виленский, меценат и библиофил</a>
+        </li>
+        <li>
+          <a href="david.php" class="item-edit">Давид Городенский</a>
         </li>
 		<li>
           <a href="domeyko.php" class="item-edit">Домейко Игнацы, национальный герой Чили</a>

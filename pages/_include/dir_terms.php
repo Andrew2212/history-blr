@@ -53,7 +53,7 @@
           <a href="lutizy.php">Лютичи, полабские славяне</a>
         </li>
         <li>
-          <a href="#" class="item-unable">Магдебургское право</a>
+          <a href="magdeburg_law.php" class="item-edit">Магдебургское право</a>
         </li>
         <li>
           <a href="myths.php" class="item-edit">Мифы про историю</a>
