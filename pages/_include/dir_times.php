@@ -20,7 +20,7 @@
           <a href="14_vek.php" class="item-link">XIV век</a>
         </li>
         <li>
-          <a href="15_vek.php" class="item-link">XV век</a>
+          <a href="15_vek.php" >XV век</a>
         </li>
         <li>
           <a href="16_vek.php" class="item-edit">XVI век</a>

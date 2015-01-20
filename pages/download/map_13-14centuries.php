@@ -63,6 +63,19 @@
 		<div class="col-md-12">
 			<p>
 			</br>
+			<img src="../../images/img-places/samogitia/ordensgebiete_thumb.jpg" width="200" class="img-float-left" />
+			</br>Самогития (<a href="../places/samogitia.php">Летува</a>). Земли Deutschen Ordens, 1397-1420
+			</p>
+			<p>
+			Размер 2576 х 1580</br>
+			<a target="_blank" href="../../images/img-places/samogitia/ordensgebiete.jpg" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
+		
+		<div class="col-md-12">
+			<p>
+			</br>
 			<img src="../../images/img-download/13_vek/map_13_14_centuries_thumb.jpg" class="img-float-left"/>
 			</br>Карта XIII-XIV в. Образование ВКЛ 
 			</p>

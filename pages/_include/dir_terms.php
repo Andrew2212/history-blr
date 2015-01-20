@@ -74,6 +74,9 @@
           <a href="blr_gerb.php" class="item-edit">Погоня</a>
         </li>
         <li>
+          <a href="religion_blr.php" class="item-edit">Религия на белорусских землях</a>
+        </li>
+        <li>
           <a href="rzeczpospolita.php" class="item-edit">Речь Посполитая</a>
         </li>
 		<li>

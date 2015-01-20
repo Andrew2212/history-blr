@@ -45,7 +45,7 @@
 			</p>
 			<p>
 			Размер 5016 х 3715</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DZUR4U1FEbGFNa0E/view?usp=sharing" class="btn btn-default img-float-left"
+			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DZUR4U1FEbGFNa0E/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -62,7 +62,7 @@
 			</p>
 			<p>
 			Размер 3000 х 2500</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DblZCdmZtRFk0bHc/view?usp=sharing" class="btn btn-default img-float-left"
+			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DblZCdmZtRFk0bHc/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -75,7 +75,7 @@
 			</p>
 			<p>
 			Размер 1650 х 771</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DTWhkcE44LUU0Mlk/view?usp=sharing" class="btn btn-default img-float-left"
+			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DTWhkcE44LUU0Mlk/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -88,7 +88,7 @@
 			</p>
 			<p>
 			Размер 3200 х 2200</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DZlIzTmNaZ0puUHM/view?usp=sharing" class="btn btn-default img-float-left"
+			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DZlIzTmNaZ0puUHM/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -102,7 +102,7 @@
 			</p>
 			<p>
 			Размер 2628 х 2330</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DSTFnNW9OS3BlaUk/view?usp=sharing" class="btn btn-default img-float-left"
+			<a target="_blank"  href="https://drive.google.com/file/d/0B_T3PThCY39DSTFnNW9OS3BlaUk/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -115,7 +115,7 @@
 			</p>
 			<p>
 			Размер 1563 х 1200</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DQzdUQ002WDNMRnM/view?usp=sharing" class="btn btn-default img-float-left"
+			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DQzdUQ002WDNMRnM/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -128,7 +128,7 @@
 			</p>
 			<p>
 			Размер 1526 х 1200</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DVGVJS3FVd244a28/view?usp=sharing" class="btn btn-default img-float-left"
+			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DVGVJS3FVd244a28/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -141,7 +141,7 @@
 			</p>
 			<p>
 			Размер 920 х 717</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DOHdQdUtaZnVOd28/view?usp=sharing" class="btn btn-default img-float-left"
+			<a target="_blank"  href="https://drive.google.com/file/d/0B_T3PThCY39DOHdQdUtaZnVOd28/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -154,7 +154,33 @@
 			</p>
 			<p>
 			Размер 1497 х 1300</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39Db3dWYWhtbnp5UFE/view?usp=sharing" class="btn btn-default img-float-left"
+			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39Db3dWYWhtbnp5UFE/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
+		
+		<div class="col-md-12">
+			<p>
+			</br>
+			<img src="../../images/img-download/16_vek/wkl_06_thumb.jpg" class="img-float-left"/>
+			1430-1548 Великое Княжество Литовское
+			</p>
+			<p>
+			Размер 1106 х 1598</br>
+			<a target="_blank" href="../../images/img-download/16_vek/wkl_06.jpg" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
+		
+		<div class="col-md-12">
+			<p>
+			</br>
+			<img src="../../images/img-download/16_vek/wkl_07_thumb.jpg" class="img-float-left"/>
+			1548-1600 Великое Княжество Литовское
+			</p>
+			<p>
+			Размер 1106 х 1598</br>
+			<a target="_blank" href="../../images/img-download/16_vek/wkl_07.jpg" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
