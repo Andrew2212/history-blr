@@ -35,6 +35,9 @@
           <a href="volovicz.php" class="item-edit">Волович Евстафий,  епископ виленский, меценат и библиофил</a>
         </li>
         <li>
+          <a href="charadzej.php" class="item-edit">Всеслав Чародей</a>
+        </li>
+        <li>
           <a href="david.php" class="item-edit">Давид Городенский</a>
         </li>
 		<li>
@@ -99,6 +102,9 @@
         </li>
         <li>
           <a href="radziwill_sirotka.php" class="item-edit">Радзивилл Николай Криштоф (Сиротка)</a>
+        </li>
+        <li>
+          <a href="rogvolod_rogneda.php" class="item-edit">Рогволод и Рогнеда</a>
         </li>
         <li>
           <a href="sapega.php" class="item-edit">Сапега Лев Иванович</a>

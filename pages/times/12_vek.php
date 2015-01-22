@@ -35,7 +35,8 @@
 
 	
 <p>
-<a href="../terms/polotsk_principality.php">Полоцкое</a>, <a href="../terms/turow_principality.php">Туровское</a>, Смоленское княжества • SUMMARY IS BEING PREPARED •
+<a href="../terms/polotsk_principality.php">Полоцкое</a>, <a href="../terms/turow_principality.php">Туровское</a>, Смоленское княжества • 
+</br>• SUMMARY IS BEING PREPARED •
 <!--Spoiler-->
 <!--http://forwebmaster.net/prostoy-spoyler-dlya-sayta-v-html/-->
 <div class="spoil">

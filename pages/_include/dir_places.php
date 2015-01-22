@@ -22,6 +22,9 @@
         <li>
           <a href="polotsk.php" class="item-edit">Полоцк</a>
         </li>
+        <li>
+          <a href="sophia_sobor.php" class="item-edit">Софийский собор</a>
+        </li>
 		<li>
           <a href="krapiwen_field.php" class="item-edit">Крапивенское поле</a>
         </li>

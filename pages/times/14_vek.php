@@ -39,7 +39,8 @@
 
 	
 <p>
-Великое княжество Литовское (<a href="../terms/wkl.php">ВКЛ</a>). • SUMMARY IS BEING PREPARED •
+Великое княжество Литовское (<a href="../terms/wkl.php">ВКЛ</a>). •
+</br>• SUMMARY IS BEING PREPARED •
 <!--Spoiler-->
 <!--http://forwebmaster.net/prostoy-spoyler-dlya-sayta-v-html/-->
 <div class="spoil">

@@ -8,7 +8,7 @@
           <a href="sinie_wody.php" class="item-edit">Битва на Синих Водах 1362 г.</a>
         </li>
         <li>
-          <a href="buttle_worskla.php" class="item-edit">Битва на Ворскле 1399 г.</a>
+          <a href="battle_worskla.php" class="item-edit">Битва на Ворскле 1399 г.</a>
         </li>
         <li>
           <a href="orsha_battle.php" class="item-edit">Битва под Оршей 1514 г.</a>
@@ -18,6 +18,9 @@
         </li>
         <li>
           <a href="battle_kircholm.php" class="item-edit">Битва под Киргхольмом</a>
+        </li>
+        <li>
+          <a href="battle_nemiga.php" class="item-edit">Битва на Немиге 1067 г</a>
         </li>
         <li>
           <a href="battle_hotin.php" class="item-edit">Битва под Хотином</a>
