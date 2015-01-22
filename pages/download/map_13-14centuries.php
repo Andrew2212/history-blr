@@ -76,6 +76,19 @@
 		<div class="col-md-12">
 			<p>
 			</br>
+			<img src="../../images/img-terms/ross_empire/rossia_xiv_vek_thumb.jpg" width="200" class="img-float-left" />
+			</br>Княжества Литовское, Московское, Новгородская Республика, XIV век
+			</p>
+			<p>
+			Размер 1280 х 941</br>
+			<a target="_blank" href="../../images/img-terms/ross_empire/rossia_xiv_vek.jpg" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
+		
+		<div class="col-md-12">
+			<p>
+			</br>
 			<img src="../../images/img-download/13_vek/map_13_14_centuries_thumb.jpg" class="img-float-left"/>
 			</br>Карта XIII-XIV в. Образование ВКЛ 
 			</p>

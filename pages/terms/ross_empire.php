@@ -18,6 +18,14 @@
     <div class="col-md-8">
 		<h3>Россия</h3>
 		</br>Статья в разработке
+		
+		<p class="img-float-left">
+		<a target="_blank" href="../../images/img-terms/ross_empire/ross_empire_gerb.jpg">
+		<img src="../../images/img-terms/ross_empire/ross_empire_gerb_thumb.jpg" width="200">
+		</br><small>Большой герб Российской Империи</small>
+		</a>
+		</p>
+		
 		<p>
 <h4>Высочайший императорский титул императора Николая Второго </h4>
 Божиею поспешествующею милостию, Мы, Николай Вторый, Император и Самодержец Всероссийский, Московский, Киевский, Владимирский, Новгородский;

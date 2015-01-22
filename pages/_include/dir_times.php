@@ -11,13 +11,13 @@
           <a href="#" class="item-unable">XI век</a>
         </li>
         <li>
-          <a href="#" class="item-unable">XII век</a>
+          <a href="12_vek.php">XII век</a>
         </li>
         <li>
-          <a href="13_vek.php" class="item-link">XIII век</a>
+          <a href="13_vek.php">XIII век</a>
         </li>
         <li>
-          <a href="14_vek.php" class="item-link">XIV век</a>
+          <a href="14_vek.php">XIV век</a>
         </li>
         <li>
           <a href="15_vek.php" >XV век</a>

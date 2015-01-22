@@ -11,7 +11,7 @@
           <a href="wostra_brama.php" class="item-edit">Вострая Брама</a>
         </li>
         <li>
-          <a href="samogitia.php" class="item-edit">Летува (Lietuva) — Жемайтия (Самогития)</a>
+          <a href="samogitia.php" >Летува (Lietuva). Самогития (Samogitia). Жмудь</a>
         </li>
         <li>
           <a href="litwa.php" class="item-edit">Литва (Litvaniae, Lithuania)</a>

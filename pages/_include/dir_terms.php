@@ -38,10 +38,16 @@
           <a href="gudai.php">Гуды и Белая Русь</a>
         </li>
         <li>
+          <a href="dwina_stouns.php" class="item-edit">Двинские (Борисовы) камни</a>
+        </li>
+        <li>
           <a href="zemiane.php">Земяне и панцирные бояре</a>
         </li>
 		<li>
           <a href="kalumny.php" class="item-edit">Калюмны</a>
+        </li>
+        <li>
+          <a href="efrosinia_rood.php" class="item-edit">Крест Ефросинии Полоцкой</a>
         </li>
 		<li>
           <a href="husaria.php" class="item-edit">Крылатые гусары</a>
@@ -99,6 +105,9 @@
         </li>
         <li>
           <a href="sewero_zapadny_kraj.php" class="item-edit">Северо-Западный край</a>
+        </li>
+        <li>
+          <a href="turow_principality.php" class="item-edit">Туровское княжество</a>
         </li>
         <li>
           <a href="filomaty.php" class="item-edit">Филоматы</a>

@@ -43,8 +43,14 @@
 		<li>
           <a href="#" class="item-unable">Достоевский Ф. М.</a>
         </li>
+        <li>
+          <a href="efrosinia.php" class="item-edit">Ефросиния Полоцкая</a>
+        </li>
 		<li>
           <a href="kalinowski.php" class="item-edit">Калиновский Кастусь</a>
+        </li>
+        <li>
+          <a href="kirill_tur.php" class="item-edit">Кирилл Туровский</a>
         </li>
         <li>
           <a href="kostiushko.php" class="item-edit">Костюшко Тадеуш, национальный герой США</a>
