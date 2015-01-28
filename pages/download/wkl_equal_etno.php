@@ -16,7 +16,11 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Этнографическая карта белорусов <small>(профессор Е. Ф. Карский, 1903 г.)</small> на карте ВКЛ <small>(Тобиас Лоттер, 1778 г.)</small></h3>
+		<h3>
+		<a href="blr_people.php">Этнографическая карта</a> белорусов <small>(профессор Е. Ф. Карский, 1903 г.)
+		</small> на 
+		<a href="map_wkl_lotter.php">карте ВКЛ</a> <small>(Тобиас Лоттер, 1778 г.)</small>
+		</h3>
 			<p>
 			<img src="../../images/img-download/map_Lotter_litwa_1778_etno_thumb.jpg" class="img-float-left"/>
 

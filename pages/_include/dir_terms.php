@@ -43,6 +43,9 @@
         <li>
           <a href="zemiane.php">Земяне и панцирные бояре</a>
         </li>
+        <li>
+          <a href="jesuity.php" class="item-edit">Иезуиты. Последний оплот.</a>
+        </li>
 		<li>
           <a href="kalumny.php" class="item-edit">Калюмны</a>
         </li>

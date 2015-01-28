@@ -45,7 +45,9 @@
 		</p>
 
 		<p class="img-float-center">
+		<a href="../download/_download_intro.php">
 			<img src="../../images/img-terms/europe.jpg" />
+		</a>
 			</br>Карты ВКЛ того времени можно посмотреть <a href="../download/map_wkl.php">тут</a> и <a href="../download/map_wkl_lotter.php">тут</a>
 		</p>
 		

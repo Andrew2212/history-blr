@@ -33,12 +33,13 @@
 		</p>		
 		
 		<p>
-		Проект развивается при поддержке <a href="http://www.talaka.by/projects/565" style="color:red">Talaka.by </a>
+		Проект развивается при поддержке <a target="_blank" href="http://www.talaka.by/projects/565" style="color:red">Talaka.by </a>
 		</p>
 	</div>
 
 	<div class="col-md-12">
 		<p>
+		</br>
 		<img src="/img/map_Old_New.jpg" style="float: centr">
 		</p>
 	</div>

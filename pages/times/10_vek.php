@@ -75,7 +75,7 @@
 		<h4><small>События</small></h4>
 		<p>
 		Образование <a href="../terms/polotsk_principality.php">Полоцкого</a> и <a href="../terms/turow_principality.php">Туровского</a> княжеств • 
-		Поход Владимира на <a href="../terms/yotving.php">ятвягов</a> • Создание первой <a href="../terms/religion_blr.php">христианской епархии</a> • 
+		Первое летописное упоминание <a href="../terms/yotving.php">ятвягов</a> • Создание первой <a href="../terms/religion_blr.php">христианской епархии</a> • 
 		Начало миграции <a href="../terms/lutizy.php">полабских славян</a> •
 		</p>
 		

@@ -38,6 +38,9 @@
           <a href="charadzej.php" class="item-edit">Всеслав Чародей</a>
         </li>
         <li>
+          <a href="gusowsky.php" class="item-edit">Гусовский Николай, поэт раннего Ренессанса</a>
+        </li>
+        <li>
           <a href="david.php" class="item-edit">Давид Городенский</a>
         </li>
 		<li>
@@ -132,6 +135,9 @@
         </li>
         <li>
           <a href="#" class="item-unable">Шостакович Д. Д., композитор</a>
+        </li>
+        <li>
+          <a href="fedorow.php" class="item-edit">Федоров Иван, первопечатник в Московии и Украине</a>
         </li>
 		<li>
           <a href="jagellony.php" class="item-edit">Ягеллоны</a>

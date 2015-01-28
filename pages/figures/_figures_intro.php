@@ -46,7 +46,7 @@
 		</p>
 		
 		<p class="img-float-center">
-			<img src="../../images/img-figures/litwa_rb.jpg" />
+			<a href="../download/_download_intro.php"><img src="../../images/img-figures/litwa_rb.jpg" width="600"/></a>
 			</br>Карты ВКЛ большего размера можно посмотреть <a href="../download/map_wkl.php">тут</a> и <a href="../download/map_wkl_lotter.php">тут</a>
 		</p>
 	</div>

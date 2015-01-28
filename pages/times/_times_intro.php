@@ -36,7 +36,7 @@
 		
 		</p>
 		<p class="img-float-center">
-		<img src="../../images/img-times/map_blr_people_1.jpg"/>
+		<a href="../download/blr_people.php"><img src="../../images/img-times/map_blr_people_1.jpg" width="600"/></a>
 		</br><small>Карту 1900 х 1600 и ее описание можно посмотреть <a href="../download/blr_people.php">тут</a> </small>
 		</p>	
 	</div>
