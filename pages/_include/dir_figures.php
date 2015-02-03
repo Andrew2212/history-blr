@@ -41,6 +41,9 @@
           <a href="gusowsky.php" class="item-edit">Гусовский Николай, поэт раннего Ренессанса</a>
         </li>
         <li>
+          <a href="gonsewsky.php" class="item-edit">Александр Корвин Гонсевский, комендант Кремля, 1610и</a>
+        </li>
+        <li>
           <a href="david.php" class="item-edit">Давид Городенский</a>
         </li>
 		<li>
@@ -65,13 +68,25 @@
           <a href="konashewicz.php" class="item-edit">Конашевич-Сагайдачный, гетман Войска Запорожского</a>
         </li>
         <li>
-          <a href="kesgajla.php" class="item-edit">Кезгайло</a>
-        </li>
-        <li>
-          <a href="kishky.php" class="item-edit">Кишки, магнатский род</a>
-        </li>
-        <li>
           <a href="#" class="item-unable">Коненков С. Т., скульптор</a>
+        </li>
+        <li>
+          <a href="kunciewicz.php" class="item-edit">Иософат Кунцевич, архиепископ Полоцкий</a>
+        </li>
+        <li>
+          <a href="lisowsky.php" class="item-edit">Лисовский-Янович А. Ю., полковник "лисовчиков", 1608-1616</a>
+        </li>
+        <li>
+          <a href="kishky.php" class="item-edit">Магнатский род — Кишки</a>
+        </li>
+        <li>
+          <a href="kesgajla.php" class="item-edit">Магнатский род — Кезгайлы</a>
+        </li>
+        <li>
+          <a href="pacy.php" class="item-edit">Магнатский род — Пацы</a>
+        </li>
+        <li>
+          <a href="radziwilly.php" class="item-edit">Магнатский род — Радзивиллы</a>
         </li>
         <li>
           <a href="mickiewicz.php" class="item-edit">Мицкевич Адам</a>
@@ -93,9 +108,6 @@
         </li>
         <li>
           <a href="przewalskij.php" class="item-edit">Пржевальский Н. М., путешевтвенник и натуралист</a>
-        </li>
-        <li>
-          <a href="#" class="item-unable">Радзивиллы, магнатский род</a>
         </li>
         <li>
           <a href="radziwill_cherny.php" class="item-edit">Радзивилл Николай "Черный", канцлер великий Литовский</a>

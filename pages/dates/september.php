@@ -236,7 +236,7 @@
 					<td>21</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li><a href="../events/war_moscow_1610.php">День взятия Москвы</a>, 1610</li>
 						</ul>
 					</td>
 				</tr>
