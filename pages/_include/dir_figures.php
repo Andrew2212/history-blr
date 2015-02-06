@@ -77,16 +77,22 @@
           <a href="lisowsky.php" class="item-edit">Лисовский-Янович А. Ю., полковник "лисовчиков", 1608-1616</a>
         </li>
         <li>
-          <a href="kishky.php" class="item-edit">Магнатский род — Кишки</a>
+          <a href="kishky.php" class="item-edit">Магнатский род </br>— Кишки</a>
         </li>
         <li>
-          <a href="kesgajla.php" class="item-edit">Магнатский род — Кезгайлы</a>
+          <a href="kesgajla.php" class="item-edit">Магнатский род </br>— Кезгайлы</a>
         </li>
         <li>
-          <a href="pacy.php" class="item-edit">Магнатский род — Пацы</a>
+          <a href="pacy.php" class="item-edit">Магнатский род </br>— Пацы</a>
         </li>
         <li>
-          <a href="radziwilly.php" class="item-edit">Магнатский род — Радзивиллы</a>
+          <a href="radziwilly.php" class="item-edit">Магнатский род </br>— Радзивиллы</a>
+        </li>
+        <li>
+          <a href="sapegi.php" class="item-edit">Магнатский род </br>— Сапеги</a>
+        </li>
+        <li>
+          <a href="oginskie.php" class="item-edit">Магнатский род </br>— Огинские</a>
         </li>
         <li>
           <a href="mickiewicz.php" class="item-edit">Мицкевич Адам</a>

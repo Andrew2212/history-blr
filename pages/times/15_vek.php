@@ -123,12 +123,14 @@
 		<h4><small>События</small></h4>
 		<p>
 		<a href="../events/unia_vilno.php">Виленско-Радомская уния</a> • <a href="../events/grunwald.php">Грюнвальд</a> • 
-		<a href="../events/unia_gorodlo.php">Городельская уния</a> • <a href="../events/battle_wedrosh.php">Битва на реке Ведрошь</a> •
+		<a href="../events/unia_gorodlo.php">Городельская уния</a> • <a href="../events/war_civil_1432.php">Гражданская война в ВКЛ</a> 1432—1438 • 
+		<a href="../events/battle_wedrosh.php">Битва на реке Ведрошь</a> •
 		</p>
 		
 		<h4><small>Люди</small></h4>
 		<p>
 		<a href="../figures/vitovt.php">Витовт</a> • <a href="../figures/jagiello.php">Ягайло</a> • 
+		<a href="../figures/svidrigailo.php">Свидригайло</a> • 
 		<a href="../figures/ostrogski.php">Константин Острожский</a> • <a href="../figures/skorina.php">Франциск Скорина</a> •
 		</p>
 	 

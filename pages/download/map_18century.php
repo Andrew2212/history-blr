@@ -17,25 +17,37 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Белорусские земли XVIII в.</h3>
-		<p>
-		<i>
-		Узнать больше можно 
-		<a href="https://www.facebook.com/pages/%D0%9C%D0%B0%D0%B9%D1%81%D1%82%D1%8D%D1%80%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D0%B0%D0%B4%D0%B0%D1%9E%D0%BD%D1%96%D1%85-%D0%B3%D0%B5%D0%B0%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%87%D0%BD%D1%8B%D1%85-%D0%BC%D0%B0%D0%BF/527727034041838">
-		тут
-		</a>
-		</i>
-		</p>
-
 		
 		<div class="col-md-12">
 			<p>
 			</br>
 			<img src="../../images/img-download/map_1711_thumb.jpg" class="img-float-left"/>
+			</p>
+			<p>
 			</br> Карта Речи Посполитой 1711 года
 			</p>
 			<p>
 			Размер 1200 х 1020</br>
 			<a href="https://drive.google.com/file/d/0B_T3PThCY39DSEptRzhCSmpsUms/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
+		
+		<div class="col-md-12">
+			<p>
+			</br>
+			<img src="../../images/img-download/18_vek/MagniDucatLithuaniae_Seutteri_thumb.jpg" class="img-float-left"/>
+				Карта 1739 года. Великое княжество Литовское  и Королевство Польша.
+				</br><small>Matthias Seutter (1678-1757) was one of the most important and prolific German map publishers of the 18th century</small> 
+				</p>
+				<p>
+				На подробной карте обозначены все неясные термины: 
+				</br>LITHUANIA, LITHUANIA PROPRIA (Истинная Литва, южнее Вильно, от Гродно до Полоцка),
+				SAMOGITIA, RUSSIA ALBA, POLESIE, RUSSIA RUBRA (Ukrainia)
+			</p>
+			<p>
+			Размер 4000 х 3388</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39DNXF0UEdrZS13UVk/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>

@@ -26,10 +26,19 @@
           <a href="battle_loew.php" class="item-edit">Битвы под Лоевом, 1649 и 1651, (с Войском Запорожским)</a>
         </li>
         <li>
+          <a href="#" class="item-unable">Битва под Ляховичами (осада), 1660, (с Московией)</a>
+        </li>
+        <li>
           <a href="battle_nemiga.php" class="item-edit">Битва на Немиге, 1067, (Всеслав Чародей против Рюриковичей)</a>
         </li>
         <li>
+          <a href="battle_polonka.php" class="item-edit">Битва под Полонкой, 1660, (с Московией)</a>
+        </li>
+        <li>
           <a href="battle_hotin.php" class="item-edit">Битвы под Хотином, 1621 и 1673, (с Османской Империей)</a>
+        </li>
+        <li>
+          <a href="uprising_1794.php" class="item-edit">Восстание Костюшо 1830 года</a>
         </li>
         <li>
           <a href="uprising_1830.php" class="item-edit">Восстание 1830 года</a>
@@ -38,8 +47,20 @@
           <a href="uprising_1863.php" class="item-edit">Восстание 1863-1864 года (Восстание Калиновского)</a>
         </li>
         <li>
-          <a href="confederacia_warshawa.php" class="item-edit">Варшавская конфедерация, 1573, (равенство всех религий)</a>
-        </li>        
+          <a href="confederacia_warshawa.php" class="item-edit">Конфедерация Варшавская, 1573, (равенство всех религий)</a>
+        </li> 
+		<li>
+          <a href="confederacia_warshawa.php" class="item-edit">Конфедерация Барская, 1768, (за сохранение целостности ВКЛ)</a>
+        </li> 
+		<li>
+          <a href="confederacia_sluzk.php" class="item-edit">Конфедерация Слуцкая, 1767, (в защиту православия, под протекторатьм России)</a>
+        </li> 
+		<li>
+          <a href="confederacia_targowice.php" class="item-edit">Конфедерация Тарговицкая, 1791, (против Конституции 3 мая 1791 г., под протекторатьм России)</a>
+        </li> 
+		<li>
+          <a href="constitution_3may.php" class="item-edit">Конституция 3 мая 1791 года (отмена "шляхетской демократии")</a>
+        </li>      
         <li>
           <a href="world_war_1.php" class="item-edit">Война Первая мировая</a>
         </li>
@@ -48,6 +69,12 @@
         </li>
         <li>
           <a href="war_1812.php" class="item-edit">Война 1812 года</a>
+        </li>
+        <li>
+          <a href="war_civil_1432.php" class="item-edit">Война гражданская в ВКЛ 1432—1438</a>
+        </li>
+        <li>
+          <a href="war_civil_1696.php" class="item-edit">Война гражданская в ВКЛ 1696—1702</a>
         </li>
         <li>
           <a href="war_livonia.php" class="item-edit">Война Ливонская, 1558-1583, (с Московией)</a>
