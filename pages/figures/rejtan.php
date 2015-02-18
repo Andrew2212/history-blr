@@ -4,20 +4,23 @@
   <head>
 
 <!-- ***Include Header*** -->
-<? include ("../_include/header_events.php"); ?>
+<? include ("../_include/header_figures.php"); ?>
   
   <!-- ***Content & Sidebars*** -->
   <div class="container-fluid">
   
 
       <!-- ***Sidebar Left - include CurrentDir*** -->
-<? include ("../_include/dir_events.php"); ?>
+<? include ("../_include/dir_figures.php"); ?>
 
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Тарговицкая конфедерация 1791 года</h3>
+		<h3>Тадеуш Рейтан, Дон Кихот Речи Посполитой</h3>
+		<p>
+			
 		
+		</p>
 		<p>
 		Статья в разработке
 		</p>
@@ -35,7 +38,7 @@
 	
 	<!-- ***Sidebar Right*** -->
 
-	<? include ("../_include/right_sidebar_events.php"); ?>
+	<? include ("../_include/right_sidebar_figures.php"); ?>
 
 	
 </div>

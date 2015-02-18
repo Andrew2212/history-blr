@@ -50,15 +50,6 @@
           <a href="confederacia_warshawa.php" class="item-edit">Конфедерация Варшавская, 1573, (равенство всех религий)</a>
         </li> 
 		<li>
-          <a href="confederacia_warshawa.php" class="item-edit">Конфедерация Барская, 1768, (за сохранение целостности ВКЛ)</a>
-        </li> 
-		<li>
-          <a href="confederacia_sluzk.php" class="item-edit">Конфедерация Слуцкая, 1767, (в защиту православия, под протекторатьм России)</a>
-        </li> 
-		<li>
-          <a href="confederacia_targowice.php" class="item-edit">Конфедерация Тарговицкая, 1791, (против Конституции 3 мая 1791 г., под протекторатьм России)</a>
-        </li> 
-		<li>
           <a href="constitution_3may.php" class="item-edit">Конституция 3 мая 1791 года (отмена "шляхетской демократии")</a>
         </li>      
         <li>
@@ -78,6 +69,9 @@
         </li>
         <li>
           <a href="war_livonia.php" class="item-edit">Война Ливонская, 1558-1583, (с Московией)</a>
+        </li>
+        <li>
+          <a href="war_great_north.php" class="item-edit">Война Великая Северная, 1700-1721, (со Швецией и Московией)</a>
         </li>
         <li>
           <a href="war_green_oak.php" class="item-edit">Война "Зеленого дуба"</a>

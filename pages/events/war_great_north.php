@@ -16,10 +16,14 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Слуцкая конфедерация 1767 года</h3>
+		<h3>Великая Северная война 1700-1721</h3>
 		
 		<p>
-		Статья в разработке
+		Context		
+		</p>
+		
+		<p class="img-float-left">
+		<img src="../../images/img-events/#"/>
 		</p>
 		
 		</br></br></br>

@@ -29,7 +29,7 @@
           <a href="17_vek.php" class="item-link">XVII век</a>
         </li>
         <li>
-          <a href="18_vek.php" class="item-link">XVIII век</a>
+          <a href="18_vek.php">XVIII век</a>
         </li>
         <li>
           <a href="#" class="item-unable">XIX век</a>

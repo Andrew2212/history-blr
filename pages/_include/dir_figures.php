@@ -125,6 +125,9 @@
           <a href="radziwill_sirotka.php" class="item-edit">Радзивилл Николай Криштоф (Сиротка)</a>
         </li>
         <li>
+          <a href="rejtan.php" class="item-edit">Рейтан Тадеуш, Дон Кихот Речи Посполитой</a>
+        </li>
+        <li>
           <a href="rogvolod_rogneda.php" class="item-edit">Рогволод и Рогнеда</a>
         </li>
         <li>

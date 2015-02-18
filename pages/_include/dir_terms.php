@@ -95,7 +95,7 @@
           <a href="rb.php" class="item-edit">Республика Беларусь</a>
         </li>
         <li>
-          <a href="ross_empire.php" class="item-edit">Российская империя</a>
+          <a href="ross_empire.php">Российская империя</a>
         </li>
         <li>
           <a href="sssr.php" class="item-edit">СССР</a>
