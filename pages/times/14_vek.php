@@ -33,7 +33,7 @@
 		  Битва на Ворскле; поражение ВКЛ от Золотой Орды
 		</p>
 		
-	<h4></br>Беларусь
+	<h4></br><a href="../terms/belarus.php">Беларусь</a></br>
 	<small><a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_13-14centuries.php">карты</a></small>
 	</h4>
 

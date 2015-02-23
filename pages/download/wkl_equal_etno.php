@@ -7,7 +7,7 @@
 <? include ("../_include/header_download.php"); ?>
   
   <!-- ***Content & Sidebars*** -->
-  <div class="container-fluid">
+<div class="container-fluid">
   
 
       <!-- ***Sidebar Left - include CurrentDir*** -->
@@ -15,7 +15,8 @@
 
 	
     <!-- ***Page Content*** -->
-    <div class="col-md-8">
+ <div class="col-md-8">
+ 	<div class="col-md-12">
 		<h3>
 		<a href="blr_people.php">Этнографическая карта</a> белорусов <small>(профессор Е. Ф. Карский, 1903 г.)
 		</small> на 
@@ -47,12 +48,37 @@
 
 			<p>
 			Размер 5192 х 4511</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DbWJVaVZOMDF1eU0/view?usp=sharing" class="btn btn-default img-float-left"
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DbWJVaVZOMDF1eU0/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 			</p>
-		
 	</div>
+			
+	<div class="col-md-12">
+			<h3>
+		<a href="blr_people.php">Этнографическая карта</a> белорусов <small>(профессор Е. Ф. Карский, 1903 г.)
+		</small> и современные границы РБ на 
+		<a href="map_18century.php">карте ВКЛ</a> <small>(Matth. Seutteri, 1730 г.)</small>
+		</h3>
+			<p>
+			<img src="../../images/img-download/blr_people_now/blr_now_etnos_thumb.jpg" class="img-float-left"/>
+
+			<p>
+			Совмещение карт позволяет определить этническое происхождение неясных терминов 
+			</br><a href="../terms/wkl.php">LITHUANIA</a>, <a href="../places/litwa.php">LITHUANIA PROPRIA</a>,
+				<a href="../places/samogitia.php">SAMOGITIA</a>, <a href="../terms/gudai.php">RUSSIA ALBA</a>, POLESIE, RUSSIA RUBRA 
+			</br>и соотнести их с государственными границами.
+			</p>
+
+			<p>
+			Размер 4000 х 3388</br>
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DVGExZGEtd04yZW8/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+			</p>
+	</div>
+		
+</div>
 	
 	<!-- ***Sidebar Right*** -->
 

@@ -7,14 +7,14 @@
 		<li>
           <a href="blr_etnos.php">Белорусский этнос</a>
         </li>
+        <li>
+          <a href="belarus.php">Беларусь</a>
+        </li>
 		<li>
           <a href="bnr.php">БНР</a>
         </li>
 		<li>
           <a href="bssr.php" class="item-edit">БССР</a>
-        </li>
-       	<li>
-          <a href="alba_rusia.php" class="item-edit">Белая Русь и белоруссы</a>
         </li>
 		<li>
           <a href="wkl.php" class="item-edit">Великое княжество Литовское</a>

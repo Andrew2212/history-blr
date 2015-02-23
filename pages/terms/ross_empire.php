@@ -44,7 +44,19 @@
 		<p>
 		Россия — государство, сформировавшееся на основе княжества Московского, расположенного на землях финно-угорских племен меря и весь. 
 		До XVI века часто рассматривалось европейской картографией в ряду Тартарий (Moscoviae et Tartariae descriptio) — и Великие князья (Александр Невский и др.), и первый Московский царь Иван Грозный — 
-		все московские правители утверждались (получали ярлык на правление) в ханской ставке. 
+		все московские правители утверждались (получали ярлык на правление) в ханской ставке; цитаты из Корана 
+		были <a target="_blank" href="http://inbelhist.org/moskoviya-do-petra-i-schitala-sebya-chastyu-islamskogo-mira/">самым популярным декором</a> оружия и доспехов
+		как простых воинов, так и царских особ:
+		
+				
+		<p class="img-float-center">
+		<a target="_blank" href="../../images/img-terms/ross_empire/russ_muslim.jpg">
+			<img src="../../images/img-terms/ross_empire/russ_muslim_thumb.jpg" height="120"/>
+			</br><small>Шлемы А. Невского и И. Грозного</small>
+		</a>
+		</p>
+		
+		 
 		</br>И, хотя в XV веке 
 		"<a target="_blank" href="../../images/img-terms/ross_empire/lecture.jpg">ханская ставка была перенесена в Кремль</a>" 
 		<small>(<a target="_blank" href="../../images/img-terms/ross_empire/rossia.avi">лекция в МГУ</a> академика РАН Ю. Пивоварова)</small>, выплата дани Крымскому хану продолжалась 
@@ -76,7 +88,7 @@
 		<p class="img-float-left">
 		<a target="_blank" href="../../images/img-terms/ross_empire/1550_Polonia_Lithvania.jpg">
 			<img src="../../images/img-terms/ross_empire/1550_Polonia_Lithvania_thumb.jpg" height="120"/>
-			</br><small>Polonia, Lithvania, 1549</small>
+			</br><small>Polonia, Lithvania, 1550</small>
 		</a>
 		</p>
 		
@@ -145,7 +157,7 @@
 		
 		<p>
 		<small>И да — материал на сайте подается с позиции <a target="_blank" href="http://nn.by/?c=ar&i=125014&lang=ru">белорусского националиста</a>. 
-		</br>С позицией <a target="_blank" href="../../images/img-terms/ross_empire/russ_mir.jpg">русских националистов</a> вы можете ознакомится по трудам по трудам Почётного члена 
+		</br>С позицией <a href="../articles/step_away.html">русских националистов</a> вы можете ознакомится по трудам по трудам Почётного члена 
 		Российской Императорской Академии наук Н. Карамзина из знатного татарского рода Кара-Мурза, 
 		по <a href="../articles/rus_mir.php">выступлениям российских полит-историков</a>, либо по школьным учебникам.
 		</small>

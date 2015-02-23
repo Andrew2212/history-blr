@@ -74,6 +74,22 @@
 			</p>			
 		</div>
 		
+		<div class="col-md-3">
+			<p>
+			</br>
+			<h4>Этнографическая карта белорусов 
+			</br><small>и границы губерний Российской Империи</small>
+			 </h4>
+			<img src="../../images/img-download/kirkor/bssr_20vekstart_thumb.jpg" class="img-float-centr" width="140"/>	
+			</p>
+
+			<p>
+			Размер 4039 х 2602</br>
+			<a href="https://drive.google.com/file/d/0B_T3PThCY39DYlJiclcyV3VPVHM/view?usp=sharing" class="btn btn-default img-float-centr"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>			
+		</div>
+		
 	</div>
 	
 	<!-- ***Sidebar Right*** -->

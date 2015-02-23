@@ -55,7 +55,7 @@
 			</div>
 			<div class="btn-group" style="margin-left: 20px">
 				<h4>
-					<a href="http://natribu.org/by/" class="btn btn-large btn-info"
+					<a href="/pages/articles/step_away.html" class="btn btn-large btn-info"
 						data-toggle="modal"> <i class="glyphicon glyphicon-volume-up"></i> Я знаю все и верю в русский мир uber alles</a>
 				</h4>
 			</div>

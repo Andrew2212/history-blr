@@ -148,6 +148,9 @@
         <li>
           <a href="stankewicz.php" class="item-edit">Станкевич Ян, историк, основатель Великолитовского фонда им. Льва Сапеги</a>
         </li>
+        <li>
+          <a href="torwald.php" class="item-edit">Торвальд Кодранссон, креститель Полоцка</a>
+        </li>
 		<li>
           <a href="hodkewich.php" class="item-edit">Ходкевич Ян Кароль, гетман великй литовский</a>
         </li>
