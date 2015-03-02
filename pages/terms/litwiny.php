@@ -53,7 +53,27 @@
 		</p>
 		
 		<p>
-		Согласно <a href="statut.php">Статуту ВКЛ</a> 1566 г. (арт. 9, раздел 3)
+		 В "<a target="_blank" href="http://books.google.de/books?id=YX8OAAAAYAAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false">
+		Chronicon terrae Prussiae von Peter von Dusburg</a>" от 1326 г. (хроника Тевтонского Ордена) можно видеть 
+		<small>[см. <a target="_blank" href="http://www.vostlit.info/Texts/rus6/Dusburg/frametext33.htm">перевод</a>]</small>,
+		что литвинами (Littouwin) называли Гедымина, его наместника Давида Городенского и воинов Гродно (Гарты). Эта же хроника отчетливо противопоставляет литвинов и 
+		<a href="../places/samogitia.php">жмудинов</a> (Samaitin).
+		</p>
+		
+		<div class="col-md-12" >
+		<p>
+		<a target="_blank" href="../../images/img-terms/litwiny/litviny_david.jpg">
+		<img src="../../images/img-terms/litwiny/litviny_david.jpg" height="120">
+		
+		</a>
+		<a target="_blank" href="../../images/img-terms/litwiny/peter_text.jpg">
+		<img src="../../images/img-terms/litwiny/peter_text.jpg" height="120">		
+		</a>
+		</p>
+		</div>
+		
+		<p>
+		</br>Согласно <a href="statut.php">Статуту ВКЛ</a> 1566 г. (арт. 9, раздел 3)
 		</br><i>
 		"... Но на благородность [шляхетство-дворянство] и всякую должность духовную и светскую не может быть избран, 
 		даже от Нас Государя ставленник, только издавна предков своих уроженец Великого Княжества Литовского Литвин и Русин ..."

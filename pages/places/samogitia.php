@@ -73,7 +73,7 @@
 		 После этого фамилии на -УС,-АС (Adamkus, Sauliunas)
 		можно иногда всетретиь в среди имен <a href="../terms/shliahta.php">шляхты</a> и <a href="../download/spis_voiska.php">списке войска</a>. 
 		 Однако, поскольку тягловые крестьне на военную службу не призывлись, 
-		их там <a target="_blank"  href="../../images/img-places/samogitia/voisko_zmud.jpg">меньше 5%</a>
+		их там <a target="_blank"  href="../../images/img-places/samogitia/voisko_zmud.jpg">меньше 3%</a>
 		</p>
 		<p>
 		На земли жмудские не распространялся <a href="../terms/statut.php">Статут ВКЛ</a>. Второстепенное значение жмудинов в истории ВКЛ 

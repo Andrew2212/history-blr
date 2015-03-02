@@ -17,6 +17,9 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Радзивиллы, магнатский род</h3>
+		Polskie formy Radziwill lub Radzwil (patronimiki Radziwillowic(z), Radzwilowic(z)) pochodza od pierwotnie bialoruskiego Radzivil' , 
+		czyli derywatu na il od podstawy Radziv-, pochodzacej ze skroconej formy imienia Radzivon (z v usuwajacym rozziew od cerkiewnego Rodi.on,...
+		pl.wikipedia.org
 		<p>
 			Януш Радзивилл (XVII век), Николай Кристофор Радзивилл "Перун"
 		

@@ -25,6 +25,9 @@
           <a href="kraina_blr.php">Kраiна Беларусь</a>
         </li>
         <li>
+          <a href="chronicles_peter.php">Chronicon terrae Prussiae von Peter von Duisburg, 1326 г., оригинал/перевод</a>
+        </li>
+        <li>
           <a href="monet_blr.php">Монеты ВКЛ-Беларуси до 1707 года</a>
         </li>
 

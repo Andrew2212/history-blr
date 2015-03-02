@@ -89,6 +89,9 @@
           <a href="radziwilly.php" class="item-edit">Магнатский род </br>— Радзивиллы</a>
         </li>
         <li>
+          <a href="kesgaila.php" class="item-edit">Магнатский род </br>— Кезгайлы</a>
+        </li>
+        <li>
           <a href="sapegi.php" class="item-edit">Магнатский род </br>— Сапеги</a>
         </li>
         <li>
@@ -103,26 +106,11 @@
         <li>
           <a href="narkewicz.php" class="item-edit">Наркевич-Иодко, "электрический человек" — профессор электрографии и магнетизма</a>
         </li>
-    	<li>
-          <a href="oginski_mihail_hetman.php" class="item-edit">Огинский Михаил, гетман великий литовский</a>
-        </li>
         <li>
           <a href="ostrogski.php" class="item-edit">Острожский Константин, гетман великий литовский</a>
         </li>
         <li>
-          <a href="pac_hetman.php" class="item-edit">Пац Михаил, гетман великий литовский</a>
-        </li>
-        <li>
           <a href="przewalskij.php" class="item-edit">Пржевальский Н. М., путешевтвенник и натуралист</a>
-        </li>
-        <li>
-          <a href="radziwill_cherny.php" class="item-edit">Радзивилл Николай "Черный", канцлер великий Литовский</a>
-        </li>
-        <li>
-          <a href="radziwill_herkules.php" class="item-edit">Радзивилл Юрий "Геркулес", гетман великий Литовский</a>
-        </li>
-        <li>
-          <a href="radziwill_sirotka.php" class="item-edit">Радзивилл Николай Криштоф (Сиротка)</a>
         </li>
         <li>
           <a href="rejtan.php" class="item-edit">Рейтан Тадеуш, Дон Кихот Речи Посполитой</a>
@@ -152,7 +140,7 @@
           <a href="torwald.php" class="item-edit">Торвальд Кодранссон, креститель Полоцка</a>
         </li>
 		<li>
-          <a href="hodkewich.php" class="item-edit">Ходкевич Ян Кароль, гетман великй литовский</a>
+          <a href="hodkewich.php" class="item-edit">Ходкевичи, воины великого княжества</a>
         </li>
         <li>
           <a href="shagal.php" class="item-edit">Шагал Марк, художник</a>

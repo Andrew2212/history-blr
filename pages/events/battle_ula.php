@@ -4,22 +4,27 @@
   <head>
 
 <!-- ***Include Header*** -->
-<? include ("../_include/header_figures.php"); ?>
+<? include ("../_include/header_events.php"); ?>
   
   <!-- ***Content & Sidebars*** -->
   <div class="container-fluid">
   
 
       <!-- ***Sidebar Left - include CurrentDir*** -->
-<? include ("../_include/dir_figures.php"); ?>
+<? include ("../_include/dir_events.php"); ?>
 
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Сапега Лев Иванович</h3>
-		<p>
-			Статья в разработке
+		<h3>Битва при Чашниках (Битва на Уле) 1564</h3>
 		
+		<p>
+		Context	
+		http://vostlit.narod.ru/Texts/Dokumenty/Polen/XVI/1560-1580/Ula1564/text.htm	
+		</p>
+		
+		<p class="img-float-left">
+		<img src="../../images/img-events/#"/>
 		</p>
 		
 		</br></br></br>
@@ -29,13 +34,13 @@
 		pl.wikipedia.org</br>
 		uk.wikipedia.org</br>
 		ru.wikipedia.org</br>
-		inbelhist.org/?p=4737
 		</small></p>
+		
 	</div>
 	
 	<!-- ***Sidebar Right*** -->
 
-	<? include ("../_include/right_sidebar_figures.php"); ?>
+	<? include ("../_include/right_sidebar_events.php"); ?>
 
 	
 </div>

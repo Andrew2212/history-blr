@@ -20,16 +20,16 @@
           <a href="wkl.php" class="item-edit">Великое княжество Литовское</a>
         </li>
 		<li>
-          <a href="weliki_hetman.php" class="item-link">Великий гетман литовский</a>
+          <a href="weliki_hetman.php">Великий гетман литовский</a>
         </li>
 		<li>
-          <a href="weliki_kancler.php" class="item-link">Великий канцлер литовский</a>
+          <a href="weliki_kancler.php">Великий канцлер литовский</a>
         </li>
         <li>
           <a href="dukes_wkl.php" class="item-edit">Великий князь литовский</a>
         </li>
 		<li>
-          <a href="weliki_marshalok.php" class="item-link">Великий маршалок литовский</a>
+          <a href="weliki_marshalok.php">Великий маршалок литовский</a>
         </li>
         <li>
           <a href="yotving.php">Готы, ятвяги, пруссы, венеды</a>
@@ -83,7 +83,7 @@
           <a href="blr_gerb.php" class="item-edit">Погоня</a>
         </li>
         <li>
-          <a href="religion_blr.php" class="item-edit">Религия на белорусских землях</a>
+          <a href="religion_blr.php">Религия на белорусских землях</a>
         </li>
         <li>
           <a href="rzeczpospolita.php" class="item-edit">Речь Посполитая</a>

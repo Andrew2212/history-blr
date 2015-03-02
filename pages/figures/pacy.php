@@ -18,7 +18,8 @@
     <div class="col-md-8">
 		<h3>Пацы, магнатский род</h3>
 		<p>
-		Михаил Казимир Пац	
+		Pierwszym Pacem, ktorego istnienie potwierdzaja zrodla pisane jest Pac Dowkszewicz, ktory zyl w XV w.
+		Паходзілі ад Паца Даўкшавіча (згадваецца пад 1450), ад імя якога ўтварылся прозьвішча роду.
 		
 		</p>
 		<p>

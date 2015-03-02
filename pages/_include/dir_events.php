@@ -17,6 +17,9 @@
           <a href="orsha_battle.php" class="item-edit">Битва под Оршей, 1514, (с Московией)</a>
         </li>
         <li>
+          <a href="battle_ula.php" class="item-edit">Битва при Чашниках (Битва на Уле), 1564, (с Московией)</a>
+        </li>
+        <li>
           <a href="#" class="item-unable">Битва при Клушине, 1610, (с Московией)</a>
         </li>
         <li>
