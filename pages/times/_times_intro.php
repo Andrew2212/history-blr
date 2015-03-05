@@ -32,7 +32,7 @@
 		 существовавшее более двух веков и после раздела которого на 196 лет утратил свою независимость. 
 		</p>
 		И в XX веке вновь обрел независимость, но утратил свою <a href="../places/wilno.php">древнюю столицу</a>, <a href="../terms/blr_gerb.php">герб</a>, 
-		<a href="../terms/blr_flag.php">флаг</a>, <a href="../terms/litwiny.php">имя</a> и <a href="../terms/myths.php">подзабыл</a> свою историю. 
+		<a href="../terms/blr_flag.php">флаг</a>, <a href="../terms/litwiny.php">имя</a> и подзабыл <a href="../figures/_figures_intro.php">своих героев</a>. 
 		
 		</p>
 		<p class="img-float-center">

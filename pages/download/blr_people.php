@@ -41,7 +41,7 @@
 			</p>
 			<p>
 			Размер 1940 х 1600</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39Dbk1OUTlJUDhRbDQ/view?usp=sharing" class="btn btn-default img-float-left"
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39Dbk1OUTlJUDhRbDQ/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -55,7 +55,18 @@
 			</p>
 			<p>
 			Размер 4039 х 2602</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DYlJiclcyV3VPVHM/view?usp=sharing" class="btn btn-default img-float-left"
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DYlJiclcyV3VPVHM/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
+		
+		<div class="col-md-12">
+			</br>
+			<h4>Этнографическая карта Европейской России Риттих А. Ф., 1875</h4>
+			<img src="../../images/img-download/1875_etno_ross_empire_rittih_thumb.jpg" class="img-float-left"/>
+			<p>
+			В архиве (zip, 75 Мб) карта из 6 фрагментов по 8800 х 7700 каждый</br>
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DWktjenZuczdzMjA/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -66,7 +77,7 @@
 			<img src="../../images/img-download/slavs_in_russ_thumb.jpg" class="img-float-left"/>
 			<p>
 			Размер 2127 х 2798</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DbVd0LVdoc1R5QXc/view?usp=sharing" class="btn btn-default img-float-left"
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DbVd0LVdoc1R5QXc/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>

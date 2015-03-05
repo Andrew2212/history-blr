@@ -166,6 +166,7 @@
 		
 		</br></br></br>
 		<p><small>
+		http://www.novayagazeta.ru/comments/66848.html</br>
 		be-x-old.wikipedia.org</br>
 		be.wikipedia.org</br>
 		pl.wikipedia.org</br>

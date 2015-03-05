@@ -5,7 +5,7 @@
           <h4>Топонимы</h4>
 
         <li>
-          <a href="wilno.php" class="item-edit">Вильно</a>
+          <a href="wilno.php">Вильно</a>
         </li>
         <li>
           <a href="wostra_brama.php" class="item-edit">Вострая Брама</a>

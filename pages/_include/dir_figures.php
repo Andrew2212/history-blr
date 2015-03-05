@@ -41,7 +41,7 @@
           <a href="gusowsky.php" class="item-edit">Гусовский Николай, поэт раннего Ренессанса</a>
         </li>
         <li>
-          <a href="gonsewsky.php" class="item-edit">Александр Корвин Гонсевский, комендант Кремля, 1610и</a>
+          <a href="gonsewsky.php" class="item-edit">Александр Корвин Гонсевский, комендант Кремля, 1610</a>
         </li>
         <li>
           <a href="david.php" class="item-edit">Давид Городенский</a>

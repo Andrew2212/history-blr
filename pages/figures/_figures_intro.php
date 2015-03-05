@@ -23,13 +23,14 @@
 		</p>
 		
 		<p>
-			Эти люди рождались, жили, творили, сражались и умирали на этой земле и за эту землю.
+			Эти люди рождались, жили, творили, сражались и умирали на <a href="../download/blr_people.php">этой земле</a> и за эту землю.
 			</br>Они достойны того, чтобы их помнили
-			</br>Среди них были <a href="radziwill_cherny.php">воины</a> и <a href="mickiewicz.php">поэты</a>, 
+			</br>Среди них были <a href="hodkewich.php">воины</a> и <a href="mickiewicz.php">поэты</a>, 
 			<a href="malewicz.php">художники</a> и <a href="konenkow.php">скульпторы</a>, 
 			<a href="narkewicz.php">ученые</a> и <a href="przewalskij.php">путешественники</a>, 
 			 <a href="skosyrew.php">авантюристы</a> и <a href="../terms/filomaty.php">интеллектуалы-романтики</a>, 
-			 <a href="sudzilowskij.php">президент Гавайев</a> и <a href="simienowicz.php">основоположник ракетостроения</a>. 
+			 <a href="sudzilowskij.php">президент Гавайев</a> и <a href="simienowicz.php">основоположник ракетостроения</a>,
+			  первый <a href="ryllo.php">исследователь древнего Вавилона</a> и <a href="kunciewicz.php">святой апостол</a> церковного единения. 
 		</p>
 		<p>
 			Многие из них жили, когда слова <i>белорус</i> еще не было. Как не было слов <i>русский, литовец, украинец</i>. Эти термины возникли не так давно, и никогда
