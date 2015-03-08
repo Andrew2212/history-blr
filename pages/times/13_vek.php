@@ -37,7 +37,17 @@
 <p>
 Великое княжество Литовское (<a href="../terms/wkl.php">ВКЛ</a>), <a href="../terms/polotsk_principality.php">Полоцкое</a>, 
 <a href="../terms/turow_principality.php">Туровское</a>, Смоленское княжества •
-</br>• SUMMARY IS BEING PREPARED •
+</br>• В 1203 году северо-западные районы Полоцкого княжества впервые подверглись нападению немецких (ливонских) рыцарей-крестоносцев, основавших Ригу. 
+Вскоре ливонцы захватили полоцкие крепости Кукенойс и Герцике. К 1230 году владения Ливонского ордена уже граничили с Полоцким княжеством. 
+В результате Полоцк утратил контроль над важнейшим участком пути «из варяг в греки». А это, в свою очередь, ослабило его значение в транзитной торговле 
+между городами Балтийского и Черноморского регионов.
+</br>• Новый центр силы на белоруссих землях — княжество Литовское со столицей в Новогрудке. В 1219 году литовские князья — 
+"се старшии  Живинъбоуд  Довьят  Довспроункъ брат его Мидогъ … Роушьковичевъ  Кинтибоутъ …а се Боулевичи…" — заключают
+договор с Галицко-Волынским княжеством.
+</br>• В 1230-1240 Миндовг приглашен на княжение боярами Новогрудка. Начинается эпоха Великого княжества Литовского. С середины XIII века Полоцкое
+княжество входит в княжество Литовское. 
+</br>• Княжество Литовское начинает войну с Тевтонским Орденом за Самогитию, и с Ливонским Орденом за Ригу. Век заканчивается правлением князя Витеня.
+
 <!--Spoiler-->
 <!--http://forwebmaster.net/prostoy-spoyler-dlya-sayta-v-html/-->
 <div class="spoil">
@@ -93,7 +103,8 @@
 		
 		<h4><small>Люди</small></h4>
 		<p>
-		<a href="../figures/mindowg.php">Миндовг</a> • <a href="../figures/vyten.php">Витень</a> • <a href="../figures/shwarn.php">Шварн</a>
+		<a href="../figures/mindowg.php">Миндовг</a>, король пруссов и литвинов • В.князь<a href="../figures/shwarn.php"> Шварн</a>, из рода Галицких князей и королей •
+		 В.князь<a href="../figures/vyten.php"> Витень</a> • 
 		</p>
 	 
 	 <h4></br>Соседи</h4>
@@ -133,8 +144,10 @@
 	
 	</br></br></br>
 		<p><small>
+		http://www.mogilev.by/histor/99720-polockoe-knyazhestvo.html</br>
 		http://www.istmira.com/istoriya-belarusi/216-xronologiya-vazhnejshix-sobytij-i-dat.html</br>
 		http://historybel.ru/obrazovanie_veikogol_knygestva_liovscogo.html</br>
+		http://litopys.org.ua/ipatlet/ipat31.htm</br>
 		http://www.78l.ru/data/files/istoriia/index.html</br>
 		http://school17.goroo-orsha.by/index.php/vis/item/86-b6</br>
 		http://www.allmonarchs.net/lithuania.html</br>

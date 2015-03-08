@@ -65,6 +65,9 @@
           <a href="war_1812.php" class="item-edit">Война 1812 года</a>
         </li>
         <li>
+          <a href="war_civil_1381-84_1389-92.php" class="item-edit">Гражданская война в ВКЛ 1381-84 и 1389-92. Витовт против Ягайло</a>
+        </li>
+        <li>
           <a href="war_civil_1432.php" class="item-edit">Война гражданская в ВКЛ 1432—1438</a>
         </li>
         <li>

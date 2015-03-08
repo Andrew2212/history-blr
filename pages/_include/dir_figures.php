@@ -125,6 +125,9 @@
           <a href="simienowicz.php" >Семенович Казимир, основопложник ракетостроения</a>
         </li>
         <li>
+          <a href="simeon.php" class="item-edit">Симеон Полоцкий</a>
+        </li>
+        <li>
           <a href="skorina.php" class="item-edit">Скорина, литвин из Полоцка</a>
         </li>
 		<li>

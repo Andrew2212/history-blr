@@ -30,16 +30,12 @@
 		 Разделы Речи Посполитой •  
 		 Война за независимость США •  
 		 Начало колонизации Австралии европейцами •  
-		 Великая французская революция • 
-		 
-		 
-		 
-		 
-		
+		 Великая французская революция • 		
 		</p>
 		
 	<h4></br><a href="../terms/belarus.php">Беларусь</a></br>
-	<small><a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_18century.php">карты</a>
+	<small>государственный язык — польский, латинский</br>
+	<a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_18century.php">карты</a>
 	, <a href="../terms/religion_blr.php">религия</a></small>
 	</h4>
 

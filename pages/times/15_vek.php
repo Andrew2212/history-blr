@@ -35,7 +35,8 @@
 		</p>
 		
 	<h4></br><a href="../terms/belarus.php">Беларусь</a></br>
-	<small><a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_15century.php">карты</a>
+	<small>государственный язык — <a href="../terms/blr_mova.php">старобелорусский</a></br>
+	<a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_15century.php">карты</a>
 	, <a href="../terms/religion_blr.php">религия</a></small>
 	</h4>
 

@@ -166,6 +166,7 @@
 		
 		</br></br></br>
 		<p><small>
+		http://secret-r.net/arkhiv-publikatsij/8-2008/vozvrashchenie-ordy</br>
 		http://www.novayagazeta.ru/comments/66848.html</br>
 		be-x-old.wikipedia.org</br>
 		be.wikipedia.org</br>

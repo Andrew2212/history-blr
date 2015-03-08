@@ -5,19 +5,19 @@
           <h4>Время</h4>
 
         <li>
-          <a href="10_vek.php" class="item-link">X век</a>
+          <a href="10_vek.php">X век</a>
         </li>
         <li>
-          <a href="11_vek.php" class="item-link">XI век</a>
+          <a href="11_vek.php" >XI век</a>
         </li>
         <li>
-          <a href="12_vek.php" class="item-link">XII век</a>
+          <a href="12_vek.php" >XII век</a>
         </li>
         <li>
-          <a href="13_vek.php" class="item-link">XIII век</a>
+          <a href="13_vek.php">XIII век</a>
         </li>
         <li>
-          <a href="14_vek.php" class="item-link">XIV век</a>
+          <a href="14_vek.php">XIV век</a>
         </li>
         <li>
           <a href="15_vek.php" >XV век</a>

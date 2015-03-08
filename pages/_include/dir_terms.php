@@ -41,6 +41,9 @@
           <a href="dwina_stouns.php" class="item-edit">Двинские (Борисовы) камни</a>
         </li>
         <li>
+          <a href="tur_evangelie.php" class="item-edit">Евангелие туровское, XI век</a>
+        </li>
+        <li>
           <a href="zemiane.php">Земяне и панцирные бояре</a>
         </li>
         <li>
@@ -75,6 +78,9 @@
         </li>
         <li>
           <a href="blr_flag.php">Национальный флаг Беларуси</a>
+        </li>
+        <li>
+          <a href="blr_mova.php">Национальный язык Беларуси</a>
         </li>
         <li>
           <a href="polotsk_principality.php" class="item-edit">Полоцкое княжество</a>

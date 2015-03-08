@@ -38,7 +38,16 @@
 	
 <p>
 <a href="../terms/polotsk_principality.php">Полоцкое</a>, <a href="../terms/turow_principality.php">Туровское</a>, Смоленское княжества • 
-</br>• SUMMARY IS BEING PREPARED •
+</br>• После смерти Всеслава Чародея Полоцкое княжество 
+(охватывало примерно половину современной Беларуси и достигало берегов Рижского залива) было разделено на уделы между его сыновьями. 
+Междуусобные войны. Войны с Киевом.
+</br>• В 1129 году князь киевский Мстислав высылает в Византию шестерых захваченных Рогволодовичей. 
+ За время их отсутствия в Полоцке сильно возросла роль веча. Через 10 лет князья возвращаются, 
+но с этого времени князей в Полоцке выбирало вече.
+</br>• На территории Беларуси известно около 30 городов:
+ Полоцк, Витебск, Заславль, Туров, Усвят, Копысь, Минск, Орша, Друцк, Логойск, Лукомль, Брест, Пинск, Голотическ, 
+ Борисов, Браслав, Стрежев (Стреглав), Слуцк, Неколоч, Еменец, Одрск, Городец, Гродно, Клецк, Мядель, Кривич-Город, 
+ а также вассальные города-крепости в нижнем Подвинье Герцике, Кукенойс и др. (ныне территория Латвии). 
 <!--Spoiler-->
 <!--http://forwebmaster.net/prostoy-spoyler-dlya-sayta-v-html/-->
 <div class="spoil">
@@ -126,6 +135,9 @@
 	
 	</br></br></br>
 		<p><small>
+		http://www.mogilev.by/histor/99720-polockoe-knyazhestvo.html</br>
+		http://samlib.ru/e/rogatina/lutizi.shtml
+		http://coollib.com/b/277966/read</br>
 		http://www.istmira.com/istoriya-belarusi/216-xronologiya-vazhnejshix-sobytij-i-dat.html</br>
 		http://historybel.ru/obrazovanie_veikogol_knygestva_liovscogo.html</br>
 		http://www.78l.ru/data/files/istoriia/index.html</br>
