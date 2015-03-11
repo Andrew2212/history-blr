@@ -74,7 +74,7 @@
           <a href="blr_gerb.php" class="item-edit">Национальный герб Беларуси</a>
         </li>
         <li>
-          <a href="blr_hymn.php" class="item-edit">Национальный гимн Беларуси</a>
+          <a href="blr_hymn.php">Национальный гимн Беларуси</a>
         </li>
         <li>
           <a href="blr_flag.php">Национальный флаг Беларуси</a>

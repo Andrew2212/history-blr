@@ -13,6 +13,9 @@
         <li>
           <a href="bulak.php" class="item-edit">Булак-Балахович</a>
         </li>
+        <li>
+          <a href="batory.php" class="item-edit">Великий князь Литовский Стефан Баторий</a>
+        </li>
 		<li>
           <a href="vitovt.php" class="item-edit">Великий князь Литовский Витовт</a>
         </li>
@@ -30,6 +33,9 @@
         </li>
         <li>
           <a href="shwarn.php" class="item-edit">Великий князь Литовский Шварн</a>
+        </li>
+        <li>
+          <a href="jagiello.php" class="item-edit">Великий князь Литовский Ягайло</a>
         </li>
         <li>
           <a href="volovicz.php" class="item-edit">Волович Евстафий,  епископ виленский, меценат и библиофил</a>
@@ -156,9 +162,6 @@
         </li>
 		<li>
           <a href="jagellony.php" class="item-edit">Ягеллоны</a>
-        </li>
-		<li>
-          <a href="jagiello.php" class="item-edit">Ягайло</a>
         </li>
 		<li>
           <a href="#" class="item-unable">Some link</a>

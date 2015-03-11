@@ -130,6 +130,7 @@
 		
 		</br></br></br>
 		<p><small>
+		http://maksim-l.livejournal.com/43324.html</br>
 		http://magazines.russ.ru/slo/2001/1/mv4-pr.html</br>
 		http://www.istmira.com/istoriya-belarusi/216-xronologiya-vazhnejshix-sobytij-i-dat.html</br>
 		https://sites.google.com/site/opowiadaniadomowe/tomik-wiersz---my-z-wilna</br>
