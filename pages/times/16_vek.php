@@ -19,7 +19,7 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 
-	<h3>XVI век</h4>
+	<h3>XVI век</h3>
 
 	 <h4>Европа</h4>
 		<p>

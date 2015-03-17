@@ -71,7 +71,7 @@
           <a href="myths.php" class="item-edit">Мифы про историю</a>
         </li>
         <li>
-          <a href="blr_gerb.php" class="item-edit">Национальный герб Беларуси</a>
+          <a href="blr_gerb.php">Национальный герб Беларуси</a>
         </li>
         <li>
           <a href="blr_hymn.php">Национальный гимн Беларуси</a>

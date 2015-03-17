@@ -5,7 +5,7 @@
           <h4>Статьи</h4>
 
         <li>
-          <a target="_blank" href="http://nn.by/?c=ar&i=125014&lang=ru">Откровения националиста [nn.by Лучшее за 2014 г.]</a>
+          <a href="blr_nationalist.php">Откровения националиста</a>
         </li>
         <li>
           <a href="nation_id.php">Национальная идентификация</a>
@@ -14,7 +14,7 @@
           <a target="_blank" href="http://www.charter97.org/ru/news/2013/9/18/75920/">Белорусоцентристский взгляд на историю</a>
         </li>
         <li>
-          <a href="rus_mir.php">МГУ им. Ломоносова: <i>— "Никакой белорусской традиции нет"</i></a>
+          <a href="rus_mir.php">Русский Мир: <i>— "Никакой белорусской традиции нет"</i></a>
         </li>
         <li>
           <a href="bnr_article.php">Могла ли БНР удержаться?</a>
