@@ -14,28 +14,31 @@
           <a href="bulak.php" class="item-edit">Булак-Балахович</a>
         </li>
         <li>
-          <a href="batory.php" class="item-edit">Великий князь Литовский Стефан Баторий</a>
-        </li>
-		<li>
-          <a href="vitovt.php" class="item-edit">Великий князь Литовский Витовт</a>
+          <a href="mindowg.php" class="item-edit">В. кн. Миндовг (1248-1263)</a>
         </li>
         <li>
-          <a href="gedimin.php" class="item-edit">Великий князь Литовский Гедимин</a>
+          <a href="shwarn.php" class="item-edit">В. кн. Шварн (1267-1269))</a>
         </li>
         <li>
-          <a href="mindowg.php" class="item-edit">Великий князь Литовский Миндовг</a>
+          <a href="vyten.php" class="item-edit">В. кн. Витень (1295 — 1316)</a>
         </li>
         <li>
-          <a href="olgerd.php" class="item-edit">Великий князь Литовский Ольгерд</a>
+          <a href="gedimin.php" class="item-edit">В. кн. Гедимин (1316-1341)</a>
         </li>
         <li>
-          <a href="svidrigailo.php" class="item-edit">Великий князь Литовский Свдригайло</a>
+          <a href="olgerd.php" class="item-edit">В. кн. Ольгерд (1345-1377)</a>
         </li>
         <li>
-          <a href="shwarn.php" class="item-edit">Великий князь Литовский Шварн</a>
+          <a href="jagiello.php" class="item-edit">В. кн. Ягайло (1377-1381)</a>
         </li>
         <li>
-          <a href="jagiello.php" class="item-edit">Великий князь Литовский Ягайло</a>
+          <a href="vitovt.php" class="item-edit">В. кн. Витовт (1392-1430)</a>
+        </li>
+        <li>
+          <a href="svidrigailo.php" class="item-edit">В. кн. Свидригайло (1430-1432)</a>
+        </li>
+        <li>
+          <a href="batory.php" class="item-edit">В. кн. Стефан Баторий (1575-1586)</a>
         </li>
         <li>
           <a href="volovicz.php" class="item-edit">Волович Евстафий,  епископ виленский, меценат и библиофил</a>
@@ -47,7 +50,7 @@
           <a href="gusowsky.php" class="item-edit">Гусовский Николай, поэт раннего Ренессанса</a>
         </li>
         <li>
-          <a href="gonsewsky.php" class="item-edit">Александр Корвин Гонсевский, комендант Кремля, 1610</a>
+          <a href="gonsewsky.php" class="item-edit">Гонсевский Александр Корвин, комендант Кремля, 1610</a>
         </li>
         <li>
           <a href="david.php" class="item-edit">Давид Городенский</a>
@@ -70,14 +73,11 @@
         <li>
           <a href="kostiushko.php" class="item-edit">Костюшко Тадеуш, национальный герой США</a>
         </li>
-		<li>
-          <a href="konashewicz.php" class="item-edit">Конашевич-Сагайдачный, гетман Войска Запорожского</a>
+        <li>
+          <a href="konenkow.php" class="item-edit">Коненков С. Т., скульптор</a>
         </li>
         <li>
-          <a href="#" class="item-unable">Коненков С. Т., скульптор</a>
-        </li>
-        <li>
-          <a href="kunciewicz.php" class="item-edit">Иософат Кунцевич, архиепископ Полоцкий</a>
+          <a href="kunciewicz.php" class="item-edit">Кунцевич Иософат, архиепископ Полоцкий</a>
         </li>
         <li>
           <a href="lisowsky.php" class="item-edit">Лисовский-Янович А. Ю., полковник "лисовчиков", 1608-1616</a>
@@ -122,7 +122,10 @@
           <a href="rejtan.php" class="item-edit">Рейтан Тадеуш, Дон Кихот Речи Посполитой</a>
         </li>
         <li>
-          <a href="rogvolod_rogneda.php" class="item-edit">Рогволод и Рогнеда</a>
+          <a href="ryllo.php" class="item-edit">Рылло Максимилиан, первый исследователь древнего Вавилона</a>
+        </li>
+        <li>
+          <a href="rogvolod_rogneda.php" class="item-edit">Рогволод и Рогнеда. Рогволодовичи</a>
         </li>
         <li>
           <a href="sapega.php" class="item-edit">Сапега Лев Иванович</a>
@@ -140,7 +143,7 @@
           <a href="skosyrew.php" class="item-edit">Скосырев Б. М., король Андорры</a>
         </li>
         <li>
-          <a href="sudzilowskij.php" class="item-edit">Судзиловский Н. К., президент сената Территории Гавайи</a>
+          <a href="sudzilowskij.php" class="item-edit">Судзиловский Н. К., первый Президент сената Территории Гавайи</a>
         </li>
         <li>
           <a href="stankewicz.php" class="item-edit">Станкевич Ян, историк, основатель Великолитовского фонда им. Льва Сапеги</a>

@@ -18,26 +18,36 @@
     <div class="col-md-8">
 		<h3>Скосырев Борис Михайлович, король Андорры</h3>
 		<p>
-			Статья на 6000 знаков (с пробелами)</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
+			Статья в разработкке
+		</p>
+		<p>
+		Родился в семье Михаила Михайловича Скосырева и его жены Елизаветы Дмитриевны Скосыревой (урожденная Маврос, в 1-м браке Симонич).[2]
+		</p>
+		<p>
+		Отец на 1917 год был земским начальником 7-го участка Лидского уезда Виленской губернии.[3] Известно, что во время Первой мировой войны Скосырев был прикомандирован к британскому бронедивизиону, действовавшему на русском фронте, что в 1924 году было подтверждено командиром дивизиона Оливером Локер-Лэмпсоном (Oliver Locker-Lampson).
+		</p>
+		<p>
+		Затем находился в Великобритании и, по его словам, выполнял ряд секретных поручений британского правительства.
+		</p>
+		<p>
+		К 1923 году Скосырев имел нидерландское подданство, известно, что в 1923 году ему был выдан паспорт № 85154 голландским консульством в Дижоне.
+		</p>
+		<p>
+		В 1930-х годах в Каталонии и Андорре Скосырев называл себя графом Оранским (фр. comte d'Orange), что было вымыслом.
+		</p>
+		<p>
+		В 1932 году был выслан с Балеарских островов (Испания).
+		</p>
+		<p>		
+		В 1933 году в первый раз посещает Андорру и  получает местное подданство. Учитывая сложность внутренней обстановки (сохранение феодальных пережитков, отрезанность от внешнего мира, статус миниатюрного княжества как совладения епископа Урхельского и президента Франции), он решает извлечь из неё личную выгоду. Первоначально он представляет Генеральному Совету план осуществления реформ по превращению Андорры в зону с благоприятным фискальным режимом (по примеру других малых государств Европы). Проект был отвергнут из-за опасений нарушений патриархального образа жизни. В июне 1934 Скосырев выслан из Андорры.
+		</p>
+		<p>		
+		Через месяц он возвращается (формально - нелегально) в страну и 7 июля 1934 года повторно обращается к Генеральному Совету, предлагая также принять себя в качестве короля Андорры. На этот раз большинство членов Совета его поддерживают. Скосырев объявляет себя сувереном Андорры Борисом I (на основании того, что к президентам Франции якобы никогда не переходило королевское право суверенитета над Андоррой, и Борис исполняет именно функцию регента французского короля). 
+		</br>Он пишет конституцию страны, которую печатает в местном информационном вестнике, а сотни экземпляров распространяет в виде листовок. Конституция вышла короткой - 17 пунктов, её суть сводилась к защите прав коренного населения, заботу о котором берёт на себя монарх. На эту роль Скосырев предложил себя. 8 июля Генеральный совет утвердил реформы Скосырева и признал его королём независимой Андорры.
+		</p>
+		<p>		
+		Как Борис I, обосновавшись сперва в Андорре-ла-Велье, а затем в близлежащем городке Сольдеу, он в течение нескольких дней правит, издавая весьма либеральные и прогрессивные, для своего времени, указы. Однако, хотя епископ Урхельский вначале в целом благосклонно отнёсся к новоявленной монархии, он недоброжелательно встретил идею превращения Андорры (по примеру Монако) в игорную зону. В итоге…
 
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		
-		
 		</p>
 		
 		</br></br></br>

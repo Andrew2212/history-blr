@@ -32,7 +32,6 @@
 		pl.wikipedia.org</br>
 		uk.wikipedia.org</br>
 		ru.wikipedia.org</br>
-		inbelhist.org/?p=4737
 		</small></p>
 	</div>
 	

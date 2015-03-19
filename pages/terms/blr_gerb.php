@@ -128,6 +128,7 @@
 		
 				</br></br></br>
 		<p><small>
+		http://tolstonogov.blog.tut.by/category/nasha-istoriya/vkl/page/2/
 		http://www.gerb.bel.ru/pages/strani/belorus_91_1.htm</br>
 		http://www.heraldicum.ru/belarus/gubernia.htm</br>
 		http://www.heraldicum.ru/lietuva/voevod.htm</br>
