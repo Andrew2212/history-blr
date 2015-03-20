@@ -17,7 +17,11 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Беларусь
-		</br><small><a href="../download/_download_intro.php">карты и документы</a></small>
+		</br><small>
+		<a href="blr_etnos.php">этнос</a>,
+		<a href="blr_mova.php">язык</a>,  
+		<a href="religion_blr.php">религия</a>, 
+		<a href="../download/_download_intro.php">карты и документы</a></small>
 		</h3>
 		
 		<div class="col-md-12 img-float-center" >
@@ -60,7 +64,8 @@
 		<p>
 			 В XIII веке на северо-западе белорусских земель возникает <a href="wkl.php">княжество Литовское</a>, со столицей в Новогрудке 
 			 (позже перенесенной в <a href="../places/wilno.php">Вильно</a>).
-			 Княжеская династия Рогволодовичей, правившая в Полоцке, согласно "Воскресенской летописи", дала начало династии Гедыминовичей, правившей в ВКЛ.
+			 Княжеская династия <a href="../figures/rogvolod_rogneda.php">Рогволодовичей</a>, правившая в Полоцке, согласно "Воскресенской летописи", 
+			 <a target="_blank" href="../../images/img-terms/belarus/kirkor_litwa_duces.jpg">дала начало</a> династии Гедыминовичей, правившей в ВКЛ.
 			 </br>В 1323 году Гедымин, Gedeminne Dei gratia Letphanorum Ruthenorumque rex, обращается к Папе Римскому Иоанну XXII, и западные белорусские 
 			 земли принимают католичество. 			 				  			
 		</p>

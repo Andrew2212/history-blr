@@ -18,27 +18,64 @@
     <div class="col-md-8">
 		<h3>Коссово</h3>
 		<p>
-			Статья на 6000 знаков (с пробелами)</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		
-		
+			Коссово - город в Ивацевичском районе Брестской области Белоруссии в 15 км от Ивацевичей.
 		</p>
+		<p>
+			Поселение на месте современного Коссова существовало с X-XII века. Первое письменное упоминание города относится к 1494 году в привелее великого князя Литовского Александра, подарившего Коссово маршалку И. Хрептовичу
+		</p>
+		<p>
+		З 1510 г. мястэчка, цэнтр павета, з 1560 г. у складзе Слонімскага павета. З 1517 г. да 19 ст. належала Осцікам, Сангушкам, Мелешкам, Сапегам, Флемінгам, Чартарыйскім, Пуслоўскім. У 1597 г. тут налічвалася 79 двароў, 2 вуліцы, 27 корчмаў, шынок, царква, касцёл (з 1526 г.).
+		</p>
+		<p>
+		З 1795 г. Косава ў складзе Расійскай імперыі — мястэчка Слонімскага павета Слонімскай, з 1797 г. Літоўскай, з 1801 г. Гродзенскай губерняў. 
+		</br>У 1897 г. у Косаве было 4143 жыхара, налічвалася 431 хата, дзейнічалі народнае вучылішча, суконныя фабрыкі, гарбарня, 2 цэркві, касцёл, капліца, пошта, 58 гандлёвых крам, праводзілася па 8 кірмашоў у год.
+		</p>
+		<p>
+			Дворец Пусловских (Коссовский замок) и окружающий его парк был заложен в 1838 году по проекту архитектора Ф. Ящолда. В строительстве дворца принимал участие В. Маркони. Во дворце было устроено 132 комнаты. Каждая из 12 башен замка символизирует месяц года. Наиболее урожайные-центральные четыре башни-это хлебные месяцы года: май, июнь, июль и август. Замок выстроен так, что каждый год два с половиной дня солнце освещает полностью одну комнату. Система внутренних проходов и окон позволяет проникать солнечным лучам в каждый уголок замка. По легендам, в "день комнаты" ее убирали, наряжали и радовались солнечному дню именно в ней.
+		</p>
+		<p>
+			Напротив дворца на берегу озера расположен дом-музей <a href="../figures/kostiushko.php">Тадеуша Костюшко</a>.
+		</p>
+		<p>
+			Анджей Тадеуш Бонавентура Костюшко ( 4 февраля 1746, Меречевщина /урочище 1,5 км от Коссово/, ВКЛ - 15 октября 1817, Швейцария) - военный и политический деятель Речи Посполитой и США, участник Войны за независимость США, организатор восстания 1794 года, национальный герой Польши, Беларуси, США и Литвы, почётный гражданин Франции.
+
+		</p>
+		
+		
+		<div class="col-md-12" >
+		<div class="col-md-3 img-float-center">
+		<a target="_blank" href="../../images/img-places/kossovo/kosovo_palac.jpg">
+		<img src="../../images/img-places/kossovo/kosovo_palac_thumb.jpg" height="120">
+		</br>Коссовский замок 	
+		</a>
+		</div>
+		
+		<div class="col-md-6 img-float-center">
+		<a target="_blank" href="../../images/img-places/kossovo/kossovo_orda.jpg">
+		<img src="../../images/img-places/kossovo/kossovo_orda_thumb.jpg" height="120">
+		</br>Рисунок Н. Орды.
+		</br>Коссовский замок и усадьба Костюшко	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a target="_blank" href="../../images/img-places/kossovo/kossovo_kostiushko.jpg">
+		<img src="../../images/img-places/kossovo/kossovo_kostiushko_thumb.jpg" height="120">
+		</br>Усадьба Костюшко	 	
+		</a>
+		</div>
+		
+	</div>
+	
+	</br></br></br>
+		<p><small>
+		be-x-old.wikipedia.org</br>
+		be.wikipedia.org</br>
+		pl.wikipedia.org</br>
+		uk.wikipedia.org</br>
+		ru.wikipedia.org</br>
+		</small></p>
+		
 	</div>
 	
 	<!-- ***Sidebar Right*** -->

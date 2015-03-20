@@ -18,26 +18,29 @@
     <div class="col-md-8">
 		<h3>Ян Станкевич</h3>
 		<p>
-			Статья на 6000 знаков (с пробелами)</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
+			Статья в разработке
+		</p>
+		<p>
+		Ян (Янка) Станкевіч (26 лістапада 1891, в. Арляняты, Ашмянскі павет - 16 ліпеня 1976; Псеўданімы: Брачыслаў Скарыніч) - беларускі мовазнавец, гісторык, палітычны дзеяч. Доктар славянскай гісторыі і філалогіі (1926).
+		</p>
+		<p>
+		У 1-ю сусветную вайну ў дзеючай расійскай арміі. Удзельнік з'езда беларускіх нацыянальных арганізацый у Мінску (сакавік 1917), з'езда настаўнікаў Мінскай губерніі (май 1917). З снежня 1917 у Вільні, удзельнік стварэння Беларускага навуковага таварыства, у студзені 1918 абраны ў склад Віленскай беларускай рады, удзельнічаў у сесіі Рады БНР у Мінску (24-25.3.1918). У лістападзе 1918 кааптаваны ў склад Літоўскай Тарыбы. Пасля прыходу ў Вільню Чырвонай Арміі працаваў у літаратурна-выдавецкім аддзеле Наркамасветы Літоўска-Беларускай ССР, загадваў беларускім выдавецтвам "Веда". У час польска-савецкай вайны 1919-1920 гадоў член Цэнтральнай беларускай рады Віленшчыны і Гродзеншчыны, прэзідыума Беларускай цэнтральнай школьнай рады.
+		</p>
+		<p>
+		Скончыў Віленскую беларускую гімназію (1921), Карлаў універсітэт у Празе (1926). Доктар славянскай філалогіі і гісторыі (1926). Працаваў выкладчыкам беларускай мовы ў Варшаўскім універсітэце (1928-1932) і Універсітэце Стэфана Баторыя ў Вільні (1927-1940). Друкаваўся ў часопісе "Крывіч", заходнебеларускіх выданнях.
+		</p>
+		<p>
+		Я. Станкевіч быў паслом Сейму Польшчы (1928-1930). Як палітык з'яўляўся прыхільнікам польска-беларускага збліжэння, за што яго не раз крытыкавалі беларускія групоўкі.
+		</p>
+		<p>
+		У 1940 Янка Станкевіч выехаў у Варшаву, дзе далучыўся да дзейнасці Беларускага камітэта. Я. Станкевіч супрацоўнічаў з В. Іваноўскім, наладзіў кантакты з польскім антыфашысцкім падполлем, стварыў канспірацыйную групу пад назвай Партыя беларускіх нацыяналістаў (ПБН). Стратэгічнай мэтай гэтай дзейнасці з'яўлялася адбудова беларускай дзяржаўнасці ў апоры на Польшчу.
+		</p>
+		<p>
+		З восені 1941 Я. Станкевіч жыў у Менску, куды перамясціўся і ЦК ПБН, нядоўга працаваў у школьным аддзеле Мінскай управы. Станкевіч быў членам Беларускай народнай самапомачы, Беларускай незалежніцкай партыі, навуковага аддзела Беларускай цэнтральнай рады, адным з заснавальнікаў Беларускага навуковага таварыства. Выкладаў гісторыю Беларусі ў падафіцэрскай школе паліцыі ў Мінску.
+		</p>
+		<p>
+		З 1944 Я. Станкевіч апынуўся на эміграцыі. У Германіі ён аднавіў дзейнасць Беларускага навуковага таварыства. З 1949 Я. Станкевіч жыў у ЗША, удзельнічаў у працы Беларуска-амерыканскага задзіночання, Беларуска-амерыканскага звязу, выдаваў часопіс "Веда", "Незалежнік", супрацоўнічаў з Беларускім інстытутам навукі і мастацтва і яго выданнем "Запісы", часопісам "Сяўбіт", газетай "Бацькаўшчына" (Мюнхен), "Беларус" (Нью-Ёрк) і інш. Заснавальнік (разам са С. Станкевічам) Вялікалітоўскага фонду імя Л. Сапегі.
 
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		
-		
 		</p>
 		
 		</br></br></br>

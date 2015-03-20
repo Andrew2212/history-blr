@@ -19,8 +19,22 @@
 		<h3>Гродно</h3>
 		<p>
 			Статья в разработке
-		
 		</p>
+		
+		<p class="img-float-center">
+		<img src="../../images/img-places/grodno/garodnia-1601.jpg" >
+		</br><small>Гродно 1601г., Pavel Tatarnikov</small>	
+		</p>
+		
+		</br></br></br>
+		<p><small>
+		be-x-old.wikipedia.org</br>
+		be.wikipedia.org</br>
+		pl.wikipedia.org</br>
+		uk.wikipedia.org</br>
+		ru.wikipedia.org</br>
+		</small></p>
+		
 	</div>
 	
 	<!-- ***Sidebar Right*** -->

@@ -22,11 +22,7 @@
 		<p>
 		<h4>Попытка обменять историю на колбасу, 1995 г.</h4>
 		Context		
-		</p>
-		
-		<p class="img-float-left">
-		<img src="../../images/img-events/#.jpg"/>
-		</p>
+		</p>				
 	</div>	
 	
 	<div class="col-md-12">
@@ -34,20 +30,12 @@
 		<h4>Попытка вернуть национальные символы, 2010 г.</h4>
 		Context		
 		</p>
-		
-		<p class="img-float-left">
-		<img src="../../images/img-events/#.jpg"/>
-		</p>
 	</div>
 	
 	<div class="col-md-12">
 		<p>
-		<h4>Попытка отметить 500-летие БИтвы под Оршей, 2014 г.</h4>
+		<h4>Попытка отметить 500-летие Битвы под Оршей, 2014 г.</h4>
 		Context		
-		</p>
-		
-		<p class="img-float-left">
-		<img src="../../images/img-events/#.jpg"/>
 		</p>
 	</div>
 	

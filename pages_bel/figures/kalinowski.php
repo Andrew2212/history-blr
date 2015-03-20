@@ -16,29 +16,60 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Кастусь Калиновский</h3>
+		<h3>Кастусь (Винцент Константин) Калиновский</h3>
 		<p>
-			Статья на 6000 знаков (с пробелами)</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		
-		
+			Статья в разработке
 		</p>
+		<p>
+		Лидер национально-освободительного восстания в Беларуси и Литве родился 2 февраля 1838 года.
+		</p>
+		<p>
+Отцом Кастуся Калиновского был безземельный шляхтич из Гродно, владелец небольшой ткацкой мануфактуры Семён Калиновский. Мать, Вероника Рыбинская, умерла, когда сыну было 5 лет.
+		</p>
+		<p>
+Будущий лидер повстанцев родился в имении Мостовляны на Гродненщине 1 февраля 1838 года.
+		</p>
+		<p>
+В 1856-1860 годах, после окончания Свислочской гимназии, он учился на юридическом факультете Петербургского университета. В студенческие годы вместе со старшим братом Виктором активно участвовал в деятельности студенческих землячеств и в революционных кружках.
+		</p>
+		<p>
+Сразу после возвращения на родину в 1861 году, Калиновский вместе со своими соратниками создал революционные кружки в Гродненской и Виленской губерниях, вошедшие в единую конспиративную организацию.
+		</p>
+		<p>
+В 1862 он стал во главе руководившего этой организацией Комитета движения, который позже стал Литовским провинциальным комитетом восстания.
+		</p>
+		<p>
+В 1862-1863 руководил изданием и распространением "Мужыцкай праўды" - первой нелегальной революционной газеты на белорусском языке.
+		</p>
+		<p>
+Возглавив в 1863 восстание против российских властей в Беларуси и Литве, Калиновский выступил за широкое вовлечение в борьбу крестьян, за распространение восстания на восток и на север - на территорию России.
+		</p>
+		<p>
+При том, что он считал необходимым тесный союз с повстанцами в Польше, Калиновский последовательно призывал к независимости Литвы-Беларуси. "Константин Калиновский с настроением герценовской школы во главе честолюбивейших личностей из красных литвинов настойчиво проводил идею о самостоятельности Литвы", - писали о нем в донесениях виленскому генерал-губернатору.
+		</p>
+		<p>
+В условиях жестоких действий правительственных сил, находясь в глубоком подполье, Калиновский руководил повстанцами до своего ареста в конце января 1864 года.
+		</p>
+		<p>
+Приговорённый к смерти, Калиновский продолжал борьбу, обращаясь к народу с "Лістамi з-пад шыбеніцы".
+		</p>
+		<p>
+В них он призывал не признавать российскую власть и воевать "за своего Бога, за своё право, … за свою Родину".
+		</p>
+		<p>
+Кастуся Калиновского казнили в Вильно в 1864 году.
+		</p>
+		
+		</br></br></br>
+		<p><small>
+		http://charter97.org/ru/news/2015/2/2/137856/</br>
+		be-x-old.wikipedia.org</br>
+		be.wikipedia.org</br>
+		pl.wikipedia.org</br>
+		uk.wikipedia.org</br>
+		ru.wikipedia.org</br>
+		</small></p>
+		
 	</div>
 	
 	<!-- ***Sidebar Right*** -->

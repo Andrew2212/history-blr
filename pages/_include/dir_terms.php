@@ -68,9 +68,6 @@
           <a href="magdeburg_law.php" class="item-edit">Магдебургское право</a>
         </li>
         <li>
-          <a href="myths.php" class="item-edit">Мифы про историю</a>
-        </li>
-        <li>
           <a href="blr_gerb.php">Национальный герб Беларуси</a>
         </li>
         <li>
@@ -86,7 +83,7 @@
           <a href="polotsk_principality.php" class="item-edit">Полоцкое княжество</a>
         </li>
         <li>
-          <a href="blr_gerb.php" class="item-edit">Погоня</a>
+          <a href="blr_gerb.php">Погоня</a>
         </li>
         <li>
           <a href="religion_blr.php">Религия на белорусских землях</a>
@@ -96,9 +93,6 @@
         </li>
 		<li>
           <a href="rzeczpospolita_treh_narodov.php">Речь Посполитая Трех Народов</a>
-        </li>
-		<li>
-          <a href="rb.php" class="item-edit">Республика Беларусь</a>
         </li>
         <li>
           <a href="ross_empire.php">Российская империя</a>

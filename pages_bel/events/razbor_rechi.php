@@ -16,18 +16,20 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Разделы Речи Посполитой 1772-1795 года</h3>
-		
-		<p class="img-float-left">
-			<img src="../../images/img-events/razbor_rechi.jpg"/>
-		</p>
+		<h3>Разделы Речи Посполитой 1772-1795 гг.</h3>
 		
 		<p>
-			Context		
+			Статья в разработке		
+		</p>
+		<p>
+		Разделы Речи Посполитой — раздел территории польско-литовского государства между Прусским королевством, Российской империей и Австрийской монархией в конце XVIII века (1772-1795)
 		</p>
 		
 		<p class="img-float-center">
-			<img src="../../images/img-events/razbor_rechi/razbor_rechi_new.jpg"/>
+		<a target="_blank" href="../../images/img-events/razbor_rechi/razbor_rechi_new.jpg">
+			<img src="../../images/img-events/razbor_rechi/razbor_rechi_new.jpg" height="300"/>
+			</br><small>Разделы Речи Посполитой</small>
+		</a>
 		</p>
 		
 		</br></br></br>

@@ -9,8 +9,8 @@
 			<small><a href="wostra_brama.php">Вострая Брама</a></small></br></br>
 	   </p>
 	   <p>
-			<img src="../../images/img-places/orsha_field.jpg" class="img-right-120"/></br>
-			<small><a href="krapiwen_field.php">Крапивенское поле</a></small></br></br>
+			<img src="../../images/img-places/krevo_thumb.jpg" class="img-right-120"/></br>
+			<small><a href="krevo.php">Крево</a></small></br></br>
 	   </p>
 	   <p>
 			<img src="../../images/img-places/kossovo.jpg" class="img-right-120"/></br>

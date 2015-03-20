@@ -29,7 +29,7 @@
 			<a href="malewicz.php">художники</a> и <a href="konenkow.php">скульпторы</a>, 
 			<a href="narkewicz.php">ученые</a> и <a href="przewalskij.php">путешественники</a>, 
 			 <a href="skosyrew.php">авантюристы</a> и <a href="../terms/filomaty.php">интеллектуалы-романтики</a>, 
-			 <a href="sudzilowskij.php">президент Гавайев</a> и <a href="simienowicz.php">основоположник ракетостроения</a>,
+			 первый<a href="sudzilowskij.php"> Президент Гавайев</a> и <a href="simienowicz.php">основоположник ракетостроения</a>,
 			  первый <a href="ryllo.php">исследователь древнего Вавилона</a> и <a href="kunciewicz.php">святой апостол</a> церковного единения. 
 		</p>
 		<p>

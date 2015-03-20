@@ -19,12 +19,34 @@
 		<h3>Великая Северная война 1700-1721</h3>
 		
 		<p>
-		Context		
+		Статья в разработке		
+		</p>
+		<p>
+		Северная война (Великая Северная война, Двадцатилетняя война) - война, длившаяся с 1700 по 1721 год между Шведской империей и коалицией северо-европейских государств за обладание прибалтийскими землями и закончившаяся поражением Швеции. 
+		</p>
+		<p>
+		Первоначально войну Швеции объявил Северный союз (заключен между Русским царством, Речью Посполитой, Данией и Саксонией). С окончанием войны в Европе возникла новая  империя - Российская.	
 		</p>
 		
-		<p class="img-float-left">
-		<img src="../../images/img-events/#"/>
-		</p>
+		<div class="col-md-12" >
+		
+		<div class="col-md-4 img-float-center">
+		<a target="_blank" href="../../images/img-events/war_great_north/war_timeline.jpg">
+		<img src="../../images/img-events/war_great_north/war_timeline_thumb.jpg" height="120">
+		</br>Участники Северной войны 	
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a target="_blank" href="../../images/img-events/war_great_north/nordic_war.jpg">
+		<img src="../../images/img-events/war_great_north/nordic_war_thumb.jpg" height="120">
+		</br>Карта военных действий 1700-1721 гг.	
+		</a>
+		</div>		
+		
+		</div>
+		
+		
 		
 		</br></br></br>
 		<p><small>

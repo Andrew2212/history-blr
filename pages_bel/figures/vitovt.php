@@ -18,27 +18,30 @@
     <div class="col-md-8">
 		<h3>Витовт</h3>
 		<p>
-			Статья на 6000 знаков (с пробелами)</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		
-		
+			Статья в разработке
 		</p>
+		<p>
+		Витовт (в крещении - Александр; около 1350 - 27 октября 1430) - Великий князь Литовский (1392-1430). 
+		</br>Внук Гедымина, сын Кейстута, племянник Ольгерда и двоюродный брат Ягайло. Князь гродненский в 1370-1382 годах, луцкий в 1387-1389 годах, трокский в 1382-1413 годах. Провозглашённый король гуситов. 
+		</br>Один из наиболее известных правителей Великого княжества Литовского, ещё при жизни прозванный Великим		
+		</p>
+		
+		<p class="img-float-center">
+		<a target="_blank" href="../../images/img-figures/vitovt/pechat_vitovt.jpg">
+		<img src="../../images/img-figures/vitovt/pechat_vitovt_thumb.jpg" height="120">
+		</br><small>Печать Витовта</small>	
+		</a>
+		</p>
+		
+	</br></br></br>
+		<p><small>
+		be-x-old.wikipedia.org</br>
+		be.wikipedia.org</br>
+		pl.wikipedia.org</br>
+		uk.wikipedia.org</br>
+		ru.wikipedia.org</br>
+		</small></p>
+			
 	</div>
 	
 	<!-- ***Sidebar Right*** -->

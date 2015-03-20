@@ -16,18 +16,37 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Литва</h3>
+		<h3>Литва (Litvaniae, Lithuania)</h3>
 		<p>
-			Some context
-		</p>
-		<p class="img-float-center">
-			<img src="../../images/img-places/litwa/map_litwa_14_century_by_historic_source.jpg"/>
+			Статья в разработке
 		</p>
 		
-		<p class="img-float-center">
-			<img src="../../images/img-places/litwa/Goroda VKL_Rus.jpg"/>
-		</p>
+	<div class="col-md-12" >
+		<div class="col-md-4 img-float-center">
+		<a target="_blank" href="../../images/img-places/litwa/map_litwa_14_century_by_historic_source.jpg">
+		<img src="../../images/img-places/litwa/map_litwa_14_century_by_historic_source_thumb.jpg" height="120">
+		</br>Литва по историческим источникам	
+		</a>
+		</div>
+		
 
+		<div class="col-md-4 img-float-center">
+		<a target="_blank" href="../../images/img-places/litwa/blr_catholic.jpg">
+		<img src="../../images/img-places/litwa/blr_catholic_thumb.jpg" height="120">
+		</br>Топонимичная Литва
+		</a>
+		</div>
+		
+
+		<div class="col-md-4 img-float-center">
+		<a target="_blank" href="../../images/img-places/litwa/goroda _wkl.jpg">
+		<img src="../../images/img-places/litwa/goroda _wkl_thumb.jpg" height="120">
+		</br>Магдебургское право в Литве	
+		</a>
+		</div>		
+	</div>
+		
+		
 		
 		
 		</br></br></br>

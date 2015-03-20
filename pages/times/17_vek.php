@@ -162,7 +162,9 @@
 		
 		<h4><small>События</small></h4>
 		<p>
-		<a href="../events/battle_kircholm.php">Битва при Кирхгольме</a> 1605 • <a href="../events/war_moscow_1610.php">Взятие Москвы</a> 1610-1612 •  
+		<a href="../events/battle_kircholm.php">Битва при Кирхгольме</a> 1605 • 
+		<a href="../events/battle_klushyn.php">Битва при Клушине</a> 1610 • 
+		<a href="../events/war_moscow_1610.php">Взятие Москвы</a> 1610-1612 •  
 		<a href="../events/battle_hotin.php">Битвы под Хотином</a> 1621 и 1673 • <a href="../events/battle_loew.php">Битвы под Лоевом</a> 1649 и 1651 • 
 		<a href="../events/blood_potop.php">Кровавый Потоп</a> 1654-1667 • <a href="../events/battle_liahowiczy.php">Осада Ляхович</a> 1660 • 
 		<a href="../events/battle_polonka.php">Битва под Полонкой</a> 1660 • 

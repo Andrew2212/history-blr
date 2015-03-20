@@ -17,16 +17,31 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Радзивиллы, магнатский род</h3>
+		<p>
+		Статья в разработке
+		</p>
+		<p>
 		Polskie formy Radziwill lub Radzwil (patronimiki Radziwillowic(z), Radzwilowic(z)) pochodza od pierwotnie bialoruskiego Radzivil' , 
-		czyli derywatu na il od podstawy Radziv-, pochodzacej ze skroconej formy imienia Radzivon (z v usuwajacym rozziew od cerkiewnego Rodi.on,...
-		pl.wikipedia.org
+		czyli derywatu na il od podstawy Radziv-, pochodzacej ze skroconej formy imienia Radzivon (z v usuwajacym rozziew od cerkiewnego Rodi.on,...)
+		</br><small>pl.wikipedia.org</small>
+		</p>
+		<p>
+		О влиятельности и богатстве рода хорошо написано в императорском академическом издании 
+		<a href="../download/kirkor.php"> А. Г. Киркор, "Живописная Россия"</a>, т.3 ч.2 
+		</p>
+		
+		<p class="img-float-center">
+		<a target="_blank" href="../../images/img-figures/radziwilly/kirkor_radziwill.jpg">
+		<img src="../../images/img-figures/radziwilly/kirkor_radziwill_thumb.jpg" height="120">
+		</br><small>Роскошь и мощь Радзивиллов</small>	
+		</a>
+		</p>
+		
 		<p>
 			Януш Радзивилл (XVII век), Николай Кристофор Радзивилл "Перун"
 		
 		</p>
-		<p>
-		Статья в разработке
-		</p>
+		
 		
 		</br></br></br>
 		<p><small>

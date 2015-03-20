@@ -33,6 +33,12 @@
         <img src="../../images/img-about/vkl3d_logo.jpg" class="img-right-120"/></br>
           ВКЛ, архитектура 3D</a>
         </li>
+        </br>
+        <li>
+        <a target="_blank" href="http://tatarnikov.com/">
+        <img src="../../images/img-about/pavel.jpg" class="img-right-120"/></br>
+          Pavel Tatarnikov, художник</a>
+        </li>
 
           <h4>В проекте участвуют</h4>
 
