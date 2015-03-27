@@ -31,7 +31,8 @@
 					<td>1</td>
 					<td>
 						<ul>
-							<li>###</li>							
+							<li>Акт <a href="../events/unia_liublin.php">Люблинской унии</a> ВКЛ и королевства Польша, 
+							</br>утвержден депутатами обеих стран на общем сейме, 1569</li>							
 						</ul>
 					</td>
 				</tr>
@@ -59,7 +60,7 @@
 					<td>4</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li><a href="../events/battle_klushyn.php">Битва при Клушине</a> с Московским царством, 1610</li>
 						</ul>
 					</td>
 				</tr>
@@ -79,7 +80,7 @@
 					<td>6</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li><a href="../events/battle_loew.php">Битва под Лоевом</a> с Войском Запорожским, 1651</li>
 						</ul>
 					</td>
 				</tr>
@@ -156,16 +157,16 @@
 					<td>14</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li><a href="../events/battle_wedrosh.php">Битва на реке Ведрошь</a> с Московским царством, 1500</li>
 						</ul>
 					</td>
 				</tr>
 				
 				<tr>
-					<td>15</td>
+					<td class="data-vip">15</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li><a href="../events/grunwald.php">Грюнвальдская битва</a> c Тевтонским Орденом, 1410</li>
 						</ul>
 					</td>
 				</tr>
@@ -295,7 +296,7 @@
 					<td>27</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>Закончилась <a href="../events/battle_liahowiczy.php">осада Ляхович</a> московским войском, 1660</li>
 						</ul>
 					</td>
 				</tr>
@@ -331,7 +332,7 @@
 					<td>31</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li><a href="../events/battle_loew.php">Битва под Лоевом</a> с Войском Запорожским, 1649</li>
 						</ul>
 					</td>
 				</tr>

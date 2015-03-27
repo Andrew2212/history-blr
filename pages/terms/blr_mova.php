@@ -32,17 +32,41 @@
 			или старо-<a href="../download/zemie_ruskie.php">руським</a> (старо-украинским) — это дело лингвистов. 
 			</br>Это язык, на котором говорил и писал свои законы народ <a href="../download/blr_people.php">земель белорусских</a>.
 			</br>Был государственным языком удельных княжеств (Полоцкого и др.) и государственным языком ВКЛ до <a href="../times/18_vek.php">XVIII века</a>. 
-			На этом языке написан <a href="statut.php">Статут ВКЛ</a> и все <a href="../download/metrica_litwa.php">Метрики Литовские</a>. 
+			На этом языке написан <a href="statut.php">Статут ВКЛ</a>, все <a href="../download/metrica_litwa.php">Метрики Литовские</a>, 
+			княжеские и королевские привилеи (см. <a target="_blank" href="http://niab.by/unikdocs/">Национальный исторический архив</a>)
 			</br><small>[В 1696 году Всеобщая конфедерация сословий (конфедеративный сейм) Речи Посполитой приняла постановление о том, 
 			что в ВКЛ государственные документы должны писаться не на белорусском, а на польском и латинском языках]</small>  	
 		</p>
 		
-		<p class="img-float-center">
+	<div class="col-md-12" >
+	
+		<div class="col-md-4 img-float-center">
+		<a target="_blank" href="../../images/img-terms/blr_mova/1391_gramota_kiriatovich.jpg">
+			<img src="../../images/img-terms/blr_mova/1391_gramota_kiriatovich_thumb.jpg" height="140"/>
+			</br><small>1391 г., грамота Федора Кориатовича, внука Гедымина,
+			</br>князя Новогрудского и Гомельского, князя Подольского
+			</br>Старабеларуская мова. Паўустаў. Пергамент</small>
+		</a>
+		</div>
+	
+		<div class="col-md-4 img-float-center">
 		<a target="_blank" href="../../images/img-terms/blr_mova/mova_1858.jpg">
 			<img src="../../images/img-terms/blr_mova/mova_1858.jpg" height="140"/>
 			</br><small>Этнографический сборник. С-Петербург, 1858 г.</small>
 		</a>
-		</p>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a target="_blank" href="../../images/img-terms/blr_mova/1581_gramota_batory.jpg">
+			<img src="../../images/img-terms/blr_mova/1581_gramota_batory_thumb.jpg" height="140"/>
+			</br><small>1581 г., грамота Стефана Батория 
+			</br>справцу венгерских войск Габриэлю Бекешу. 
+			</br>Старабеларуская мова. Скорапіс. Пергамент.</small>
+		</a>
+		</div>
+		
+		
+	</div>
 		
 		<p>
 		<h4>Белорусская латинка</h4>

@@ -292,10 +292,11 @@
 				</tr>
 				
 				<tr>
-					<td>27</td>
+					<td class="data-vip">27</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>День героев
+							</br><a href="../events/uprising_sluzk.php">Слуцкое восстание</a> за независимость Беларуси, 1920</li>
 						</ul>
 					</td>
 				</tr>

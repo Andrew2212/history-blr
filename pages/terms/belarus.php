@@ -198,7 +198,7 @@
 			<a target="_blank" href="../../images/img-terms/belarus/1759_lotter_polska_litwa.jpg">
 			<img class="img-float-centr" src="../../images/img-terms/belarus/1759_lotter_polska_litwa_thumb.jpg" height="200"/>				
 			<p>
-			Lituania-Беларусь на карте Речи Посполитой 1759
+			Lithuania-Беларусь на карте Речи Посполитой 1759
 			</p>
 			</a>			
 		</div>

@@ -141,7 +141,7 @@
 		
 		<h4><small>Люди</small></h4>
 		<p>
-		<a href="../figures/ostrogski.php">Константин Острожский</a> • <a href="../figures/budny.php">Сымон Будный</a> • 
+		<a href="../figures/ostrogski.php">Константин Острожский</a> • <a href="../figures/budny.php">Сымон Будный</a> и <a href="../figures/tiapinsky.php">Василий Тяпинский</a>, гуманисты и еретики • 
 		<a href="../figures/sapega.php">Лев Сапега</a> • <a href="../figures/volovicz.php">Остафий Волович</a> • <a href="../figures/gusowsky.php">Николай Гусовский</a> • <a href="../figures/skorina.php">Франциск Скорина</a>
 		 • <a href="../figures/fedorow.php">Иван Федоров</a> • <a href="../figures/batory.php">Стефан Баторий</a> •  
 		</p>

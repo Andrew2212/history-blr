@@ -40,7 +40,7 @@
 					<td>2</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>Начало <a href="../events/battle_hotin.php">битвы под Хотином</a> с Османской империей, 1621 г.</li>
 						</ul>
 					</td>
 				</tr>
@@ -96,10 +96,11 @@
 				
 				
 				<tr>
-					<td>8</td>
+					<td class="data-vip">8</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>День воинской славы. 
+							</br><a href="../events/orsha_battle.php">Битва под Оршей</a> с Московским царством, 1514 г.</li>
 						</ul>
 					</td>
 				</tr>
@@ -226,7 +227,7 @@
 					<td>20</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li><a href="../events/war_moscow_1610.php">День взятия Москвы</a>, 1610 г.</li>
 						</ul>
 					</td>
 				</tr>
@@ -236,7 +237,7 @@
 					<td>21</td>
 					<td>
 						<ul>
-							<li><a href="../events/war_moscow_1610.php">День взятия Москвы</a>, 1610</li>
+							<li>###</li>
 						</ul>
 					</td>
 				</tr>
@@ -266,7 +267,8 @@
 					<td>24</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li><a href="../events/sinie_wody.php">Битва на Синих водах</a> с Золотой Ордой, 1362
+							</br><small>(дата примерно между 24 сент. - 25 дек.)</small></li>
 						</ul>
 					</td>
 				</tr>
@@ -295,7 +297,7 @@
 					<td>27</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li><a href="../events/battle_kircholm.php">Битва под Кирхгольмом</a> со Швецией, 1605 г.</li>
 						</ul>
 					</td>
 				</tr>

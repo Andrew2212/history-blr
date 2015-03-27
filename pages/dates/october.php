@@ -109,7 +109,7 @@
 					<td>9</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>Победа в <a href="../events/battle_hotin.php">битве под Хотином</a> с Османской империей, 1621</li>
 						</ul>
 					</td>
 				</tr>
@@ -216,7 +216,7 @@
 					<td>19</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>Подписана <a href="../events/unia_religion_brest.php">Брестская церковная уния</a>, 1596</li>
 						</ul>
 					</td>
 				</tr>
@@ -266,7 +266,8 @@
 					<td>24</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>Завершен <a href="../events/razbor_rechi.php">Раздел Речи Посполитой</a>, 1795
+							</li>
 						</ul>
 					</td>
 				</tr>

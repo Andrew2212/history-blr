@@ -18,7 +18,7 @@
 	   </p>
 	   	<p>
 			<img src="../../images/img-events/potop.jpg" class="img-right-120"/></br>
-			<small><a href="blood_potop.php">Кровавый Потоп</a> 1655-1660 г.</small></br></br>
+			<small><a href="blood_potop.php">Кровавый Потоп</a> 1654-1667 г.</small></br></br>
 	   </p>	 
 	   	<p>
 			<img src="../../images/img-events/razbor_rechi.jpg" class="img-right-120"/></br>

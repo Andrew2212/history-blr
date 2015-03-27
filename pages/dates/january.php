@@ -243,10 +243,10 @@
 				
 				
 				<tr>
-					<td>22</td>
+					<td class="data-vip">22</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>Началось <a href="../events/uprising_1863.php">восстание Калиновского</a>, 1863</li>
 						</ul>
 					</td>
 				</tr>
@@ -295,7 +295,7 @@
 					<td>27</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li><a href="../events/battle_ula.php">Битва на Уле</a> (битва при Чашниках) с Московским царством, 1564</li>
 						</ul>
 					</td>
 				</tr>
@@ -304,7 +304,8 @@
 					<td>28</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>Подписан акт <a href="../confederacia_warshawa.php">Варшавской конфедерации</a>
+							о равенстве всех религий, 1573</li>
 						</ul>
 					</td>
 				</tr>

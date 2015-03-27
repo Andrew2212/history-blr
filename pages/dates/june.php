@@ -304,7 +304,7 @@
 					<td>28</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li><a href="../events/battle_polonka.php">Битва под Полонкой</a> с Московским царством, 1660</li>
 						</ul>
 					</td>
 				</tr>

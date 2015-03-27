@@ -20,10 +20,10 @@
           <a href="litwa.php" class="item-edit">Литва (Litvaniae, Lithuania)</a>
         </li>
         <li>
-          <a href="kossowo.php">Коссово</a>
+          <a href="kossowo.php" class="item-edit">Коссово</a>
         </li>
         <li>
-          <a href="krevo.php">Крево</a>
+          <a href="krevo.php" class="item-edit">Крево</a>
         </li>
         <li>
           <a href="polotsk.php" class="item-edit">Полоцк</a>
@@ -32,7 +32,7 @@
           <a href="nowogrudok.php" class="item-edit">Новогрудок</a>
         </li>
         <li>
-          <a href="nesviz.php" class="item-edit">Несвиж</a>
+          <a href="nesviz.php">Несвиж</a>
         </li>
         <li>
           <a href="sea_herodotus.php" class="item-edit">Море Геродота</a>

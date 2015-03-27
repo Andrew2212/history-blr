@@ -1,13 +1,13 @@
-﻿
+
       <div class="col-md-2 right-bar" >
 	   <p>
 			<img src="../../images/img-times/kalumny.png" class="img-right-120"/></br>
-			<small><a href="../terms/polotsk_principality.php">"Калюмны"</a>. Гербовый знак 
+			<small>"Калюмны". Гербовый знак 
 			<a href="../terms/polotsk_principality.php">Полоцкого княжества</a> до 1386 г.</small></br></br>
 	   </p>
 	   <p>
 			<img src="../../images/img-times/gerb_WKL.png" class="img-right-120"/></br>
-			<small><a href="../terms/pogonia.php">«Погоня»</a>. Герб 
+			<small>«Погоня». Герб 
 			<a href="../terms/wkl.php">Великого княжества Литовского</a></small></br></br>
 	   </p>
 	   	<p>
@@ -16,7 +16,7 @@
 	   </p>
 	   <p>
 			<img src="../../images/img-times/gerb_inRI.jpg" class="img-right-120" /></br>
-			<small>На Большом гербе <a href="../terms/ross_empire.php">Российской империи</a></small></br></br>
+			<small>Белорусские земли на Большом гербе <a href="../terms/ross_empire.php">Российской империи</a></small></br></br>
 	   </p>
 	   	<p>
 			<img src="../../images/img-times/gerb_BNR.gif" class="img-right-120" /></br>
@@ -28,7 +28,7 @@
 	   </p>
 	   	<p>
 			<img src="../../images/img-times/gerb_RB.png" class="img-right-120" /></br>
-			<small>Герб <a href="../terms/rb.php">РБ</a>, 1991 г.</small></br></br>
+			<small>Герб <a href="../terms/belarus.php">Беларуси</a>, 1991 г.</small></br></br>
 	   </p>	   
 
 	  </div>

@@ -151,6 +151,9 @@
         <li>
           <a href="torwald.php" class="item-edit">Торвальд Кодранссон, креститель Полоцка</a>
         </li>
+        <li>
+          <a href="tiapinsky.php" class="item-edit">Василий Тяпинский, гуманист и еретик</a>
+        </li>
 		<li>
           <a href="hodkewich.php" class="item-edit">Ходкевичи, воины великого княжества</a>
         </li>

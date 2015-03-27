@@ -126,10 +126,12 @@
 				
 				
 				<tr>
-					<td>11</td>
+					<td class="data-vip">11</td>
 					<td>
 						<ul>
-							<li>Первое официальное описание <a href="../terms/blr_gerb.php">герба</a> и <a href="../terms/blr_flag.php">флага</a>. 1917г., газета "Вольная Беларусь"</li>
+							<li>День национального герба и флага
+							</br>Первое официальное описание <a href="../terms/blr_gerb.php">герба</a> и <a href="../terms/blr_flag.php">флага</a> Беларуси. 
+							</br><a href="../terms/bnr.php">БНР</a>, газета "Вольная Беларусь", 1918</li>
 						</ul>
 					</td>
 				</tr>
@@ -138,7 +140,7 @@
 					<td>12</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li><a href="../events/battle_worskla.php">Битва на Ворскле</a> с Золотой Ордой, 1399</li>
 						</ul>
 					</td>
 				</tr>
@@ -156,7 +158,7 @@
 					<td>14</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>Подписана <a href="../events/unia_krewo.php">Кревская уния</a> между ВКЛ и Польшей, 1385</li>
 						</ul>
 					</td>
 				</tr>
