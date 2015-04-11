@@ -1,7 +1,16 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
 <html lang="ru">
-  <head>
+  <head>  
+     
+<!-- ***Title*** -->
+ 	<title>История Беларуси. Метрики Литовские</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Метрики литовские — собрание специфических материалов (тетрадей, книг) канцелярии Великого княжества Литовского XV-XVIII веков с копиями документов,
+		  издаваемых от имени великого князя, рады, сеймов и подлежащих неограниченному по времени хранению." />
+  	<meta name="keywords" itemprop="keywords" content="метрики литовские, 
+	  карты ВКЛ, история Беларуси, краткая история Беларуси, литовские метрики, Статут ВКЛ"/>
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_download.php"); ?>

@@ -175,9 +175,9 @@
 		
 		<h4><small>Люди</small></h4>
 		<p>
-		<a href="../figures/hodkewich.php">Ян Кароль Ходкевич</a> • <a href="../figures/gonsewsky.php">Александр Корвин Гонсевский</a> • 
+		<a href="../figures/hodkewich.php">Ян Кароль Ходкевич</a> • <a href="../figures/gonsewsky.php">Александр Корвин Гонсевский</a>, комендант Кремля • <a href="../figures/simeon.php">Симеон Полоцкий</a>, поэт и астролог • 
 		<a href="../figures/sapegi.php">Павел Ян Сапега</a> • <a href="../figures/radziwilly.php">Николай Кристофор Радзивилл "Перун"</a> • <a href="../figures/pacy.php">Михаил Казимир Пац</a> • 
-		<a href="../terms/dukes_wkl.php">Ян III Собеский</a> • <a href="../figures/kunciewicz.php">Иософат Кунцевич</a>, архиепископ Полоцкий • <a href="../figures/konashewicz.php">Конашевич-Сагайдачный</a>, гетман Войска Запорожского • 
+		<a href="../terms/dukes_wkl.php">Ян III Собеский</a> • <a href="../figures/kunciewicz.php">Иософат Кунцевич</a>, архиепископ Полоцкий • 
 		<a href="../figures/radziwilly.php">Януш Радзивилл</a> • <a href="../figures/lisowsky.php">Лисовский-Янович</a>, полковник "лисовчиков" • <a href="../figures/simienowicz.php">Казимир Семенович</a>, основоположник ракетостроения • 
 		</p>
 	 

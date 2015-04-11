@@ -1,7 +1,16 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
 <html lang="ru">
-  <head>
+  <head>  
+     
+<!-- ***Title*** -->
+ 	<title>Собрание имен шляхты Польши и ВКЛ</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Собрание имен шляхты Польши и ВКЛ, 1805 г — алфавитный перечень шляхетских родов Речи Посполитой. 
+	Множество белорусских фамилий позволяет выкинуть из головы миф о селянской нации — шляхетское сословие составляло от 10 до 20% населения ВКЛ-Беларуси" />
+  	<meta name="keywords" itemprop="keywords" content="Собрание имен шляхты ВКЛ, шляхта, шляхта Беларуси, шляхта ВКЛ,  
+	  карты ВКЛ, история Беларуси, краткая история Беларуси, литовские метрики, Статут ВКЛ"/>
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_download.php"); ?>
@@ -20,7 +29,7 @@
 			<p>
 			<img src="../../images/img-download/zbor_names.jpg" class="img-float-left"/>
 			При поиске фамилии можно пользоваться переводом белорусского написания на 
-			<a href="http://be.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%BA%D1%96_%D0%BB%D0%B0%D1%86%D1%96%D0%BD%D1%81%D0%BA%D1%96_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D1%96%D1%82">
+			<a href="../terms/blr_mova.php">
 			лацінку	
 			</a>
 			</p>

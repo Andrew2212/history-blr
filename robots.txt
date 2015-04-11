@@ -1,0 +1,17 @@
+User-agent: Googlebot
+Disallow: /css
+Disallow: /js
+
+User-agent: Yandex
+Disallow: /css
+Disallow: /js
+
+User-agent: Googlebot-Image
+Disallow: /css
+Disallow: /js
+
+User-agent: Yahoo-MMCrawler
+Disallow: /css
+Disallow: /js
+
+Sitemap: http://history-belarus.by/sitemap.xml

@@ -2,6 +2,13 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+  
+<!-- ***Title*** -->
+ 	<title>Коссово. История Беларуси</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Коссово. Родина Тадеуша Бонавентуры Костюшко. Кревский замок и Наполеон Орда." />
+  	<meta name="keywords" itemprop="keywords" content="Коссово, Коссовский замок, Костюшко, Исторические места Беларуси, памятные места Беларуси"/>
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_places.php"); ?>

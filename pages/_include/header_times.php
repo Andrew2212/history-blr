@@ -1,11 +1,12 @@
 <!-- ***Meta*** -->
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Краткая история Беларуси" />
-    <meta name="keywords" itemprop="keywords" content="Беларусь, история" />
+    <meta name="description" content="Основные события и значимые люди в истории Беларуси — короткие интерактивные статьи, структурированные по столетиям" />
+    <meta name="keywords" itemprop="keywords" content="История Беларуси кратко, краткая история беларуси в датах, битва под Оршей, Люблинская уния, 
+	Брестская уния, Полоцкое княжество, Великое княжество Литовское, X XI XII XIII XIV XV XVI XVII XVIII век, история Беларуси кратко" />
 	<meta name="robots" content="all" />
     <!-- ***Title*** -->
-    <title>Краткая история Беларуси</title>
+    <title>История Беларуси — хронология событий и дат</title>
     <!-- ***Styles*** -->
     <!-- Bootstrap Core CSS -->
     <link href="../../css/bootstrap.min.css" rel="stylesheet" />
@@ -75,11 +76,7 @@
 		  <li>
             <a href="../articles/_articles_intro.php">Статьи</a>
           </li>
-		  
-          <li>
-            <a href="../whatfor/_whatfor_intro.php">What for?</a>
-          </li>
-		  
+
           <li>
             <a href="../about/_about_intro.php">About</a>
           </li>
@@ -91,6 +88,13 @@
           <li>
             <a href="../dates/_dates_intro.php">Календарь</a>
           </li>
+          
+          <li>
+            <a href="../../mova.html">
+			<img src="../../img/lang.png" >
+			</a>
+          </li>
+          
         </ul>
       </div>
       <!-- /.navbar-collapse -->

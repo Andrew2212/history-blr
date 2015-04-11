@@ -1,7 +1,14 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
 <html lang="ru">
-  <head>
+  <head>  
+    
+<!-- ***Title*** -->
+ 	<title>Вильно. История Беларуси</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Вильно. Мультикультурный город в истории Беларуси. Карты, документы, восприятие современников." />
+  	<meta name="keywords" itemprop="keywords" content="Вильно, Wilna, Vilna, столица ВКЛ"/>
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_places.php"); ?>

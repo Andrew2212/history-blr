@@ -17,32 +17,108 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Калюмны</h3>
+		
+	<div class="col-md-12" >
+		<img src="../../images/img-terms/kalumny/kalumny.jpg" height="120" class="img-float-left">
+	</div>
+					
 		<p>
-			Статья на 6000 знаков (с пробелами)   -   в разработке</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		</br></br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat lacinia est, ut auctor ex fermentum at. Pellentesque luctus, mauris vitae ultricies tincidunt, libero arcu tristique nulla, eu volutpat risus mi at elit. Aliquam et elit augue. Vivamus et ornare felis, nec vestibulum purus. Suspendisse ac maximus urna. Pellentesque porttitor, enim sit amet fermentum fringilla, neque orci suscipit arcu, facilisis eleifend sem lacus id erat. Duis tristique, ipsum vel vestibulum posuere, lacus risus mollis lorem, ac ullamcorper augue leo auctor ipsum. Nam ac nibh est. Duis ultricies et lectus in consequat. Ut ante justo, mollis et urna et, varius fringilla tortor. Aenean tincidunt massa urna, id pharetra lorem varius a. Nam ut elit sed justo vestibulum placerat.
-
-			Nunc ac orci id diam cursus accumsan. Phasellus facilisis ex dolor, vel feugiat dolor pellentesque ut. Sed semper, est nec vestibulum vulputate, lorem lacus laoreet purus, sit amet cursus massa eros quis elit. Suspendisse congue tempus mi eget sodales. Aenean augue tortor, mattis eu nisi ut, laoreet eleifend erat. Sed eu ante ac libero ullamcorper aliquet vitae sed urna. Aenean imperdiet scelerisque nisi, et mollis velit tincidunt id. Integer vehicula nunc lectus, eget malesuada augue vestibulum at. In lacinia, mi eu pellentesque placerat, risus nunc ultrices nulla, nec vehicula felis massa vitae neque. Etiam ac cursus augue. Maecenas venenatis condimentum mauris sed scelerisque. Cras a nulla nec augue aliquam lobortis. Curabitur tempus ipsum quis erat lobortis, eu congue libero tristique. Phasellus molestie metus eget quam hendrerit, quis facilisis massa tempor. Nam accumsan ligula dolor, gravida blandit nibh condimentum id. Donec aliquam viverra tempor.
-
-			Sed nec ligula magna. In vehicula in eros et posuere. Aliquam dignissim viverra odio eget auctor. Sed sed ipsum semper, molestie metus ac, luctus eros. Nunc ultrices elit tellus, at tristique dolor accumsan eget. Donec tristique eleifend convallis. Morbi metus.		
-		
-		
+		Колюмны	— догеральдический и геральдический знак <a href="wkl.php">Великого княжества Литовского</a>. 
+		Чаще всего рассматривается как герб <a href="../figures/gedimin.php">Гедиминовичей</a>, 
+		наследников <a href="../figures/rogvolod_rogneda.php">Рогволодовичей</a>.
 		</p>
+		
+		<div class="col-md-12 img-float-center" >
+
+			<div class=" col-md-3 ">
+			<a target="_blank" href="../../images/img-terms/kalumny/kirkor_litwa_duces.jpg">
+			<img src="../../images/img-terms/kalumny/kirkor_litwa_duces_thumb.jpg" height="120" class="img-float-center">
+			</br><small>Князья дома Рогволодовичей
+			</br>А. Г. Киркор, "Живописная Россия", 1882</small>
+			</a>
+			</div>
+			
+			<div class=" col-md-3 ">
+			<a target="_blank" href="../../images/img-terms/kalumny/signet_iziaslav_10ce.jpg">
+			<img src="../../images/img-terms/kalumny/signet_iziaslav_10ce.jpg" height="120" class="img-float-center">
+			</br><small>Печать Изяслава, X в.</small>
+			</a>
+			</div>
+			
+			<div class=" col-md-3 ">
+			<a target="_blank" href="../../images/img-terms/kalumny/signet_charadzej_11ce.jpg">
+			<img src="../../images/img-terms/kalumny/signet_charadzej_11ce.jpg" height="120" class="img-float-center">
+			</br><small>Печать Всеслава Чародея, XI в.</small>
+			</a>
+			</div>
+			
+			<div class=" col-md-3 ">
+			<a target="_blank" href="../../images/img-terms/kalumny/signet_vitovt.jpg">
+			<img src="../../images/img-terms/kalumny/signet_vitovt_thumb.jpg" height="120" class="img-float-center">
+			</br><small>Печать Витовта, XIV в.
+			</br>"Калюмны" на щите всадника</small>
+			</a>
+			</div>
+						
+
+		</div>
+				
+		<p>
+		По начертанию знак близок к родовым знакам Рюриковичей (княжеский род в Киевской Руси). 
+		</br>В христианской интерпретации эту стилистику можно (можно было) видеть на <a href="dwina_stouns.php">Рогволодовом камне</a> XII в. 
+		</br>На монетах (в правление <a href="../figures/vitovt.php">Витовта</a>) изображения «Колюмн» появляются с конца XIV в.
+		</br>Согласно Яну Длугошу, в Грюнвальдской битве 1410 года из 40 литовских хоругвей 10 были с изображением «Колюмн».
+		</p>
+		
+		<div class="col-md-12 img-float-center" >
+		
+			
+			<div class=" col-md-3 ">
+			<a target="_blank" href="../../images/img-terms/kalumny/signs_ruric_10-13ce.jpg">
+			<img src="../../images/img-terms/kalumny/signs_ruric_10-13ce_thumb.jpg" height="120" class="img-float-center">
+			</br><small>Родовые знаки Рюриковичей, XI-XIII в.</small>
+			</a>
+			</div>
+			
+			<div class=" col-md-3 ">
+			<a target="_blank" href="../../images/img-terms/kalumny/ragvalod_stoun_12ce.jpg">
+			<img src="../../images/img-terms/kalumny/ragvalod_stoun_12ce_thumb.jpg" height="120" class="img-float-center">
+			</br><small>Рогволодов камень, XII в.</small>
+			</a>
+			</div>
+			
+			<div class=" col-md-3 ">
+			<a target="_blank" href="../../images/img-terms/kalumny/signet_pskov.jpg">
+			<img src="../../images/img-terms/kalumny/signet_pskov_thumb.jpg" height="120" class="img-float-center">
+			</br><small>Псковская печать, 1331 г.</small>
+			</a>
+			</div>
+			
+			<div class=" col-md-3 ">
+			<img src="../../images/img-terms/kalumny/dinar_kalumnu.jpg" height="120" class="img-float-center">
+			</br><small>Динар Витовта, конец XIV в.</small>
+			</div>			
+
+		</div>
+		
+		<p>
+		Еще в XVI веке связь "Калюмны" - Гедыминовичи - Рогволодовичи - <a href="../places/polotsk.php">Полоцк</a> была очевидной. Московский царь Иван Грозный, 
+		после взятия Полоцка, добавил на большую царскую печать именно "Калюмны", как символ города.
+		</p>
+		
+		<p class="img-float-center">
+			<a target="_blank" href="../../images/img-terms/kalumny/signet_ivan_16ce.jpg">
+			<img src="../../images/img-terms/kalumny/signet_ivan_16ce_thumb.jpg" height="120">
+			</br><small>Царская печать Ивана Грозного, XVI в.</small>
+			</a>
+		</p>
+		
+		
 		
 		</br></br></br>
 		<p><small>
-		
+		http://www.gerb.bel.ru/pages/strani/belorus_91_1.htm</br>
+		http://rusarch.ru/rappoport2.htm</br>
 		be-x-old.wikipedia.org</br>
 		be.wikipedia.org</br>
 		pl.wikipedia.org</br>

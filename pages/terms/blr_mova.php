@@ -111,7 +111,9 @@
 		
 		<p>
 		<h4>Современный белорусский язык</h4>
-		— время покажет. Пока — <a href="../articles/book_mova.php">так</a>. Официальный язык в Беларуси и в <a target="_blank" href="../../images/img-terms/blr_mova/polasie.jpg">Подляшье</a> (Польша). Статус по оценке ЮНЕСКО — "уязвимый".
+		— время покажет. Пока — <a href="../articles/book_mova.php">так</a>. 
+		</br>On-line словарь <a href="http://adpavedniki.esy.es/">тут</a>.
+		</br>Официальный язык в Беларуси и в <a target="_blank" href="../../images/img-terms/blr_mova/polasie.jpg">Подляшье</a> (Польша). Статус по оценке ЮНЕСКО — "уязвимый".
 		</p>
 
 	

@@ -37,11 +37,21 @@
 		«койне» — упрощенный язык «межнационального общения». Это и был праславянский язык.
 		</p>
 
-		<p class="img-float-center">
+	<div class="col-md-12">	
+		<div class="col-md-6 img-float-center">
 		<a target="_blank" href="../../images/img-terms/slavs/brothers.jpg">
 			<img src="../../images/img-terms/slavs/brothers_thumb.jpg" />
-		</a>
-		</p>
+			</br><small>Балтская археология</small>
+		</a>				
+		</div>
+		
+		<div class="col-md-6 img-float-center">
+		<a target="_blank" href="../../images/img-terms/blr_etnos/slavic_shafarik.jpg">
+			<img src="../../images/img-terms/blr_etnos/slavic_shafarik_thumb.jpg" />
+			</br><small>Й. Шафарик о "славянах"</small>
+		</a>				
+		</div>				
+	</div>
 		
 		<p>
 			В 370-376 гг. под ударами гуннов население южной части ареала (готского протогосударства) ушло большей частью на Балканы и в Центральную Европу,

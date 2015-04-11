@@ -1,7 +1,16 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
 <html lang="ru">
-  <head>
+  <head>  
+     
+<!-- ***Title*** -->
+ 	<title>Земли Русские</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Земли Русские (Украина) Речи Посполитой, отошедшие от ВКЛ до Короны по Люблинской унии.  
+	Эти земли символизировал архангел с двумя мечами на гербе Речи Посполитой Трех Народов" />
+  	<meta name="keywords" itemprop="keywords" content="земли русские, русины, 
+	  карты ВКЛ, история Беларуси, краткая история Беларуси, литовские метрики, Статут ВКЛ"/>
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_download.php"); ?>

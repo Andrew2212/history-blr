@@ -1,11 +1,13 @@
   <!-- ***Meta*** -->
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Краткая история Беларуси" />
-    <meta name="keywords" itemprop="keywords" content="Беларусь, история" />
+    <meta name="description" content="Интерактивный исторический календарь Беларуси. Отмечены национальные праздники и 
+	даты знаменательных событий — битвы, унии, дни рождения выдающихся людей. Богатая история ежедневно страны дает повод прикоснуться к национальной памяти" />
+    <meta name="keywords" itemprop="keywords" content="история беларуси, основные даты в истории Беларуси, важные даты в истории Беларуси, даты истории Беларуси, 
+	праздники Беларуси, краткая история беларуси в датах, важные даты истории Беларуси, история Беларуси кратко" />
 	<meta name="robots" content="all" />
     <!-- ***Title*** -->
-    <title>Краткая история Беларуси</title>
+    <title>Календарь исторических событий и дат Беларуси</title>
     <!-- ***Styles*** -->
     <!-- Bootstrap Core CSS -->
     <link href="../../css/bootstrap.min.css" rel="stylesheet" />
@@ -77,10 +79,6 @@
           </li>
 		  
           <li>
-            <a href="../whatfor/_whatfor_intro.php">What for?</a>
-          </li>
-		  
-          <li>
             <a href="../about/_about_intro.php">About</a>
           </li>
 		  
@@ -90,6 +88,12 @@
           
          <li>
             <a href="_dates_intro.php" style="color:red">Календарь</a>
+          </li>
+          
+          <li>
+            <a href="../../mova.html">
+			<img src="../../img/lang.png" >
+			</a>
           </li>
           
         </ul>

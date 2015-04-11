@@ -2,6 +2,13 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+  
+  <!-- ***Title*** -->
+ 	<title>История Беларуси. Каты и документы.</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Карты, хроники, архивные документы, академические издания по истории Беларуси и ВКЛ — в on-line режиме и доступные для скачивания" />
+  	<meta name="keywords" itemprop="keywords" content="карты ВКЛ, история Беларуси, краткая история Беларуси, литовские метрики, Статут ВКЛ"/>
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_download.php"); ?>

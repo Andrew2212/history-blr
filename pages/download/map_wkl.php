@@ -2,6 +2,14 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+             
+<!-- ***Title*** -->
+ 	<title>История Беларуси. Карты ВКЛ.</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Карты ВКЛ-Беларуси XV-XVIII веков — карты Фра Мауро и Меркатора, Радзивилловская и Carta Marina, карты Речи Посполитой и ее разделов" />
+  	<meta name="keywords" itemprop="keywords" content="Kраiна Беларусь, Iлюстраваная гiсторыя,  
+	   карты ВКЛ, история Беларуси, краткая история Беларуси, Меркатор, LITUANIA, ROSSIA BLANCHA, ROSSIA NEGRA, ROSSIA ROSSA, ROSSIA, TARTARIA"/>
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_download.php"); ?>
@@ -17,15 +25,7 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Карты <a href="../terms/wkl.php">ВКЛ</a>-Беларуси</h3>
-		<p>
-		<i>
-		Узнать больше и заказать печать можно 
-		<a href="https://www.facebook.com/pages/%D0%9C%D0%B0%D0%B9%D1%81%D1%82%D1%8D%D1%80%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D0%B0%D0%B4%D0%B0%D1%9E%D0%BD%D1%96%D1%85-%D0%B3%D0%B5%D0%B0%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%87%D0%BD%D1%8B%D1%85-%D0%BC%D0%B0%D0%BF/527727034041838">
-		тут
-		</a>
-		</i>
-		</p>
-		
+				
 		<div class="col-md-12">
 			<p>
 			</br>

@@ -47,7 +47,7 @@
           <a href="charadzej.php" class="item-edit">Всеслав Чародей</a>
         </li>
         <li>
-          <a href="gusowsky.php" class="item-edit">Гусовский Николай, поэт раннего Ренессанса</a>
+          <a href="gusowsky.php">Гусовский Николай, "Песня о зубре"</a>
         </li>
         <li>
           <a href="gonsewsky.php" class="item-edit">Гонсевский Александр Корвин, комендант Кремля, 1610</a>
@@ -140,7 +140,7 @@
           <a href="skorina.php" class="item-edit">Скорина, литвин из Полоцка</a>
         </li>
 		<li>
-          <a href="skosyrew.php" class="item-edit">Скосырев Б. М., король Андорры</a>
+          <a href="skosyrew.php">Скосырев Б. М., король Андорры</a>
         </li>
         <li>
           <a href="sudzilowskij.php" class="item-edit">Судзиловский Н. К., первый Президент сената Территории Гавайи</a>

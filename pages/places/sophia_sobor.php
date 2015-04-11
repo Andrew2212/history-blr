@@ -2,6 +2,14 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+    
+<!-- ***Title*** -->
+ 	<title>Софийский собор. История Беларуси</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Софийский собор. История Беларуси" />
+  	<meta name="keywords" itemprop="keywords" content="Софийский собор, Полоцк, История Беларуси"/>
+
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_places.php"); ?>

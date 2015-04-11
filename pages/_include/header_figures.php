@@ -1,8 +1,10 @@
 	    <!-- ***Meta*** -->
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Краткая история Беларуси" />
-    <meta name="keywords" itemprop="keywords" content="Беларусь, история" />
+    <meta name="description" content="Известные люди в истории Беларуси — короткие интерактивные статьи" />
+    <meta name="keywords" itemprop="keywords" content="Знаменитые люди Беларуси, известные люди Беларуси, великие люди Беларуси, исторические люди Беларуси,Сапега, Радзивилл, Ходкевич, Семенович, Наполеон Орда, 
+	Николай Гусовский, Скорина, Витовт, Ольгерд, Гедимин, Миндовг, Ягайло, Свидригайло, Всеслав Чародей, Рогволодовичи, филоматы, Костюшко, Калиновский, великий гетман литовский, великий канцлер литовский, 
+	Торвальд Кодранссон, Адам Мицкевич, Давид Городенский, Иософат Кунцевич, Игнаци Домейко" />
 	<meta name="robots" content="all" />
     <!-- ***Title*** -->
     <title>Краткая история Беларуси</title>
@@ -75,11 +77,7 @@
 		  <li>
             <a href="../articles/_articles_intro.php">Статьи</a>
           </li>
-		  
-          <li>
-            <a href="../whatfor/_whatfor_intro.php">What for?</a>
-          </li>
-		  
+
           <li>
             <a href="../about/_about_intro.php">About</a>
           </li>
@@ -91,6 +89,13 @@
           <li>
             <a href="../dates/_dates_intro.php">Календарь</a>
           </li>
+          
+          <li>
+            <a href="../../mova.html">
+			<img src="../../img/lang.png" >
+			</a>
+          </li>
+          
         </ul>
       </div>
       <!-- /.navbar-collapse -->

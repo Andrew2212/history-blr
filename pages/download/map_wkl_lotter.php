@@ -2,6 +2,16 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+  
+             
+<!-- ***Title*** -->
+ 	<title>Карты ВКЛ-Беларуси Т. Лоттера</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Карты ВКЛ-Беларуси Тобиаса Лоттера — картограф с европейским именем четко обзначает границы ВКЛ, совпадающие с этнической картой белорусов. 
+	Карты составлены до, а изданы после разделов Речи Посполитой. " />
+  	<meta name="keywords" itemprop="keywords" content="карты ВКЛ, история Беларуси, краткая история Беларуси, 
+	  Лоттер, LITUANIA, ROSSIA BLANCHA, ROSSIA NEGRA, ROSSIA ROSSA, ROSSIA, TARTARIA"/>
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_download.php"); ?>

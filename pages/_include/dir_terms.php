@@ -50,7 +50,7 @@
           <a href="jesuity.php" class="item-edit">Иезуиты. Последний оплот.</a>
         </li>
 		<li>
-          <a href="kalumny.php" class="item-edit">Калюмны</a>
+          <a href="kalumny.php">Калюмны</a>
         </li>
         <li>
           <a href="efrosinia_rood.php" class="item-edit">Крест Ефросинии Полоцкой</a>

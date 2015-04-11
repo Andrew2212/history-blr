@@ -23,7 +23,7 @@
           <a href="kossowo.php" class="item-edit">Коссово</a>
         </li>
         <li>
-          <a href="krevo.php" class="item-edit">Крево</a>
+          <a href="krevo.php">Крево</a>
         </li>
         <li>
           <a href="polotsk.php" class="item-edit">Полоцк</a>
@@ -35,7 +35,7 @@
           <a href="nesviz.php">Несвиж</a>
         </li>
         <li>
-          <a href="sea_herodotus.php" class="item-edit">Море Геродота</a>
+          <a href="sea_herodotus.php">Море Геродота</a>
         </li>
         <li>
           <a href="#" class="item-unable">Some link</a>

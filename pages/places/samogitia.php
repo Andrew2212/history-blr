@@ -1,7 +1,15 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
 <html lang="ru">
-  <head>
+  <head>  
+  
+<!-- ***Title*** -->
+ 	<title>Жмудь (Samogitia) — Lietuva</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Земли жмудские — от Samogitia до Lietuva — на старых картах и в исторических хрониках" />
+  	<meta name="keywords" itemprop="keywords" content="Жмудь, Жемайтия, Аукштайтия, Samogitia, Самогития, Lietuva, Летува, жмудины, земли жмудские, Литва и Беларусь"/>
+
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_places.php"); ?>
@@ -20,8 +28,15 @@
 		
 		<p class="img-float-left">
 		<a target="_blank" href="../../images/img-terms/ross_empire/ross_empire_gerb.jpg">
-		<img src="../../images/img-places/samogitia/samogitia_gerb.jpg" width="200">
+		<img src="../../images/img-places/samogitia/samogitia_gerb.jpg" height="200">
 		</br><small>Герб Самогитии "Медведь", с 1584 г.</small>
+		</a>
+		</p>
+		
+		<p class="img-float-right">
+		<a target="_blank" href="../../images/img-places/samogitia/1935_Litauen.jpg">
+		<img src="../../images/img-places/samogitia/1935_Litauen_thumb.jpg" height="200">
+		</br><small>Летува-Жмудь, 1935</small>
 		</a>
 		</p>
 		
@@ -39,7 +54,7 @@
 		 <a href="../figures/jagiello.php">Ягайло</a>, начинают усиленно насаждать здесь христианство, 
 		 которое вследствие сопротивления жителей утверждается окончательно только в XVI в., иезуитами."
 		</i> 
-		</br><small><a target="_blank" href="http://dic.academic.ru/dic.nsf/brokgauz_efron/41009/Жмудь">Энциклопедический словарь</a> Брокгауза и Ефрона</small>	
+		 <small><a target="_blank" href="http://dic.academic.ru/dic.nsf/brokgauz_efron/41009/Жмудь">(Энциклопедический словарь</a> Брокгауза и Ефрона)</small>	
 		</p>
 		
 		<p>

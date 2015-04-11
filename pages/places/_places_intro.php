@@ -2,6 +2,12 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+<!-- ***Title*** -->
+ 	<title>Топонимика. История Беларуси</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Краткие интерактивные статьи об исторически значимых местах белорусских земель." />
+  	<meta name="keywords" itemprop="keywords" content="Исторические места Беларуси, памятные места Беларуси/>
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_places.php"); ?>

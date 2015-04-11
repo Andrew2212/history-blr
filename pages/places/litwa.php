@@ -2,6 +2,14 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+  
+<!-- ***Title*** -->
+ 	<title>Литва историческая (Lithuania propria)и</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Литва в значении историческом (Littaw). Локализация на старых картах и в письменных первоисточниках." />
+  	<meta name="keywords" itemprop="keywords" content="Литва, Litvaniae, Littaw, Lithuania Russe, Lithuania propria"/>
+
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_places.php"); ?>

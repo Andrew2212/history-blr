@@ -2,6 +2,14 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+      
+<!-- ***Title*** -->
+ 	<title>Вострая брама. История Беларуси</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Вострая брама. История Беларуси" />
+  	<meta name="keywords" itemprop="keywords" content="Вострая Брама, Вильно, История Беларуси"/>
+
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_places.php"); ?>

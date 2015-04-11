@@ -19,13 +19,19 @@
           <a href="spis_voiska.php">Перепись войска Литовского 1528-1565 г.</a>
         </li>
         <li>
-          <a href="kirkor.php">Адам Гонорий Киркор. Litwa i Bialorus</a>
+          <a href="kirkor.php">А. Г. Киркор
+		  </br>"Живописная Россия", 1882</a>
+        </li>
+        <li>
+          <a href="shafarik.php">П. Й. Шафарик
+		  </br>"Славянские древности", 1847</a>
         </li>
         <li>
           <a href="kraina_blr.php">Kраiна Беларусь</a>
         </li>
         <li>
-          <a href="chronicles_peter.php">Chronicon terrae Prussiae von Peter von Duisburg, 1326 г., оригинал/перевод</a>
+          <a href="chronicles_peter.php">Peter von Duisburg
+		  </br>"Chronicon terrae Prussiae" 1326</a>
         </li>
         <li>
           <a href="monet_blr.php">Монеты ВКЛ-Беларуси до 1707 года</a>

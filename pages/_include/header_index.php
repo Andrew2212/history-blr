@@ -1,8 +1,10 @@
 	    <!-- ***Meta*** -->
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="История Беларуси в кратком интерактивном изложении со ссылками на исторические документы и общедоступные ресурсы" />
-    <meta name="keywords" itemprop="keywords" content="Беларусь, история" />
+    <meta name="description" content="История Беларуси за последнюю 1000 лет в кратком интерактивном изложении.
+	Статьи в разделах Время, События, Люди, Термины сопровождаются ссылками на исторические документы 
+	(в разделе Download можно скачать карты и хроники) и общедоступные ресурсы." />
+    <meta name="keywords" itemprop="keywords" content="История Беларуси,история Белоруссии, краткая история Беларуси, краткая история Беларуси в датах, карты ВКЛ, карты белорусского этноса, метрики ВКЛ, литвины, шляхта Беларуси, белорусы, история Беларуси кратко" />
 	<meta name="robots" content="all" />
 	<!--***Check for MailRu finder-->
 	<meta name='wmail-verification' content='bbb54a20dd76cd57' />	
@@ -79,11 +81,7 @@
 		  <li>
             <a href="pages/articles/_articles_intro.php">Статьи</a>
           </li>
-		  
-          <li>
-            <a href="pages/whatfor/_whatfor_intro.php">What for?</a>
-          </li>
-		  
+
           <li>
             <a href="pages/about/_about_intro.php">About</a>
           </li>
@@ -94,6 +92,12 @@
           
           <li>
             <a href="pages/dates/_dates_intro.php">Календарь</a>
+          </li>
+          
+          <li>
+            <a href="mova.html">
+			<img src="img/lang.png" >
+			</a>
           </li>
           
         </ul>

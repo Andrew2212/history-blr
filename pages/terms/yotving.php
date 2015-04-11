@@ -62,11 +62,22 @@
 		Польский летописец сравнивает Я. с хищным зверем, Авенариус, называя их храбрыми, но не культурными — с вечными бродягами."
 		</br><small>Энциклопедический словарь Брокгауза и Ефрона</small>
 		</p>
-		<p class="img-float-center">
-		<a target="_blank" href="../../images/img-terms/slavs/baltic_tribes.jpg">
+		
+	<div class="col-md-12">		
+		<div class="col-md-6 img-float-center">
+		<a  target="_blank" href="../../images/img-terms/yotving/baltic_tribes.jpg">
 			<img src="../../images/img-terms/yotving/baltic_tribes_thumb.jpg" />
+			</br><small>Восточныые и западные балты, XII век</small>
 		</a>
-		</p>
+		</div>
+		
+		<div class="col-md-6 img-float-center">
+		<a  target="_blank" href="../../images/img-terms/yotving/jotving_tell.jpg">
+			<img src="../../images/img-terms/yotving/jotving_tell_thumb.jpg" />
+			</br><small>Ятвяжские курганы</small>
+		</a>
+		</div>
+	</div>
 	
 		
 		<h4>Пруссы </h4>

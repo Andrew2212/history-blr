@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+  
+  
+<!-- ***Title*** -->
+ 	<title>Новогрудок. История Беларуси</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Новогрудок. Город на ятвяжских землях — первая столица ВКЛ." />
+  	<meta name="keywords" itemprop="keywords" content="Новогрудок, первая столица ВКЛ, Исторические места Беларуси, памятные места Беларуси"/>
+
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_places.php"); ?>

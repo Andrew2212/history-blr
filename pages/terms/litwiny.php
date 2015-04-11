@@ -44,6 +44,11 @@
 		</p>
 		
 		<p>
+		«Kto jest litwin? — Ten, ktory kocha wolnosc i szanuje Statut litewski». <a href="statut.php">Статут</a> ВКЛ действовал только на белорусских и украинских землях 
+		(для жмудинских земель был отдельный "<a target="_blank" href="../../images/img-places/samogitia/zmud_law.jpg">устав жмудский</a>").
+		</p>
+		
+		<p>
 		Литвинами называли себя <i>только</i> "беларускіх зямель ураджэнцы" — <a href="../figures/kostiushko.php">Тадэуш Костюшко</a>, 
 		<a href="../figures/mickiewicz.php">Адам Мицкевич</a>, <a href="../figures/domeyko.php">Игнаци Домейко</a>, <a href="../figures/kalinowski.php">Кастусь Калиновский</a>,
 		 <a href="../figures/skorina.php">Франциск Скорина</a>, <a href="../figures/budny.php">Сымон Будный</a>.		 

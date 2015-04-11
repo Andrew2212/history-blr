@@ -17,8 +17,16 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Погоня. Национальный герб Беларуси</h3>
-	<div class="col-md-12">	
-		<img src="../../images/img-terms/blr_gerb/1991_pogonia.jpg" class="img-float-left" height="140"/>
+	<div class="col-md-12">
+		<p class="img-float-left">	
+		<img src="../../images/img-terms/blr_gerb/1991_pogonia.jpg" height="140"/>
+		</p>
+		<p class="img-float-right">
+		<a target="_blank" href="../../images/img-terms/blr_gerb/1697_polska.jpg">
+		<img src="../../images/img-terms/blr_gerb/1697_polska_thumb.jpg" height="140"/>
+		</br>Погоня на карте ВКЛ
+		</a>
+		</p>
 		<p>
 			"... Quotiescunque etiam hostes et adversarios nostros et ipsius terrae nostrae Lithuanicae fugitivos insequi opportuerit, 
 			ad insequutionem huiusmodi, quod <i>роgоniа</i> vulgo dicitur, nоn solum armigeri, verum etiam omnis masculus, 

@@ -58,11 +58,21 @@
 			</br>Славянская топонимика, славянские украшения, славянские погребальные обряды добавились к ним гораздо позже.
 		</p>
 		
-		<p class="img-float-center">
+	<div class="col-md-12">	
+		<div class="col-md-6 img-float-center">
 		<a target="_blank" href="../../images/img-terms/slavs/brothers.jpg">
 			<img src="../../images/img-terms/slavs/brothers_thumb.jpg" />
-		</a>
-		</p>
+			</br><small>Балтская археология</small>
+		</a>				
+		</div>
+		
+		<div class="col-md-6 img-float-center">
+		<a target="_blank" href="../../images/img-terms/blr_etnos/slavic_shafarik.jpg">
+			<img src="../../images/img-terms/blr_etnos/slavic_shafarik_thumb.jpg" />
+			</br><small>Й. Шафарик о "славянах"</small>
+		</a>				
+		</div>				
+	</div>
 		
 		<p>
 		В середине 1-го тысячелетия нашей эры (рубеж V-VI веков) общая картина племен, сложившихся в белорусский этнос, была такова:
@@ -74,6 +84,32 @@
 		</br>5) По правому берегу Припяти, в бассейне ее притоков Тетерев, Уж, Уборть, Ствига обитали <i>древляне</i>.
 		</p>
 		<p>
+			В классическом труде Й. Шафарика <a href="../download/shafarik.php">"Славянские древности"</a> подробно описана этнографическая картина Европы X-XI вв. Описывая народы, 
+			составившие впоследствии белорусский этнос, он отмечает, что всю западную Беларусь (между Минском /восток/, Подляшьем /запад/, 
+			Полесьем (<a href="../terms/sea_herodotus.php">морем Геродота</a>) /юг/ и <a href="../places/samogitia.php">Жмудью</a> /север/) 
+			населяли "мелкие литовские народки" и <a href="yotving.php">Ятвяги</a>.
+			</br><small>[Там же, далее по тексту он долго спорит со своими оппонентами — "относить ли Кривичей к Славянам?"]</small>
+			</br>И если кого-то напрягает упоминание им Сербов на Буге — напрягитесь <a target="_blank" href="../../images/img-terms/blr_etnos/kaliada.jpg">еще раз</a>.			
+		</p>
+		
+	<div class="col-md-12">	
+		<div class="col-md-6 img-float-center">
+		<a target="_blank" href="../../images/img-terms/blr_etnos/shafarik_blr_people.jpg">
+			<img src="../../images/img-terms/blr_etnos/shafarik_blr_people_thumb.jpg" />
+			</br><small>Й. Шафарик. "Славянские древности", 1847</small>
+		</a>				
+		</div>
+		
+		<div class="col-md-6 img-float-center">
+		<a target="_blank" href="../../images/img-terms/blr_etnos/kirkor_blr_people.jpg">
+			<img src="../../images/img-terms/blr_etnos/kirkor_blr_people_thumb.jpg" />
+			</br><small>А. Киркор, Живописная Россия. Белорусское Полесье. 1882</small>
+		</a>
+			</br><small>Скачмть можно <a href="../download/kirkor.php">тут</a></small>
+		</div>				
+	</div>
+		
+		<p>
 		<a href="slavs.php">Славянство</a> возникло в результате длительного мирного взаимодействия конгломерата разных этносов: 
 		<a href="yotving.php">германских</a> (готских), <a href="lutizy.php">балтских</a> и иранских (скифо-сарматских) на определенной территории. 
 		В процессе такого взаимодействия выработался общий язык, сложились общие черты духовной и материальной культуры. 
@@ -84,17 +120,7 @@
 		 которые сами же и строили. Оттуда новая культура (в форме языка, религии, ремесел, приемов военного дела и т. д.) 
 		 распространялась по окрестностям в процессе экономических взаимоотношений.
 		</p>
-		
-		<p class="img-float-center">
-		<a target="_blank" href="../../images/img-terms/blr_etnos/kirkor_blr_people.jpg">
-			<img src="../../images/img-terms/blr_etnos/kirkor_blr_people_thumb.jpg" />
-			</br><small>А. Киркор, Живописная Россия. Белорусское Полесье. 1882</small>
-		</a>
-		<a href="../download/kirkor.php">
-		</br><small>Посмотреть / Скачать</small>
-		</a>
-		</p>
-		
+				
 		<p>
 			Названия «кривичи», «дреговичи», «ятвяги», «радимичи» обозначают территориальные культурно-этнические сообщества. 
 			Примерно за 1000 лет их сблизила между собой славянизация. 
@@ -135,9 +161,26 @@
 			М. Я. Гринблат - в период с <a  href="../times/14_vek.php">XIV</a> по <a  href="../times/16_vek.php">XVI</a> век.
 		</p>
 		<p>	
-			Тогда же он принял эндоэтноним "<a href="litwiny.php">литвины</a>", который в XIX-XX вв. был заменен на "белорусы". 
-			
+			Тогда же он принял эндоэтноним "<a href="litwiny.php">литвины</a>", который в XIX-XX вв. был заменен на "белорусы". 			
 		</p>
+
+	<div class="col-md-12">
+		<div class="col-md-6 img-float-center">
+		<a target="_blank" href="../../images/img-terms/blr_etnos/blr_ua.jpg">
+			<img src="../../images/img-terms/blr_etnos/blr_ua_thumb.jpg" />
+			</br><small>Белорусы глазами соседей, 2015</small>
+		</a>
+		</div>
+		
+		<div class="col-md-6 img-float-center">
+		<a target="_blank" href="../../images/img-terms/blr_etnos/blr_info.jpg">
+			<img src="../../images/img-terms/blr_etnos/blr_info_thumb.jpg" />
+			</br><small>Белорусы в ифографике 2008</small>
+		</a>
+		</br><small>Больше инфографики <a href="#">тут</a></small>				
+		</div>		
+	</div>
+		
 		<p>					
 			<i>«Основным результатом действия комплекса социально-экономических, политических, этнических процессов ХIV-ХVI веков на Беларуси явилось сложение 
 			самостоятельной восточно-славянской этносоциальной общности — беларуской народности и ее основных этнических признаков — языка, культуры, самосознания.»
@@ -148,7 +191,9 @@
 		
 		</br></br></br>
 		<p><small>
-		<a href="http://coollib.com/b/277966/read"> Краткий курс истории Беларуси IX-XXI веков</a></br>
+		http://udf.by/news/multi/99077-belorusy-kak-slavyanskie-nemcy-infografika.html</br>
+		<a target="_blank" href="http://coollib.com/b/277966/read"> Краткий курс истории Беларуси IX-XXI веков</a></br>
+		http://hvylya.net/analytics/geopolitics/chto-ukraine-delat-s-belarusyu-i-lukashenko.html</br>
 		be-x-old.wikipedia.org</br>
 		be.wikipedia.org</br>
 		pl.wikipedia.org</br>

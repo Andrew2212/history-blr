@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+  
+  
+<!-- ***Title*** -->
+ 	<title>Полоцк. История Беларуси</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Полоцк. Краткие интерактивные статьи об исторически значимых местах белорусских земель." />
+  	<meta name="keywords" itemprop="keywords" content="Полоцк, Исторические места Беларуси, памятные места Беларуси"/>
+
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_places.php"); ?>

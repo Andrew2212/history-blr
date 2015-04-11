@@ -2,6 +2,14 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+   
+  <!-- ***Title*** -->
+ 	<title>Alba Ruthenia (Белая Русь) на картах.</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Alba Ruthenia (Белая Русь, Rossia Blanhca, Russia Alba, Russie Blanche) на картах" />
+  	<meta name="keywords" itemprop="keywords" content="Белая Русь, Rossia Blanhca, Russia Alba, Alba Ruthenia, Russie Blanche, 
+	  карты ВКЛ, история Беларуси, краткая история Беларуси, литовские метрики, Статут ВКЛ"/>
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_download.php"); ?>

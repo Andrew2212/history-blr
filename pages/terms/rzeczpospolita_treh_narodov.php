@@ -27,7 +27,7 @@
 		<img src="../../images/img-terms/rzeczpospolita_treh_narodov/rech_treh_harodov_gerb.png" title="Герб Речи Посполитая Трех Народов" class="img-float-left">
 		
 		<p>
-		В 1569 году по <a href="unia_liublin.php">Люблинской унии</a> русские <a href="../download/zemie_ruskie.php">земли</a> 
+		В 1569 году по <a href="../events/unia_liublin.php">Люблинской унии</a> русские <a href="../download/zemie_ruskie.php">земли</a> 
 		отошли из состава Великого княжества Литовского к Королевству Польскому, в составе объединённой Речи Посполитой. 
 		</p>
 		<p>

@@ -2,6 +2,13 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+  
+<!-- ***Title*** -->
+ 	<title>Гродно. История Беларуси</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Гродно. Краткие интерактивные статьи об исторически значимых местах белорусских земель." />
+  	<meta name="keywords" itemprop="keywords" content="Гродно, Гародня, Исторические места Беларуси, памятные места Беларуси"/>
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_places.php"); ?>

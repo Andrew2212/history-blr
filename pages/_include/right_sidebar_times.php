@@ -2,12 +2,12 @@
       <div class="col-md-2 right-bar" >
 	   <p>
 			<img src="../../images/img-times/kalumny.png" class="img-right-120"/></br>
-			<small>"Калюмны". Гербовый знак 
+			<small><a href="../terms/kalumny.php">"Калюмны"</a>. Гербовый знак 
 			<a href="../terms/polotsk_principality.php">Полоцкого княжества</a> до 1386 г.</small></br></br>
 	   </p>
 	   <p>
 			<img src="../../images/img-times/gerb_WKL.png" class="img-right-120"/></br>
-			<small>«Погоня». Герб 
+			<small>«<a href="../terms/blr_gerb.php">Погоня</a>». Герб 
 			<a href="../terms/wkl.php">Великого княжества Литовского</a></small></br></br>
 	   </p>
 	   	<p>

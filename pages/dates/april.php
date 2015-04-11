@@ -46,10 +46,10 @@
 				</tr>
 				
 				<tr>
-					<td>3</td>
+					<td class="data-vip">3</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>Дзень дзяржаўнасьці <a href="../terms/blr_mova.php">беларускае мовы</a></li>
 						</ul>
 					</td>
 				</tr>

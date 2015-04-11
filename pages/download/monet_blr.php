@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+  
+     
+<!-- ***Title*** -->
+ 	<title>Монеты Беларуси до 1707 года</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Монеты Беларуси до 1707 года. Иллюстрированное издание." />
+  	<meta name="keywords" itemprop="keywords" content="монеты ВКЛ, деньги ВКЛ, монеты Беларуси, 
+	  карты ВКЛ, история Беларуси, краткая история Беларуси, литовские метрики, Статут ВКЛ"/>
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_download.php"); ?>
