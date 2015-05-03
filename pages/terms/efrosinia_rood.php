@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+     
+<!-- ***Title*** -->
+ 	<title>Крест Ефросинии. История Беларуси</title>
+
+<!-- ***Meta*** -->
+    <meta name="description" content="Крест Ефросинии Полоцкой" />
+    <meta name="keywords" itemprop="keywords" content="крест ефросинии полоцкой, крест ефросинии, 
+	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
+
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>

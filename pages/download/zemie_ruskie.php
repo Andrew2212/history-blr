@@ -46,6 +46,11 @@
 			</br><small>Wikipedia.ru </small>
 			</p>
 			<p>
+			В XIII веке (1254) правитель этих земель — князь Галицко-Волынский Даниил Галицкий — был коронован папой Иннокентием IV 
+			"королем Руси" — Rex Russiae.
+			</br>Годом ранее этот же папа короновал <a href="../figures/mindowg.php">Миндовга</a> "королем Литвы" — Rex Lettowie.
+			</p>
+			<p>
 			Размер 2200 х 1350</br>
 			<a href="https://drive.google.com/file/d/0B_T3PThCY39DNmlldnpNN3hyTUk/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>

@@ -2,6 +2,16 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+     
+<!-- ***Title*** -->
+ 	<title>Литвины. История Беларуси</title>
+
+<!-- ***Meta*** -->
+    <meta name="description" content="Литвины — исторический эндоэтноним уроженцев белорусских земель. Наряду с терминами русин и жмудин использовался в полном названии ВКЛ — Великое княжество Литовское, Русское, Жемайтийское и иных — определяя титульную нацию и подчеркивая его мультикультурность. 
+	[Когда сегодня утверджают, что литвины — политоним, то забывают, что в этом качестве термин использовали только иностранцы: ...прибыл литвин, латыш N-ского уезда.... Аналогично, ныне для немцев и тувинец, и адыгеец — русские (по титульной нации государства).]" />
+    <meta name="keywords" itemprop="keywords" content="литвины, 
+	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-terms/litwiny/peter_text.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>
@@ -65,17 +75,18 @@
 		<a href="../places/samogitia.php">жмудинов</a> (Samaitin).
 		</p>
 		
-		<div class="col-md-12" >
-		<p>
+	<div class="col-md-12" >
+		<div class="col-md-4 img-float-center" >
 		<a target="_blank" href="../../images/img-terms/litwiny/litviny_david.jpg">
-		<img src="../../images/img-terms/litwiny/litviny_david.jpg" height="120">
-		
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litviny_david_thumb.jpg" height="120">		
 		</a>
-		<a target="_blank" href="../../images/img-terms/litwiny/peter_text.jpg">
-		<img src="../../images/img-terms/litwiny/peter_text.jpg" height="120">		
-		</a>
-		</p>
 		</div>
+		<div class="col-md-4 img-float-center" >
+		<a target="_blank" href="../../images/img-terms/litwiny/peter_text.jpg">
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/peter_text.jpg" height="120">		
+		</a>
+		</div>
+	</div>
 		
 		<p>
 		</br>Согласно <a href="statut.php">Статуту ВКЛ</a> 1566 г. (арт. 9, раздел 3)
@@ -89,28 +100,55 @@
 		<p>
 		Герберштейн в своем труде "Rerum Moscoviticarum" (1517—1526 гг.) писал: «Государь назначает туда [в Жемайтию] начальника [из Литвы], которого на своем языке они [литвины] называют „староста“ (Starosta)».
 		</p>
-		
+		<p>
+		В России к XVIII веку Белоруссией называлась Смоленская губерния, и в архивных документах уточнялась религиозная принадлежность литвинов: 
+		"белорусской" или католической веры.
+		</p>
+	<div class="col-md-12" >
+		<div class="col-md-4 img-float-center" >
+		<a target="_blank" href="../../images/img-terms/litwiny/smolensk_blr.jpg">
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/smolensk_blr.jpg" height="120" >
+		</a>
+		</div>
+		<div class="col-md-4 img-float-center" >
+		<a target="_blank" href="../../images/img-terms/litwiny/litvin_1.jpg">
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_1_thumb.jpg" height="120" >
+		</a>
+		</div>
+		<div class="col-md-4 img-float-center" >
+		<a target="_blank" href="../../images/img-terms/litwiny/litvin_religion.jpg">
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_religion_thumb.jpg" height="120" >
+		</a>
+		</div>
+	</div>		
 		<p>
 		После <a href="../events/uprising_1830.php">1830 года</a> в изданиях Императорского Русского Географического общества и императорских указах термин "литвины" 
 		активно заменяется словом "белорусы", во имя <a target="_blank" href="../../images/img-terms/slavs/brothers.jpg">мифа</a> о происходении <a href="../terms/blr_etnos.php">белорусского этноса</a> от триединого русского народа.
 		</p>
 		
 	<div class="col-md-12" >
-		<a target="_blank" href="../../images/img-terms/litwiny/litvin_1.jpg">
-		<img src="../../images/img-terms/litwiny/litvin_1.jpg" height="120" >
-		</a>
+		
+		<div class="col-md-4 img-float-center" >
 		<a target="_blank" href="../../images/img-terms/litwiny/litvin_2.jpg">
-		<img src="../../images/img-terms/litwiny/litvin_2.jpg" height="120" >
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_2.jpg" height="120" >
 		</a>
+		</div>
+		<div class="col-md-4 img-float-center" >
 		<a target="_blank" href="../../images/img-terms/litwiny/litvin_3.jpg">
-		<img src="../../images/img-terms/litwiny/litvin_3.jpg" height="120" >
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_3_thumb.jpg" height="120" >
 		</a>
+		</div>
+		<div class="col-md-4 img-float-center" >
+		<a target="_blank" href="../../images/img-terms/litwiny/litvin_blr.jpg">
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_blr.jpg" height="120" >
+		</a>
+		</div>
+	</div>
 		<p>
 		<i><small>"ДЗЕКАТЬ — произносить дз вместо д, как белорусы и мазуры… Как не закаивайся литвин, а дзекнет. Только мертвый литвин не дзекнет. 
 		Разве лихо возьмет литвина, чтоб он не дзекнул." </i> 
 		  Толковый словарь живаго великорускаго языка, 1880 г., Владимир Даль</small>
 		</p>
-	</div>
 		
 		<p>
 		К концу XIX века в <a href="../download/kirkor.php">трудах, ставших классическими</a>, эта замена происходит окончательно.
@@ -125,6 +163,7 @@
 		
 		</br></br></br>
 		<p><small>
+		http://www.belhistory.com/articl_x.shtml</br>
 		http://samlib.ru/e/rogatina/lutizi.shtml</br>
 		http://dodontitikaka.ucoz.com/index/citaty_pro_litvinov_1/0-104</br>
 		http://kibsvg.narod.ru/</br>

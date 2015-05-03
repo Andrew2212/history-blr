@@ -47,6 +47,9 @@
           <a href="../download/chronicles_peter.php">"Chronicon terrae Prussiae"</a>, Peter von Duisburg, 1326
         </li>
         <li>
+        	<a target="_blank" href="https://archive.org/stream/codexdiplomatic00lithgoog#page/n24/mode/2up">Codex Diplomaticus Lithuaniae</a>, XIII-XIV вв
+        </li>
+        <li>
           Краiна Беларусь. Вялiкае Княства Лiтоўскае, ISBN 978-80-8101-602-8
         </li>
         <li>
@@ -59,6 +62,9 @@
 		
         <li>
           <a target="_blank" href="http://coollib.com/b/277966/read">"Краткий курс истории Беларуси IX-XXI веков."</a>, А. Тарас
+        </li>
+        <li>
+          <a target="_blank" href="http://samlib.siwatcher.ru/p/prokopchuk_artur_andreewich/msworddoc-17.shtml">"Полоцк-Літва-Rzeczpospolita-Беларусь"</a>, А. А. Прокопчук
         </li>
         <li>
           <a target="_blank" href="http://dodontitikaka.ucoz.com/" >Великое Княжество Литовское как наследие Беларусов</a>

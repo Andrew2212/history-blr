@@ -1,2 +1,10 @@
 ErrorDocument 404 /err404.html
 AddDefaultCharset utf-8
+
+RewriteEngine On
+
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/
+RewriteRule ^index\.php$ http://history-belarus.by/ [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^www.history-belarus\.by$ [NC]
+RewriteRule ^(.*)$ http://history-belarus.by/$1 [R=301,L]

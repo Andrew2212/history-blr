@@ -2,6 +2,13 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+  
+  	<meta name="description" content="Основные события и значимые люди в истории Беларуси — короткие интерактивные статьи, структурированные по столетиям" />
+    <meta name="keywords" itemprop="keywords" content="История Беларуси кратко, краткая история беларуси в датах, битва под Оршей, Люблинская уния, 
+	Брестская уния, Полоцкое княжество, Великое княжество Литовское, X XI XII XIII XIV XV XVI XVII XVIII век, история Беларуси кратко" />
+	
+	<!-- ***Title*** -->
+    <title>История Беларуси — хронология событий и дат</title>
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_times.php"); ?>

@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+    
+<!-- ***Title*** -->
+ 	<title>Туровское Евангелие. История Беларуси</title>
+
+<!-- ***Meta*** -->
+    <meta name="description" content="Туровское евангелие" />
+    <meta name="keywords" itemprop="keywords" content="туровское евангелие, 
+	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
+
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>

@@ -9,7 +9,7 @@
 <!-- ***Meta*** -->
 	<meta name="description" content="Крево – одно из древнейших поселений на территории Беларуси. Гедымин, Ягайло, Кейстут, Кревская уния — многое в истории Беларуси связано с этим местом." />
   	<meta name="keywords" itemprop="keywords" content="Крево, Кревский замок, Кревская уния, Ягайло, Гедымин, Ягеллоны, Исторические места Беларуси, памятные места Беларуси"/>
-
+	<meta property="og:image" content="http://history-belarus.by/images/img-places/krevo/krevo.jpg" />
 <!-- ***Include Header*** -->
 <? include ("../_include/header_places.php"); ?>
   

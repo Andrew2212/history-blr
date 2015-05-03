@@ -14,10 +14,12 @@
           <a href="bulak.php" class="item-edit">Булак-Балахович</a>
         </li>
         <li>
-          <a href="mindowg.php" class="item-edit">В. кн. Миндовг (1248-1263)</a>
+          <a href="mindowg.php">В. кн. Миндовг</a> (1248-1263),
+		  </br>король пруссов и литвинов
         </li>
         <li>
-          <a href="shwarn.php" class="item-edit">В. кн. Шварн (1267-1269))</a>
+          <a href="shwarn.php">В. кн. Шварн</a> (1267-1269),
+		  </br>король Руси
         </li>
         <li>
           <a href="vyten.php" class="item-edit">В. кн. Витень (1295 — 1316)</a>
@@ -152,7 +154,7 @@
           <a href="torwald.php" class="item-edit">Торвальд Кодранссон, креститель Полоцка</a>
         </li>
         <li>
-          <a href="tiapinsky.php" class="item-edit">Василий Тяпинский, гуманист и еретик</a>
+          <a href="tiapinsky.php" class="item-edit">Тяпинский Василий, гуманист и еретик</a>
         </li>
 		<li>
           <a href="hodkewich.php" class="item-edit">Ходкевичи, воины великого княжества</a>

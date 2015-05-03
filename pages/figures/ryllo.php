@@ -34,9 +34,9 @@
 			<img alt="Максимилиан Рылло" src="../../images/img-figures/ryllo/ryllo.jpg" height="160" >
 		</p>
 		<p class="img-float-right">
-			<a target="_blank" href="../../images/img-figures/ryllo/babylon.jpg">
-			<img alt="Вавилон" src="../../images/img-figures/ryllo/babylon_thumb.jpg" height="140">
-			</br><small>Вавилон</small>				
+			<a target="_blank" href="../../images/img-figures/ryllo/podorosk.jpg">
+			<img alt="Подороск" src="../../images/img-figures/ryllo/podorosk_thumb.jpg" height="140">
+			</br><small>Подороск</small>				
 			</a>
 		</p>
 		<p>
@@ -56,15 +56,24 @@
 		</br>В 1837 году избран в папскую археологическую академию и Ориентологическое товарищество Франции		
 		</p>
 		
-		<div class="col-md-12">			
-			<div class="col-md-6 img-float-center">
+		<div class="col-md-12">	
+			
+			<div class="col-md-4 img-float-center">
+			<a target="_blank" href="../../images/img-figures/ryllo/babylon.jpg">
+			<img alt="Вавилон" src="../../images/img-figures/ryllo/babylon_thumb.jpg" height="120">
+			</br><small>Вавилон</small>				
+			</a>
+			</div>
+		
+				
+			<div class="col-md-4 img-float-center">
 			<a target="_blank" href="../../images/img-figures/ryllo/babylon_plan.jpg">
 			<img src="../../images/img-figures/ryllo/babylon_plan_thumb.jpg" height="120">
 			</br><small>Вавилон. План города</small>				
 			</a>
 			</div>
 			
-			<div class="col-md-6 img-float-center">
+			<div class="col-md-4 img-float-center">
 			<a target="_blank" href="../../images/img-figures/ryllo/ruin.jpg">
 			<img src="../../images/img-figures/ryllo/ruin_thumb.jpg" height="120">
 			</br><small>Вавилон. Руины города</small>				
@@ -87,6 +96,7 @@
 		
 		</br></br></br>
 		<p><small>
+		https://www.facebook.com/groups/469648889796210/?ref=bookmarks</br>
 		http://www.philosophy.by/belarus-eu/a_300_r.html</br>
 		http://www.svisloch.info/zemljaki/188-pervyjj-issledovatel-vavilona.html</br>
 		be-x-old.wikipedia.org</br>

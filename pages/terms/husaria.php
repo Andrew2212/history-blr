@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+    
+<!-- ***Title*** -->
+ 	<title>Крылатые гусары ВКЛ. История Беларуси</title>
+
+<!-- ***Meta*** -->
+    <meta name="description" content="Крылатые гусары ВКЛ." />
+    <meta name="keywords" itemprop="keywords" content="крылатые гусары вкл, гусария, 
+	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
+
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>

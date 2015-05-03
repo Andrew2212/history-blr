@@ -3,7 +3,12 @@
 <html lang="ru">
   <head>
   
-  
+  	<meta name="description" content="Основные события и значимые люди в истории Беларуси — короткие интерактивные статьи, структурированные по столетиям" />
+    <meta name="keywords" itemprop="keywords" content="10 век, X век, 
+	история Беларуси кратко, краткая история беларуси, краткая история беларуси в датах, история Беларуси, история Белоруссии, Полоцкое княжество, Великое княжество Литовское" />
+	
+	<!-- ***Title*** -->
+    <title>X век. История Беларуси.</title> 
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_times.php"); ?>
@@ -38,22 +43,23 @@
 	</h4>
 
 	
-<p>
+<p><i>
 <a href="../terms/polotsk_principality.php">Полоцкое</a> и <a href="../terms/turow_principality.php">Туровское</a> княжества • 
-</br>• На восточных белорусских землях, лежащих на "Пути из варяг в греки" вокруг древнего Полоцка формируется независимое Полоцкое княжество. 
-</br>Главную роль в возникновении города сыграло местоположение, удобное для транзитной торговли. Маршрут по Западной Двине и Днепру с 
-Балтики до Черного моря значительно короче и удобнее, чем  Невско-Волховский.
-Изначально входившее в Киевскую Русь, в X веке Полоцкое княжество отделяется в независимое государтво. 
+</i></p>
+<p>
+• На северо-восточных белорусских землях, лежащих на "Пути из варяг в греки" вокруг древнего Полоцка формируется независимое Полоцкое княжество. 
 </br>• Княжение Рогволода — основателя династии Рогволодовичей. 
 </br>• Основаны города Витебск, Изяславль, Туров.
-</br>• Крещение Полока в 985 году викингом Торвальдом Кодранссоном и постройка им церкви и монастыря святого Иоанна Крестителя.
-</br>• Западные белорусские земли остаются языческими. Первые летописные упоминания о ятвягах.
-
+</br>• Крещение Полоцка в 985 году викингом Торвальдом Кодранссоном и постройка им церкви и монастыря святого Иоанна Крестителя.
+</br>• На южных белорусских землях — в Полесье — складывается Турово-Пинское княжество.
+</br>• Западные и северо-западные белорусские земли остаются языческими. Первые летописные упоминания о ятвягах.
+</p>
 <!--Spoiler-->
 <!--http://forwebmaster.net/prostoy-spoyler-dlya-sayta-v-html/-->
 <div class="spoil">
 	<div class="smallfont">
-	<input type="button" class="btn btn-default btn-sm" value="Хронология основных событий (показать / скрыть)" class="input-button" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Свернуть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Текст спойлера'; }">
+	<input type="button" class="btn btn-default btn-sm" value="Хронология основных событий (показать / скрыть)" class="input-button" 
+	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Свернуть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Текст спойлера'; }">
 	</div>
 
 <div class="alt2">

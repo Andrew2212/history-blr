@@ -10,7 +10,7 @@
 	<meta name="description" content="Карты белорусского этноса Карского Е. Ф. (1903), Риттиха А. Ф. (1875) и Довнар-Запольского М. В. (1919) и административные границы губерний Российской империи " />
   	<meta name="keywords" itemprop="keywords" content="Карты белорусского этноса, Этнографические карты белорусов, 
 	  карты ВКЛ, история Беларуси, краткая история Беларуси, литовские метрики, Статут ВКЛ"/>
-
+	<meta property="og:image" content="http://history-belarus.by/images/img-download/1875_etno_ross_empire_rittih_thumb.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_download.php"); ?>

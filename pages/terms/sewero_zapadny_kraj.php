@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+    
+<!-- ***Title*** -->
+ 	<title>Северо-Западный край. История Беларуси</title>
+
+<!-- ***Meta*** -->
+    <meta name="description" content="Северо-западный край" />
+    <meta name="keywords" itemprop="keywords" content="северо-западный край, 
+	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
+
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>

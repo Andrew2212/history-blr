@@ -17,7 +17,7 @@
           <a href="bssr.php" class="item-edit">БССР</a>
         </li>
 		<li>
-          <a href="wkl.php" class="item-edit">Великое княжество Литовское</a>
+          <a href="wkl.php">Великое княжество Литовское</a>
         </li>
 		<li>
           <a href="weliki_hetman.php">Великий гетман литовский</a>
@@ -47,7 +47,7 @@
           <a href="zemiane.php">Земяне и панцирные бояре</a>
         </li>
         <li>
-          <a href="jesuity.php" class="item-edit">Иезуиты. Последний оплот.</a>
+          <a href="jesuity.php">Иезуиты в ВКЛ-Беларуси</a>
         </li>
 		<li>
           <a href="kalumny.php">Калюмны</a>

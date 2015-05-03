@@ -8,7 +8,7 @@
 
     <nav id="footer">
         <form>
-        <div class="col-md-2">
+        <div class="col-md-2 img-float-center">
 
 			<!-- HotLog -->
 			<span id="hotlog_counter"></span>
@@ -27,22 +27,25 @@
 			<!-- /HotLog -->
 		</div>
 			
-		<div class="col-md-4">
+		<div class="col-md-3 img-float-center">
 			 <!--***Add SocialNet link from Yandex***-->
 			<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script><div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="link" data-yashareQuickServices="vkontakte,facebook,twitter,odnoklassniki,moimir,lj,friendfeed,moikrug,gplus,surfingbird"></div>
 			<!--/***Add SocialNet link from Yandex***-->
         </div>
         
-        <div class="col-md-4">
+        <div class="col-md-3 img-float-center">
         Сайт в социальных сетях 
         <a href="https://twitter.com/Belbriefhistory" target="blanc">
 		<img src="../../images/_img-icons/twitter.png" title="Twitter" width="32">
 		</a>
+		<a href="https://vk.com/public93350227" target="blanc">
+		<img src="../../images/_img-icons/vk.png" title="VK" width="32">
+		</a>
         </div>
 
-		<div class="col-md-2">  
-			<span style="float: right;"> ProjectStudio <a href="#"></a>
-			</span>
+		<div class="col-md-3 img-float-center">  
+		 <small>Эл. почта</small>
+		 <font style="color:#F00;"> history.msg<img src="../../images/img-about/dog.jpg"/>gmail.com</font> 
 		</div>
 		
         </form>
@@ -57,8 +60,7 @@
     
     <div class="col-md-12" style="text-align: center">
     	<p>
-		<small>Эл. почта для писем </small>
-		 <font style="color:#F00;"> history.msg<img src="../../images/img-about/dog.jpg"/>gmail.com</font>
+		 <font style="color:#F00;">История Беларуси. Кратко. Интерактивно. Объективно. Must have.</font>
 		</p>
     </div>
     

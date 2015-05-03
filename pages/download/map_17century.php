@@ -17,14 +17,6 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Белорусские земли XVII в.</h3>
-		<p>
-		<i>
-		Узнать больше и заказать печать можно 
-		<a href="https://www.facebook.com/pages/%D0%9C%D0%B0%D0%B9%D1%81%D1%82%D1%8D%D1%80%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D0%B0%D0%B4%D0%B0%D1%9E%D0%BD%D1%96%D1%85-%D0%B3%D0%B5%D0%B0%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%87%D0%BD%D1%8B%D1%85-%D0%BC%D0%B0%D0%BF/527727034041838">
-		тут
-		</a>
-		</i>
-		</p>
 		
 		<div class="col-md-12">
 			<p>
@@ -46,7 +38,7 @@
 			</p>
 			<p>
 			Размер 5100 х 3700</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DeDRJNDJZTFFmSWc/view?usp=sharing" class="btn btn-default img-float-left"
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DeDRJNDJZTFFmSWc/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -59,7 +51,20 @@
 			</p>
 			<p>
 			Размер 2291 х 1682</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39Dd3ZnbzRfREpoekU/view?usp=sharing" class="btn btn-default img-float-left"
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39Dd3ZnbzRfREpoekU/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
+		
+		<div class="col-md-12">
+			<p>
+			</br>
+			<img src="../../images/img-download/17_vek/1690_Hondius_Valk_Lithvaniae_thumb.jpg" class="img-float-left"/>
+				Magni Ducatus Lithuaniae,  Peter Schenk & Gerald Valk, Amsterdam,1690
+			</p>
+			<p>
+			Размер 2300 х 1800</br>
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DRTBqSkJLYWl0Vnc/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -72,7 +77,7 @@
 			</p>
 			<p>
 			Размер 1024 х 880</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DZ1dGUnYyNDc1d28/view?usp=sharing" class="btn btn-default img-float-left"
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DZ1dGUnYyNDc1d28/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -85,7 +90,7 @@
 			</p>
 			<p>
 			Размер 3650 х 3072</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DaGlheDFpZldQUXM/view?usp=sharing" class="btn btn-default img-float-left"
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DaGlheDFpZldQUXM/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>

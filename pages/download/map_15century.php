@@ -31,6 +31,35 @@
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
+		
+
+		<div class="col-md-12">
+		<p>
+			</br>
+			<div class="col-md-3 ">
+			<a target="_blank" href="../../images/img-places/sea_herodotus/1493_schedel_littav.jpg">
+			<img src="../../images/img-places/sea_herodotus/1493_schedel_littav_thumb.jpg" ">
+			</br><small>Г. Шедель, карта Европы
+			</br>"Всемирная хроника", 1493</small>				
+			</a>
+			</div>
+			
+			<div class="col-md-3 class="img-float-left"">
+			<a target="_blank" href="../../images/img-places/sea_herodotus/1493_schedel_littaw.jpg">
+			<img src="../../images/img-places/sea_herodotus/1493_schedel_littaw_thumb.jpg" >
+			</br><small>Г. Шедель, Littaw
+			 </br>"Всемирная хроника", 1493</small>				
+			</a>
+			</div>
+			
+			<div class="col-md-6">
+			Историки Западной Европы упрямо связывают <a href="../places/litwa.php">Литву</a> с <a href="../places/sea_herodotus.php">морем Геродота</a>. 
+		Взгляните, например, на гравюру XV в. из "Всемирной хроники" Г. Шеделя. 
+		Острова с крепостями, а между ними плавает большой парусник. Территориально этот рисунок относится именно к землям ныне 
+		Центральной и Западной Беларуси, ибо в тексте говорится именно о наших городах.
+			</div>
+		</p>	
+		</div>
 				
 		<div class="col-md-12">
 			<p>

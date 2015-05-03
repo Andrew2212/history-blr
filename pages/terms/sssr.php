@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+    
+<!-- ***Title*** -->
+ 	<title>СССР. История Беларуси</title>
+
+<!-- ***Meta*** -->
+    <meta name="description" content="СССР." />
+    <meta name="keywords" itemprop="keywords" content="ссср, 
+	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
+
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>
@@ -20,7 +29,7 @@
 		<p>
 			Статья в разработке
 		</p>
-	</div>
+
 	
 		</br></br></br>
 		<p><small>

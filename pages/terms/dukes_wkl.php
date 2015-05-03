@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+     
+<!-- ***Title*** -->
+ 	<title>Князья ВКЛ. История Беларуси</title>
+
+<!-- ***Meta*** -->
+    <meta name="description" content="Князья ВКЛ" />
+    <meta name="keywords" itemprop="keywords" content="князья вкл, князья великие литовские, князь великий литовский, 
+	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
+
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>

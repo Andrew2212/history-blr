@@ -1,13 +1,8 @@
 	    <!-- ***Meta*** -->
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Шляхта, литвины, гуды, Погоня — исторические термины в истории Беларуси." />
-    <meta name="keywords" itemprop="keywords" content="Шляхта, литвины, гуды, Погоня, Калюмны, Речь Посполитая, Великое княжество Литовское, готы, ятвяги, пруссы, 
-	земяне и панцирные бояре, униатство в Беларуси, иезуиты в Беларуси, крылатые гусары, великий гетман литовский, великий канцлер литовский, крест Ефросинии, славяне, белорусский этнос, 
-	национальный флаг Беларуси, БНР, лютичи, полабские славяне, белорусский этнос, белорусы, История беларуси кратко" />
 	<meta name="robots" content="all" />
-    <!-- ***Title*** -->
-    <title>Исторические термины в истории Беларуси.</title>
+
     <!-- ***Styles*** -->
     <!-- Bootstrap Core CSS -->
     <link href="../../css/bootstrap.min.css" rel="stylesheet" />
