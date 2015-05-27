@@ -12,7 +12,7 @@
 		систематические археологические раскопки которого начались только в конце XIX века." />
   	<meta name="keywords" itemprop="keywords" content="Максимилиан Рылло, 
 	  история беларуси, история белоруссии, история беларуси кратко в датах, известные люди беларуси, знаменитые люди беларуси"/>
-
+	<meta property="og:image" content="http://history-belarus.by/images/img-figures/ryllo/ruin.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_figures.php"); ?>

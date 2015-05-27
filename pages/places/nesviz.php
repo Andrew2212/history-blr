@@ -9,6 +9,7 @@
 <!-- ***Meta*** -->
 	<meta name="description" content="Несвиж. Величие и упадок. Театр, типография, свой флот, армия и мореходная школа. Описание визита Станислава-Августа к Радзивиллу современники сравниали по роскоши со сценами из 1001 ночи" />
   	<meta name="keywords" itemprop="keywords" content="Несвиж, Радзивиллы, Радзивилл, Исторические места Беларуси, памятные места Беларуси"/>
+  	<meta property="og:image" content="http://history-belarus.by/images/img-places/nesviz/nesviz_A1.jpg" />
 
 
 <!-- ***Include Header*** -->

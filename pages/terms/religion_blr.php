@@ -12,7 +12,7 @@
 	— наверно, это и есть причина отсутствия религиозного фанатизма в Беларуси. " />
     <meta name="keywords" itemprop="keywords" content="религия в беларуси, церковная уния, католицизм в беларуси, торвальд кодранссон, 
 	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
-
+	<meta property="og:image" content="http://history-belarus.by/images/img-terms/religion_blr/kirkor_unia.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>
@@ -33,16 +33,33 @@
 		<p>
 		— наверно, это и есть причина отсутствия религиозного фанатизма в Беларуси.
 		</p>
-		
-		<p class="img-float-center">
-		<a target="_blank" href="../../images/img-terms/religion_blr/kirkor_pogan.jpg">
-			<img src="../../images/img-terms/religion_blr/kirkor_pogan_thumb.jpg" height="140"/>
-			</br><small>А. Киркор, Живописная Россия. Белорусское Полесье. 1882</small>
-		</a>
-		<a href="../download/kirkor.php">
-		</br>Посмотреть / Скачать
-		</a>
+		<p>
+		И особо почитаемые три коронные иконы Маці Божай — Жировицкая, Остробрамская и Белыничская — равно почитаемы православными, католиками и униатами как чудотворные. 
 		</p>
+		
+	<div class="col-md-12" >
+		<div class="col-md-5 img-float-center">
+		<a href="../places/zyroviczy.php">
+		<img src="../../images/img-terms/religion_blr/mb_zirovichy.jpg" height="120">
+		</br><small>Маці Божая Жыровiцкая, XIII в</small> 	
+		</a>
+		</div>
+		
+		<div class="col-md-2 img-float-center">
+		<a href="../places/wostra_brama.php">
+			<img src="../../images/img-terms/religion_blr/mb_ostrobramskaya.jpg" height="120"/>
+			</br><small>Маці Божая Вострабрамская, XV в</small>
+		</a>
+		</div>
+		
+		<div class="col-md-5 img-float-center">
+		<a href="../events/battle_liahowiczy.php">
+		<img src="../../images/img-terms/religion_blr/mb_belynichy.jpg" height="120">
+		</br><small>Маці Божая Бялынiчская, XVII в</small> 	
+		</a>
+		</div>		
+	</div>
+		
 		<h4>Христианство</h4>
 		<p>
 		До X века на <a href="../download/blr_people.php">белорусских землях</a> единственной религией было язычество.
@@ -67,21 +84,21 @@
 		<div class="col-md-4 img-float-center">
 		<a target="_blank" href="../../images/img-terms/religion_blr/saga_torwald.jpg">
 		<img src="../../images/img-terms/religion_blr/saga_torwald_thumb.jpg" height="120">
-		</br>Сага о крещении. 	
+		</br><small>Сага о крещении</small> 	
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
 		<a target="_blank" href="../../images/img-terms/religion_blr/viking expeditions.jpg">
 		<img src="../../images/img-terms/religion_blr/viking expeditions_thumb.jpg" height="120">
-		</br>Экспедиции викингов 	
+		</br><small>Экспедиции викингов </small>	
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
 		<a target="_blank" href="../../images/img-terms/religion_blr/skylitzis_chronicle_varangian_guard.jpg">
 		<img src="../../images/img-terms/religion_blr/skylitzis_chronicle_varangian_guard_thumb.jpg" height="120">
-		</br>Варяжская гвардия. Византия	
+		</br><small>Варяжская гвардия. Византия</small>	
 		</a>
 		</div>
 		
@@ -95,7 +112,7 @@
 		была построена на рубеже XII-XIII вв. <a href="yotving.php">Ятвяги</a> оставались язычниками почти до самой своей ассимиляции в XIV-XVI вв. 
 		Кресты на <a href="dwina_stouns.php">Двинских камнях</a> были выбиты в конце XII века. 
 		</br>И, хотя попытки христианизации предпренимались и во времена Гродненского княжества и, позже, 
-		<a href="../figures/midowg.php">Миндовга</a>, даже в XIV веке, после создания <a href="wkl.php">ВКЛ</a>,
+		<a href="../figures/mindowg.php">Миндовга</a>, даже в XIV веке, после создания <a href="wkl.php">ВКЛ</a>,
 		язычество было сильно распространено. 
 		</br>Так, хроника "<a href="../download/chronicles_peter.php">Chronicon terrae Prussiae von Peter von Duisburg</a>", 1326 г.,
 		называет <a href="../figures/gedimin.php">Гедымина</a> "нечестивым врагом веры и христиан" <small>[Dusb, III, 357]</small> и отмечает, что 
@@ -105,17 +122,33 @@
 		</p>
 		
 	<div class="col-md-12" >
-		<div class="col-md-6 img-float-center">
-		<a target="_blank" href="../../images/img-terms/religion_blr/litviny_david.jpg">
-		<img src="../../images/img-terms/religion_blr/litviny_david_thumb.jpg" height="120">
-		</br>О разорении Таллина Давидом Городенским 	
+		<div class="col-md-4 img-float-center">
+		<a target="_blank" href="../../images/img-terms/wkl/terrae_prussiae.jpg">
+			<img src="../../images/img-terms/wkl/terrae_prussiae_thumb.jpg" height="140">
+			</br><small>О разорении Таллина и Мазовии 
+			</br>Давидом Городенским
+			</br>Chronicon Terrae Prussiae, 1326.</small>	
+			</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a target="_blank" href="../../images/img-terms/religion_blr/kirkor_pogan.jpg">
+			<img src="../../images/img-terms/religion_blr/kirkor_pogan_thumb.jpg" height="140"/>
+			</br><small>А. Киркор. "Белорусское Полесье". 1882</small>
+		</a>
+		<a href="../download/kirkor.php">
+		</br>Посмотреть / Скачать
 		</a>
 		</div>
 		
-		<div class="col-md-6 img-float-center">
-		<a target="_blank" href="../../images/img-terms/religion_blr/david_masovia.jpg">
-		<img src="../../images/img-terms/religion_blr/david_masovia_thumb.jpg" height="120">
-		</br>О разорении Мазовии Давидом Городенским 	
+		<div class="col-md-4 img-float-center">
+		<a target="_blank" href="../../images/img-terms/religion_blr/blr_pogan.jpg">
+		<img src="../../images/img-terms/religion_blr/blr_pogan_thumb.jpg" height="120">
+		</br><small>"Россия — Полное географическое описание.
+		</br>Верхнее Поднепровье и Белоруссия". 1905</small> 	
+		</a>
+		<a href="../download/rossia_blr.php">
+		</br>Посмотреть / Скачать
 		</a>
 		</div>		
 	</div>

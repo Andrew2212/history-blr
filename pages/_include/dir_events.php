@@ -11,16 +11,16 @@
           <a href="orsha_battle.php" class="item-edit">Битва под Оршей, 1514, (с Московией)</a>
         </li>
         <li>
-          <a href="battle_kircholm.php" class="item-edit">Битва под Киргхольмом, 1605, (со Швецией)</a>
+          <a href="battle_kircholm.php">Битва под Киргхольмом</a>, 1605, (со Швецией)
         </li>
         <li>
-          <a href="battle_loew.php" class="item-edit">Битвы под Лоевом, 1649 и 1651, (с Войском Запорожским)</a>
+          <a href="battle_loew.php">Битвы под Лоевом</a>, 1649 и 1651, (с Войском Запорожским)
         </li>
         <li>
-          <a href="battle_liahowiczy.php" class="item-edit">Битва под Ляховичами (осада), 1660, (с Московией)</a>
+          <a href="battle_liahowiczy.php">Битва под Ляховичами (осада)</a>, 1660, (с Московией)
         </li>
         <li>
-          <a href="battle_polonka.php" class="item-edit">Битва под Полонкой, 1660, (с Московией)</a>
+          <a href="battle_polonka.php">Битва под Полонкой</a>, 1660, (с Московией)
         </li>
         <li>
           <a href="battle_hotin.php" class="item-edit">Битвы под Хотином, 1621 и 1673, (с Османской Империей)</a>

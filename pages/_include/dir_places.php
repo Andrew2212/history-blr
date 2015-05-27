@@ -14,6 +14,12 @@
           <a href="wostra_brama.php" class="item-edit">Вострая Брама</a>
         </li>
         <li>
+          <a href="../figures/kesgajla.php" >Вилькомир на реке Святая</a>
+        </li>
+        <li>
+          <a href="zyroviczy.php" class="item-edit">Жировичи</a>
+        </li>
+        <li>
           <a href="samogitia.php" >Летува (Lietuva). Самогития (Samogitia). Жмудь</a>
         </li>
         <li>
@@ -24,6 +30,12 @@
         </li>
         <li>
           <a href="krevo.php">Крево</a>
+        </li>
+        <li>
+          <a href="../events/battle_loew.php">Лоев</a>
+        </li>
+        <li>
+          <a href="../events/battle_liahowiczy.php">Ляховичи</a>
         </li>
         <li>
           <a href="polotsk.php" class="item-edit">Полоцк</a>

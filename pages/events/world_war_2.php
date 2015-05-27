@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+  <!-- ***Title*** -->
+    <title>Вторая Мировая война. История Беларуси</title>
+<!-- ***Meta*** -->  
+    <meta name="description" content="Вторая Мировая война. 
+	Основные события в истории Беларуси — короткие интерактивные статьи, 
+	иллюстрированные истрическими картами и архивными документами" />
+	<meta name="keywords" itemprop="keywords" content="вторая мировая война, беларусь во второй мировой войне, 
+	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-events/16_1.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_events.php"); ?>

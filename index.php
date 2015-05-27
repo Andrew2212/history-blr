@@ -102,6 +102,9 @@
 		<li>
           <a target="_blank" href="http://niab.by/unikdocs/">Национальный исторический архив Беларуси</a>
         </li>
+        <li>
+          <a target="_blank" href="http://archives.gov.by/index.php?id=166384">Национальный архивный фонд Республики Беларусь</a>
+        </li>
 		<li>
           <a target="_blank" href="http://histmuseum.by/">Национальный исторический музей РБ</a>
         </li>
@@ -114,6 +117,10 @@
 		<li>
           <a href="pages/download/kirkor.php">"Живописная Россия"</a>, А. Г. Киркор 
           </br>издание Императорского Русского Географического Общества, 1882
+        </li>
+        <li>
+          <a href="pages/download/russia_blr.php">"Россия. Полное географическое описание."</a> т. 9, под общим руководством П. П. Семенова-Тян-Шанского 
+          </br>издание Императорского Русского Географического Общества, 1905
         </li>
         <li>
           <a href="pages/download/blr_people.php">Этнографические карты белорусов</a>,
@@ -138,6 +145,10 @@
         <li>
         	<a href="pages/download/zbor_shliahty.php">"Zbior Nazwisk Szlahty"</a>, 1805
         	</br>Шляхетские фамилии Польши и ВКЛ
+        </li>
+        <li>
+        	<a href="pages/download/shliahta_zmud.php">"Herbarz szlachty zmudzkiej"</a>, 1805
+        	</br>Шляхета Жмудская
         </li>
         <li><a target="_blank" href="http://litopys.org.ua/ipatlet/ipat.htm">ПОЛНОЕ СОБРАНІЕ РУССКИХЪ ЛЂТОПИСЕЙ</a>
 				</br>Изданное по Высочайшему повелЂнію 

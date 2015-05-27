@@ -7,12 +7,11 @@
  	<title>Готы, пруссы, ятвяги. История Беларуси</title>
 
 <!-- ***Meta*** -->
-    <meta name="description" content="Готы сформировались в Скандинавии, в области, которую Иордан называет Скандза (юг современной Швеции и остров Готланд). 
-		При короле Бериге они переправились через Балтийское море и заняли во II веке низовья Вислы (Готискандза).
-		 Пятый после Берига король готов Филимер привёл их в Приднепровье, где на территории нынешней Украины возникло готское государство Ойум." />
+    <meta name="description" content="Готы, ятвяги, пруссы, венеды. Эти термины связаны с историей белорусского этноса. 
+	Если, конечно, верить хроникам, археологам и академическим трудам славистов, а не политкорректным статьям о триедином народе." />
     <meta name="keywords" itemprop="keywords" content="готы, пруссы, ятвяги, венеды,
 	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
-
+	<meta property="og:image" content="http://history-belarus.by/images/img-terms/yotving/venedy_sanson_XVII.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>
@@ -77,14 +76,14 @@
 	<div class="col-md-12">		
 		<div class="col-md-6 img-float-center">
 		<a  target="_blank" href="../../images/img-terms/yotving/baltic_tribes.jpg">
-			<img src="../../images/img-terms/yotving/baltic_tribes_thumb.jpg" />
+			<img alt="Ятвяги" src="../../images/img-terms/yotving/baltic_tribes_thumb.jpg" />
 			</br><small>Восточныые и западные балты, XII век</small>
 		</a>
 		</div>
 		
 		<div class="col-md-6 img-float-center">
 		<a  target="_blank" href="../../images/img-terms/yotving/jotving_tell.jpg">
-			<img src="../../images/img-terms/yotving/jotving_tell_thumb.jpg" />
+			<img alt="Ятвяги" src="../../images/img-terms/yotving/jotving_tell_thumb.jpg" />
 			</br><small>Ятвяжские курганы</small>
 		</a>
 		</div>

@@ -22,7 +22,7 @@
 			<p>
 			</br>
 			<img src="../../images/img-download/map_nikola_radziwill_thumb.jpg" class="img-float-left"/>
-			Карта Magni Ducatus Lithaniae 1630 г.
+			1630 Карта Magni Ducatus Lithaniae.
 			</br>К наиболее ценным предметам коллекции Национального Исторического музея РБ можно отнести карту 
 			<a href="../terms/wkl.php">Великого княжества Литовского</a> 1613-1630 (?) гг.
 			</br> Инициатором и фунадаром ее создания был один с самых богатых магнатов ВКЛ - 
@@ -60,7 +60,7 @@
 			<p>
 			</br>
 			<img src="../../images/img-download/17_vek/1690_Hondius_Valk_Lithvaniae_thumb.jpg" class="img-float-left"/>
-				Magni Ducatus Lithuaniae,  Peter Schenk & Gerald Valk, Amsterdam,1690
+				1690 Magni Ducatus Lithuaniae,  Peter Schenk & Gerald Valk, Amsterdam
 			</p>
 			<p>
 			Размер 2300 х 1800</br>
@@ -72,8 +72,21 @@
 		<div class="col-md-12">
 			<p>
 			</br>
+			<img src="../../images/img-download/17_vek/1670_wkl_thumb.jpg" class="img-float-left"/>
+				1670 Poloniae, Lithvaniae, Vcraniae,  de Witt, Amsterdam
+			</p>
+			<p>
+			Размер 6144 х 5339</br>
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DcENfemRoR0R0SlU/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
+		
+		<div class="col-md-12">
+			<p>
+			</br>
 			<img src="../../images/img-download/map_1696_thumb.jpg" class="img-float-left"/>
-				Карта Речи Посполитой 1696 года 
+				1696 Карта Речи Посполитой  
 			</p>
 			<p>
 			Размер 1024 х 880</br>
@@ -86,7 +99,7 @@
 			<p>
 			</br>
 			<img src="../../images/img-download/1690_Moscovia_Visscher_thumb.jpg" class="img-float-left"/>
-				Карта Московии и части Европы 1690 года 
+				1690 Карта Московии и части Европы  
 			</p>
 			<p>
 			Размер 3650 х 3072</br>

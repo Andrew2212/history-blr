@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+  <!-- ***Title*** -->
+    <title>Взятие Москвы. История Беларуси</title>
+<!-- ***Meta*** -->  
+    <meta name="description" content="Смутное Время. Взятие Москвы. 
+	Основные события в истории Беларуси — короткие интерактивные статьи, 
+	иллюстрированные истрическими картами и архивными документами" />
+	<meta name="keywords" itemprop="keywords" content="взятие москвы, 
+	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-events/16_1.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_events.php"); ?>
@@ -42,6 +51,7 @@
 		
 		</br></br></br>
 		<p><small>
+		http://veras.jivebelarus.net/sodyerzhaniye/sobytiya-smutnoho-vryemyeni-v-rossii</br>
 		be-x-old.wikipedia.org</br>
 		be.wikipedia.org</br>
 		pl.wikipedia.org</br>

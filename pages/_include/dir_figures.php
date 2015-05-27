@@ -11,7 +11,7 @@
           <a href="bogdanowich.php" class="item-edit">Богданович Максим</a>
         </li>
         <li>
-          <a href="bulak.php" class="item-edit">Булак-Балахович</a>
+          <a href="bulak.php">Булак-Балахович</a>
         </li>
         <li>
           <a href="mindowg.php">В. кн. Миндовг</a> (1248-1263),
@@ -22,13 +22,13 @@
 		  </br>король Руси
         </li>
         <li>
-          <a href="vyten.php" class="item-edit">В. кн. Витень (1295 — 1316)</a>
+          <a href="vyten.php">В. кн. Витень</a> (1295 — 1316)
         </li>
         <li>
-          <a href="gedimin.php" class="item-edit">В. кн. Гедимин (1316-1341)</a>
+          <a href="gedimin.php">В. кн. Гедимин</a> (1316-1341)
         </li>
         <li>
-          <a href="olgerd.php" class="item-edit">В. кн. Ольгерд (1345-1377)</a>
+          <a href="olgerd.php">В. кн. Ольгерд</a> (1345-1377)</a>
         </li>
         <li>
           <a href="jagiello.php" class="item-edit">В. кн. Ягайло (1377-1381)</a>
@@ -43,13 +43,16 @@
           <a href="batory.php" class="item-edit">В. кн. Стефан Баторий (1575-1586)</a>
         </li>
         <li>
+          <a href="vasilkovsky.php" class="item-edit">Васильковский О. П.,  глава дипмиссии БНР в Прибалтике</a>
+        </li>
+        <li>
           <a href="volovicz.php" class="item-edit">Волович Евстафий,  епископ виленский, меценат и библиофил</a>
         </li>
         <li>
           <a href="charadzej.php" class="item-edit">Всеслав Чародей</a>
         </li>
         <li>
-          <a href="gusowsky.php">Гусовский Николай, "Песня о зубре"</a>
+          <a href="gusowsky.php">Гусовский Николай</a>, "Песня о зубре"
         </li>
         <li>
           <a href="gonsewsky.php" class="item-edit">Гонсевский Александр Корвин, комендант Кремля, 1610</a>
@@ -73,10 +76,16 @@
           <a href="kirill_tur.php" class="item-edit">Кирилл Туровский</a>
         </li>
         <li>
+          <a href="kondratovich.php" class="item-edit">Кондратович Киприан, министр обороны БНР</a>
+        </li>
+        <li>
           <a href="kostiushko.php" class="item-edit">Костюшко Тадеуш, национальный герой США</a>
         </li>
         <li>
           <a href="konenkow.php" class="item-edit">Коненков С. Т., скульптор</a>
+        </li>
+        <li>
+          <a href="kmicic.php" class="item-edit">Кмитич, оршанский хорунжий, герой "Трилогии" Г. Сенкевича</a>
         </li>
         <li>
           <a href="kunciewicz.php" class="item-edit">Кунцевич Иософат, архиепископ Полоцкий</a>
@@ -95,9 +104,6 @@
         </li>
         <li>
           <a href="radziwilly.php" class="item-edit">Магнатский род </br>— Радзивиллы</a>
-        </li>
-        <li>
-          <a href="kesgaila.php" class="item-edit">Магнатский род </br>— Кезгайлы</a>
         </li>
         <li>
           <a href="sapegi.php" class="item-edit">Магнатский род </br>— Сапеги</a>

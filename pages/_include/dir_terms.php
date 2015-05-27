@@ -4,9 +4,6 @@
 
           <h4>Термины</h4>
 
-		<li>
-          <a href="blr_etnos.php">Белорусский этнос</a>
-        </li>
         <li>
           <a href="belarus.php">Беларусь</a>
         </li>
@@ -15,6 +12,12 @@
         </li>
 		<li>
           <a href="bssr.php" class="item-edit">БССР</a>
+        </li>
+        <li>
+          <a href="blr_etnos.php">Белорусский этнос</a>
+        </li>
+        <li>
+          <a href="shliahta.php">Белорусская шляхта</a>
         </li>
 		<li>
           <a href="wkl.php">Великое княжество Литовское</a>
@@ -56,7 +59,7 @@
           <a href="efrosinia_rood.php" class="item-edit">Крест Ефросинии Полоцкой</a>
         </li>
 		<li>
-          <a href="husaria.php" class="item-edit">Крылатые гусары</a>
+          <a href="husaria.php" >Крылатые гусары</a>
         </li>
 		<li>
           <a href="litwiny.php">Литвины</a>
@@ -114,9 +117,6 @@
         </li>
         <li>
           <a href="filomaty.php" class="item-edit">Филоматы</a>
-        </li>
-		<li>
-          <a href="shliahta.php">Шляхта</a>
         </li>
 		<li>
           <a href="#" class="item-unable">Шляхетская демократия</a>

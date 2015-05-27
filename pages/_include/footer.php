@@ -60,7 +60,7 @@
     
     <div class="col-md-12" style="text-align: center">
     	<p>
-		 <font style="color:#F00;">История Беларуси. Кратко. Интерактивно. Объективно. Must have.</font>
+		 <font style="color:#F00;">Ликбез: история Беларуси. Кратко. Интерактивно. Объективно. Must have.</font>
 		</p>
     </div>
     

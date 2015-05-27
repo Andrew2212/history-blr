@@ -1,11 +1,8 @@
 	    <!-- ***Meta*** -->
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="История Беларуси в кратком интерактивном изложении со ссылками на исторические документы и общедоступные ресурсы" />
-    <meta name="keywords" itemprop="keywords" content="История Беларуси, краткая история Беларуси, националльная идентификация, белорусские фамилии, белорусский национализм, карты ВКЛ, карты белорусского этноса, метрики ВКЛ, литвины, шляхта Беларуси, белорусы" />
 	<meta name="robots" content="all" />
-    <!-- ***Title*** -->
-    <title>Статьи о Беларуси — национальное самосознание и история</title>
+
     <!-- ***Styles*** -->
     <!-- Bootstrap Core CSS -->
     <link href="../../css/bootstrap.min.css" rel="stylesheet" />

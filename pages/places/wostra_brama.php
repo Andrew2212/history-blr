@@ -7,8 +7,10 @@
  	<title>Вострая брама. История Беларуси</title>
 
 <!-- ***Meta*** -->
-	<meta name="description" content="Вострая брама. История Беларуси" />
+	<meta name="description" content="Вострая брама — объект светского туризма и религиозного паломничества, памятник истории и архитектуры. 
+	Представляет собой единственные сохранившиеся ворота городской стены и часовню с чудотворным образом Матери Божией Остробрамской" />
   	<meta name="keywords" itemprop="keywords" content="Вострая Брама, Вильно, История Беларуси"/>
+  	<meta property="og:image" content="http://history-belarus.by/images/img-places/nesviz/nesviz_A1.jpg" />
 
 
 <!-- ***Include Header*** -->

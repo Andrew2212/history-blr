@@ -52,6 +52,35 @@
 		Императорского Русского Географического Общества по этнографии Беларуси.</small>
 		</p>
 		<p>
+		Так, в академическом издании <a href="../download/russia_blr.php">"Россия. Полное географическое описание"</a> описывается облик
+		 и характер беларусов. При этом <a href="../terms/shliahta.php">белорусскую шляхту</a>
+		выносят в "отдельную этнографическую группу" местного происхождения.
+		</p>
+		
+	<div class="col-md-12">	
+		<div class="col-md-4 img-float-center">
+		<a target="_blank" href="../../images/img-terms/blr_etnos/blr_faceview.jpg">
+			<img src="../../images/img-terms/blr_etnos/blr_faceview_thumb.jpg" height="160"/>
+			</br><small>"Облик белорусского племени"</small>
+		</a>				
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a target="_blank" href="../../images/img-terms/blr_etnos/blr_character.jpg">
+			<img src="../../images/img-terms/blr_etnos/blr_character_thumb.jpg" height="160"/>
+			</br><small>"О характере белоруссов"</small>
+		</a>				
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a target="_blank" href="../../images/img-terms/shliahta/blr_shliahta1.jpg">
+		<img src="../../images/img-terms/shliahta/blr_shliahta1_thumb1.jpg" height="160">
+		</br><small>"Белорусская шляхта и панцирные бояре"</small>
+		</a>				
+		</div>				
+	</div>
+		
+		<p>
 			Историк Леонид Алексеев в книге «Полоцкая земля в IX - ХІІІ вв.» (1966 г.) отметил:
 			</br>«Современные данные археологии и топонимики показывают, что в эпоху раннего железа Восточную Европу населяли три крупные группы племён.
 			</br>Первая, ираноязычная, занимала Крымский полуостров, Кубань, Нижний Дон, Нижний Днепр и доходила на севере до водораздела Сейма, Десны и Оки.
@@ -71,14 +100,14 @@
 	<div class="col-md-12">	
 		<div class="col-md-6 img-float-center">
 		<a target="_blank" href="../../images/img-terms/slavs/brothers.jpg">
-			<img src="../../images/img-terms/slavs/brothers_thumb.jpg" />
+			<img src="../../images/img-terms/slavs/brothers_thumb.jpg" height="160"/>
 			</br><small>Балтская археология</small>
 		</a>				
 		</div>
 		
 		<div class="col-md-6 img-float-center">
 		<a target="_blank" href="../../images/img-terms/blr_etnos/slavic_shafarik.jpg">
-			<img src="../../images/img-terms/blr_etnos/slavic_shafarik_thumb.jpg" />
+			<img src="../../images/img-terms/blr_etnos/slavic_shafarik_thumb.jpg" height="160"/>
 			</br><small>Й. Шафарик о "славянах"</small>
 		</a>				
 		</div>				
@@ -105,17 +134,21 @@
 	<div class="col-md-12">	
 		<div class="col-md-6 img-float-center">
 		<a target="_blank" href="../../images/img-terms/blr_etnos/shafarik_blr_people.jpg">
-			<img src="../../images/img-terms/blr_etnos/shafarik_blr_people_thumb.jpg" />
+			<img src="../../images/img-terms/blr_etnos/shafarik_blr_people_thumb.jpg" height="160"/>
 			</br><small>Й. Шафарик. "Славянские древности", 1847</small>
+		</a>
+		</a>
+			</br><a href="../download/shafarik.php">Смотреть / Скачать
 		</a>				
 		</div>
 		
 		<div class="col-md-6 img-float-center">
 		<a target="_blank" href="../../images/img-terms/blr_etnos/kirkor_blr_people.jpg">
-			<img src="../../images/img-terms/blr_etnos/kirkor_blr_people_thumb.jpg" />
+			<img src="../../images/img-terms/blr_etnos/kirkor_blr_people_thumb.jpg" height="160"/>
 			</br><small>А. Киркор, Живописная Россия. Белорусское Полесье. 1882</small>
 		</a>
-			</br><small>Скачмть можно <a href="../download/kirkor.php">тут</a></small>
+			</br><a href="../download/kirkor.php">Смотреть / Скачать
+		</a>
 		</div>				
 	</div>
 		
@@ -140,28 +173,28 @@
 	<div class="col-md-12">
 		
 		<a target="_blank" href="../../images/img-terms/slavs/baltic_tribes.jpg">
-			<img class="img-float-left" src="../../images/img-terms/slavs/baltic_tribes_thumb.jpg" height="200"/>
-		</a>
-		
-		
+			<img class="img-float-left" src="../../images/img-terms/slavs/baltic_tribes_thumb.jpg" height="160"/>
+		</a>		
 		
 		<a target="_blank" href="../../images/img-terms/slavs/etno_slavs_7-9vek.jpg">
-			<img class="img-float-left" src="../../images/img-terms/slavs/etno_slavs_7-9vek_thumb.jpg" height="200"/>
-		</a>
-		
-		
+			<img class="img-float-left" src="../../images/img-terms/slavs/etno_slavs_7-9vek_thumb.jpg" height="160"/>
+		</a>		
 		
 		<a target="_blank" href="../../images/img-terms/slavs/blr_etnos.jpg">
-			<img class="img-float-left" src="../../images/img-terms/slavs/blr_etnos_thumb.jpg" height="200"/>
+			<img class="img-float-left" src="../../images/img-terms/slavs/blr_etnos_thumb.jpg" height="160"/>
 		</a>
 		
 		<a target="_blank" href="../../images/img-terms/slavs/map_Lotter_litwa_1778_etno.jpg">
-			<img class="img-float-left" src="../../images/img-terms/slavs/map_Lotter_litwa_1778_etno_thumb.jpg" height="200"/>
+			<img class="img-float-left" src="../../images/img-terms/slavs/map_Lotter_litwa_1778_etno_thumb.jpg" height="160"/>
+		</a>
+		
+		<a target="_blank" href="../../images/img-terms/blr_etnos/blr_etnos15ce.jpg">
+			<img class="img-float-left" src="../../images/img-terms/blr_etnos/blr_etnos15ce_thumb.jpg" height="160"/>
 		</a>
 	</div>
 		
 		<p>
-			</br>Беларуский народ сложился на основе территориальных культурно-этнических сообществ во времена <a href="wkl.php">Великого Княжества Литовского</a>.
+			Беларуский народ сложился на основе территориальных культурно-этнических сообществ во времена <a href="wkl.php">Великого Княжества Литовского</a>.
 			
 		</p>
 		<p>

@@ -8,8 +8,9 @@
 
 <!-- ***Meta*** -->
     <meta name="description" content="Национальный флаг Беларуси — флаг, цвета которого сопровождают историю нашего народа уже более 500 лет. История национального флага Беларуси." />
-    <meta name="keywords" itemprop="keywords" content="бчб флаг, флаг беларусi, флаг беларуси, бело красно белый флаг беларуси, флаг белоруссии, белорусский флаг, 
+    <meta name="keywords" itemprop="keywords" content="старый флаг беларуси, бчб флаг, флаг беларусi, флаг беларуси, бело красно белый флаг беларуси, флаг белоруссии, белорусский флаг, 
 	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-terms/blr_flag/Belarusian_woman_in_traditional_outfit_South_West_Belarus_1920.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>
@@ -29,7 +30,7 @@
 		
 	<div class="col-md-12">	
 		<p class="img-float-left">
-		<img src="../../images/img-terms/blr_flag/flagBChB.jpg">
+		<img src="../../images/img-terms/blr_flag/flagBChB.jpg" height="80" >
 		</p>		
 		<p>
 		Утвержден 25 марта 1917 года в Минске на Первом Белорусском конгрессе.
@@ -39,11 +40,27 @@
 	</div>
 		
 		<h4>Происхождение </h4>
+		
 		<p>
 		Белый и красный цвета характерны для белорусской культуры, например, красные элементы на белой основе считаются самым 
 		распространённым сочетанием цветов в белорусском орнаменте. 
 		Белый и красный — цвета национального герба <a href="blr_gerb.php">Погоня</a>.
 		</p>
+		
+		<p class="img-float-left">
+		<a target="_blank" href="../../images/img-terms/blr_flag/Belarusian_woman_in_traditional_outfit_South_West_Belarus_1920.jpg">
+		<img src="../../images/img-terms/blr_flag/Belarusian_woman_in_traditional_outfit_South_West_Belarus_1920.jpg" height="160">
+		</br><small>Woman, 1920</small>
+		</a>
+		</p>
+		
+		<p class="img-float-right">
+		<a target="_blank" href="../../images/img-terms/blr_flag/Siege_of_Polotsk_in_1579.jpg">
+		<img src="../../images/img-terms/blr_flag/Siege_of_Polotsk_in_1579_thumb.jpg" height="160">
+		</br><small>Осада Полоцка 1579 года</small>
+		</a>
+		</p>
+		
 		<p>
 		В геральдике и вексиллологии красный цвет (червлень) символизирует любовь, смелость, великодушие, а так же кровь, пролитую в борьбе.
 		Белый (серебро) означает чистоту, благородство, надежду, правдивость.
@@ -52,13 +69,7 @@
 		В христианской символике бело-красно-белые полосы, называемые источниками или струями, присутствуют на мантиях священников. 
 		Они символизируют учение, проистекающее из Ветхого и Нового Заветов и проповедуемое архиереем.
 		</p>
-		
 
-	<div class="col-md-12">
-		<p class="img-float-left">
-		<img src="../../images/img-terms/blr_flag/battle_orsha.jpg" height="300">
-		</br><small><a href="../events/orsha_battle.php">Битва под Оршей</a></small>
-		</p>
 		<p>
 		По мнению некоторых специалистов, бело-красно-белые цвета флага могут происходить от треугольных флажков на пиках польско-литовской кавалерии, 
 		которые были белыми с красным крестом Святого Георгия (прямой красный крест на белом полотнище), 
@@ -77,26 +88,38 @@
 			Россия получила свой флаг, бывший до этого два века флагом торгового флота, только в 1883 году 
 			(ранее 25 лет государственным флагом было черно-желто-белое полотнище). И т.д.
 		</p>
-	</div>
 		
 		<p>			
 		</br>БЧБ флаги над войсками <a href="wkl.php">ВКЛ</a> часто изображаются на живописных полотнах XVI-XVII вв.
 		</br>БЧБ полосы мы видим на иконе святого Иосафата Кунцевича (архиепископ Полоцкий 1618-23 гг.), почитаемого греко-католической церковью и на одеждах православных архиереев.
 		</p>
-	<div class="col-md-12">			
+	<div class="col-md-12">	
+		<p class="img-float-left">
+		<a href="../events/orsha_battle.php">
+		<img src="../../images/img-terms/blr_flag/battle_orsha.jpg" height="160">
+		</br><small>Битва под Оршей</small>
+		</a>
+		</p>
+				
 		<p class=" img-float-left">
-		<img src="../../images/img-terms/blr_flag/battle_kircholm.jpg" height="200">
-		</br><small><a href="../events/battle_kircholm.php">Битва под Киргхольмом</a></small>
+		<a href="../events/battle_kircholm.php">
+		<img src="../../images/img-terms/blr_flag/battle_kircholm.jpg" height="160">
+		</br><small>Битва под Киргхольмом</small>
+		</a>
 		</p>
 		
 		<p class=" img-float-left">
-		<img src="../../images/img-terms/blr_flag/kuncewicz.jpg" height="200">
+		<a href="../figures/kunciewicz.php">
+		<img src="../../images/img-terms/blr_flag/kuncewicz.jpg" height="160">
 		</br><small>Икона святого Иосафата</small>
+		</a>
 		</p>
 		
 		<p class=" img-float-left">
-		<img src="../../images/img-terms/blr_flag/battle_hotino.jpg" height="200">
-		</br><small><a href="../events/battle_hotin.php">Хотинская битва</a></small>
+		<a href="../events/battle_hotin.php">
+		<img src="../../images/img-terms/blr_flag/battle_hotino.jpg" height="160">
+		</br><small>Хотинская битва</small>
+		</a>
 		</p>		
 	</div>
 		
@@ -210,7 +233,11 @@
 		
 		<p>
 		Сегодня БЧБ флаг, <a href="blr_gerb.php">Погоня</a>, национальный орнамент стали символами единения нации, уважения к своей истории.
-		</p>		
+		</p>
+		<p>
+		11 августа — День национального герба и флага. Первое официальное описание герба и флага Беларуси — БНР, газета "Вольная Беларусь", 1918
+		</p>
+				
 	<div class="col-md-12">
 		<p class=" img-float-left">
 		<img src="../../images/img-terms/blr_flag/blr_now.jpg" height="200" >
@@ -224,7 +251,7 @@
 		<img src="../../images/img-terms/blr_flag/blr_now1.jpg" height="200" ">
 		</p>
 	</div>
-
+	
 		
 		
 				</br></br></br>

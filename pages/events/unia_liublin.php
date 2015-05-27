@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+  <!-- ***Title*** -->
+    <title>Люблинская уния. История Беларуси</title>
+<!-- ***Meta*** -->  
+    <meta name="description" content="Люблинская уния. 
+	Основные события в истории Беларуси — короткие интерактивные статьи, 
+	иллюстрированные истрическими картами и архивными документами" />
+	<meta name="keywords" itemprop="keywords" content="Люблинская уния, 
+	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-events/16_1.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_events.php"); ?>

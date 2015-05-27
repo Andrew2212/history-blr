@@ -7,8 +7,11 @@
  	<title>Литва историческая (Lithuania propria)и</title>
 
 <!-- ***Meta*** -->
-	<meta name="description" content="Литва в значении историческом (Littaw). Локализация на старых картах и в письменных первоисточниках." />
+	<meta name="description" content="Литва в значении историческом (Littaw, Lithuania Vrae). 
+	Локализация на старых картах и в письменных первоисточниках.
+	История Беларуси. Краткие интерактивные статьи об исторически значимых местах белорусских земель. Старые карты и архивные документы" />
   	<meta name="keywords" itemprop="keywords" content="Литва, Litvaniae, Littaw, Lithuania Russe, Lithuania propria"/>
+  	<meta property="og:image" content="http://history-belarus.by/images/img-events/16_1.jpg" />
 
 
 <!-- ***Include Header*** -->

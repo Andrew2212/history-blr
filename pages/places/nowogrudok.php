@@ -8,8 +8,10 @@
  	<title>Новогрудок. История Беларуси</title>
 
 <!-- ***Meta*** -->
-	<meta name="description" content="Новогрудок. Город на ятвяжских землях — первая столица ВКЛ." />
+	<meta name="description" content="Новогрудок. Город на ятвяжских землях — первая столица ВКЛ.
+	История Беларуси. Краткие интерактивные статьи об исторически значимых местах белорусских земель. Старые карты и архивные документы" />
   	<meta name="keywords" itemprop="keywords" content="Новогрудок, первая столица ВКЛ, Исторические места Беларуси, памятные места Беларуси"/>
+  	<meta property="og:image" content="http://history-belarus.by/images/img-places/nowogrudok/nowogrudok.jpg" />
 
 
 <!-- ***Include Header*** -->

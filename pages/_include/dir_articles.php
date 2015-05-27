@@ -23,6 +23,10 @@
           <a href="essay.php">Эссе на заданную тему</a>
         </li>
         <li>
+          <a href="blr_context.php">Беларусь. Культурный контекст</a>
+		</br>обращение к медиа-реурсам
+        </li>
+        <li>
           <a href="old_bel_shliahta.php">СРЭБНАЯ СТРАЛА Ў ЧЫРВОНЫМ ПОЛІ</a>
         </li>
         <li>

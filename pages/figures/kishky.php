@@ -2,6 +2,20 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+    
+<!-- ***Title*** -->
+ 	<title>Магнатский род Кишки. История Беларуси</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Магнатский род Кишки. 
+	Выдающиеся люди в истории Беларуси. Эти люди рождались, жили, творили, сражались и умирали на этой земле и за эту землю. 
+	Они достойны того, чтобы их помнили. Среди них были воины и поэты, художники и скульпторы, ученые и путешественники, 
+	авантюристы и интеллектуалы-романтики, первый Президент Гавайев и основоположник ракетостроения, первый исследователь древнего Вавилона и 
+	святой апостол церковного единения.
+	" />
+  	<meta name="keywords" itemprop="keywords" content="Магнатский род Кишки,
+	  история беларуси, история белоруссии, история беларуси кратко в датах, известные люди беларуси, знаменитые люди беларуси"/>
+	<meta property="og:image" content="http://history-belarus.by/images/img-figures/litwa_rb.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_figures.php"); ?>
@@ -18,6 +32,14 @@
     <div class="col-md-8">
 		<h3>Кишки</h3>
 		<img class="img-float-left" src="../../images/img-figures/kishky/dabrowa.jpg" height="200" >
+		
+		<p class="img-float-right">
+		<a target="_blank" href="../../images/img-figures/kishky/polasie.jpg">
+			<img src="../../images/img-figures/kishky/polasie_thumb.jpg" height="160" >
+			</br><small>Подляшье</small>
+		</a>
+		</p>
+		
 		<p>
 		Статья в разработке
 		</p>

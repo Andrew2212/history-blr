@@ -11,7 +11,8 @@
 Люди, которые восстановили независимость Беларуси в 1991 году, в качестве своего ориентира видели именно Белорусскую Народную Республику 1918 года. Этот день — главный праздник Беларуси. " />
     <meta name="keywords" itemprop="keywords" content="бнр, 
 	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
-
+	<meta property="og:image" content="http://history-belarus.by/images/img-terms/bnr/map_bnr.jpg" />
+	
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>
   
@@ -96,10 +97,33 @@
 		В этих странах работали белорусские дипломатические и военно-дипломатические миссии, консульства и представительства 
 		(в Каунасе, Риге, Константинополе, Киеве, Одессе, Праге, Берлине, Гданьске, Копенгагене и других городах).
 		</p>
+
 		
-		<p class="img-float-center">
-		<img src="../../images/img-terms/bnr/bnr_mission.jpg" class="img-float-center">
+		<div class="col-md-12 " >
+		<p>
+			
+			<div class=" col-md-3 img-float-center">
+			<a href="../figures/vasilkovsky.php">
+			<img src="../../images/img-figures/vasilkovsky/Oleg_Petrovich_Vasilkovskiy.jpg" height="200" class="img-float-center">
+			</br><small>О. П. Васильковский
+			</br>глава дипмиссии БНР в Прибалтике </small>
+			</a>
+			</div>
+			
+			<div class=" col-md-6 img-float-center">
+			<img src="../../images/img-terms/bnr/bnr_mission.jpg" class="img-float-center">
+			</div>
+			
+			<div class=" col-md-3 img-float-center">
+			<a href="../figures/kondratovich.php">
+			<img src="../../images/img-figures/kondratowich/kandratovic_1906.jpg" height="200" class="img-float-center">
+			</br><small>К. А. Кондратович
+			</br>министр обороны БНР</small>
+			</a>
+			</div>
+			
 		</p>
+		</div>
 		
 		<p>
 		Именно с 25 марта 1918 года и по сей день Беларусь существует на политической карте Европы как самостоятельная единица. 

@@ -13,10 +13,16 @@
           <a href="zbor_shliahty.php">Собрание имен шляхты Польши и ВКЛ, 1805 г.</a>
         </li>
         <li>
+          <a href="shliahta_zmud.php">Шляхта жмудская</a>
+        </li>
+        <li>
           <a href="metrica_litwa.php">Литовские Метрики</a>
         </li>
         <li>
           <a href="spis_voiska.php">Перепись войска Литовского 1528-1565 г.</a>
+        </li>
+        <li>
+          <a href="spis_1863.php">Список осужденных участников восстания 1863 года</a>
         </li>
         <li>
           <a href="kirkor.php">А. Г. Киркор
@@ -27,11 +33,18 @@
 		  </br>"Славянские древности", 1847</a>
         </li>
         <li>
+          <a href="russia_blr.php">"Россия. Полное географическое описание."
+		</br>Верхнее Поднепровье и Белоруссия. 1905</a>
+        </li>
+        <li>
           <a href="kraina_blr.php">Kраiна Беларусь</a>
         </li>
         <li>
           <a href="chronicles_peter.php">Peter von Duisburg
 		  </br>"Chronicon terrae Prussiae" 1326</a>
+        </li>
+        <li>
+          <a href="carolomachia.php">Carolomachia, 1606</a> — поэма в честь Яна Кароля Ходкевича
         </li>
         <li>
           <a href="monet_blr.php">Монеты ВКЛ-Беларуси до 1707 года</a>

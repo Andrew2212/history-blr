@@ -2,12 +2,16 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+  
 <!-- ***Title*** -->
  	<title>Топонимика. История Беларуси</title>
 
 <!-- ***Meta*** -->
-	<meta name="description" content="Краткие интерактивные статьи об исторически значимых местах белорусских земель." />
-  	<meta name="keywords" itemprop="keywords" content="Исторические места Беларуси, памятные места Беларуси/>
+	<meta name="description" content="
+	История Беларуси. Краткие интерактивные статьи об исторически значимых местах белорусских земель. Старые карты и архивные документы" />
+  	<meta name="keywords" itemprop="keywords" content="
+	  Исторические места Беларуси, памятные места Беларуси"/>
+  	<meta property="og:image" content="http://history-belarus.by/images/img-places/nesviz/nesviz_A1.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_places.php"); ?>

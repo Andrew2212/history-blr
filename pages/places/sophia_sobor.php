@@ -7,8 +7,11 @@
  	<title>Софийский собор. История Беларуси</title>
 
 <!-- ***Meta*** -->
-	<meta name="description" content="Софийский собор. История Беларуси" />
-  	<meta name="keywords" itemprop="keywords" content="Софийский собор, Полоцк, История Беларуси"/>
+	<meta name="description" content="Софийский собор. 
+	История Беларуси. Краткие интерактивные статьи об исторически значимых местах белорусских земель. Старые карты и архивные документы" />
+  	<meta name="keywords" itemprop="keywords" content="софийский собор, 
+	  Исторические места Беларуси, памятные места Беларуси"/>
+  	<meta property="og:image" content="http://history-belarus.by/images/img-places/nesviz/nesviz_A1.jpg" />
 
 
 <!-- ***Include Header*** -->
