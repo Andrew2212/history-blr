@@ -118,7 +118,7 @@
 		</p>
 		<p class="img-float-center">
 		<a target="_blank" href="../../images/img-terms/blr_gerb/gusaria_signs.jpg">
-		<img src="../../images/img-terms/blr_gerb/gusaria_signs_thumb.jpg" height="120">
+		<img src="../../images/img-terms/blr_gerb/gusaria_signs.jpg" height="120">
 		</br><small>Белоруский и Гродненский 
 		</br>гусарские полки, XIX</small>	
 		</a>

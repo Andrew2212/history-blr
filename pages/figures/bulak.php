@@ -111,19 +111,32 @@
 		Был убит в Варшаве 10 мая 1940 года немецким патрулём
 		</p>
 		
-		<p class="img-float-center">
-			<a target="_blank" href="../../images/img-figures/bulak/Bulak_Balachowicz_Warsaw.jpg">
+	<div class="col-md-12">	
+	
+		<div class="col-md-6 img-float-center">
+		<a target="_blank" href="../../images/img-figures/bulak/Bulak_Balachowicz_Warsaw.jpg">
 			<img alt="Булак-Балахович" src="../../images/img-figures/bulak/Bulak_Balachowicz_Warsaw_thumb.jpg" height="180" >
 			</br><small>Мемориальная доска 
 			</a>
 			</br>на здании православной духовной семинарии 
 			</br>в память о генерале Булак-Балаховиче, Варшава</small>
-			
-		</p>
+		</div>
+		
+		<div class="col-md-6 img-float-center">
+		<a target="_blank" href="../../images/img-figures/bulak/bulak_memory.jpg">
+			<img alt="Булак-Балахович" src="../../images/img-figures/bulak/bulak_memory_thumb.jpg" height="180" >
+			</br><small>Памятник Балаховичам
+			</a>
+			</br>— Станиславу и его брату Язепу 
+			</br>на кладбище д. Беловежа, Польша</small>
+		</div>
+		
+	</div>
 		
 		</br></br></br>
 		<p><small>
 		http://www.hrono.info/biograf/bio_b/bulak_balahovich.php</br>
+		https://pieramoha.org/artykuly/pamiac-pra-jazepa-bulak-balachovicza-zhyvie</br>
 		http://charter97.org/ru/news/2013/2/10/65116/</br>
 		http://www.istpravda.ru/digest/1440/</br>
 		http://mirmarok.ru/prim/view_article/641/</br>

@@ -103,10 +103,33 @@
 		<small>Эл. почта для писем </small>
 		</br><font style="color:#F00;"> history.msg<img src="../../images/img-about/dog.jpg"/>gmail.com</font>
 		</p>
-
-		<p>
+		
+		
+	<div class="col-md-12">
+	
+		<div class="col-md-6">
+		<h4>В проекте участвуют</h4>
+		<ul>
+        <li>
+          <a href="#" class="item-unable">Кристобаль Хозевич</a>
+        </li>
+        <li>
+          <a target="_blank" href="https://twitter.com/IMrFreeman">Александр</a>,
+		  </br>редактор <a href="https://twitter.com/Belbriefhistory">Твиттер-блога</a></a>
+        </li>
+        <li>
+          <a target="_blank" href="https://www.facebook.com/aliaksei.kairys">Aliaksei Kairys</a>, историк, автор и эксперт текстов по темам
+        </li>
+        <li>
+          <a target="_blank" href="http://www.talaka.by/user/555" >Ратмир Новиков</a>, программист-консультант
+        </li>
+        </ul>
+        </div>
+        
+        <div class="col-md-6">
+        <h4>
 			Цветовые обозначения оглавлений разделов:
-		</p>
+		</h4>
 		<p>
 			<a href="#" class="item-unable">Some link</a> — страница отсутствует
 		</p>
@@ -114,11 +137,38 @@
 			<a href="#" class="item-edit">Some link</a> — страница с неотредактированным текстом
 		</p>
 		<p>
-			<a href="#" class="item-link">Some link</a> — страница с текстом без гиперссылок или с неполной их расстановкой
-		</p>
-		<p>
 			<a href="#">Some link</a> — страница готова
 		</p>
+        </div>
+	   
+	</div>
+	
+	<div class="col-md-12 img-float-center">
+      		 <h4>Наши банеры</h4>
+       		 
+       		 <div class="col-md-3 img-float-center">
+       		 <img src="../../banners/banner_120x60.jpg">
+        	 </br><small>120x60</small>
+       		 </div>
+       		 
+       		 <div class="col-md-3 img-float-center">
+       		 <img src="../../banners/banner_150x60.jpg">
+        	 </br><small>150х60</small>
+       		 </div>
+       		 
+       		 <div class="col-md-3 img-float-center">
+       		 <img src="../../banners/banner_100x100.jpg">
+        	 </br><small>100х100</small>
+       		 </div>
+        
+       		 <div class="col-md-3 img-float-center">
+       		 <img src="../../banners/banner_175x175.jpg">
+      		 </br><small>175x175</small>
+      		 </div>
+   	</div>
+
+				
+		
 	</div>
 	
 	<!-- ***Sidebar Right*** -->

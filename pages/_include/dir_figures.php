@@ -14,6 +14,9 @@
           <a href="bulak.php">Булак-Балахович</a>
         </li>
         <li>
+          <a href="budny.php" class="item-edit">Будны Сымон</a>
+        </li>
+        <li>
           <a href="mindowg.php">В. кн. Миндовг</a> (1248-1263),
 		  </br>король пруссов и литвинов
         </li>
@@ -34,6 +37,9 @@
           <a href="jagiello.php" class="item-edit">В. кн. Ягайло (1377-1381)</a>
         </li>
         <li>
+          <a href="kejstut.php" class="item-edit">В. кн. Кейстут (1381-1382)</a>
+        </li>
+        <li>
           <a href="vitovt.php" class="item-edit">В. кн. Витовт (1392-1430)</a>
         </li>
         <li>
@@ -43,10 +49,16 @@
           <a href="batory.php" class="item-edit">В. кн. Стефан Баторий (1575-1586)</a>
         </li>
         <li>
-          <a href="vasilkovsky.php" class="item-edit">Васильковский О. П.,  глава дипмиссии БНР в Прибалтике</a>
+          <a href="sigismund_waza.php" class="item-edit">В. кн. Жигимонт III Ваза (1587-1632), король шведов, готов, вендов</a>
         </li>
         <li>
-          <a href="volovicz.php" class="item-edit">Волович Евстафий,  епископ виленский, меценат и библиофил</a>
+          <a href="poniatowski.php">В. кн. Станислав II Август (1764-1795)</a>
+        </li>
+        <li>
+          <a href="vasilkovsky.php">Васильковский О. П.</a>,  глава дипмиссии БНР в Прибалтике
+        </li>
+        <li>
+          <a href="volovicz.php">Воловичи</a> — от канцлера ВКЛ до змагара 1830 г.
         </li>
         <li>
           <a href="charadzej.php" class="item-edit">Всеслав Чародей</a>
@@ -55,10 +67,10 @@
           <a href="gusowsky.php">Гусовский Николай</a>, "Песня о зубре"
         </li>
         <li>
-          <a href="gonsewsky.php" class="item-edit">Гонсевский Александр Корвин, комендант Кремля, 1610</a>
+          <a href="gonsewsky.php">Гонсевский Александр</a>, комендант Кремля, защитник Смоленска
         </li>
         <li>
-          <a href="david.php" class="item-edit">Давид Городенский</a>
+          <a href="david.php">Давид Городенский</a>, каштелян Гарты
         </li>
 		<li>
           <a href="domeyko.php" class="item-edit">Домейко Игнацы, национальный герой Чили</a>
@@ -67,13 +79,16 @@
           <a href="#" class="item-unable">Достоевский Ф. М.</a>
         </li>
         <li>
+          <a href="drozdovich.php">Дроздович Язеп</a>, "вечный странник"
+        </li>
+        <li>
           <a href="efrosinia.php" class="item-edit">Ефросиния Полоцкая</a>
         </li>
 		<li>
           <a href="kalinowski.php" class="item-edit">Калиновский Кастусь</a>
         </li>
         <li>
-          <a href="kirill_tur.php" class="item-edit">Кирилл Туровский</a>
+          <a href="kirill_tur.php">Кирилл Туровский</a>, богослов и писатель
         </li>
         <li>
           <a href="kondratovich.php" class="item-edit">Кондратович Киприан, министр обороны БНР</a>
@@ -160,7 +175,7 @@
           <a href="torwald.php" class="item-edit">Торвальд Кодранссон, креститель Полоцка</a>
         </li>
         <li>
-          <a href="tiapinsky.php" class="item-edit">Тяпинский Василий, гуманист и еретик</a>
+          <a href="tiapinsky.php">Тяпинский Василий</a> гуманист и еретик
         </li>
 		<li>
           <a href="hodkewich.php" class="item-edit">Ходкевичи, воины великого княжества</a>

@@ -205,7 +205,8 @@
 		
 		<h4><small>Люди</small></h4>
 		<p>
-		<a href="../figures/rejtan.php">Тадеуш Рейтан</a> • <a href="../figures/kostiushko.php">Тадеуш Костюшко</a> • <a href="../terms/dukes_wkl.php">Станислав II Август Понятовский</a> • 
+		<a href="../figures/rejtan.php">Тадеуш Рейтан</a>, Дон Кихот Речи Посполитой • <a href="../figures/kostiushko.php">Тадеуш Костюшко</a> 
+		• <a href="../figures/poniatowski.php">Станислав II Август Понятовский</a>, последний в. князь • 
 		</p>
 	 
 	 <h4></br>Соседи</h4>

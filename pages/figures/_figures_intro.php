@@ -54,6 +54,12 @@
 		<p>
 			А принципы <a href="../articles/nation_id.php">национальной идентификации</a> — они стары, и едины для любого народа, в любой точке мира.  
 		</p>
+		<p class="img-float-center">
+			<a target="_blank" href="../../images/img-figures/blr_polak.jpg">
+			<img src="../../images/img-figures/blr_polak.jpg" width="140"/>
+			</br><small>О кривичах, белорусах и поляках</small>
+			</a>
+		</p>
 		
 		<p> 
 			<a href="you.php"> Прикоснись</a> к истории, и, может, имена <a href="mindowg.php">Миндовг</a>,<a href="hodkewich.php"> Ходкевич</a>, 
@@ -62,7 +68,8 @@
 		</p>
 		
 		<p class="img-float-center">
-			<a href="../download/_download_intro.php"><img src="../../images/img-figures/litwa_rb.jpg" width="600"/></a>
+			<a href="../download/_download_intro.php">
+			<img src="../../images/img-figures/litwa_rb.jpg" width="600"/></a>
 			</br>Карты ВКЛ большего размера можно посмотреть <a href="../download/map_wkl.php">тут</a> и <a href="../download/map_wkl_lotter.php">тут</a>
 		</p>
 	</div>

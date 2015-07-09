@@ -111,26 +111,35 @@
 	<p>
 	Под знаком "Погони" впервые с 1795 года было объявлено независимое белорусское государство — <a href="bnr.php">БНР</a>.
 	</br>"Погоня" и <a href="blr_flag.php">БЧБ флаг</a> для белорусских диаспор стали символами Бацькаўшчыны.
+	</br>"Погоня" была неотъемлемой частью белорусского Космоса у "вечного странника", художника и этнографа 
+	<a href="../figures/drozdovich.php">Язепа Дроздовича</a>.  
 	</br>Под "Погоней" и БЧБ флагом принимал присягу первый Президент РБ, 
 	 эти символы с гордостью носили защитники Отечества и простые граждане.  
 	</p>
 	
 	<div class="col-md-12" >
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a target="_blank" href="../../images/img-terms/blr_gerb/postcard_bnr.jpg">
 		<img src="../../images/img-terms/blr_gerb/postcard_bnr_thumb.jpg" height="120">
 		</br><small>Герб БНР, 1918</small>	
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
+			<a target="_blank" href="../../images/img-figures/drozdovich/jazep_pagonia.jpg" >
+			<img src="../../images/img-figures/drozdovich/jazep_pagonia.jpg" height="120"/>
+			</br><small>Я. Дроздович. Пагоня, 1927</small>
+			</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
 		<a target="_blank" href="../../images/img-terms/blr_gerb/1970_belarusy_toronto.jpg">
 		<img src="../../images/img-terms/blr_gerb/1970_belarusy_toronto_thumb.jpg" height="120">
 		</br><small>Белорусская диаспора, Торонто, 1970</small>	
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a target="_blank" href="../../images/img-terms/blr_gerb/blr_1991.jpg">
 		<img src="../../images/img-terms/blr_gerb/blr_1991_thumb.jpg" height="120">
 		</br><small>"Погоня" в символике РБ, 1991</small>	
@@ -143,7 +152,8 @@
 	</br>Сегодня БЧБ флаг, Погоня, национальный орнамент стали символами единения нации, уважения к своей истории.
 	</p>
 	<p>
-	11 августа — День национального герба и флага. Первое официальное описание герба и флага Беларуси — БНР, газета "Вольная Беларусь", 1918
+	11 августа — День национального герба и флага. 
+	</br>Первое официальное описание герба и флага Беларуси — БНР, газета "Вольная Беларусь", 1918
 	</p>
 		
 		

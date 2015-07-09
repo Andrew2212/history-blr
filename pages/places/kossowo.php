@@ -26,8 +26,16 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Коссово</h3>
+		
+		<p class="img-float-left">
+		<a target="_blank" href="../../images/img-places/kossovo/kossovo.jpg">
+		<img alt="Волчин" src="../../images/img-places/kossovo/kossovo.jpg" height="160">
+		</br><small>Коссово, Беларусь</small>
+		</a>
+		</p>
+		
 		<p>
-			Коссово - город в Ивацевичском районе Брестской области Белоруссии в 15 км от Ивацевичей.
+			Коссово — город в Ивацевичском районе Брестской области Белоруссии в 15 км от Ивацевичей.
 		</p>
 		<p>
 			Поселение на месте современного Коссова существовало с X-XII века. Первое письменное упоминание города относится к 1494 году в привелее великого князя Литовского Александра, подарившего Коссово маршалку И. Хрептовичу
@@ -55,22 +63,24 @@
 		<div class="col-md-3 img-float-center">
 		<a target="_blank" href="../../images/img-places/kossovo/kosovo_palac.jpg">
 		<img src="../../images/img-places/kossovo/kosovo_palac_thumb.jpg" height="120">
-		</br>Коссовский замок 	
+		</br><small>Коссовский замок</small> 	
 		</a>
 		</div>
 		
 		<div class="col-md-6 img-float-center">
 		<a target="_blank" href="../../images/img-places/kossovo/kossovo_orda.jpg">
 		<img src="../../images/img-places/kossovo/kossovo_orda_thumb.jpg" height="120">
+		<small>
+		</br>Коссовский замок и усадьба Костюшко
 		</br>Рисунок Н. Орды.
-		</br>Коссовский замок и усадьба Костюшко	
+		</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a target="_blank" href="../../images/img-places/kossovo/kossovo_kostiushko.jpg">
 		<img src="../../images/img-places/kossovo/kossovo_kostiushko_thumb.jpg" height="120">
-		</br>Усадьба Костюшко	 	
+		</br><small>Усадьба Костюшко</small>	 	
 		</a>
 		</div>
 		

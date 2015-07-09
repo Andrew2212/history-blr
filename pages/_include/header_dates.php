@@ -91,6 +91,10 @@
           </li>
           
           <li>
+            <a href="../films/_films_intro.php">Films</a>
+          </li>
+          
+          <li>
             <a href="../../mova.html">
 			<img src="../../img/lang.png" >
 			</a>

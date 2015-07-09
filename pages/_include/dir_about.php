@@ -65,34 +65,7 @@
 		   Майстэрня старадаўніх геаграфічных мап
 		  </a>
         </li>
-
-          <h4>В проекте участвуют</h4>
-
-        <li>
-          <a href="#" class="item-unable">Кристобаль Хозевич</a>
-        </li>
-        <li>
-          <a target="_blank" href="https://twitter.com/IMrFreeman">Александр</a>,
-		  </br>редактор <a href="https://twitter.com/Belbriefhistory">Твиттер-блога</a></a>
-        </li>
-        <li>
-          <a target="_blank" href="https://www.facebook.com/aliaksei.kairys">Aliaksei Kairys</a>, историк, автор и эксперт текстов по темам
-        </li>
-        <li>
-          <a target="_blank" href="http://www.talaka.by/user/555" >Ратмир Новиков</a>, программист-консультант
-        </li>
-        <li>
-          <a href="#" class="item-unable">Some link</a>
-        </li>
-		<li>
-          <a href="#" class="item-unable">Some link</a>
-        </li>
-        <li>
-          <a href="#" class="item-unable">...</a>
-        </li>
-        <li>
-          <a href="#" class="item-unable">Some link</a>
-        </li>
       </ul>
+      
 	  </div>
 	

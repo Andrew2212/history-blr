@@ -28,7 +28,7 @@
 		<h3>Битвы под Лоевом, 1649 и 1651</h3>
 		
 		<p class="img-float-left">
-		<a target="_blank" href="../figures/radziwilly.php">
+		<a href="../figures/radziwilly.php">
 		<img alt="Януш Радзивилл" src="../../images/img-events/battle_loew/janush_radziwill.jpg" height="240">
 		</br><small>Януш Радзивилл</small>
 		</a>
@@ -68,7 +68,7 @@
 	<div class="col-md-12">
 		
 		<div class="col-md-6 img-float-center">
-		<a target="_blank" href="../download/zemie_ruskie.php">
+		<a href="../download/zemie_ruskie.php">
 		<img alt="Битва под Лоевом. Земли Русские" src="../../images/img-download/ziemie_ruskie_thumb.jpg" height="160">
 		</br><small>Земли Русские Речи Посполитой</small>
 		</a>

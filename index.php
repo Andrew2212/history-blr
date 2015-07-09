@@ -43,7 +43,7 @@
 	<div class="col-md-12">	
 
 	</br>
-	<small>Герб "Погоня" включен в "Дзяржаўны спіс гісторыка-культырных каштоўнасьцяў" Ресублики Беларусь
+	<small>Герб <a href="pages/terms/blr_gerb.php">Погоня</a> включен в "Дзяржаўны спіс гісторыка-культырных каштоўнасьцяў" Ресублики Беларусь
 	</small>
 	</div>
 	
@@ -152,7 +152,8 @@
         </li>
         <li><a target="_blank" href="http://litopys.org.ua/ipatlet/ipat.htm">ПОЛНОЕ СОБРАНІЕ РУССКИХЪ ЛЂТОПИСЕЙ</a>
 				</br>Изданное по Высочайшему повелЂнію 
-			</br>Императорскою Археографическою Коммиссіею. 1908 </li>
+			</br>Императорскою Археографическою Коммиссіею. 1908 
+		</li>
         <li>
           <a href="pages/download/chronicles_peter.php">"Chronicon terrae Prussiae"</a>, Peter von Duisburg, 1326
         </li>
@@ -163,6 +164,9 @@
         	<a target="_blank" href="http://books.google.by/books?id=sLhMAAAAcAAJ&pg=PT2&hl=ru&source=gbs_toc_r&cad=3#v=onepage&q&f=false">Sarmatiae Europeae Descriptio</a>
         	 Alexandri Gvagnini, 1581
         </li>
+        <li><a target="_blank" href="http://dlib.rsl.ru/viewer/01002886034#?page=1">Русский биографический словарь</a>
+				</br>Издание Санкт-Петербургского Императорского Русского исторического общества, 1896
+		</li>
         <li>
           Краiна Беларусь. Вялiкае Княства Лiтоўскае, ISBN 978-80-8101-602-8
         </li>

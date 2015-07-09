@@ -327,6 +327,7 @@
 		
 	</br></br></br>
 		<p><small>
+		https://www.facebook.com/radabolska/posts/701400556652348</br>
 		http://secret-r.net/arkhiv-publikatsij/8-2008/kak-ivan-groznyj-osvobozhdal-polotsk</br>
 		https://vylazy.wordpress.com/2010/09/03/великое-княжество-литовское/
 		http://www.belhistory.com/bel_tatars.shtml</br>

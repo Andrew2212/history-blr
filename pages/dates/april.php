@@ -304,7 +304,7 @@
 					<td>28</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>День памяти <a href="../figures/kirill_tur.php">Кирилла Туровского</a></li>
 						</ul>
 					</td>
 				</tr>

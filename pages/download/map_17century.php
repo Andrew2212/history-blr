@@ -59,6 +59,19 @@
 		<div class="col-md-12">
 			<p>
 			</br>
+			<img src="../../images/img-download/17_vek/1614_moskovia_thumb.jpg" class="img-float-left"/>
+				1614 Moskoviae, Amsterdam
+			</p>
+			<p>
+			Размер 3600 х 3000</br>
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DaVpCRXlHOUdoVVk/view?usp=sharing" class="btn btn-default img-float-left"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+			</p>
+		</div>
+		
+		<div class="col-md-12">
+			<p>
+			</br>
 			<img src="../../images/img-download/17_vek/1690_Hondius_Valk_Lithvaniae_thumb.jpg" class="img-float-left"/>
 				1690 Magni Ducatus Lithuaniae,  Peter Schenk & Gerald Valk, Amsterdam
 			</p>

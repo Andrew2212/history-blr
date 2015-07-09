@@ -23,7 +23,7 @@
           <a href="battle_polonka.php">Битва под Полонкой</a>, 1660, (с Московией)
         </li>
         <li>
-          <a href="battle_hotin.php" class="item-edit">Битвы под Хотином, 1621 и 1673, (с Османской Империей)</a>
+          <a href="battle_hotin.php">Битвы под Хотином</a>, 1621 и 1673, (с Османской Империей)
         </li>
         <li>
           <a href="battle_klushyn.php" class="item-edit">Битва при Клушине, 1610, (с Московией)</a>

@@ -82,6 +82,9 @@
 						<ul>
 							<li><a href="../events/battle_loew.php">Битва под Лоевом</a> с Войском Запорожским, 1651</li>
 						</ul>
+						<ul>
+							<li>Коронация <a href="../figures/mindowg.php">Миндовга</a> в Новогрудке, 1253</li>
+						</ul>
 					</td>
 				</tr>
 				
