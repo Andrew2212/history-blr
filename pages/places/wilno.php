@@ -62,7 +62,7 @@
 	
 		<p> 
 		</br>Вторая столица <a href="../terms/wkl.php">ВКЛ</a> после <a href="nowogrudok.php">Новогрудка</a> — 
-		через 100 лет после основания княжества <a href="../figures/minidowg.php">Миндовгом</a> (договор с Галицко-Волынским княжеством, 1219 г.), 
+		через 100 лет после основания княжества <a href="../figures/mindowg.php">Миндовгом</a> (договор с Галицко-Волынским княжеством, 1219 г.), 
 		Гедымин впервые упоминает о Вильно в своих письмах (1323)
 		<small>[<a target="_blank" href="https://archive.org/stream/codexdiplomatic00lithgoog#page/n48/mode/2up">оригинал</a> / 
 		<a target="_blank" href="http://www.vostlit.info/Texts/Dokumenty/Litva/XIV/Gedimin/index.phtml?id=2241">перевод</a>]</small> 

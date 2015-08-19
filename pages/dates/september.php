@@ -17,7 +17,8 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Сентябрь</h3>
-		<div class="col-md-6">
+		
+		<div class="col-md-12">
 		<table class="table table-hover">
 			<thead>
 				<tr>
@@ -26,309 +27,75 @@
 				</tr>
 			</thead>
 			<tbody>
-			
-				<tr>
-					<td>1</td>
-					<td>
-						<ul>
-							<li>###</li>							
-						</ul>
-					</td>
-				</tr>
-				
+
 				<tr>
 					<td>2</td>
 					<td>
 						<ul>
-							<li>Начало <a href="../events/battle_hotin.php">битвы под Хотином</a> с Османской империей, 1621 г.</li>
+							<li>1621 Начало <a href="../events/battle_hotin.php">битвы под Хотином</a> с Османской империей</li>
 						</ul>
 					</td>
 				</tr>
-				
-				<tr>
-					<td>3</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>4</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>5</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>6</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>7</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
 				
 				<tr>
 					<td class="data-vip">8</td>
 					<td>
 						<ul>
 							<li>День воинской славы. 
-							</br><a href="../events/orsha_battle.php">Битва под Оршей</a> с Московским царством, 1514 г.</li>
+							</br>1514 <a href="../events/orsha_battle.php">Битва под Оршей</a> с Московским царством</li>
 						</ul>
 					</td>
 				</tr>
-				
-				
-				<tr>
-					<td>9</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>10</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
 				
 				<tr>
 					<td>11</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>1530 У себя на родине, в Турове (РБ), умер <a href="../figures/ostrogski.php">Константин Острожский</a> — великий гетман Литовский</li>
 						</ul>
 					</td>
 				</tr>
-				
-				<tr>
-					<td>12</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>13</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>14</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>15</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-								
-			</tbody>
-		</table>
-	</div>
-	
-	<div class="col-md-6">
-	<table class="table table-hover">
-			<thead>
-				<tr>
-					<th>Дата</th>
-					<th>Событие</th>
-				</tr>
-			</thead>
-			<tbody>
-			
-				<tr>
-					<td>16</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>17</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>18</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>19</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
+
 				<tr>
 					<td>20</td>
 					<td>
 						<ul>
-							<li><a href="../events/war_moscow_1610.php">День взятия Москвы</a>, 1610 г.</li>
+							<li>1610 <a href="../events/war_moscow_1610.php">Взятие Москвы</a> во время 
+							<a href="../events/war_moscow_1610.php">войны 1609-1618</a></li>
 						</ul>
 					</td>
 				</tr>
-				
-				
-				<tr>
-					<td>21</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>22</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>23</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
+
 				<tr>
 					<td>24</td>
 					<td>
 						<ul>
-							<li><a href="../events/sinie_wody.php">Битва на Синих водах</a> с Золотой Ордой, 1362
-							</br><small>(дата примерно между 24 сент. - 25 дек.)</small></li>
+							<li>1362 <a href="../events/sinie_wody.php">Битва на Синих водах</a> с Золотой Ордой
+							 [ <small>дата примерно между 24 сент. - 25 дек.</small> ]</li>
+							 <li>1621 Умер <a href="../figures/hodkewich.php">Ян Кароль Ходкевич</a> — во время своей последней битвы 
+							 (<a href="../events/battle_hotin.php">Битва под Хотином</a> с Османской Империей)</li>
 						</ul>
 					</td>
 				</tr>
-				
-				
-				<tr>
-					<td>25</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>26</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
+
 				<tr>
 					<td>27</td>
 					<td>
 						<ul>
-							<li><a href="../events/battle_kircholm.php">Битва под Кирхгольмом</a> со Швецией, 1605 г.</li>
+							<li>1605 <a href="../events/battle_kircholm.php">Битва под Кирхгольмом</a> со Швецией</li>
 						</ul>
 					</td>
 				</tr>
-				
-				<tr>
-					<td>28</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
+
 				<tr>
 					<td>29</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>1529 Утвержден 1-й <a href="../terms/statut.php">Статут ВКЛ</a></li>
 						</ul>
 					</td>
 				</tr>
-				
-				<tr>
-					<td>30</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-								
+		
 			</tbody>
 		</table>
 	</div>

@@ -1,28 +1,41 @@
 
       <div class="col-md-2 right-bar">
 	   <p>
-			<img src="../../img/logo_stub.png" class="img-right-120"/></br>
-			<small><a href="july.php">Июль</a></small></br></br>
+			<a href="july.php">
+			<img src="../../images/img-dates/july_grunwald.jpg" class="img-right-80""/></br>
+			<small><a href="july.php">Июль</small>
+			</a></br>
+			
 	   </p>
 	   <p>
-			<img src="../../img/logo_stub.png" class="img-right-120"/></br>
-			<small><a href="august.php">Август</a></small></br></br>
+	   		<a href="august.php">
+			<img src="../../images/img-dates/august_flag.jpg" class="img-right-80"/></br>
+			<small>Август</small>
+			</a></br>
 	   </p>
 	   	<p>
-			<img src="../../img/logo_stub.png" class="img-right-120"/></br>
-			<small><a href="september.php">Сентябрь</a></small></br></br>
+	   		<a href="september.php">
+			<img src="../../images/img-dates/september_orsha.jpg" class="img-right-80"/></br>
+			<small>Сентябрь</small>
+			</a></br>
 	   </p>
 	   	<p>
-			<img src="../../img/logo_stub.png" class="img-right-120"/></br>
-			<small><a href="october.php">Октябрь</a></small></br></br>
+	   		<a href="october.php">
+			<img src="../../images/img-dates/october_Bierazvieczcza.jpg" class="img-right-80"/></br>
+			<small>Октябрь</small>
+			</a></br>
 	   </p>	 
 	   	<p>
-			<img src="../../img/logo_stub.png" class="img-right-120"/></br>
-			<small><a href="november.php">Ноябрь</a></small></br></br>
+	   		<a href="november.php">
+			<img src="../../images/img-dates/november_sluzk.jpg" class="img-right-80"/></br>
+			<small>Ноябрь</small>
+			</a></br>
 	   </p>
 	   	<p>
-			<img src="../../img/logo_stub.png" class="img-right-120"/></br>
-			<small><a href="december.php">Декабрь</a></small></br></br>
+	   		<a href="december.php">
+			<img src="../../images/img-dates/december_bogdanovicz.jpg" class="img-right-80"/></br>
+			<small>Декабрь</small>
+			</a></br>
 	   </p>	   
 	  </div>
 	

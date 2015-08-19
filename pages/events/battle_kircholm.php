@@ -29,14 +29,14 @@
 
 		<p class="img-float-left">
 		<a target="_blank" href="../../images/img-events/battle_kircholm/1630_livonia.jpg">
-		<img src="../../images/img-events/battle_kircholm/1630_livonia_thumb.jpg" height="200">
+		<img src="../../images/img-events/battle_kircholm/1630_livonia_thumb.jpg" height="160">
 		</br><small>1630, Ливония (Liefland & Curland)</small>
 		</a>
 		</p>
 		
 		<p class="img-float-right">
 		<a href="../figures/hodkewich.php">
-		<img src="../../images/img-events/battle_kircholm/hodkiewicz.jpg" height="200">
+		<img src="../../images/img-events/battle_kircholm/hodkiewicz.jpg" height="160">
 		</br><small>Ян Кароль Ходкевич</small>
 		</a>
 		</p>
@@ -93,7 +93,7 @@
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../download/carolomachia.php">
-		<img src="../../images/img-download/carolomachia/carolomachia.jpg" height="160">
+		<img src="../../images/img-events/battle_kircholm/karol_thumb.jpg" height="160">
 		</br><small>Поэма о Яне Ходкевиче, 1606</small>
 		</a>
 		</div>

@@ -10,6 +10,7 @@
 		книгу в печатном виде просто приятно взять в руки. Для тех, у кого купить книгу не случилось — эта раздача." />
   	<meta name="keywords" itemprop="keywords" content="Kраiна Беларусь, Iлюстраваная гiсторыя,  
 	   карты ВКЛ, история Беларуси, краткая история Беларуси, литовские метрики, Статут ВКЛ"/>
+	<meta property="og:image" content="http://history-belarus.by/images/img-download/kraina_blr.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_download.php"); ?>
@@ -36,7 +37,7 @@
 			</br>
 			Файл .PDF
 			</br>	
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DUlVwcmlyeFRkVEE/view?usp=sharing" class="btn btn-default img-float-left"
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DUlVwcmlyeFRkVEE/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>			
 		</div>

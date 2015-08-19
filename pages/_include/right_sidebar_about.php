@@ -41,16 +41,28 @@
           <a href="../download/shafarik.php">"Славянские древности"</a>, П. Й. Шафарик, 1847
         </li>
         <li>
+          <a href="../download/letopis_radziwil.php">Радзивилловская летопись</a>, XIII в.
+        </li>
+        <li>
           <a target="_blank" href="../download/kraina_blr.php">"Краiна Беларусь"</a>, ISBN 978-985-6919-82-7
         </li>
         <li>
           <a href="../download/chronicles_peter.php">"Chronicon terrae Prussiae"</a>, Peter von Duisburg, 1326
         </li>
         <li>
+          <a href="../download/chronicles_dubnica.php">Дубницкая хроника</a>, XIV-XV вв
+        </li>
+        <li>
         	<a target="_blank" href="https://archive.org/stream/codexdiplomatic00lithgoog#page/n24/mode/2up">Codex Diplomaticus Lithuaniae</a>, XIII-XIV вв
         </li>
         <li>
+          <a href="../download/kraina_blr.php">Kраiна Беларусь. Iлюстраваная гiсторыя</a>
+        </li>
+        <li>
           Краiна Беларусь. Вялiкае Княства Лiтоўскае, ISBN 978-80-8101-602-8
+        </li>
+        <li>
+          <a href="../download/blr_atlas.php">Вялiкi гiстарычны атлас Беларусi</a>, РУП "Белкартаграфiя" 2013
         </li>
         <li>
           Гiстарычны атлас Беларусi, ISBN 978-83-916658-4-8

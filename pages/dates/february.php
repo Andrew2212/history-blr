@@ -17,7 +17,8 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Февраль</h3>
-		<div class="col-md-6">
+		
+		<div class="col-md-12">
 		<table class="table table-hover">
 			<thead>
 				<tr>
@@ -31,7 +32,8 @@
 					<td>1</td>
 					<td>
 						<ul>
-							<li>###</li>							
+							<li>1411 Заключен Торуньский Мир — итог <a href="../events/war_1409-11.php">Великой войны 1409-1411</a> с Тевтонским Орденом</li>
+							<li>1863 <a href="../events/uprising_1863.php">Восстание Калиновского</a>. Временное провинциальное правительство Литвы и Беларуси издало манифест, призывавший всех литвинов взятся за оружие.</li>							
 						</ul>
 					</td>
 				</tr>
@@ -40,280 +42,63 @@
 					<td>2</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>1838 Родился <a href="../figures/kalinowski.php">Кастусь Калиновский</a> — предводитель восстания 1863 года на Беларуси</li>
 						</ul>
 					</td>
 				</tr>
-				
-				<tr>
-					<td>3</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
+
 				<tr>
 					<td>4</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>1746 Родился <a href="../figures/kostiushko.php">Тадеуш Костюшко</a> — национальный герой Беларуси, Летувы, Польши, США</li>
 						</ul>
 					</td>
 				</tr>
-				
-				
-				<tr>
-					<td>5</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>6</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>7</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>8</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>9</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>10</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>11</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
+
 				<tr>
 					<td>12</td>
 					<td>
 						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>13</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>14</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>15</td>
-					<td>
-						<ul>
-							<li>###</li>
+							<li>1839 Ликвидация <a href="../events/unia_religion_brest.php">Брестской церковной унии</a> — крах общеобразовательной ситемы Беларуси</li>
 						</ul>
 					</td>
 				</tr>
 								
-			</tbody>
-		</table>
-	</div>
-	
-	<div class="col-md-6">
-	<table class="table table-hover">
-			<thead>
-				<tr>
-					<th>Дата</th>
-					<th>Событие</th>
-				</tr>
-			</thead>
-			<tbody>
-			
-				<tr>
-					<td>16</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>17</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>18</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
 				<tr>
 					<td>19</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>1772 Австрией, Пруссией и Россией подписана конвенция о первом <a href="../events/razbor_rechi.php">Разделе</a> Речи Посполитой</li>
 						</ul>
 					</td>
 				</tr>
-				
-				
-				<tr>
-					<td>20</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>21</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
+
 				<tr>
 					<td>22</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>1883 Родился <a href="../figures/bulak.php">Станислав Булак-Балахович</a> — главнокомандцющий вооруженных сил БНР</li>
 						</ul>
 					</td>
 				</tr>
-				
 				
 				<tr>
 					<td>23</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>1879 Родился <a href="../figures/malewicz.php">Казимир Малевич</a> — белорусский художник, основатель УНОВИС (Витебск)</li>
 						</ul>
 					</td>
 				</tr>
-				
-				
-				<tr>
-					<td>24</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>25</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>26</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>27</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>28</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
+
 				<tr>
 					<td>29</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>1468  Издание Судебника <a href="../terms/dukes_wkl.php">Казимира Ягеллончика</a> — первого сборника законов ВКЛ, 
+							кодекса уголовного и процессуального права.</li>
+							<li>1768  <a href="../events/confederacyi_18vek.php">Барская конфедерация</a> — сбор шляхты для защиты внутренней и внешней самостоятельности страны</li>
 						</ul>
 					</td>
 				</tr>

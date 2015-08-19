@@ -1,29 +1,67 @@
 
-      <div class="col-md-2 right-bar">
-    	<p>
-			<img src="../../images/img-download/map_Lotter_litwa_1770_thumb.jpg" class="img-right-120"/></br>
-			<small><a href="map_wkl_lotter.php">карта ВКЛ</a> Тобиаса Лоттера</small>, 1770 г.</br></br>
-	   </p> 
-      	<p>
-			<img src="../../images/img-download/metrica_litwa.jpg" class="img-right-120"/></br>
-			<small><a href="metrica_litwa.php">Метрики Литовские</a></small></br></br>
-	   </p>
-	   <p>
-			<img src="../../images/img-download/voisko_wkl.jpg" class="img-right-120"/></br>
-			<small><a href="spis_voiska.php">Перепись войска Литовского 1528 г.</a></small></br></br>
-	   </p>
-	   <p>
-			<img src="../../images/img-download/map_nikola_radziwill_thumb.jpg" class="img-right-120"/></br>
-			<small><a href="map_radziwill.php">Карта ВКЛ</a> Никоая Криштофа Радзивилла, 1630 г.</small></br></br>
-	   </p>
-	   <p>
-			<img src="../../images/img-download/map_blr_people_thumb.jpg" class="img-right-120"/></br>
-			<small>Этнографическая <a href="blr_people.php">карта </a> белорусского племени, 1903 г.</small></br></br>
-	   </p> 
-	   <p>
-			<img src="../../images/img-download/rp_16_vek_nac_thumb.jpg" class="img-right-120"/></br>
-			<small>Подробная <a href="wkl_rp_belarus_16vek.php">карта Беларуси-ВКЛ</a> в составе Речи Посполитой</small></br></br>
-	   </p> 
+      <div class="col-md-2 left-bar">
+    	
+    	<ul>
+    	
+    	<h4>Карты</h4>
+        <li>
+          <a href="blr_people.php">Этнографическая карта белорусов</a>
+        </li>
+        <li>
+          <a href="wkl_equal_etno.php">Этнографическая карта белорусов на карте ВКЛ</a>
+        </li>
+        <li>
+          <a href="map_ptolemy.php">Европа на картах от Птолемея (150 г. н.э.) до XV века</a>
+        </li>
+         <li>
+          <a href="map_10century.php">Белорусске земли X в.</a>
+        </li>
+        <li>
+          <a href="map_11century.php" >Белорусске земли XI в.</a>
+        </li>
+        <li>
+          <a href="map_12century.php" >Белорусске земли XII в.</a>
+        </li>
+        <li>
+          <a href="map_13-14centuries.php">Белорусске земли XIII-XIV в.</a>
+        </li>
+        <li>
+          <a href="map_15century.php">Белорусске земли XV в.</a>
+        </li>
+        <li>
+          <a href="map_16century.php">Белорусске земли XVI в.</a>
+        </li>
+        <li>
+          <a href="map_17century.php">Белорусске земли XVII в.</a>
+        </li>
+        <li>
+          <a href="map_18century.php">Белорусске земли XVIII в.</a>
+        </li>
+        <li>
+          <a href="#" class="item-unable">Белорусске земли XIX в.</a>
+        </li>
+        <li>
+          <a href="#" class="item-unable">Белорусске земли XX в.</a>
+        </li>
+        <li>
+          <a href="map_radziwill.php">Карта Magni Ducatus Lithaniae 1630 г. Радзивилла "Сиротки"</a>
+        </li>
+        <li>
+          <a href="map_wkl.php">Карты ВКЛ-Беларуси</a>
+        </li>
+        <li>
+          <a href="map_wkl_lotter.php">Карты ВКЛ Тобиаса Лоттера</a>
+        </li>
+        <li>
+          <a href="zemie_ruskie.php">Земли Русские</a>
+        </li>
+        <li>
+          <a href="alba_ruthenia.php" class="item-edit">Alba Ruthenia (Белая Русь) на картах</a>
+        </li>
+		
+        
+        
+        </ul>
 
 	  </div>
 	

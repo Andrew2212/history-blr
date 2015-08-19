@@ -6,13 +6,14 @@
 <!-- ***Title*** -->
  	<title>Шляхта. История Беларуси</title>
 <!-- ***Meta*** -->
-  	<meta name="description" content="Шляхта. Статьи о Беларуси, белорусах, национализме и национальной идее.
+  	<meta name="description" content="Шляхта. Сьпіс старажытных беларускіх шляхоцкіх родаў. У яго ўвайшлі толькі тыя роды, што фіксуюцца ў архіўных і літаратурных крыніцах XVII-XVIII стагодзьдзяў.
+	   Статьи о Беларуси, белорусах, национализме и национальной идее.
 	  История Беларуси за последнюю 1000 лет кратко в интерактивном изложении.
 	Статьи в разделах Время, События, Люди, Термины иллюстрированы историческими картами и документами 
 	(их можно скачать в разделе Download) и сопровождаются ссылками на общедоступные ресурсы с более полной информацией." />
 	<meta name="keywords" itemprop="keywords" content="История Беларуси, история Белоруссии, краткая история Беларуси, краткая история Беларуси в датах, 
 	 История Беларуси коротко, карты ВКЛ, карты белорусского этноса, метрики ВКЛ, литвины, шляхта Беларуси, белорусы, история Беларуси кратко" />
-  	<meta property="og:image" content="http://history-belarus.by/img/Lithvaniae_Blr.jpg" />
+  	<meta property="og:image" content="http://history-belarus.by/images/img-terms/shliahta/blr_shliahta1.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_articles.php"); ?>
@@ -38,6 +39,35 @@
 		</br>Пачынаючы з 1970-х гадоў, мастак Ул.Крукоўскі згадваецца ва ўсіх энцыклапедычных беларускіх выданнях.
 		</small>
 		</h4>
+		
+		
+	<div class="col-md-12">	
+		
+		<div class="col-md-6 img-float-center">
+		<a target="_blank" href="../../images/img-terms/shliahta/blr_shliahta1.jpg">
+		<img src="../../images/img-terms/shliahta/blr_shliahta1_thumb.jpg" height="160">
+		</br><small>"Белорусская шляхта и панцирные бояре", 1905 г</small>
+		</a>
+		</br>О шляхте и панцирных боярах
+		</br><a href="../terms/shliahta.php">Read more...</a>				
+		</div>
+		
+		<div class="col-md-6 img-float-center">
+		<a target="_blank" href="../../images/img-terms/shliahta/blr_shliahta.jpg">
+			<img src="../../images/img-terms/shliahta/blr_shliahta.jpg" height="160"/>
+			</br><small>Шляхта и государство</small>
+		</a>
+		</br>Читать/скачать первоисточник
+		</br><a href="../download/russia_blr.php">ТУТ</a>				
+		</div>
+		
+		<p>
+		[ <small>***Иллюстрации — страницы из академического труда:
+		</br>"Россия. Полное географическое описание. Т. 9, Верхнее Поднепровье и Белоруссия", Издание Императорского Русского Географического Общества, 1905 г.
+		</small> ]
+		</p>
+		
+	</div>
 		
       	<h4>З гісторыі беларускае шляхоцкае геральдыкі</h4>
 		

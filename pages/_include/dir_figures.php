@@ -2,7 +2,8 @@
       <div class="col-md-2 left-bar">
       <ul>
 
-          <h4>Люди</h4>
+          <h4>Асобы
+		  </br><small>[А - Л]</small></h4>
 
         <li>
           <a href="you.php">Лично ТЫ и история</a>
@@ -37,7 +38,7 @@
           <a href="jagiello.php" class="item-edit">В. кн. Ягайло (1377-1381)</a>
         </li>
         <li>
-          <a href="kejstut.php" class="item-edit">В. кн. Кейстут (1381-1382)</a>
+          <a href="kejstut.php">В. кн. Кейстут</a> (1381-1382)
         </li>
         <li>
           <a href="vitovt.php" class="item-edit">В. кн. Витовт (1392-1430)</a>
@@ -61,7 +62,13 @@
           <a href="volovicz.php">Воловичи</a> — от канцлера ВКЛ до змагара 1830 г.
         </li>
         <li>
+          <a href="woinillovicz.php">Войниловичи</a> — шляхта тутэйшая.
+        </li>
+        <li>
           <a href="charadzej.php" class="item-edit">Всеслав Чародей</a>
+        </li>
+        <li>
+          <a href="#" class="item-unable">Гениюш Лариса — "птица без гнезда"</a>
         </li>
         <li>
           <a href="gusowsky.php">Гусовский Николай</a>, "Песня о зубре"
@@ -82,7 +89,13 @@
           <a href="drozdovich.php">Дроздович Язеп</a>, "вечный странник"
         </li>
         <li>
+          <a href="duz_duszewski.php">Дуж-Душевский Клавдий</a>, автор эскиза национального флага
+        </li>
+        <li>
           <a href="efrosinia.php" class="item-edit">Ефросиния Полоцкая</a>
+        </li>
+        <li>
+          <a href="zawisza.php">Завиши</a> — старосты и воеводы минские
         </li>
 		<li>
           <a href="kalinowski.php" class="item-edit">Калиновский Кастусь</a>
@@ -106,104 +119,9 @@
           <a href="kunciewicz.php" class="item-edit">Кунцевич Иософат, архиепископ Полоцкий</a>
         </li>
         <li>
-          <a href="lisowsky.php" class="item-edit">Лисовский-Янович А. Ю., полковник "лисовчиков", 1608-1616</a>
+          <a href="lisowsky.php" class="item-edit">Лисовский-Янович А. Ю., полковник "лисовчиков" (1608-1616)</a>
         </li>
-        <li>
-          <a href="kishky.php" class="item-edit">Магнатский род </br>— Кишки</a>
-        </li>
-        <li>
-          <a href="kesgajla.php" class="item-edit">Магнатский род </br>— Кезгайлы</a>
-        </li>
-        <li>
-          <a href="pacy.php" class="item-edit">Магнатский род </br>— Пацы</a>
-        </li>
-        <li>
-          <a href="radziwilly.php" class="item-edit">Магнатский род </br>— Радзивиллы</a>
-        </li>
-        <li>
-          <a href="sapegi.php" class="item-edit">Магнатский род </br>— Сапеги</a>
-        </li>
-        <li>
-          <a href="oginskie.php" class="item-edit">Магнатский род </br>— Огинские</a>
-        </li>
-        <li>
-          <a href="mickiewicz.php" class="item-edit">Мицкевич Адам</a>
-        </li>
-        <li>
-        <a href="#" class="item-unable">Минейко Зигмунд, почетный гражданин Греции</a>
-        </li>
-        <li>
-          <a href="narkewicz.php" class="item-edit">Наркевич-Иодко, "электрический человек" — профессор электрографии и магнетизма</a>
-        </li>
-        <li>
-          <a href="ostrogski.php" class="item-edit">Острожский Константин, гетман великий литовский</a>
-        </li>
-        <li>
-          <a href="przewalskij.php" class="item-edit">Пржевальский Н. М., путешевтвенник и натуралист</a>
-        </li>
-        <li>
-          <a href="rejtan.php" class="item-edit">Рейтан Тадеуш, Дон Кихот Речи Посполитой</a>
-        </li>
-        <li>
-          <a href="ryllo.php">Рылло Максимилиан, первый исследователь древнего Вавилона</a>
-        </li>
-        <li>
-          <a href="rogvolod_rogneda.php" class="item-edit">Рогволод и Рогнеда. Рогволодовичи</a>
-        </li>
-        <li>
-          <a href="sapega.php" class="item-edit">Сапега Лев Иванович</a>
-        </li>
-        <li>
-          <a href="simienowicz.php" >Семенович Казимир, основопложник ракетостроения</a>
-        </li>
-        <li>
-          <a href="simeon.php" class="item-edit">Симеон Полоцкий</a>
-        </li>
-        <li>
-          <a href="skorina.php" class="item-edit">Скорина, литвин из Полоцка</a>
-        </li>
-		<li>
-          <a href="skosyrew.php">Скосырев Б. М., король Андорры</a>
-        </li>
-        <li>
-          <a href="sudzilowskij.php" class="item-edit">Судзиловский Н. К., первый Президент сената Территории Гавайи</a>
-        </li>
-        <li>
-          <a href="stankewicz.php" class="item-edit">Станкевич Ян, историк, основатель Великолитовского фонда им. Льва Сапеги</a>
-        </li>
-        <li>
-          <a href="torwald.php" class="item-edit">Торвальд Кодранссон, креститель Полоцка</a>
-        </li>
-        <li>
-          <a href="tiapinsky.php">Тяпинский Василий</a> гуманист и еретик
-        </li>
-		<li>
-          <a href="hodkewich.php" class="item-edit">Ходкевичи, воины великого княжества</a>
-        </li>
-        <li>
-          <a href="shagal.php" class="item-edit">Шагал Марк, художник</a>
-        </li>
-        <li>
-          <a href="#" class="item-unable">Шостакович Д. Д., композитор</a>
-        </li>
-        <li>
-          <a href="fedorow.php" class="item-edit">Федоров Иван, первопечатник в Московии и Украине</a>
-        </li>
-		<li>
-          <a href="jagellony.php" class="item-edit">Ягеллоны</a>
-        </li>
-		<li>
-          <a href="#" class="item-unable">Some link</a>
-        </li>
-		<li>
-          <a href="#" class="item-unable">Some link</a>
-        </li>
-        <li>
-          <a href="#" class="item-unable">...</a>
-        </li>
-        <li>
-          <a href="#" class="item-unable">Some link</a>
-        </li>
+       
       </ul>
 	  </div>
 	

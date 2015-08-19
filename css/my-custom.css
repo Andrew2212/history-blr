@@ -22,6 +22,7 @@ border-top: 1px solid #F2F2F2;
 border-bottom: 1px solid #F2F2F2;
 }
 
+
 .left-img-link{
 text-align: center;
 }
@@ -30,6 +31,15 @@ text-align: center;
 height: 900px;	
 overflow-y: auto;
 border-left: 1px solid #F2F2F2;
+border-top: 1px solid #F2F2F2;
+border-bottom: 1px solid #F2F2F2;
+text-align: center;
+}
+
+.right-left-bar{
+height: 900px;	
+overflow-y: auto;
+border-right: 1px solid #F2F2F2;
 border-top: 1px solid #F2F2F2;
 border-bottom: 1px solid #F2F2F2;
 text-align: center;
@@ -75,6 +85,10 @@ max-width:100px;
 margin-top: 0px;
 }
 
+.img-right-80{
+max-width:80px; 	
+margin-top: 0px;
+}
 /*==================Images on pages=======================*/
 
 .img-float-left{

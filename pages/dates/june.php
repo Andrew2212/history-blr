@@ -17,7 +17,8 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Июнь</h3>
-		<div class="col-md-6">
+		
+		<div class="col-md-12">
 		<table class="table table-hover">
 			<thead>
 				<tr>
@@ -28,108 +29,19 @@
 			<tbody>
 			
 				<tr>
-					<td>1</td>
-					<td>
-						<ul>
-							<li>###</li>							
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>2</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>3</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>4</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
 					<td>5</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>День памяти <a href="../figures/efrosinia.php">св. Ефросинии Полоцкой</a> — покровительницы просвещения</li>
 						</ul>
 					</td>
 				</tr>
-				
-				
-				<tr>
-					<td>6</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>7</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>8</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
+
 				<tr>
 					<td>9</td>
 					<td>
 						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>10</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>11</td>
-					<td>
-						<ul>
-							<li>###</li>
+							<li>1881 Родился <a href="../figures/luckiewicz_ivan.php">Иван Луцкевич</a> — культуртрегер Беларуси</li>
 						</ul>
 					</td>
 				</tr>
@@ -138,191 +50,25 @@
 					<td>12</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>1881 Родился <a href="../figures/skosyrew.php">Скосырев Борис</a> — король Андорры из <a href="../places/wilno.php">Вильно</a></li>
 						</ul>
 					</td>
 				</tr>
-				
-				<tr>
-					<td>13</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>14</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>15</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-								
-			</tbody>
-		</table>
-	</div>
-	
-	<div class="col-md-6">
-	<table class="table table-hover">
-			<thead>
-				<tr>
-					<th>Дата</th>
-					<th>Событие</th>
-				</tr>
-			</thead>
-			<tbody>
-			
-				<tr>
-					<td>16</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>17</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
+
 				<tr>
 					<td>18</td>
 					<td>
 						<ul>
-							<li>День рождения <a href="../figures/volovicz.php">Михаила Воловича</a> — участника восстания 1830 г., наследника составителя Статута ВКЛ</li>
+							<li>1806 Родился <a href="../figures/volovicz.php">Михаил Волович</a> — участник восстания 1830 г., наследник составителя Статута ВКЛ</li>
 						</ul>
 					</td>
 				</tr>
-				
-				
-				<tr>
-					<td>19</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>20</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>21</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>22</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>23</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>24</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>25</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>26</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>27</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
+
 				<tr>
 					<td>28</td>
 					<td>
 						<ul>
 							<li><a href="../events/battle_polonka.php">Битва под Полонкой</a> с Московским царством, 1660</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>29</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>30</td>
-					<td>
-						<ul>
-							<li>###</li>
 						</ul>
 					</td>
 				</tr>

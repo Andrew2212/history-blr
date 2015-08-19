@@ -17,7 +17,8 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Октябрь</h3>
-		<div class="col-md-6">
+		
+		<div class="col-md-12">
 		<table class="table table-hover">
 			<thead>
 				<tr>
@@ -26,237 +27,62 @@
 				</tr>
 			</thead>
 			<tbody>
-			
-				<tr>
-					<td>1</td>
-					<td>
-						<ul>
-							<li>###</li>							
-						</ul>
-					</td>
-				</tr>
-				
+
 				<tr>
 					<td>2</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>1413 Заключена <a href="../events/unia_gorodlo.php">Городельская уния</a> между Витовтом и Ягайло</li>
 						</ul>
 					</td>
 				</tr>
-				
-				<tr>
-					<td>3</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>4</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>5</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>6</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>7</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>8</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
+
 				<tr>
 					<td>9</td>
 					<td>
 						<ul>
-							<li>Победа в <a href="../events/battle_hotin.php">битве под Хотином</a> с Османской империей, 1621</li>
+							<li>1621 Победа в 40-дневной <a href="../events/battle_hotin.php">битве под Хотином</a> с Османской империей</li>
 						</ul>
 					</td>
 				</tr>
-				
-				
-				<tr>
-					<td>10</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>11</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>12</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
+
 				<tr>
 					<td>13</td>
 					<td>
 						<ul>
-							<li>День рождения <a href="../figures/drozdovich.php">Язепа Дроздовича</a> — "вечного странника", художника, писателя, фольклориста, этнографа.</li>
+							<li>1847 Родился <a href="../figures/woinillovicz.php">Эдвард Войнилович</a> 
+							— последний из тутэйшего рода, фундатор Красного костела.
+							</li>
+							<li>1888 Родился <a href="../figures/drozdovich.php">Язеп Дроздович</a> 
+							— "вечный странник", художник, писатель, фольклорист, этнограф.
+							</li>
 						</ul>
 					</td>
 				</tr>
-				
-				<tr>
-					<td>14</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
+
 				<tr>
 					<td>15</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>1432 Заключена <a href="../events/unia_grodno.php">Гродненская Уния</a> между ВКЛ и королевстовм Польским</li>
 						</ul>
 					</td>
 				</tr>
-								
-			</tbody>
-		</table>
-	</div>
-	
-	<div class="col-md-6">
-	<table class="table table-hover">
-			<thead>
-				<tr>
-					<th>Дата</th>
-					<th>Событие</th>
-				</tr>
-			</thead>
-			<tbody>
-			
-				<tr>
-					<td>16</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>17</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>18</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
+
 				<tr>
 					<td>19</td>
 					<td>
 						<ul>
-							<li>Подписана <a href="../events/unia_religion_brest.php">Брестская церковная уния</a>, 1596</li>
+							<li>1596 Подписана <a href="../events/unia_religion_brest.php">Брестская церковная уния</a> — "уния апостолов единения"</li>
 						</ul>
 					</td>
 				</tr>
-				
-				
-				<tr>
-					<td>20</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>21</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>22</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
 				
 				<tr>
 					<td>23</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>1501 Заключена (так и не утвержденная Сеймом) <a href="../events/unia_melnik.php">Мельницкая Уния</a> между ВКЛ и королевстовм Польским</li>
 						</ul>
 					</td>
 				</tr>
@@ -266,77 +92,12 @@
 					<td>24</td>
 					<td>
 						<ul>
-							<li>Завершен <a href="../events/razbor_rechi.php">Раздел Речи Посполитой</a>, 1795
+							<li>1795 Австрией, Пруссией и Россией завершен третий <a href="../events/razbor_rechi.php">Раздел</a> Речи Посполитой. Белорусские земли вошли в состав Империи</li>
 							</li>
 						</ul>
 					</td>
 				</tr>
-				
-				
-				<tr>
-					<td>25</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>26</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>27</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>28</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>29</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>30</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>31</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-								
+			
 			</tbody>
 		</table>
 	</div>

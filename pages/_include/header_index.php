@@ -6,6 +6,17 @@
 	<meta name='wmail-verification' content='bbb54a20dd76cd57' />	
 
     <!-- ***Styles*** -->
+    
+    <!--Highslade JS&CSS-->
+    <script type="text/javascript" src="../../highslide/highslide.js"></script>
+	<link rel="stylesheet" type="text/css" href="../../highslide/highslide.css" />
+	<script type="text/javascript">
+    // override Highslide settings here
+    // instead of editing the highslide.js file
+    hs.graphicsDir = '/highslide/graphics/';
+    hs.outlineType = 'rounded-white';   
+	</script>
+	
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet" />
 	<link href="css/bootstrap.css" rel="stylesheet" />

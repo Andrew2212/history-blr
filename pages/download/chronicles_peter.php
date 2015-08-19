@@ -13,6 +13,7 @@
 	рассказывает о значимых фигурах ВКЛ того времени (Гедымин, Давид Городенский)." />
   	<meta name="keywords" itemprop="keywords" content="Хроника земли Прусской, Peter von Duisburg, Chronicon terrae Prussiae, 
 	  карты ВКЛ, история Беларуси, краткая история Беларуси, литовские метрики, Статут ВКЛ"/>
+	  <meta property="og:image" content="http://history-belarus.by/images/img-download/cronicles_peter/peter.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_download.php"); ?>

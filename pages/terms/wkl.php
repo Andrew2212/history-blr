@@ -276,7 +276,7 @@
 		</br>Попытки найти выход из государственного кризиса. 
 		<a href="../events/war_civil_1696.php">Гражданская война</a> и <a href="../events/confederacyi_18vek.php">шляхетские конфедерации</a>.
 		</br><a href="../events/war_great_north.php">Великая Северная война</a> на территории ВКЛ-Беларуси. 
-		</br>Век завершают <a href="..s/events/razbor_rechi.php">разделы Речи Посполитой</a> и <a href="../events/uprising_1794.php">восстание Костюшко</a> 1794 г.
+		</br>Век завершают <a href="../events/razbor_rechi.php">разделы Речи Посполитой</a> и <a href="../events/uprising_1794.php">восстание Костюшко</a> 1794 г.
 		</p>
 		
 		<div class="col-md-12">

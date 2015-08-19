@@ -21,6 +21,12 @@
         <li class="img-float-center">
           <a target="_blank" href="http://daggir84.livejournal.com/">DAggir84</a>
         </li>
+        
+        <li class="img-float-center">
+        <a target="_blank" href="http://mfront.net/">
+        <img src="../../images/img-about/m_front.jpg" class="img-right-100"/></br>
+          Малады Фронт</a>
+        </li>
 
         <li class="img-float-center">
         <a target="_blank" href="http://budzma.by/">
@@ -33,6 +39,12 @@
         <img src="http://belhistory.com/banners/88f.jpg" width="88" height="31" border="1" alt="Беларускі гістарычны партал"/></br>
         Беларускі гістарычны партал
 		</a>
+        </li>
+        
+        <li class="img-float-center">
+        <a target="_blank" href="https://belarusianheroes.com/">
+        <img src="../../images/img-about/bel_heroes.png" class="img-right-100"/></br>
+          Беларускія героі</a>
         </li>
 
         <li class="img-float-center">

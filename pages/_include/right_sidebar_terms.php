@@ -1,36 +1,77 @@
 
-      <div class="col-md-2 right-bar">
-	   <p>
-			<img src="../../images/img-terms/pogonia.jpg" class="img-right-120"/></br>
-			<small><a href="blr_gerb.php">Погоня</a> (знак с пограничного столба Республики Беларусь, 1995 г.)</small></br></br>
-	   </p>
-	   <p>
-			<img src="../../images/img-terms/statut.jpg" class="img-right-120"/></br>
-			<small><a href="statut.php">Статут ВКЛ</a></small></br></br>
-	   </p>
-	   	<p>
-			<img src="../../images/img-terms/shliahta_wkl.jpg" class="img-right-120"/></br>
-			<small><a href="shliahta.php">Шляхта</a></small></br></br>
-	   </p>
-	   	<p>
-			<img src="../../images/img-terms/litvin.jpg" class="img-right-120"/></br>
-			<small><a href="litwiny.php">Литвины</a></small></br></br>
-	   </p>	 
-	   	<p>
-			<img src="../../images/img-terms/hetman_wkl.jpg" class="img-right-120"/></br>
-			<small><a href="weliki_hetman.php">Великий гетман Литовский</a></small></br></br>
-	   </p>
-	   	<p>
-			<img src="../../images/img-terms/kancler_wkl.jpg" class="img-right-120"/></br>
-			<small><a href="weliki_kancler.php">Великий канцлер Литовский</a></small></br></br>
-	   </p>	   
-		<p>
-			<img src="../../images/img-terms/marshalok_wkl.jpg" class="img-right-120"/></br>
-			<small><a href="weliki_marshalok.php">Великий маршалок Литовский</a></small></br></br>
-	   </p>
-	   		<p>
-			<img src="../../images/img-terms/husaria.jpg" class="img-right-120"/></br>
-			<small><a href="husaria.php">Крылатые гусары</a></small></br></br>
-	   </p>
+      <div class="col-md-2 left-bar">
+	   <ul>
+	   
+	   <h4>Термины
+	   </br><small>[Л - Я]</small></h4>
+	   
+	   <li>
+          <a href="litwiny.php">Литвины</a>
+        </li>
+        <li>
+          <a href="lutizy.php">Лютичи, полабские славяне</a>
+        </li>
+        <li>
+          <a href="magdeburg_law.php" class="item-edit">Магдебургское право</a>
+        </li>
+        <li>
+          <a href="blr_museum.php" class="item-edit">Музей Беларускі імя Івана Луцкевіча</a>
+        </li>
+        <li>
+          <a href="#" class="item-unable">Музей древностей Тышкевичей</a>
+        </li>
+        <li>
+          <a href="blr_gerb.php">Национальный герб</a>
+        </li>
+        <li>
+          <a href="blr_hymn.php">Национальный гимн</a>
+        </li>
+        <li>
+          <a href="blr_flag.php">Национальный флаг</a>
+        </li>
+        <li>
+          <a href="blr_mova.php">Национальный язык</a>
+        </li>
+        <li>
+          <a href="polotsk_principality.php" class="item-edit">Полоцкое княжество</a>
+        </li>
+        <li>
+          <a href="blr_gerb.php">Погоня</a>
+        </li>
+        <li>
+          <a href="religion_blr.php">Религия на белорусских землях</a>
+        </li>
+        <li>
+          <a href="rzeczpospolita.php" class="item-edit">Речь Посполитая</a>
+        </li>
+		<li>
+          <a href="rzeczpospolita_treh_narodov.php">Речь Посполитая Трех Народов</a>
+        </li>
+        <li>
+          <a href="ross_empire.php">Российская империя</a>
+        </li>
+        <li>
+          <a href="sssr.php" class="item-edit">СССР</a>
+        </li>
+        <li>
+          <a href="slavs.php">Славяне</a>
+        </li>
+		<li>
+          <a href="statut.php">Статут ВКЛ</a>
+        </li>
+        <li>
+          <a href="sewero_zapadny_kraj.php" class="item-edit">Северо-Западный край</a>
+        </li>
+        <li>
+          <a href="turow_principality.php" class="item-edit">Туровское княжество</a>
+        </li>
+        <li>
+          <a href="filomaty.php" class="item-edit">Филоматы</a>
+        </li>
+		<li>
+          <a href="#" class="item-unable">Шляхетская демократия</a>
+        </li>
+        
+	   </ul>
 	  </div>
 	

@@ -51,6 +51,7 @@
 		
 		</br></br></br>
 		<p><small>
+		http://spadczyna.com/history/mapes/b_3_vkl_15_3.htm</br>
 		be-x-old.wikipedia.org</br>
 		be.wikipedia.org</br>
 		pl.wikipedia.org</br>

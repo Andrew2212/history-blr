@@ -12,6 +12,7 @@
     <meta name="keywords" itemprop="keywords" content="гуды, Белая русь, 
 	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, 
 	 История беларуси кратко в датах" />
+	 <meta property="og:image" content="http://history-belarus.by/images/img-terms/gudai/1539_Carta_Marina.jpg" />
 	 
 
 
@@ -34,10 +35,18 @@
 		этно-культурных термина — <i>Гуды</i> и <i>Белая Русь</i>.
 		</br>Термин "Гуды" шел с запада по пути 
 		<a href="lutizy.php">миграции полабских славян</a>,
-		 "Белая Русь" — с востока, с экспансией Московского Княжества.
+		 "Белая Русь" — с востока, с экспансией Московского Княжества, вытеснившего его с Новгородских земель.
 		</p>
 		
 		<h4>Гуды </h4>
+		
+		<p class="img-float-left">
+		<a target="_blank" href="../../images/img-terms/gudai/gudija.jpg">
+		<img src="../../images/img-terms/gudai/gudija_thumb.jpg" height="160">
+		</br><small>1941, Gudija — земля гудов</small>
+		</a>
+		</p>
+		
 		<p>
 			<i>Gudai</i>, baltarusiai (летувск.) — белорусы. Кстати, по латышски — baltkrieviem (балтокривичи).
 			</br>Гуды <i>(gudai)</i> — архаичное летувское название литвинов-белорусов 
@@ -45,8 +54,8 @@
 			Ранее в основном использовался для обозначения жителей приграничных областей. Там же (в приграничье), сосредоточены большинство 
 			связанных с этим термином топонимов — Гуды, Гудзи, Гудзевичи. 
 			</br>Сейчас часто употребляется для общего именования белорусов, наряду с <i>baltarusiai</i>.
-			</br>Этимология слова — от искаженного "<a href="yotving.php">готы</a>" (Gothi, Gutans, Gytos) или 
-			"<a href="yotving.php">ятвяги</a>" (Gudwa, Sudwa, Sudovia). 
+			</br>Этимология слова — от искаженного <a href="yotving.php">готы</a> (Gothi, Gutans, Gytos) или 
+			<a href="yotving.php">ятвяги</a> (Gudwa, Sudwa, Sudovia). 
 			Значительная часть ятвягов растворилась среди белорусов, и потому не удивительно, что в летувском языке 
 			ассимилированные белорусами ятвяги продолжали сохранять свое прежнее название, 
 			а затем это название было перенесено на всех белорусов.
@@ -54,14 +63,33 @@
 		</p>
 		
 		<h4>Белая Русь</h4>
+		
+		<p class="img-float-left">
+		<a target="_blank" href="../../images/img-terms/gudai/1539_Carta_Marina.jpg">
+		<img src="../../images/img-terms/gudai/1539_Carta_Marina_thumb.jpg" height="160">
+		</br><small>1539, Carta Marina.
+		</br>Russia Alba — земля 
+		</br>Новгородская</small>
+		</a>
+		</p>
+		
+		<p class="img-float-right">
+		<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DUkNIaDVDYmhERlU/view?usp=sharing">
+		<img src="../../images/img-terms/gudai/pologne1700_thumb.jpg" height="160">
+		</br><small>1700, Carte des Estats.
+		</br>Russie Blanche ou Lituanique
+		</br>(Белая Русь или Литва)</small>
+		</a>
+		</p>
+		
 		<p>
-		<i>Белая Русь</i> (лат. Russia Alba, Ruthenia Alba, итал. Rossia Bianca, нем. Weissreussen, фр. la Russie blanche) - термин, использовавшийся  преимущественно в западноевропейском научной 
+		<i>Белая Русь</i> (лат. Russia Alba, Ruthenia Alba, итал. Rossia Bianca, нем. Weissreussen, фр. la Russie blanche) — термин, использовавшийся  преимущественно в западноевропейском научной 
 		среде в отношении различных регионов Восточной Европы. См. <a href="../download/alba_ruthenia.php">карты</a>
 		</p>
 		<p>
 		С конца 1620-х гг. название "Белая Русь", пришедшее в обиход в ВКЛ из Западной Европы , 
 		стало соотноситься с восточными землями Великого княжества Литовского, Русского и Жемойтского (ВКЛ) 
-		- подвинскими и поднепровскими воеводствами и уездами.
+		— подвинскими и поднепровскими воеводствами и уездами.
 		</p>
 		<p>
 		Первой административно-территориальной единицей, которая содержала в своем названии термин "Беларусь" была создана в 1632 г. 
@@ -83,7 +111,7 @@
 		
 		</br></br></br>
 		<p><small>
-		<a href="https://drive.google.com/file/d/0B_T3PThCY39DdDUtT2ItdDA2c1k/view?usp=sharing">
+		<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DdDUtT2ItdDA2c1k/view?usp=sharing">
 		Материалы конференции</a> "Беларусь і беларусы сярод суседзяў: гістарычныя стэрэатыпы і палітычныя канструктары" Варшава, 2011 г.</br>
 		translate.google.ru</br>
 		be.wikipedia.org</br>

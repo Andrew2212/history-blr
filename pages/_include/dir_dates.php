@@ -1,28 +1,40 @@
 
-      <div class="col-md-2 right-bar">
+      <div class="col-md-2 right-left-bar">
 	   <p>
-			<img src="../../img/logo_stub.png" class="img-right-120"/></br>
-			<small><a href="january.php">Январь</a></small></br></br>
+	   		<a href="january.php">
+			<img src="../../images/img-dates/january_kalinowski.jpg" class="img-right-80"/></br>
+			<small>Январь</small>
+			</a></br>
 	   </p>
 	   <p>
-			<img src="../../img/logo_stub.png" class="img-right-120"/></br>
-			<small><a href="february.php">Февраль</a></small></br></br>
+	   		<a href="february.php">
+			<img src="../../images/img-dates/february_kostiushko.jpg" class="img-right-80"/></br>
+			<small>Февраль</small>
+			</a></br>
 	   </p>
 	   	<p>
-			<img src="../../img/logo_stub.png" class="img-right-120"/></br>
-			<small><a href="march.php">Март</a></small></br></br>
+	   		<a href="march.php">
+			<img src="../../images/img-dates/march_bnr.jpg" class="img-right-80"/></br>
+			<small>Март</small>
+			</a></br>
 	   </p>
 	   	<p>
-			<img src="../../img/logo_stub.png" class="img-right-120"/></br>
-			<small><a href="april.php">Апрель</a></small></br></br>
+	   		<a href="april.php">
+			<img src="../../images/img-dates/april_statut.jpg" class="img-right-80"/></br>
+			<small>Апрель</small>
+			</a></br>
 	   </p>	 
 	   	<p>
-			<img src="../../img/logo_stub.png" class="img-right-120"/></br>
-			<small><a href="may.php">Май</a></small></br></br>
+	   		<a href="may.php">
+			<img src="../../images/img-dates/may_batory.jpg" class="img-right-80""/></br>
+			<small>Май</small>
+			</a></br>
 	   </p>
 	   	<p>
-			<img src="../../img/logo_stub.png" class="img-right-120"/></br>
-			<small><a href="june.php">Июнь</a></small></br></br>
+	   		<a href="june.php">
+			<img src="../../images/img-dates/palonka_june.jpg" class="img-right-80"/></br>
+			<small>Июнь</small>
+			</a></br>
 	   </p>	   
 
 	  </div>

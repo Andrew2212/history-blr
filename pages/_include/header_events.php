@@ -4,6 +4,17 @@
 	<meta name="robots" content="all" />
 
     <!-- ***Styles*** -->
+    
+    <!--Highslade JS&CSS-->
+	<link rel="stylesheet" type="text/css" href="../../highslide/highslide.css" />
+	<script type="text/javascript" src="../../highslide/highslide.js"></script>
+	<script type="text/javascript">
+    // override Highslide settings here
+    // instead of editing the highslide.js file
+    hs.graphicsDir = '/highslide/graphics/';
+    hs.outlineType = 'rounded-white';   
+	</script>
+	
     <!-- Bootstrap Core CSS -->
     <link href="../../css/bootstrap.min.css" rel="stylesheet" />
 	<link href="../../css/bootstrap.css" rel="stylesheet" />
@@ -13,15 +24,6 @@
 	<link href="../../css/my-custom.css" rel="stylesheet" />
 	<!-- Favicon -->
 	<link href="../../favicon.ico" rel="shortcut icon" type="image/x-icon" />	
-	
-    <!-- ***Test Styles*** -->
-    <style>
-        .test {
-    color: red;
-	font-size: 18pt;
-    }
-          
-</style>
 
 <!-- ***Scripts*** -->
 <script src="../../js/bootstrap.min.js"></script>

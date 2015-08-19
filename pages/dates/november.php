@@ -17,7 +17,8 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Ноябрь</h3>
-		<div class="col-md-6">
+		
+		<div class="col-md-12">
 		<table class="table table-hover">
 			<thead>
 				<tr>
@@ -26,110 +27,13 @@
 				</tr>
 			</thead>
 			<tbody>
-			
-				<tr>
-					<td>1</td>
-					<td>
-						<ul>
-							<li>###</li>							
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>2</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>3</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>4</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>5</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>6</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>7</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
+
 				<tr>
 					<td>8</td>
 					<td>
 						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>9</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>10</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>11</td>
-					<td>
-						<ul>
-							<li>###</li>
+							<li>1883 Родился <a href="../figures/lastowski.php">Вацлав Ластовский</a> 
+							— Премьер-Министр БНР, академик НАН РБ и директор Национального Исторического Музея РБ</li>
 						</ul>
 					</td>
 				</tr>
@@ -138,196 +42,54 @@
 					<td>12</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>День памяти <a href="../figures/kunciewicz.php">Иосафата Кунцевича</a> 
+							— святого апостола единения (католич.)</li>
 						</ul>
 					</td>
 				</tr>
-				
-				<tr>
-					<td>13</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>14</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
+
 				<tr>
 					<td>15</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>1415 Основание Новогородско-Литовской <a href="../terms/religion_blr.php">православной митрополии</a> — обособление от Москвы: <small><i>
+							"мы не отделяемся от Восточной Церкви, продолжаем почитать патриархов восточных отцами и братьями, хотим избежать только насилий и вмешательства мирского человека"
+							</i></small></li>
 						</ul>
 					</td>
 				</tr>
-								
-			</tbody>
-		</table>
-	</div>
-	
-	<div class="col-md-6">
-	<table class="table table-hover">
-			<thead>
-				<tr>
-					<th>Дата</th>
-					<th>Событие</th>
-				</tr>
-			</thead>
-			<tbody>
-			
-				<tr>
-					<td>16</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>17</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>18</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>19</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>20</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>21</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>22</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>23</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>24</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
+
 				<tr>
 					<td>25</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>В этот день коронован (1764) и отрекся от престола (1795) <a href="../figures/poniatowski.php">Станислав Август II Понятовский</a> — последний король и в. князь Литовский. 
+							</br>[ <small>Родился и похоронен в мест. <a href="../places/vowczyn.php">Волчин</a> (РБ)</small> ]</li>
+							<li>День памяти <a href="../figures/kunciewicz.php">Иосафата Кунцевича</a> 
+							— святого апостола единения (греко-католич.)</li>
 						</ul>
 					</td>
-				</tr>
-				
+				</tr>				
 				
 				<tr>
 					<td>26</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>1891 Родился <a href="../figures/stankewicz.php">Ян Станкевич</a> — основатель Великолитовского фонда им. Льва Сапеги</li>
 						</ul>
 					</td>
 				</tr>
-				
+
 				<tr>
 					<td class="data-vip">27</td>
 					<td>
 						<ul>
 							<li>День героев
-							</br><a href="../events/uprising_sluzk.php">Слуцкое восстание</a> за независимость Беларуси, 1920</li>
+							</br>1920 <a href="../events/uprising_sluzk.php">Слуцкое восстание</a> за независимость Беларуси</li>
 						</ul>
 					</td>
 				</tr>
-				
-				<tr>
-					<td>28</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>29</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>30</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-								
+			
 			</tbody>
 		</table>
 	</div>

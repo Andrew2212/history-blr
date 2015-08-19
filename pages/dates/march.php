@@ -17,7 +17,8 @@
     <!-- ***Page Content*** -->
     <div class="col-md-8">
 		<h3>Март</h3>
-		<div class="col-md-6">
+		
+		<div class="col-md-12">
 		<table class="table table-hover">
 			<thead>
 				<tr>
@@ -31,313 +32,67 @@
 					<td>1</td>
 					<td>
 						<ul>
-							<li>###</li>							
+							<li>1566 Утвержден 2-й <a href="../terms/statut.php">Статут ВКЛ</a></li>							
 						</ul>
 					</td>
 				</tr>
-				
-				<tr>
-					<td>2</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
+
 				<tr>
 					<td class="data-vip">3</td>
 					<td>
 						<ul>
 							<li>День памяти павших в бою
-							</br><a href="../events/battle_nemiga.php">Битва на Немиге</a> Всеслава Чародея с Ярославовичами, 1067</li>
+							</br>1067 <a href="../events/battle_nemiga.php">Битва на Немиге</a> Всеслава Чародея с Ярославовичами</li>
 						</ul>
 					</td>
 				</tr>
-				
-				
-				<tr>
-					<td>4</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>5</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>6</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>7</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>8</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>9</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>10</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>11</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
+
 				<tr>
 					<td>12</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>1794 Начало <a href="../events/uprising_1794.php">Восстания</a> Тадеуша Костюшко</li>
 						</ul>
 					</td>
 				</tr>
-				
-				<tr>
-					<td>13</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>14</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>15</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-								
-			</tbody>
-		</table>
-	</div>
-	
-	<div class="col-md-6">
-	<table class="table table-hover">
-			<thead>
-				<tr>
-					<th>Дата</th>
-					<th>Событие</th>
-				</tr>
-			</thead>
-			<tbody>
-			
-				<tr>
-					<td>16</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>17</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>18</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>19</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
+
 				<tr>
 					<td>20</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>Образована <a href="../events/confederacyi_18vek.php">Слуцкая конфедерация</a> — союз диссидентской шляхты под патронажем России.</li>
 						</ul>
 					</td>
 				</tr>
-				
-				
-				<tr>
-					<td>21</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
+
 				<tr>
 					<td>22</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>1864 Казнен <a href="../figures/kalinowski.php">Кастусь Калиновский</a> — предводитель восстания на Беларуси </li>
 						</ul>
 					</td>
 				</tr>
-				
-				
-				<tr>
-					<td>23</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
-				<tr>
-					<td>24</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				
+
 				<tr>
 					<td class="data-vip">25</td>
 					<td>
 						<ul>
 							<li>День воли
-							</br>Провозглашение <a href="../terms/bnr.php">Белорусской Народной Республики</a>, 1918</li>
+							</br>1918 Провозглашение <a href="../terms/bnr.php">Белорусской Народной Республики</a></li>
 						</ul>
 					</td>
 				</tr>
-				
-				
-				<tr>
-					<td>26</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
+
 				<tr>
 					<td>27</td>
 					<td>
 						<ul>
-							<li>###</li>
+							<li>1891 Родился <a href="../figures/duz_duszewski.php">Клавдий Дуж-Душевский</a> — белорусский националист, создатель эскиза национального флага</li>
 						</ul>
 					</td>
 				</tr>
-				
-				<tr>
-					<td>28</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>29</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>30</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>31</td>
-					<td>
-						<ul>
-							<li>###</li>
-						</ul>
-					</td>
-				</tr>
-								
+		
 			</tbody>
 		</table>
 	</div>

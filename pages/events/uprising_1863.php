@@ -48,6 +48,8 @@
 		
 		</br></br></br>
 		<p><small>
+		http://archives.gov.by/index.php?id=539096</br>
+		http://archives.gov.by/index.php?id=223980</br>
 		be-x-old.wikipedia.org</br>
 		be.wikipedia.org</br>
 		pl.wikipedia.org</br>

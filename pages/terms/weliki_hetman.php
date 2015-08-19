@@ -106,7 +106,7 @@
 		<a href="../figures/sapegi.php">Ян Казимир Сапега</a>, 1708—1709
 		</li></br>
 		<li>
-		<a href="../figures/oginskie.php">Григорий Антоний Огинский<a>, 1709
+		<a href="../figures/oginskie.php">Григорий Антоний Огинский</a>, 1709
 		</li></br>
 		<li>
 		Людвик Поцей, 1709—1730

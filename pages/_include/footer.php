@@ -41,6 +41,9 @@
 		<a href="https://vk.com/public93350227" target="blanc">
 		<img src="../../images/_img-icons/vk.png" title="VK" width="32">
 		</a>
+        <a href="http://ok.ru/group/53595131412721" target="blanc">
+		<img src="../../images/_img-icons/ok.png" title="OK" width="32">
+		</a>
         </div>
 
 		<div class="col-md-3 img-float-center">  

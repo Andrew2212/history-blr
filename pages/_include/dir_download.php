@@ -25,6 +25,10 @@
           <a href="spis_1863.php">Список осужденных участников восстания 1863 года</a>
         </li>
         <li>
+          <a href="blr_nationalists_1957.php">Белорусские буржуазные националисты</a>  
+		— воспоминания Войниловича и методичка КГБ
+        </li>
+        <li>
           <a href="kirkor.php">А. Г. Киркор
 		  </br>"Живописная Россия", 1882</a>
         </li>
@@ -37,6 +41,9 @@
 		</br>Верхнее Поднепровье и Белоруссия. 1905</a>
         </li>
         <li>
+          <a href="letopis_radziwil.php">Радзивилловская летопись</a>
+        </li>
+        <li>
           <a href="kraina_blr.php">Kраiна Беларусь</a>
         </li>
         <li>
@@ -44,76 +51,18 @@
 		  </br>"Chronicon terrae Prussiae" 1326</a>
         </li>
         <li>
+          <a href="chronicles_dubnica.php">Дубницкая хроника, XIV-XV вв</a>
+        </li>
+        <li>
+          <a href="blr_atlas.php">Вялiкi гiстарычны атлас Беларусi</a>, РУП "Белкартаграфiя" 2013
+        </li>
+        <li>
           <a href="carolomachia.php">Carolomachia, 1606</a> — поэма в честь Яна Кароля Ходкевича
         </li>
         <li>
-          <a href="monet_blr.php">Монеты ВКЛ-Беларуси до 1707 года</a>
+          <a href="monet_blr.php">Монеты ВКЛ-Беларуси</a> до 1707 года
         </li>
 
-        <h4>Карты</h4>
-        <li>
-          <a href="blr_people.php">Этнографическая карта белорусов</a>
-        </li>
-        <li>
-          <a href="wkl_equal_etno.php">Этнографическая карта белорусов на карте ВКЛ</a>
-        </li>
-        <li>
-          <a href="map_ptolemy.php">Европа на картах от Птолемея (150 г. н.э.) до XV века</a>
-        </li>
-         <li>
-          <a href="map_10century.php">Белорусске земли X в.</a>
-        </li>
-        <li>
-          <a href="map_11century.php" >Белорусске земли XI в.</a>
-        </li>
-        <li>
-          <a href="map_12century.php" >Белорусске земли XII в.</a>
-        </li>
-        <li>
-          <a href="map_13-14centuries.php">Белорусске земли XIII-XIV в.</a>
-        </li>
-        <li>
-          <a href="map_15century.php">Белорусске земли XV в.</a>
-        </li>
-        <li>
-          <a href="map_16century.php">Белорусске земли XVI в.</a>
-        </li>
-        <li>
-          <a href="map_17century.php">Белорусске земли XVII в.</a>
-        </li>
-        <li>
-          <a href="map_18century.php">Белорусске земли XVIII в.</a>
-        </li>
-        <li>
-          <a href="#" class="item-unable">Белорусске земли XIX в.</a>
-        </li>
-        <li>
-          <a href="#" class="item-unable">Белорусске земли XX в.</a>
-        </li>
-        <li>
-          <a href="map_radziwill.php">Карта Magni Ducatus Lithaniae 1630 г. Радзивилла "Сиротки"</a>
-        </li>
-        <li>
-          <a href="map_wkl.php">Карты ВКЛ-Беларуси</a>
-        </li>
-        <li>
-          <a href="map_wkl_lotter.php">Карты ВКЛ Тобиаса Лоттера</a>
-        </li>
-        <li>
-          <a href="zemie_ruskie.php">Земли Русские</a>
-        </li>
-        <li>
-          <a href="alba_ruthenia.php" class="item-edit">Alba Ruthenia (Белая Русь) на картах</a>
-        </li>
-		<li>
-          <a href="#" class="item-unable">Some link</a>
-        </li>
-        <li>
-          <a href="#" class="item-unable">...</a>
-        </li>
-        <li>
-          <a href="#" class="item-unable">Some link</a>
-        </li>
       </ul>
 	  </div>
 	

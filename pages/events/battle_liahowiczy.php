@@ -29,12 +29,12 @@
 		</h3>
 		
 		<p class="img-float-left">
-		<img alt="Ляховичи. Герб" src="../../images/img-events/battle_liahowiczy/gerb.jpg" height="200">
+		<img alt="Ляховичи. Герб" src="../../images/img-events/battle_liahowiczy/gerb.jpg" height="160">
 		</br><small>Герб Ляхович</small>
 		</p>
 		
 		<p class="img-float-right">
-		<img alt="Ляховичи" src="../../images/img-events/battle_liahowiczy/liahowiczy.jpg" height="200">
+		<img alt="Ляховичи" src="../../images/img-events/battle_liahowiczy/liahowiczy.jpg" height="160">
 		</br><small>Ляховичи. Беларусь</small>
 		</p>
 						

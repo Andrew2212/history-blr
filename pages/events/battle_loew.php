@@ -29,13 +29,13 @@
 		
 		<p class="img-float-left">
 		<a href="../figures/radziwilly.php">
-		<img alt="Януш Радзивилл" src="../../images/img-events/battle_loew/janush_radziwill.jpg" height="240">
+		<img alt="Януш Радзивилл" src="../../images/img-events/battle_loew/janush_radziwill.jpg" height="160">
 		</br><small>Януш Радзивилл</small>
 		</a>
 		</p>
 		
 		<p class="img-float-right">
-		<img alt="Битва под Лоевом" src="../../images/img-events/battle_loew/loew.jpg" height="200">
+		<img alt="Битва под Лоевом" src="../../images/img-events/battle_loew/loew.jpg" height="160">
 		</br><small>г. Лоев (Беларусь)</small>
 		</p>
 		<p>
@@ -97,6 +97,11 @@
 		</br><small>1670 г. Лоев на карте ВКЛ
 		</br>(у слияния  Днепра и Сожа)</small>
 		</a>
+		</p>
+		<p>
+		Лоев — у слияния Днепра и Сожа — западная оконечность <a href="../places/sea_herodotus.php">Полесья</a>, полесских болот, 
+		оставшихся от <a href="../places/sea_herodotus.php">моря Геродота</a>. 
+		И потому именно здесь проходили пути армий, приходящих с юга на <a href="../download/blr_people.php">белорорусские земли</a>. 
 		</p>
 		
 		<p>

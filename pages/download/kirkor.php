@@ -87,7 +87,7 @@
 
 			<p>
 			Файл PDF, 157 Мб</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DTDVSSm9ycjREZHc/view?usp=sharing" class="btn btn-default img-float-centr"
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DTDVSSm9ycjREZHc/view?usp=sharing" class="btn btn-default img-float-centr"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>			
 		</div>
@@ -103,7 +103,7 @@
 
 			<p>
 			Размер 4039 х 2602</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DYlJiclcyV3VPVHM/view?usp=sharing" class="btn btn-default img-float-centr"
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DYlJiclcyV3VPVHM/view?usp=sharing" class="btn btn-default img-float-centr"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>			
 		</div>

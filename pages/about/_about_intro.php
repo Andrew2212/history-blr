@@ -118,6 +118,10 @@
 		  </br>редактор <a href="https://twitter.com/Belbriefhistory">Твиттер-блога</a></a>
         </li>
         <li>
+          <a target="_blank" href="http://ok.ru/profile/343280015857">Александр Грохотов</a>,
+		  </br>администратор <a target="_blank" href="http://ok.ru/group/53595131412721">ОК-группы</a></a>
+        </li>
+        <li>
           <a target="_blank" href="https://www.facebook.com/aliaksei.kairys">Aliaksei Kairys</a>, историк, автор и эксперт текстов по темам
         </li>
         <li>
@@ -147,8 +151,14 @@
       		 <h4>Наши банеры</h4>
        		 
        		 <div class="col-md-3 img-float-center">
+       		 <p>
        		 <img src="../../banners/banner_120x60.jpg">
         	 </br><small>120x60</small>
+        	 </p>
+        	 <p>
+       		 <img src="../../banners/banner_88x31.jpg">
+        	 </br><small>88x31</small>
+        	 </p>
        		 </div>
        		 
        		 <div class="col-md-3 img-float-center">

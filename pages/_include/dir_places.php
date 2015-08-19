@@ -5,7 +5,7 @@
           <h4>Топонимы</h4>
 
         <li>
-          <a href="wilno.php">Вильно</a> — мультикультурная столица ВКЛ
+          <a href="wilno.php">Вильно</a> — мультикультурная столица
         </li>
         <li>
           <a href="vowczyn.php">Волчин</a> — родина и усыпальница последнего в. князя Литовского и короля Польского
@@ -35,22 +35,40 @@
           <a href="krevo.php">Крево</a> — сакральное место ВКЛ.
         </li>
         <li>
-          <a href="../events/battle_loew.php">Лоев</a>
+          <a href="../events/battle_loew.php">Лоев</a> — место битв с Войском Запорожским
         </li>
         <li>
           <a href="../events/battle_liahowiczy.php">Ляховичи</a> — несокрушенный бастион
         </li>
         <li>
-          <a href="polotsk.php" class="item-edit">Полоцк</a>
+          <a href="#" class="item-unable">Могилев</a>
         </li>
         <li>
-          <a href="nowogrudok.php" class="item-edit">Новогрудок</a> — первая столица ВКЛ
+          <a href="sea_herodotus.php">Море Геродота</a> — на картах и в хрониках
+        </li>
+        <li>
+          <a href="#" class="item-unable">Мстиславль</a>
+        </li>
+        <li>
+          <a href="../events/battle_nemiga.php">Немига</a> — древнейший топоним Минска
         </li>
         <li>
           <a href="nesviz.php">Несвиж</a> — резиденция Радзивиллов
         </li>
         <li>
-          <a href="sea_herodotus.php">Море Геродота</a> — на картах и в хрониках
+          <a href="nowogrudok.php" class="item-edit">Новогрудок</a> — первая столица ВКЛ
+        </li>
+        <li>
+          <a href="sea_herodotus.php">Полесье</a> — наследие Моря Геродота
+        </li>
+        <li>
+          <a href="polotsk.php" class="item-edit">Полоцк</a>
+        </li>
+        <li>
+          <a href="sophia_sobor.php" class="item-edit">Софийский Собор</a>
+        </li>
+        <li>
+          <a href="smolensk.php">Смоленск</a> — город с белорусскими корнями
         </li>
         <li>
           <a href="#" class="item-unable">Some link</a>
