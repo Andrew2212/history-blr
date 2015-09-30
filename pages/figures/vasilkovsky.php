@@ -29,6 +29,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                       
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_figures.php"); ?>
+  
 		<h3>Олег Петрович Васильковский
 		 </br><small>глава дипмиссии БНР в Прибалтике</small>
 		</h3>

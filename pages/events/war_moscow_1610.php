@@ -25,6 +25,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                  
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_events.php"); ?>
+  
 		<h3>Война с Московией 1609-1618. Взятие Москвы</h3>
 		
 		<p>

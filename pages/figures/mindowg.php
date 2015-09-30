@@ -26,6 +26,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_figures.php"); ?>
+  
 		<h3>Миндовг <small>король пруссов и литвинов.
 		</br>Войшелк, сын Миндовга.</small></h3>
 		<p>

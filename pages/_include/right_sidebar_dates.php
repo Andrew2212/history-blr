@@ -1,9 +1,9 @@
 
-      <div class="col-md-2 right-bar">
+      <div class="col-md-2 right-bar-align-center">
 	   <p>
 			<a href="july.php">
 			<img src="../../images/img-dates/july_grunwald.jpg" class="img-right-80""/></br>
-			<small><a href="july.php">Июль</small>
+			<small>Июль</small>
 			</a></br>
 			
 	   </p>

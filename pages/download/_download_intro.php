@@ -24,7 +24,11 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Карты и исторические документы</h3>
+    	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_download.php"); ?>
+ 
+		<h2>Карты и исторические документы</h2>
 		<p>
 		На сайте представлена информация по темам 
 		"<a href="../times/_times_intro.php">Время</a>", "<a href="../events/_events_intro.php">События</a>", 

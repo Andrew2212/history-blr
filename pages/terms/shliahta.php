@@ -27,6 +27,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_terms.php"); ?>
+    
 		<h1>Белорусская шляхта ВКЛ</h1>
 		
 		<p class="img-float-left">

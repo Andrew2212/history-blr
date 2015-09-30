@@ -30,6 +30,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_figures.php"); ?>
+  
 		<h3>Иван Федоров, первопечатник в Московии и Украине</h3>
 		<p>
 		Статья в разработке

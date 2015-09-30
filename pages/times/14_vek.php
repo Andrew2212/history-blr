@@ -3,9 +3,12 @@
 <html lang="ru">
   <head>
   
-  	<meta name="description" content="Основные события и значимые люди в истории Беларуси — короткие интерактивные статьи, структурированные по столетиям" />
+  	<meta name="description" content="Великое княжество Литовское — объединение всех белорусских земель в единое государство. 
+  	Формирование белорусского этноса.
+	  " />
     <meta name="keywords" itemprop="keywords" content="14 век, XIV век, 
 	история Беларуси кратко, краткая история беларуси, краткая история беларуси в датах, Полоцкое княжество, Великое княжество Литовское" />
+	<meta property="og:image" content="http://history-belarus.by/images/_img-index/blr_14ce_country.jpg" />
 	
 	<!-- ***Title*** -->
     <title>XIV век. История Беларуси.</title>
@@ -24,7 +27,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-
+                        
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_times.php"); ?>
+ 
 	<h3>XIV век</h4>
 
 	 <h4>Европа</h4>
@@ -39,10 +45,45 @@
 		  Битва на Ворскле; поражение ВКЛ от Золотой Орды
 		</p>
 		
+	<div class="col-md-12">
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/_img-index/blr_14ce_country.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/_img-index/blr_14ce_country_thumb.jpg" height="120">
+		</br><small>Беларусь XIV век</small>
+		</a>
+		</div>
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/olgerd/olgerd.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/img-figures/olgerd/olgerd.jpg" height="120">
+		</br><small>В. князь Ольгерд</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-download/litva_cronicles/map_litwa_14_century_by_historic_source.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/img-download/litva_cronicles/map_litwa_14_century_by_historic_source.jpg" height="120">
+		</br><small>Литва по хроникам XIII-IV вв</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/gedimin/wkl_13-14ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/img-figures/gedimin/wkl_13-14ce_thumb.jpg" height="120">
+		</br><small>ВКЛ XIII-XV вв</small>
+		</a>
+		</div>
+
+	</div>
+		
 	<h4></br><a href="../terms/belarus.php">Беларусь</a></br>
 	<small>государственный язык — <a href="../terms/blr_mova.php">старобелорусский</a></br>
-	<a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_13-14centuries.php">карты</a>
-	, <a href="../terms/religion_blr.php">религия</a></small>
+	<a href="../terms/blr_etnos.php">этнос</a>, <a href="../terms/religion_blr.php">религия</a></small>
 	</h4>
 
 	
@@ -52,17 +93,23 @@
 </i></p>
 <p>
 • В 1307 году ,при княжении Витеня, Полоцкое княжество вошло в состав ВКЛ на правах автономии
-</br>• 1316-1341 Княжение Гедимина (брата Витеня), основателя династии Гедиминовичей. При Гедымине в единое государство собраны все белорусские земли, кроме Полесья.
+</br>• 1316-1341 Княжение Гедимина (брата Витеня), основателя династии Гедиминовичей. При Гедымине белорусские земли собраны в единое государство.
  Столица из Новогрудка перенесена в Вильно. 
- </br>• 1345-1377 Княжение Ольгерда (сына Гедимина). Ольгерд значительно расширил границы ВКЛ, собрав в единую страну земли, на которых в последующие 300 лет 
+ <p>
+ </p>
+ • 1345-1377 Княжение Ольгерда (сына Гедимина). Ольгерд значительно расширил границы ВКЛ, собрав в единую страну земли, на которых в последующие 200 лет 
  сформируется белорусский этнос. 
  </br>Разбив ордынские войска в битве на Синих Водах, присоединил Русские Земли (бОльшая часть Украины).
- </br>• 1377-1381 Княжение Ягайло (сына Ольгерда). В 1385 году между Польшей и Великим княжеством Литовским была заключена Кревская уния 
+ <p>
+ </p>
+ • 1377-1381 Княжение Ягайло (сына Ольгерда). В 1385 году между Польшей и Великим княжеством Литовским была заключена Кревская уния 
  (скрепленная династическим браком Ягайло и королевы Ядвиги). Уния способствовала прекращению борьбы ВКЛ и Польши за Галицко-Волынское наследство.
   </br>• Гражданская война в ВКЛ (1381-84 и 1389-92) — Витовт против Ягайло. 
   </br>Правление Ягайло княжеством из Польши вызвало недовольство литовской знати. Во главе оппозиции стал Витовт (племянник Ольгерда, внук Гедымина). 
   </br>Витовт признал Ягайло верховным сюзереном Литвы, а сам стал Великим князем Литовским.
-  </br>• 1392-1430 Княжение Витовта.
+  <p>
+ </p>
+ • 1392-1430 Княжение Витовта. Присоединение Смоленска.
 <!--Spoiler-->
 <!--http://forwebmaster.net/prostoy-spoyler-dlya-sayta-v-html/-->
 <div class="spoil">

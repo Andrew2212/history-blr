@@ -24,6 +24,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                  
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_events.php"); ?>
+  
 		<h3>1432 Гродненская Уния</h3>
 		
 		<p class="img-float-left">
@@ -75,7 +79,6 @@
         onclick="return hs.expand(this)">
 		<img alt="Гродненская уния" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="160">
 		</br><small>ВКЛ 1386-1434</small>
-		</a>
 		</a>
 		</div>
 		

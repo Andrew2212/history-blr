@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+      <!-- ***Title*** -->
+ 	<title>История Беларуси. Карты XVIII века.</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Карты ВКЛ XV-XVIII веков большого размера скачать — карты Фра Мауро и Меркатора, Радзивилловская 
+	и Carta Marina, подробные карты Лоттера, карты Речи Посполитой и ее разделов" />
+  	<meta name="keywords" itemprop="keywords" content="карта ВКЛ, старые карты ВКЛ, исторические карты Бларуси, исторические карты ВКЛ,   
+	   карты ВКЛ, история Беларуси, краткая история Беларуси, Меркатор, LITUANIA, ROSSIA BLANCHA, ROSSIA NEGRA, ROSSIA ROSSA, ROSSIA, TARTARIA"/>
+	<meta property="og:image" content="http://history-belarus.by/images/img-download/map_wkl/1690_Hondius_Valk_Lithvaniae_.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_download.php"); ?>
@@ -16,7 +25,11 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Белорусские земли XVIII в.</h3>
+        	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_download.php"); ?>
+ 
+		<h2>Карты XVIII в.</h2>
 		
 		<div class="col-md-12">
 			<p>
@@ -28,7 +41,7 @@
 			</p>
 			<p>
 			Размер 1200 х 1020</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DSEptRzhCSmpsUms/view?usp=sharing" class="btn btn-default img-float-left"
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DSEptRzhCSmpsUms/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -47,7 +60,7 @@
 			</p>
 			<p>
 			Размер 4000 х 3388</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DNXF0UEdrZS13UVk/view?usp=sharing" class="btn btn-default img-float-left"
+			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DNXF0UEdrZS13UVk/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -60,7 +73,7 @@
 			</p>
 			<p>
 			Размер 1800 х 1550</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DTlJwNWdiT09CSk0/view?usp=sharing" class="btn btn-default img-float-left"
+			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DTlJwNWdiT09CSk0/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -74,7 +87,7 @@
 			</p>
 			<p>
 			Размер 7120 х 6200</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DQ0xxeU4xUFRpOTg/view?usp=sharing" class="btn btn-default img-float-left"
+			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DQ0xxeU4xUFRpOTg/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -89,7 +102,7 @@
 			</p>
 			<p>
 			Размер 7120 х 6200</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DMzkycEc3YXFzdUE/view?usp=sharing" class="btn btn-default img-float-left"
+			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DMzkycEc3YXFzdUE/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>
@@ -102,7 +115,7 @@
 			</p>
 			<p>
 			Размер 1930 х 1498</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DT2ZSNzdFTnYxOXM/view?usp=sharing" class="btn btn-default img-float-left"
+			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DT2ZSNzdFTnYxOXM/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>

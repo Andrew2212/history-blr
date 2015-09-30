@@ -1,28 +1,47 @@
 
-      <div class="col-md-2 right-bar">
-	   <p>
-			<img src="../../images/img-places/wilno.jpg" class="img-right-120"/></br>
-			<small><a href="wilno.php">Вильно</a></small></br></br>
+      <div class="col-md-2 right-bar-align-center">
+      
+      <p>
+			<a href="nesviz.php">
+			<img src="../../images/img-places/_hot_places_right/nesviz.jpg" class="img-right-80""/></br>
+			<small>Несвиж</small>
+			</a></br>			
 	   </p>
-	   <p>
-			<img src="../../images/img-places/brama.jpg" class="img-right-120"/></br>
-			<small><a href="wostra_brama.php">Вострая Брама</a></small></br></br>
+	   
+	    <p>
+			<a href="sea_herodotus.php">
+			<img src="../../images/img-places/_hot_places_right/gerodotus_sea.jpg" class="img-right-80""/></br>
+			<small>Море Геродота</small>
+			</a></br>			
 	   </p>
+	   
 	   <p>
-			<img src="../../images/img-places/krevo_thumb.jpg" class="img-right-120"/></br>
-			<small><a href="krevo.php">Крево</a></small></br></br>
+			<a href="oginski_channel.php">
+			<img src="../../images/img-places/_hot_places_right/channel_oginski.jpg" class="img-right-80""/></br>
+			<small>Огинский канал</small>
+			</a></br>			
 	   </p>
+	   
 	   <p>
-			<img src="../../images/img-places/kossovo.jpg" class="img-right-120"/></br>
-			<small><a href="kossowo.php">Коссово</a></small></br></br>
+			<a href="vowczyn.php">
+			<img src="../../images/img-places/_hot_places_right/volczyn.jpg" class="img-right-80""/></br>
+			<small>Волчин</small>
+			</a></br>			
 	   </p>
+	   
 	   <p>
-			<img src="../../images/img-places/samogitia.jpg" class="img-right-120"/></br>
-			<small><a href="samogitia.php">Жемайтия (Самогития)</a></small></br></br>
-	   </p>	 
+			<a href="smolensk.php">
+			<img src="../../images/img-places/_hot_places_right/smolensk.jpg" class="img-right-80""/></br>
+			<small>Смоленск</small>
+			</a></br>			
+	   </p>
+	   
 	   <p>
-			<img src="../../images/img-places/nowogrudok.jpg" class="img-right-120"/></br>
-			<small><a href="nowogrudok.php">Новогрудок</a></small></br></br>
-	   </p>	   
+			<a href="sea_herodotus.php">
+			<img src="../../images/img-places/_hot_places_right/polesie.jpg" class="img-right-80""/></br>
+			<small>Полесье</small>
+			</a></br>			
+	   </p>
+	      
 	  </div>
 	

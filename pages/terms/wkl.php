@@ -27,6 +27,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_terms.php"); ?>
+    
 		<h3>Великое княжество Литовское, Русское, Жемайтийское и иных
 		</br><small>
 		ВКЛ — <a href="blr_mova.php">государственный язык</a>,  

@@ -25,6 +25,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                  
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_events.php"); ?>
+  
 		<h3>1385 Кревская Уния</h3>
 				
 		<p class="img-float-left">
@@ -42,7 +46,7 @@
 		</p>
 
 		<p>
-		Кревская уния 14 августа 1385 года, подписанная в замке <a href="../places/krewo">Крево</a> — 
+		Кревская уния 14 августа 1385 года, подписанная в замке <a href="../places/krevo.php">Крево</a> — 
 		соглашение о династическом союзе между <a href="../terms/wkl.php">Великим княжеством Литовским</a> и Польшей, 
 		по которому литовский великий князь <a href="../figures/jagiello.php">Ягайло</a>, 
 		вступив в брак с польской королевой Ядвигой, провозглашался польским королём.
@@ -78,7 +82,6 @@
         onclick="return hs.expand(this)">
 		<img alt="Кревская уния" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="160">
 		</br><small>ВКЛ 1386-1434</small>
-		</a>
 		</a>
 		</div>
 		

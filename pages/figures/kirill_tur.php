@@ -31,6 +31,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_figures.php"); ?>
+  
 		<h3>Кирилл Туровский</h3>
 		<p class="img-float-left">
 			<img src="../../images/img-figures/kirill_tur/Stamp_of_Belarus_1996.jpg" height="180" >

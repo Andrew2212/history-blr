@@ -27,7 +27,11 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Калюмны</h3>
+        
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_terms.php"); ?>
+    
+	<h3>Калюмны</h3>
 		
 	<div class="col-md-12" >
 		<img src="../../images/img-terms/kalumny/kalumny.jpg" height="120" class="img-float-left">

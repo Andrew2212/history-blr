@@ -25,6 +25,11 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+              
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_events.php"); ?>
+  
+
 		<h3>Конституция 3 мая 1791 года</h3>
 		
 		<p>

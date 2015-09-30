@@ -26,6 +26,11 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+              
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_events.php"); ?>
+  
+
 		<h3>Варшавская конфедерация
 		</br><small>акт религиозного примирения</small></h3>
 		

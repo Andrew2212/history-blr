@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+      <!-- ***Title*** -->
+ 	<title>История Беларуси. Карты XX века.</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Карты ВКЛ XV-XVIII веков большого размера скачать — карты Фра Мауро и Меркатора, Радзивилловская 
+	и Carta Marina, подробные карты Лоттера, карты Речи Посполитой и ее разделов" />
+  	<meta name="keywords" itemprop="keywords" content="карта ВКЛ, старые карты ВКЛ, исторические карты Бларуси, исторические карты ВКЛ,   
+	   карты ВКЛ, история Беларуси, краткая история Беларуси, Меркатор, LITUANIA, ROSSIA BLANCHA, ROSSIA NEGRA, ROSSIA ROSSA, ROSSIA, TARTARIA"/>
+	<meta property="og:image" content="http://history-belarus.by/images/img-download/map_wkl/1690_Hondius_Valk_Lithvaniae_.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_download.php"); ?>
@@ -16,15 +25,12 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Белорусские земли XX в.</h3>
-		<p>
-		<i>
-		Узнать больше и заказать печать можно 
-		<a href="https://www.facebook.com/pages/%D0%9C%D0%B0%D0%B9%D1%81%D1%82%D1%8D%D1%80%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D0%B0%D0%B4%D0%B0%D1%9E%D0%BD%D1%96%D1%85-%D0%B3%D0%B5%D0%B0%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%87%D0%BD%D1%8B%D1%85-%D0%BC%D0%B0%D0%BF/527727034041838">
-		тут
-		</a>
-		</i>
-		</p>
+        	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_download.php"); ?>
+ 
+		<h3>Карты XX в.</h3>
+
 		
 		<div class="col-md-12">
 			<p>

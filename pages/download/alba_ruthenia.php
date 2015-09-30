@@ -10,6 +10,7 @@
 	<meta name="description" content="Alba Ruthenia (Белая Русь, Rossia Blanhca, Russia Alba, Russie Blanche) на картах" />
   	<meta name="keywords" itemprop="keywords" content="Белая Русь, Rossia Blanhca, Russia Alba, Alba Ruthenia, Russie Blanche, 
 	  карты ВКЛ, история Беларуси, краткая история Беларуси, литовские метрики, Статут ВКЛ"/>
+	<meta property="og:image" content="http://history-belarus.by/images/img-download/map_radziwill.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_download.php"); ?>
@@ -24,6 +25,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_download.php"); ?>
+ 
 		<h3>Белая Русь на картах</h3>
 		<p>
 		Скоро будет. Enjoy

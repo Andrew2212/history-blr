@@ -24,6 +24,11 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+              
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_events.php"); ?>
+  
+
 		<h3>Осада Ляхович
 		</br><small>23 марта - 27 июля 1660</small>
 		</h3>

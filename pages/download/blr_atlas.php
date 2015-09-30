@@ -25,6 +25,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_download.php"); ?>
+ 
 		<h3>Вялiкi гiстарычны атлас Беларусi. Т2.</h3>
 		
 	

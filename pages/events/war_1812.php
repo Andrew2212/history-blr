@@ -25,6 +25,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                  
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_events.php"); ?>
+
 		<h3>Война 1812 года</h3>
 		
 		<p>

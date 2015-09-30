@@ -27,6 +27,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_terms.php"); ?>
+    
 		<h3>Асобны атрад БНР</h3>
 		<p class="img-float-left">
 		<a target="_blank" href="../../images/img-figures/bulak/mark.jpg">

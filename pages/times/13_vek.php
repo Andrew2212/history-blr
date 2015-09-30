@@ -3,9 +3,11 @@
 <html lang="ru">
   <head>
   
-  	<meta name="description" content="Основные события и значимые люди в истории Беларуси — короткие интерактивные статьи, структурированные по столетиям" />
+  	<meta name="description" content="Новый центр силы на белоруссих землях — княжество Литовское со столицей в Новогрудке.
+	  " />
     <meta name="keywords" itemprop="keywords" content="13 век, XIII век, 
 	история Беларуси кратко, краткая история беларуси, краткая история беларуси в датах, история Беларуси, история Белоруссии, Полоцкое княжество, Великое княжество Литовское" />
+	<meta property="og:image" content="http://history-belarus.by/images/_img-index/blr_13ce_country_thumb.jpg" />
 	
 	<!-- ***Title*** -->
     <title>XIII век. История Беларуси.</title>
@@ -24,6 +26,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                        
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_times.php"); ?>
+ 
 
 	<h3>XIII век</h4>
 
@@ -34,9 +40,44 @@
 		 Отвоевание Константинополя и реставрация Византийской империи во главе с Палеологами • Мамлюками захвачены последние крепости крестоносцев в Святой земле
 		</p>
 		
+	<div class="col-md-12">
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/_img-index/blr_13ce_country.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/_img-index/blr_13ce_country_thumb.jpg" height="120">
+		</br><small>Беларусь XIII век</small>
+		</a>
+		</div>
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/mindowg/mendog.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/img-figures/mindowg/mendog.jpg" height="120">
+		</br><small>В. князь Миндовг</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-download/litva_cronicles/map_litwa_14_century_by_historic_source.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/img-download/litva_cronicles/map_litwa_14_century_by_historic_source.jpg" height="120">
+		</br><small>Литва по хроникам XIII-IV вв</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/gedimin/wkl_13-14ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/img-figures/gedimin/wkl_13-14ce_thumb.jpg" height="120">
+		</br><small>ВКЛ XIII-XV вв</small>
+		</a>
+		</div>
+
+	</div>
+		
 	<h4></br><a href="../terms/belarus.php">Беларусь</a></br>
-	<small><a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_13-14centuries.php">карты</a>
-	, <a href="../terms/religion_blr.php">религия</a></small>
+	<small><a href="../terms/blr_etnos.php">этнос</a>, <a href="../terms/religion_blr.php">религия</a></small>
 	</h4>
 
 	
@@ -49,7 +90,9 @@
 Вскоре ливонцы захватили полоцкие крепости Кукенойс и Герцике. К 1230 году владения Ливонского ордена уже граничили с Полоцким княжеством. 
 В результате Полоцк утратил контроль над важнейшим участком пути «из варяг в греки». А это, в свою очередь, ослабило его значение в транзитной торговле 
 между городами Балтийского и Черноморского регионов.
-</br>• Новый центр силы на белоруссих землях — княжество Литовское со столицей в Новогрудке. В 1219 году литовские князья — 
+</p>
+<p>
+• Новый центр силы на белоруссих землях — княжество Литовское со столицей в Новогрудке. В 1219 году литовские князья — 
 "се старшии  Живинъбоуд  Довьят  Довспроункъ брат его Мидогъ … Роушьковичевъ  Кинтибоутъ …а се Боулевичи…" — заключают
 договор с Галицко-Волынским княжеством.
 </br>• В 1230-1240 Миндовг приглашен на княжение боярами Новогрудка. Начинается эпоха Великого княжества Литовского. С середины XIII века Полоцкое
@@ -129,8 +172,9 @@
 		Формирование раннефеодальной монархии.
 		</br>При распаде Древнерусского государства (Киевская Русь) в образовалось около 15 относительно территориально устойчивых княжеств.
 		</br>Батыево нашествие. 
-		</br>Ледовое Побоище.
 		</br>1243 — установление Монголо-татарского ига.
+		</br>1258 Александр Невский едет в Орду чтить ханского наместника Улавчия, а в 1259 году, угрожая татарским погромом, 
+		добился от новгородцев согласия на перепись и дань.
 		 
 		</p>
 		

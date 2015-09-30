@@ -26,6 +26,11 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+              
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_events.php"); ?>
+  
+
 		<h3>Шляхетские конфедерации XVIII века
 		</br><small>временные политические союзы <a href="../terms/shliahta.php">шляхты</a></small></h3>
 		<p>

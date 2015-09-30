@@ -29,6 +29,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                       
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_figures.php"); ?>
+  
 		<h3>Войниловичи, шляхта тутэйшая</h3>
 		<p class="img-float-left">
 			<a target="_blank" href="../../images/img-figures/woinillovicz/edvard.jpg">

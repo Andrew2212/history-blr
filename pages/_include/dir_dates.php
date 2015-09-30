@@ -1,5 +1,5 @@
 
-      <div class="col-md-2 right-left-bar">
+      <div class="col-md-2 left-bar-align-center">
 	   <p>
 	   		<a href="january.php">
 			<img src="../../images/img-dates/january_kalinowski.jpg" class="img-right-80"/></br>

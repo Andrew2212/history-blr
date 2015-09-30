@@ -6,6 +6,7 @@
   	<meta name="description" content="Основные события и значимые люди в истории Беларуси — короткие интерактивные статьи, структурированные по столетиям" />
     <meta name="keywords" itemprop="keywords" content="18 век, XVIII век, 
 	история Беларуси кратко, краткая история беларуси, краткая история беларуси в датах, история Беларуси, история Белоруссии, Полоцкое княжество, Великое княжество Литовское" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-figures/litwa_rb.jpg" />
 	
 	<!-- ***Title*** -->
     <title>XVIII век. История Беларуси.</title> 
@@ -24,6 +25,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_times.php"); ?>
+ 
 
 	<h3>XVIII век</h4>
 
@@ -39,9 +44,37 @@
 		 Великая французская революция • 		
 		</p>
 		
+	<div class="col-md-12">
+	
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/_img-index/blr_18ce_country.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/_img-index/blr_18ce_country_thumb.jpg" height="120">
+		</br><small>Беларусь XVIII век</small>
+		</a>
+		</div>
+	
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-figures/rejtan/razbor_rechi_Rejtan.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/img-figures/rejtan/razbor_rechi_Rejtan_thumb.jpg" height="120">
+		</br><small>Тадеуш Рейтан</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-terms/belarus/1770_lotter_litwa.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/img-terms/belarus/1770_lotter_litwa_thumb.jpg" height="120">
+		</br><small>1778 Lituania-Беларусь</small>
+		</a>
+		</div>
+		
+	</div>
+		
 	<h4></br><a href="../terms/belarus.php">Беларусь</a></br>
 	<small>государственный язык — польский, латинский</br>
-	<a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_18century.php">карты</a>
+	<a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_18century.php">старые карты</a>
 	, <a href="../terms/religion_blr.php">религия</a></small>
 	</h4>
 

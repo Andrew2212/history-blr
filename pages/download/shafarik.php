@@ -34,6 +34,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_download.php"); ?>
+ 
 		<h3>Павел Йозеф Шафарик, "Славянские древности"
 		</br><small>Т. I (кн.I и II), Т. II (кн.I и II), 1847 г.</small>
 		</h3>

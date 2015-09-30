@@ -3,9 +3,11 @@
 <html lang="ru">
   <head>
   
-  	<meta name="description" content="Основные события и значимые люди в истории Беларуси — короткие интерактивные статьи, структурированные по столетиям" />
+  	<meta name="description" content="Век беспрерывных войн. Кровавый Потоп — население сократилось вдвое.
+	  " />
     <meta name="keywords" itemprop="keywords" content="17 век, XVII век, 
 	история Беларуси кратко, краткая история беларуси, краткая история беларуси в датах, история Беларуси, история Белоруссии, Полоцкое княжество, Великое княжество Литовское" />
+	<meta property="og:image" content="http://history-belarus.by/images/_img-index/blr_17ce_country.jpg" />
 	
 	<!-- ***Title*** -->
     <title>XVII век. История Беларуси.</title> 
@@ -25,6 +27,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                                
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_times.php"); ?>
+ 
 
 	<h3>XVII век</h4>
 
@@ -35,9 +41,38 @@
 		 Англо-французская война. Осада Ла-Рошели • Английская революция. Кромвель • Французская Фронда, кардинал Мазарини • Северная война (1650-1655) • 	
 		</p>
 		
+	<div class="col-md-12">
+	
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/_img-index/blr_17ce_country.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/_img-index/blr_17ce_country_thumb.jpg" height="120">
+		</br><small>Беларусь XVII век</small>
+		</a>
+		</div>
+	
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-events/battle_polonka/palonka_memory.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/img-events/blood_potop/palonka_memory_thumb.jpg" height="120">
+		</br><small>1660 Битва под Полонкой</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-events/blood_potop/1696-Rzeczpospolita-Korony-Polskiej-WKL.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/img-events/blood_potop/1696-Rzeczpospolita-Korony-Polskiej-WKL_thumb.jpg" height="120">
+		</br><small>1696 Речь Посполитая</small>
+		</a>
+		</div>
+
+		
+	</div>
+		
 	<h4></br><a href="../terms/belarus.php">Беларусь</a></br>
 	<small>государственный язык — <a href="../terms/blr_mova.php">старобелорусский</a></br>
-	<a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_17century.php">карты</a>
+	<a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_17century.php">старые карты</a>
 	, <a href="../terms/religion_blr.php">религия</a></small>
 	</h4>
 

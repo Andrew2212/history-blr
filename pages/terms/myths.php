@@ -16,6 +16,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_terms.php"); ?>
+    
 		<h3>Мифы про историю Беларуси
 		</br><small>из учебников и не только</small></h3>
 		<p>

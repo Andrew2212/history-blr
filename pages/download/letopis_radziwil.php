@@ -27,6 +27,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_download.php"); ?>
+ 
 		<h3>Радзивилловская летопись</h3>
 		<p>
 		<a target="_blank" href="../../images/img-download/letopis_radziwil/letopis.jpg">

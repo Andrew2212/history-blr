@@ -26,6 +26,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                       
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_figures.php"); ?>
+ 
 		<h3>Клавдий Дуж-Душевский
 		</br><small>белорусский националист</small></h3>
 		

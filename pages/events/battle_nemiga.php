@@ -24,6 +24,11 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+              
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_events.php"); ?>
+  
+
 		<h3>Битва на Немиге</h3>
 		
 		<p class="img-float-left">

@@ -28,6 +28,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+    	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_articles.php"); ?>
+ 
 		<h3>СРЭБНАЯ СТРАЛА Ў ЧЫРВОНЫМ ПОЛІ</h3>
 		<h4>
 		<small> 

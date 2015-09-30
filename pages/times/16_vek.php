@@ -3,9 +3,10 @@
 <html lang="ru">
   <head>
   
-  	<meta name="description" content="Основные события и значимые люди в истории Беларуси — короткие интерактивные статьи, структурированные по столетиям" />
+  	<meta name="description" content="Люблинская уния — ВКЛ объединяется с Королевстовм Польским в Речь Посполитую Двух Народов для противостояния внешним угрозам." />
     <meta name="keywords" itemprop="keywords" content="16 век, XVI век, 
 	история Беларуси кратко, краткая история беларуси, краткая история беларуси в датах, история Беларуси, история Белоруссии, Полоцкое княжество, Великое княжество Литовское" />
+	<meta property="og:image" content="http://history-belarus.by/images/_img-index/blr_16ce_country.jpg" />
 	
 	<!-- ***Title*** -->
     <title>XVI век. История Беларуси.</title> 
@@ -25,7 +26,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-
+                            
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_times.php"); ?>
+ 
 	<h3>XVI век</h3>
 
 	 <h4>Европа</h4>
@@ -40,9 +44,45 @@
 		 Англо-испанская война. Поход "Непобедимой армады" • 		
 		</p>
 		
+	<div class="col-md-12">
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/_img-index/blr_16ce_country.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/_img-index/blr_16ce_country_thumb.jpg" height="120">
+		</br><small>Беларусь XVI век</small>
+		</a>
+		</div>
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/sapega/sapega.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/img-figures/sapega/sapega_thumb.jpg" height="120">
+		</br><small>Лев Сапега</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-times/16_vek/1556_munster_polands_littaw_DET.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/img-times/16_vek/1556_munster_polands_littaw_DET_thumb.jpg" height="120">
+		</br><small>ВКЛ, карта Мюнстера, 1556</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/unia_liublin/rp_16_vek.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Люблинская уния" src="../../images/img-events/unia_liublin/rp_16_vek_thumb.jpg" height="120">
+		</br><small>1596 Образование Речи Посполитой</small>
+		</a>
+		</div>
+
+	</div>
+		
 	<h4></br><a href="../terms/belarus.php">Беларусь</a></br>
 	<small>государственный язык — <a href="../terms/blr_mova.php">старобелорусский</a></br>
-	<a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_16century.php">карты</a>
+	<a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_16century.php">старые карты</a>
 	, <a href="../terms/religion_blr.php">религия</a></small>
 	</h4>
 
@@ -142,7 +182,7 @@
 		
 		<h4><small>События</small></h4>
 		<p>
-		<a href="../events/orsha_battle.php">Оршанская битва</a> 1514 г. • <a href="../terms/statut.php">Статут ВКЛ</a> 1529, 1566 и 1588 гг. • 
+		<a href="../events/war_1512.php">Война 1512-22</a> с Московией и <a href="../events/orsha_battle.php">Оршанская битва</a> 1514 г. • <a href="../terms/statut.php">Статут ВКЛ</a> 1529, 1566 и 1588 гг. • 
 		<a href="../events/war_livonia.php">Ливонская война</a> 1558-1583 гг. • 
 		<a href="../events/unia_liublin.php">Люблинская уния</a> 1569 г. 
 		(образование <a href="../terms/rzeczpospolita.php">Речи Посполитой Обоих Народов</a>) • 

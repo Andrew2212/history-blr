@@ -2,6 +2,14 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+  
+  <meta name="description" content="Основные события и значимые люди в истории Беларуси — короткие интерактивные статьи, структурированные по столетиям" />
+    <meta name="keywords" itemprop="keywords" content=" 
+	история Беларуси кратко, краткая история беларуси, краткая история беларуси в датах, история Беларуси, история Белоруссии, Полоцкое княжество, Великое княжество Литовское" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-figures/litwa_rb.jpg" />
+	
+	<!-- ***Title*** -->
+    <title>Время. История Беларуси.</title>
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_times.php"); ?>
@@ -16,6 +24,11 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                                    
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_times.php"); ?>
+ 
+
 
 	<h3>XXI век</h3>
 

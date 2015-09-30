@@ -7,10 +7,12 @@
  	<title>Речь Посполитая Трех народов. История Беларуси</title>
 
 <!-- ***Meta*** -->
-    <meta name="description" content="Речь Посполитая Трёх Народов — политический проект превращения конфедерации Королевства Польского и Великого княжества Литовского (то есть Речи Посполитой Двух Народов) в триединое государство (Речь Посполитую Трёх Народов), и создании на украинских (русских) землях Великого княжества Русского." />
+    <meta name="description" content="1658 Речь Посполитая Трёх Народов — проект превращения конфедерации Польши 
+	и ВКЛ (то есть Речи Посполитой Обоих Народов) в триединое государство 
+	(Речь Посполитую Трёх Народов), и создании на украинских землях Великого княжества Русского." />
     <meta name="keywords" itemprop="keywords" content="речь посполитая трех народов, 
 	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
-	<meta property="og:image" content="http://history-belarus.by/images/img-terms/rzeczpospolita_treh_narodov/rech_treh_harodov_map.jpg" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-terms/rzeczpospolita_treh_narodov/1569-1869.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>
@@ -25,15 +27,34 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Речь Посполитая Трех Народов <small>1658 г.</small></h3>
+    
+    
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_terms.php"); ?>
+    
+		<h2>Речь Посполитая Трех Народов <small>1658 г.</small></h2>
+		
+		<p class="img-float-left">
+		<a href="../../images/img-terms/rzeczpospolita_treh_narodov/rech_treh_harodov_gerb.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Речь Посполитая Трех Народов" src="../../images/img-terms/rzeczpospolita_treh_narodov/rech_treh_harodov_gerb_thumb.jpg" height="160">	
+		</a>
+		</p>
+		
+		<p class="img-float-right">
+		<a href="../../images/img-terms/rzeczpospolita_treh_narodov/1569-1869.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Речь Посполитая Трех Народов" src="../../images/img-terms/rzeczpospolita_treh_narodov/1569-1869_thumb.jpg" height="160">	
+		</a>
+		</p>
+		
 		<p>
 		Речь Посполитая Трёх Народов (польск. Rzeczpospolita — "общее дело") — политический проект превращения конфедерации Королевства Польского 
-		и <a href="wkl.php">Великого княжества Литовского</a> (то есть <a href="../terms/rzeczpospolita.php">Речи Посполитой Двух Народов</a>) 
+		и <a href="wkl.php">Великого княжества Литовского</a> (то есть <a href="../terms/rzeczpospolita.php">Речи Посполитой Обоих Народов</a>) 
 		в триединое государство (Речь Посполитую Трёх Народов), 
 		и создании на украинских (русских) <a href="../download/zemie_ruskie.php">землях</a> Великого княжества Русского.
 		</p>
 		
-		<img src="../../images/img-terms/rzeczpospolita_treh_narodov/rech_treh_harodov_gerb.png" title="Герб Речи Посполитая Трех Народов" class="img-float-left">
 		
 		<p>
 		В 1569 году по <a href="../events/unia_liublin.php">Люблинской унии</a> русские <a href="../download/zemie_ruskie.php">земли</a> 
@@ -52,17 +73,28 @@
 		<p> 
 		Гадячский договор, однако, разделил запорожское казачество и привело к гражданской войне на Гетманщине (Войско Запорожское).</br>.		
 		</p>
+		<p class="img-float-center">
+		<a href="../../images/img-terms/rzeczpospolita_treh_narodov/rech_treh_harodov_map.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Речь Посполитая Трех Народов" src="../../images/img-terms/rzeczpospolita_treh_narodov/rech_treh_harodov_map_thumb.jpg" height="160">
+		</br><small>1658 Речь Посполитая Трех Народов</small>	
+		</a>
+		</p>
 		<p>
-		Интересен такой исторический римейк. </br>22 января 1863 года началось национально-освободительное <a href="../events/uprising_1863.php">восстание</a> поляков, беларусов и украинцев против царизма, 
+		Интересен такой исторический римейк. </br>22 января 1863 года началось национально-освободительное <a href="../events/uprising_1863.php">восстание</a> поляков, беларусов и украинцев против империи, 
 		оно продолжалось до поздней осени 1864 года. </br>
 		Символом восстания стал модифицированный герб Речи Посполитой, который состоял уже не из двух полей 
-		(из польского Орла и нашей <a href="pogonia.php">Погони</a>), а из трех. Третье поле занимал Архангел Михаил – символ Киевской Руси.</br> 
+		(Орла и <a href="pogonia.php">Погони</a>), а из трех. Третье поле занимал Архангел Михаил – символ Киевской Руси.</br> 
 		Новый герб должен был представлять собой новую Речь Посполитую Трех Народов.
 		</p>
 		<p class="img-float-center">
-		</br>
-		<img src="../../images/img-terms/rzeczpospolita_treh_narodov/rech_treh_harodov_map.jpg" title="Карта Речи Посполитой Трех Народов" class="img-float-center">
+		<a href="../../images/img-terms/rzeczpospolita_treh_narodov/January_Uprising_seals.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Речь Посполитая Трех Народов" src="../../images/img-terms/rzeczpospolita_treh_narodov/January_Uprising_seals_thumb.jpg" height="120">
+		</br><small>1863 Печати Январского восстания</small>	
+		</a>
 		</p>
+
 		
 		
 		</br></br></br>

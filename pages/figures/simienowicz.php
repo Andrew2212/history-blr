@@ -30,6 +30,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                       
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_figures.php"); ?>
+  
 		<h3>Казимир Семенович</h3>
 		<p>
 		<img src="../../images/img-figures/semenowicz/stamp.jpg" height="160" class="img-float-left">

@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+      <!-- ***Title*** -->
+ 	<title>История Беларуси. Карты XVII века.</title>
+
+<!-- ***Meta*** -->
+	<meta name="description" content="Карты ВКЛ XV-XVIII веков большого размера скачать — карты Фра Мауро и Меркатора, Радзивилловская 
+	и Carta Marina, подробные карты Лоттера, карты Речи Посполитой и ее разделов" />
+  	<meta name="keywords" itemprop="keywords" content="карта ВКЛ, старые карты ВКЛ, исторические карты Бларуси, исторические карты ВКЛ,   
+	   карты ВКЛ, история Беларуси, краткая история Беларуси, Меркатор, LITUANIA, ROSSIA BLANCHA, ROSSIA NEGRA, ROSSIA ROSSA, ROSSIA, TARTARIA"/>
+	<meta property="og:image" content="http://history-belarus.by/images/img-download/map_wkl/1690_Hondius_Valk_Lithvaniae_.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_download.php"); ?>
@@ -16,7 +25,11 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Белорусские земли XVII в.</h3>
+        	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_download.php"); ?>
+ 
+		<h2>Карты XVII в.</h2>
 		
 		<div class="col-md-12">
 			<p>

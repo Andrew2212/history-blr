@@ -26,6 +26,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_terms.php"); ?>
+    
     
     	<h3>Готы, ятвяги, пруссы, венеды </h3>
     	<h4>Готы </h4>

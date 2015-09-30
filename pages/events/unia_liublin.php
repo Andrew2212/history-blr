@@ -26,6 +26,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                  
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_events.php"); ?>
+  
 		<h3>1569 Люблинская уния</h3>
 		
 		<p class="img-float-left">
@@ -90,7 +94,6 @@
 		<img alt="Люблинская уния" src="../../images/img-events/unia_liublin/1595_Mercator_Lithuania_thumb.jpg" height="160">
 		</br><small>1595 Mercator "Lithuania"</small>
 		</a>
-		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
@@ -99,7 +102,6 @@
 		<img alt="Люблинская уния" src="../../images/img-events/unia_liublin/livonia_war_1558-1583_thumb.jpg" height="160">
 		</br><small>1558-83 Ливонская война</small>
 		</a>
-		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
@@ -107,7 +109,6 @@
         onclick="return hs.expand(this)">
 		<img alt="Люблинская уния" src="../../images/img-events/unia_liublin/rp_16_vek_thumb.jpg" height="160">
 		</br><small>1596 Образование Речи Посполитой</small>
-		</a>
 		</a>
 		</div>
 		

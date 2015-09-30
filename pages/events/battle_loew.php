@@ -25,6 +25,11 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+              
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_events.php"); ?>
+  
+
 		<h3>Битвы под Лоевом, 1649 и 1651</h3>
 		
 		<p class="img-float-left">

@@ -29,6 +29,11 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+              
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_events.php"); ?>
+  
+
 		<h3>Битва при Чашниках (Битва на Уле) 1564</h3>
 		
 		<p class="img-float-left">

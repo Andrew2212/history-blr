@@ -3,9 +3,13 @@
 <html lang="ru">
   <head>
   
-  	<meta name="description" content="Основные события и значимые люди в истории Беларуси — короткие интерактивные статьи, структурированные по столетиям" />
+  	<meta name="description" content="На северо-восточных белорусских землях, лежащих на 
+	  Пути из варяг в греки вокруг древнего Полоцка формируется Полоцкое княжество. Княжение Рогволода — основателя династии Рогволодовичей. 
+	  Крещение Полоцка Торвальдом Кодранссоном.
+	  " />
     <meta name="keywords" itemprop="keywords" content="10 век, X век, 
 	история Беларуси кратко, краткая история беларуси, краткая история беларуси в датах, история Беларуси, история Белоруссии, Полоцкое княжество, Великое княжество Литовское" />
+	<meta property="og:image" content="http://history-belarus.by/images/_img-index/blr_10ce_variag_vay.jpg" />
 	
 	<!-- ***Title*** -->
     <title>X век. История Беларуси.</title> 
@@ -23,6 +27,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_times.php"); ?>
+   
 
 	<h3>X век</h4>
 
@@ -32,14 +40,39 @@
 		 Оттон I принял власть над Италией. Основал Священную Римскую империю •  
 		 Германский король Генрих I присоединил Лотарингию, начал захват земель полабских славян • 
 		 В результате объединения хорватских племен возникло Королевство Хорватия • 
-		 Началось правление венгерского короля Иштвана Святого •  
-		 
-		
+		 Началось правление венгерского короля Иштвана Святого •  		 	
 		</p>
 		
+	<div class="col-md-12">
+	
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/_img-index/blr_10ce_etno_variag_way.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/_img-index/blr_10ce_etno_variag_way_thumb.jpg" height="120">
+		</br><small>Племенные союзы</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/_img-index/blr_10ce_variag_vay.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/_img-index/blr_10ce_variag_vay_thumb.jpg" height="120">
+		</br><small>Путь из варяг в греки</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/_img-index/blr_10ce_country_variag_way.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/_img-index/blr_10ce_country_variag_way_thumb.jpg" height="120">
+		</br><small>Полоцкое княжество X-XI вв</small>
+		</a>
+		</div>
+		
+	</div>
+		
 	<h4></br><a href="../terms/belarus.php">Беларусь</a></br>
-	<small><a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_10century.php">карты</a>
-	, <a href="../terms/religion_blr.php">религия</a></small>
+	<small><a href="../terms/blr_etnos.php">этнос</a>, <a href="../terms/religion_blr.php">религия</a></small>
 	</h4>
 
 	

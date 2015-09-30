@@ -10,7 +10,7 @@
 	<meta name="description" content="Крево – одно из древнейших поселений на территории Беларуси. Гедымин, Ягайло, Кейстут, Кревская уния — 
 	многое в истории Беларуси связано с этим местом." />
   	<meta name="keywords" itemprop="keywords" content="Крево, Кревский замок, Кревская уния, Ягайло, Гедымин, Ягеллоны, Исторические места Беларуси, памятные места Беларуси"/>
-	<meta property="og:image" content="http://history-belarus.by/images/img-places/krevo/krevo.jpg" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-places/krevo/1911_krevo.jpg" />
 <!-- ***Include Header*** -->
 <? include ("../_include/header_places.php"); ?>
   
@@ -24,6 +24,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_places.php"); ?>
+ 
 		<h3>Крево
 		<small>
 		</br>Мясцовы <a target="_blank" href="http://kreuskizamak.by/">дабрачынны фонд</a> «Крэўскі замак»
@@ -39,12 +43,12 @@
 		</p>
 		
 		<p>
-		Крево – одно из древнейших поселений на территории <a href="../terms/belarus.php">Беларуси</a>. 
+		Крево — одно из древнейших поселений на территории <a href="../terms/belarus.php">Беларуси</a>. 
 		</br>Сегодня принято считать, что первобытные поселения людей появились в Крево еще за 5-3 тыс. лет до нашей эры. 
-		Крево - Это место в Беларуси одного возраста с Египетскими пирамидами и английским Стоунхэнджэм.
+		Крево — Это место в Беларуси одного возраста с Египетскими пирамидами и английским Стоунхэнджэм.
 		</p>		
 		<p>
-		Так, археологи, при раскопках в Крево, находили следы пребывания первобытных людей – каменные орудия, кости, следы стоянок. 
+		Так, археологи, при раскопках в Крево, находили следы пребывания первобытных людей — каменные орудия, кости, следы стоянок. 
 		В границах современного Крево располагается древнее городище, остатки ряда языческих святилищ. 
 		В Крево находиться несколько древнейших языческих культовых валунов. 
 		</br>Об одном из таких седых валунов ходят легенды, говорят, что если в хорошую погоду потереть валун и загадать доброе желание, оно обязательно сбудется…
@@ -73,6 +77,46 @@
 		<img src="../../images/img-places/krevo/krevo.jpg" >
 		</br><small>Кревский замок</small>	
 		</p>
+		
+		<p>
+		Замки Гедымина. Разные судьбы.
+		</p>
+		
+		<div class="col-md-12">
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-places/krevo/1911_krevo.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кревская уния" src="../../images/img-places/krevo/1911_krevo.jpg" height="160">
+		</br><small>1911 Замок в Крево</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-places/krevo/1910_troki.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кревская уния" src="../../images/img-places/krevo/1910_troki_thumb.jpg" height="160">
+		</br><small>1910 Замок в Троках (Тракай)</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-places/krevo/2015_krevo.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кревская уния" src="../../images/img-places/krevo/2015_krevo_thumb.jpg" height="160">
+		</br><small>2014 Замок в Крево</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-places/krevo/2015_troki.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кревская уния" src="../../images/img-places/krevo/2015_troki_thumb.jpg" height="160">
+		</br><small>2014 Замок в Троках (Тракай)</small>
+		</a>
+		</div>
+		
+		</div>
 		
 		
 		</br></br></br>

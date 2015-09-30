@@ -26,6 +26,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_terms.php"); ?>
+    
     
     	<h3>Лютичи, полабские славяне
 		</br><small>подробно о лютичах — см. Й. Шафарик, <a href="../download/shafarik.php">"Славянские древности"</a>, 1847 г.</small></h3>    	

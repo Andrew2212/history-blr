@@ -3,9 +3,12 @@
 <html lang="ru">
   <head>
   
-  	<meta name="description" content="Основные события и значимые люди в истории Беларуси — короткие интерактивные статьи, структурированные по столетиям" />
+  	<meta name="description" content="Расцвет Полоцкого княжества — княжение Всеслава Чародея. 
+  	Строительсво Софийского собора. Войны Полоцка с Киевом и Новгородом — битва на Немиге, княжение Всеслава в Киеве.
+	  " />
     <meta name="keywords" itemprop="keywords" content="11 век, XI век, 
 	история Беларуси кратко, краткая история беларуси, краткая история беларуси в датах, история Беларуси, история Белоруссии, Полоцкое княжество, Великое княжество Литовское" />
+	<meta property="og:image" content="http://history-belarus.by/images/_img-index/blr_10ce_country_variag_way.jpg" />
 	
 	<!-- ***Title*** -->
     <title>XI век. История Беларуси.</title> 
@@ -25,6 +28,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                    
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_times.php"); ?>
+ 
 
 	<h3>XI век</h4>
 
@@ -36,9 +43,36 @@
 		 Разделение христианской церкви на Западную (римско-католическую) и Восточную (греко-католическую, православную)
 		</p>
 		
+	<div class="col-md-12">	
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/_img-index/blr_10ce_variag_vay.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/_img-index/blr_10ce_variag_vay_thumb.jpg" height="120">
+		</br><small>Путь из варяг в греки</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/_img-index/blr_10ce_country_variag_way.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/_img-index/blr_10ce_country_variag_way_thumb.jpg" height="120">
+		</br><small>Полоцкое княжество X-XI вв</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-terms/belarus/polotsk_global.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/img-terms/belarus/polotsk_global_thumb.jpg" height="120">
+		</br><small>Полоцкое княжество на карте Европы</small>
+		</a>
+		</div>
+		
+	</div>
+		
 	<h4></br><a href="../terms/belarus.php">Беларусь</a></br>
-	<small><a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_11century.php">карты</a>
-	, <a href="../terms/religion_blr.php">религия</a></small>
+	<small><a href="../terms/blr_etnos.php">этнос</a>, <a href="../terms/religion_blr.php">религия</a></small>
 	</h4>
 
 	

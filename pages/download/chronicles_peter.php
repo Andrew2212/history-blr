@@ -28,6 +28,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_download.php"); ?>
+ 
 		<h3>Chronicon terrae Prussiae von Peter von Duisburg, 1326 г.
 		</br><small>Хроника земли Прусской</small></h3>
 		<p>

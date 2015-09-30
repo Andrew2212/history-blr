@@ -25,6 +25,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+    	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_articles.php"); ?>
+ 
 		<h2>Откуда есть пошла Русская Земля <small>экскурс в историю</small>
 		<h4><a target="_blank" href="https://www.facebook.com/al.e.fad.3">Александр Гальченко</a></h4>
 		</br>

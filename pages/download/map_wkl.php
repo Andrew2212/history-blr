@@ -25,6 +25,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_download.php"); ?>
+ 
 		<h1>Карты Беларуси
 		</br><small>Полоцк, ROSSIA BLANCHA, ROSSIA NEGRA, Littaw, ВКЛ</small></h1>
 		
@@ -32,14 +36,14 @@
 			<p>
 			</br>
 			<img alt="Карта ВКЛ" src="../../images/img-download/13_vek/Ebstorf_Map_1290_thumb.jpg" class="img-float-left"/>
-			</br>1290, Эбстарфская карта мира. 
+			</br>1290, <a href="map_ebstorf.php">Эбстарфская карта мира</a>. 
 			</br>В ней встречается едва ли не первое картографическое изображение таких топонимов, как Полоцк (Plosceke), 
 			Смоленск (Smalentike), Неман (Memela), Ливония (Livonie), Рига (Riga). Хотя Полоцк и Смоленск оказались на одной реке – Двине, 
 			и Смоленск оказался ближе к морю, чем в реальности. На одной реке также оказались Новгород и Киев.
 			</p>
 			<p>
 			Размер 3571 х 3566</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DOEtxWXZhbnhLUG8/view?usp=sharing" class="btn btn-default img-float-left"
+			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DOEtxWXZhbnhLUG8/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
 		</div>

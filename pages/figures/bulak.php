@@ -30,6 +30,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_figures.php"); ?>
+  
 		<h3>Булак-Балахович, Станислав Никодимович</h3>
 		<p class="img-float-left">
 			<a target="_blank" href="../../images/img-figures/bulak/bulak_speech.jpg">

@@ -1,67 +1,61 @@
 
-      <div class="col-md-2 left-bar">
-    	
-    	<ul>
-    	
-    	<h4>Карты</h4>
-        <li>
-          <a href="blr_people.php">Этнографическая карта белорусов</a>
-        </li>
-        <li>
-          <a href="wkl_equal_etno.php">Этнографическая карта белорусов на карте ВКЛ</a>
-        </li>
-        <li>
-          <a href="map_ptolemy.php">Европа на картах от Птолемея (150 г. н.э.) до XV века</a>
-        </li>
-         <li>
-          <a href="map_10century.php">Белорусске земли X в.</a>
-        </li>
-        <li>
-          <a href="map_11century.php" >Белорусске земли XI в.</a>
-        </li>
-        <li>
-          <a href="map_12century.php" >Белорусске земли XII в.</a>
-        </li>
-        <li>
-          <a href="map_13-14centuries.php">Белорусске земли XIII-XIV в.</a>
-        </li>
-        <li>
-          <a href="map_15century.php">Белорусске земли XV в.</a>
-        </li>
-        <li>
-          <a href="map_16century.php">Белорусске земли XVI в.</a>
-        </li>
-        <li>
-          <a href="map_17century.php">Белорусске земли XVII в.</a>
-        </li>
-        <li>
-          <a href="map_18century.php">Белорусске земли XVIII в.</a>
-        </li>
-        <li>
-          <a href="#" class="item-unable">Белорусске земли XIX в.</a>
-        </li>
-        <li>
-          <a href="#" class="item-unable">Белорусске земли XX в.</a>
-        </li>
-        <li>
-          <a href="map_radziwill.php">Карта Magni Ducatus Lithaniae 1630 г. Радзивилла "Сиротки"</a>
-        </li>
-        <li>
-          <a href="map_wkl.php">Карты ВКЛ-Беларуси</a>
-        </li>
-        <li>
-          <a href="map_wkl_lotter.php">Карты ВКЛ Тобиаса Лоттера</a>
-        </li>
-        <li>
-          <a href="zemie_ruskie.php">Земли Русские</a>
-        </li>
-        <li>
-          <a href="alba_ruthenia.php" class="item-edit">Alba Ruthenia (Белая Русь) на картах</a>
-        </li>
-		
-        
-        
-        </ul>
+      <div class="col-md-2 right-bar-align-center">
+      
+      <p>
+			<a href="map_wkl.php">
+			<img src="../../images/img-download/_hot_download_right/map_wkl.jpg" class="img-right-80""/></br>
+			<small>Карты ВКЛ
+			</br>XV-XIX вв </small>
+			</a></br>			
+	   </p>
+      
+      <p>
+			<a href="blr_people.php">
+			<img src="../../images/img-download/_hot_download_right/map_etno.jpg" class="img-right-80""/></br>
+			<small>"Этнографические карты 
+			</br>белорусского племени", 1875-1919 </small>
+			</a></br>			
+	   </p>
+	   
+	   <p>
+			<a href="blr_atlas.php">
+			<img src="../../images/img-download/_hot_download_right/blr_atlas.jpg" class="img-right-80""/></br>
+			<small>"Вялiкi гiстарычны атлас Беларусi", 
+			</br>Институт истории НАН  </small>
+			</a></br>			
+	   </p>
+	   
+	   <p>
+			<a href="map_wkl_lotter.php">
+			<img src="../../images/img-download/_hot_download_right/map_Lotter.jpg" class="img-right-80""/></br>
+			<small>Карты ВКЛ, 
+			</br>Т. Лоттер 1758, 1788 </small>
+			</a></br>			
+	   </p>
+	   
+	   <p>
+			<a href="kartografia_wkl.php">
+			<img src="../../images/img-download/_hot_download_right/kartografia_wkl.jpg" class="img-right-80""/></br>
+			<small>"Картография ВКЛ XV-XVIII вв"
+			</br>Польская АН, 2012 </small>
+			</a></br>			
+	   </p>
+	   
+	   <p>
+			<a href="map_radziwill.php">
+			<img src="../../images/img-download/_hot_download_right/map_radziwill.jpg" class="img-right-80""/></br>
+			<small>Magni Ducatus Lithvaniae
+			</br>карта Радзивилла", 1630 </small>
+			</a></br>			
+	   </p>
+	   
+	   <p>
+			<a href="map_mercator.php">
+			<img src="../../images/img-download/_hot_download_right/map_Mercator.jpg" class="img-right-80""/></br>
+			<small>Lithuania-Беларусь
+			</br>"Атлас" Меркатора, 1595 </small>
+			</a></br>			
+	   </p>
 
 	  </div>
 	

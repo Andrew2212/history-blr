@@ -26,7 +26,12 @@
 
 	
     <!-- ***Page Content*** -->
-    <div class="col-md-8">
+    <div class="col-md-8">    
+           
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_events.php"); ?>
+  
+
 		<h3>Введение</h3>
 		<p>
 		<i>

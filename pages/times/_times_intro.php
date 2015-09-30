@@ -6,6 +6,7 @@
   	<meta name="description" content="Основные события и значимые люди в истории Беларуси — короткие интерактивные статьи, структурированные по столетиям" />
     <meta name="keywords" itemprop="keywords" content="История Беларуси кратко, краткая история беларуси в датах, битва под Оршей, Люблинская уния, 
 	Брестская уния, Полоцкое княжество, Великое княжество Литовское, X XI XII XIII XIV XV XVI XVII XVIII век, история Беларуси кратко" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-times/intro_title.jpg" />
 	
 	<!-- ***Title*** -->
     <title>История Беларуси — хронология событий и дат</title>
@@ -17,12 +18,16 @@
   <div class="container-fluid">
   
 
-      <!-- ***Sidebar Left - include CurrentDir*** -->
+<!-- ***Sidebar Left - include CurrentDir*** -->
 <? include ("../_include/dir_times.php"); ?>
 
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+            
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_times.php"); ?>
+    
 		<h3>Введение</h3>
 		<p>
 		История народа, живущего на перекрестке путей из варяг в греки и из Европы в Азию.

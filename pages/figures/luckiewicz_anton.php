@@ -27,6 +27,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_figures.php"); ?>
+  
 		<h3>Антон Луцкевич
 		</br><small>Старшыня Рады Міністраў Найвышэйшай Рады БНР и директор Белорусского музея в Вильне</small>
 		</h3>

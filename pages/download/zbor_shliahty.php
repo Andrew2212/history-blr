@@ -25,6 +25,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_download.php"); ?>
+ 
 		<h3>Собрание имен шляхты Польши и ВКЛ, 1805 г.</h3>
 			<p>
 			<img src="../../images/img-download/zbor_names.jpg" class="img-float-left"/>

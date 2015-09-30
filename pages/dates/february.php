@@ -55,6 +55,15 @@
 						</ul>
 					</td>
 				</tr>
+				
+				<tr>
+					<td>10</td>
+					<td>
+						<ul>
+							<li>1452 Умер мятежный Великий князь<a href="../figures/svidrigailo.php">Свидригайло</a></li>
+						</ul>
+					</td>
+				</tr>
 
 				<tr>
 					<td>12</td>

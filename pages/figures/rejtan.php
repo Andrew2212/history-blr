@@ -30,6 +30,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                       
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_figures.php"); ?>
+  
 		<h3>Тадеуш Рейтан, Дон Кихот Речи Посполитой</h3>
 		<p>
 		Статья в разработке

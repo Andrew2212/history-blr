@@ -26,6 +26,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_download.php"); ?>
+ 
 		<h3>Дубницкая хроника, 1351 г.</h3>
 		<p class="img-float-left">
 		<a target="_blank" href="../../images/img-figures/kejstut/kejstut_oath.jpg">

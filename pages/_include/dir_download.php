@@ -1,68 +1,62 @@
 
-      <div class="col-md-2 left-bar">
-      <ul>
+      <div class="col-md-2 left-bar-align-center">
       
-    	<h4>Документы</h4>
-    	<li>
-          <a href="statut_wkl.php">Статут ВКЛ</a>
-        </li>
-        <li>
-          <a href="chronicles.php">Хроника Литовская и Жемойтская. Хроника Быховца</a>
-        </li>
-        <li>
-          <a href="zbor_shliahty.php">Собрание имен шляхты Польши и ВКЛ, 1805 г.</a>
-        </li>
-        <li>
-          <a href="shliahta_zmud.php">Шляхта жмудская</a>
-        </li>
-        <li>
-          <a href="metrica_litwa.php">Литовские Метрики</a>
-        </li>
-        <li>
-          <a href="spis_voiska.php">Перепись войска Литовского 1528-1565 г.</a>
-        </li>
-        <li>
-          <a href="spis_1863.php">Список осужденных участников восстания 1863 года</a>
-        </li>
-        <li>
-          <a href="blr_nationalists_1957.php">Белорусские буржуазные националисты</a>  
-		— воспоминания Войниловича и методичка КГБ
-        </li>
-        <li>
-          <a href="kirkor.php">А. Г. Киркор
-		  </br>"Живописная Россия", 1882</a>
-        </li>
-        <li>
-          <a href="shafarik.php">П. Й. Шафарик
-		  </br>"Славянские древности", 1847</a>
-        </li>
-        <li>
-          <a href="russia_blr.php">"Россия. Полное географическое описание."
-		</br>Верхнее Поднепровье и Белоруссия. 1905</a>
-        </li>
-        <li>
-          <a href="letopis_radziwil.php">Радзивилловская летопись</a>
-        </li>
-        <li>
-          <a href="kraina_blr.php">Kраiна Беларусь</a>
-        </li>
-        <li>
-          <a href="chronicles_peter.php">Peter von Duisburg
-		  </br>"Chronicon terrae Prussiae" 1326</a>
-        </li>
-        <li>
-          <a href="chronicles_dubnica.php">Дубницкая хроника, XIV-XV вв</a>
-        </li>
-        <li>
-          <a href="blr_atlas.php">Вялiкi гiстарычны атлас Беларусi</a>, РУП "Белкартаграфiя" 2013
-        </li>
-        <li>
-          <a href="carolomachia.php">Carolomachia, 1606</a> — поэма в честь Яна Кароля Ходкевича
-        </li>
-        <li>
-          <a href="monet_blr.php">Монеты ВКЛ-Беларуси</a> до 1707 года
-        </li>
-
-      </ul>
+      <p>
+			<a href="statut_wkl.php">
+			<img src="../../images/img-download/_hot_download_left/statut.jpg" class="img-right-80""/></br>
+			<small>Статут ВКЛ
+			</br>1529, 1566, 1588</small>
+			</a></br>			
+	   </p>
+	   
+	   <p>
+			<a href="kirkor.php">
+			<img src="../../images/img-download/_hot_download_left/kirkor.jpg" class="img-right-80""/></br>
+			<small>А. Киркор "Живописная Россия"
+			</br>Литва и Белоруссия, 1882 </small>
+			</a></br>			
+	   </p>
+	   
+	   <p>
+			<a href="metrica_litwa.php">
+			<img src="../../images/img-download/_hot_download_left/metrica_litwa.jpg" class="img-right-80""/></br>
+			<small>Метрики Литовские,
+			</br>XV-XVIII вв.</small>
+			</a></br>			
+	   </p>
+	   
+	   <p>
+			<a href="russia_blr.php">
+			<img src="../../images/img-download/_hot_download_left/russia.jpg" class="img-right-80""/></br>
+			<small>"Россия. Полное описание" Т. 9
+			</br>Поднепровье и Белоруссия, 1905  </small>
+			</a></br>			
+	   </p>
+	   
+	   <p>
+			<a href="shafarik.php">
+			<img src="../../images/img-download/_hot_download_left/shafarik.jpg" class="img-right-80""/></br>
+			<small>"Славянские древности"
+			</br>Й. Шафарик, Т.1, Т.2, 1847</small>
+			</a></br>			
+	   </p>
+	   <p>
+			<a href="spis_voiska.php">
+			<img src="../../images/img-download/_hot_download_left/spis_voiska.jpg" class="img-right-80""/></br>
+			<small>"Перепись войска Литовского"
+			</br>1528, 1565</small>
+			</a></br>			
+	   </p>
+	   
+	   <p>
+			<a href="chronicles_peter.php">
+			<img src="../../images/img-download/_hot_download_left/peter.jpg" class="img-right-80""/></br>
+			<small>"Хроника земли Прусской"
+			</br>Peter von Duisburg, 1326</small>
+			</a></br>			
+	   </p>
+	   
+	   
+	   
 	  </div>
 	

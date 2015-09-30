@@ -35,12 +35,18 @@
   <!-- ***BODY*** -->
   <body>
   <!-- ***Header*** -->
-	<div class="page-header">
+		<div class="page-header" style="background-color:#888;">
 		<div class="col-md-2 ">
 		</div>
+		
 		<div>
-		<h1 style="text-align: left">Краткая история Беларуси <img style="text-align: right" src="../../img/pagoniaBNR.png">
-		<small>за последнюю 1000 лет</small></h1>
+		<h2 style="text-align: left;">
+		<font color="white" face="Georgia">
+		Краткая история Беларуси 
+		<img style="text-align: right; margin-top:10px;" src="../../img/pagoniaBNR.png" height="80">
+		за последнюю 1000 лет
+		</font>
+		</h2>
 		</div>
 	</div>
 <!-- ***Navbar*** -->

@@ -26,6 +26,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_download.php"); ?>
+ 
 		<h3>Карты <a href="../terms/wkl.php">ВКЛ</a> Тобиаса Лоттера</h3> 
 		<p>
 		Беларусь, <a href="../places/samogitia.php">Самогития</a>, <a href="../terms/ross_empire.php">Россия</a>, 

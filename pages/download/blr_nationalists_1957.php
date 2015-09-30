@@ -26,6 +26,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_download.php"); ?>
+ 
     <h2>Белорусские буржуазные националисты. Воспоминания</h2>
     
     	<h3>"Воспоминания"

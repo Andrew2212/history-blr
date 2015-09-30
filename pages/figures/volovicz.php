@@ -31,6 +31,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                       
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_figures.php"); ?>
+  
 		<h3>Воловичи, шляхетский род
 		</br><small>от канцлера ВКЛ до змагара 1830 г</small></h3>
 		

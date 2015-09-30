@@ -26,6 +26,10 @@
 	
     <!-- ***Page Content*** -->
  <div class="col-md-8">
+     	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_download.php"); ?>
+ 
  	<div class="col-md-12">
 		<h3>
 		<a href="blr_people.php">Этнографическая карта</a> белорусов <small>(профессор Е. Ф. Карский, 1903 г.)
@@ -76,7 +80,8 @@
 			<p>
 			Совмещение карт позволяет определить этническое происхождение неясных терминов 
 			</br><a href="../terms/wkl.php">LITHUANIA</a>, <a href="../places/litwa.php">LITHUANIA PROPRIA</a>,
-				<a href="../places/samogitia.php">SAMOGITIA</a>, <a href="../terms/gudai.php">RUSSIA ALBA</a>, POLESIE, RUSSIA RUBRA 
+				<a href="../places/samogitia.php">SAMOGITIA</a>, <a href="../terms/gudai.php">RUSSIA ALBA</a>, 
+				<a href="../places/sea_herodotus.php">POLESIE</a>, RUSSIA RUBRA 
 			</br>и соотнести их с государственными границами.
 			</p>
 

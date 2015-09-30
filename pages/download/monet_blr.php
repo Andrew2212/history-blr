@@ -25,6 +25,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_download.php"); ?>
+ 
 		<h3>Монеты Беларуси до 1707 года</h3>
 			<p>
 			<img src="../../images/img-download/monet_blr.jpg" class="img-float-left"/>

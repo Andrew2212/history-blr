@@ -27,6 +27,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_places.php"); ?>
+ 
 		<h3>Новогрудок</h3>
 		<p>
 			Статья в разработке
@@ -38,10 +42,25 @@
 			Археологические раскопки, проведенные в Новогрудке в 60-х годах XX века, свидетельствуют что на этом месте в IX-X веках уже существовал город, имевший торговые связи с Византией, Ближним Востоком, Западной Европой и Скандинавией.
 		</p>
 		
-		<p class="img-float-center">
-		<img src="../../images/img-places/nowogrudok/nowogrudok.jpg" >
-		</br><small>Новогрудок. Pavel Tatarnikov</small>	
-		</p>
+		<div class="col-md-12">
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-places/nowogrudok/nowogrudok.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Новогрудок" src="../../images/img-places/nowogrudok/nowogrudok_thumb.jpg" height="160">
+		</br><small>Новогрудок. Pavel Tatarnikov</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-places/nowogrudok/Navahradak_Farny_kasciol.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Новогрудок" src="../../images/img-places/nowogrudok/Navahradak_Farny_kasciol_thumb.jpg" height="160">
+		</br><small>Фарный костел</small>
+		</a>
+		</div>
+		
+		</div
 		
 		</br></br></br>
 		<p><small>

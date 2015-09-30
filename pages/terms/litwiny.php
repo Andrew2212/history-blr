@@ -26,6 +26,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_terms.php"); ?>
+    
 		<h3>Литвины</h3>
 		<p>
 		<i>Эндоэтноним — имя народа, которое он присваивает себе сам</i>
@@ -61,29 +65,40 @@
 		<p>
 		Литвинами называли себя <i>только</i> "беларускіх зямель ураджэнцы" — <a href="../figures/kostiushko.php">Тадэуш Костюшко</a>, 
 		<a href="../figures/mickiewicz.php">Адам Мицкевич</a>, <a href="../figures/domeyko.php">Игнаци Домейко</a>, <a href="../figures/kalinowski.php">Кастусь Калиновский</a>,
-		 <a href="../figures/skorina.php">Франциск Скорина</a>, <a href="../figures/budny.php">Сымон Будный</a>.		 
+		 <a href="../figures/simienowicz.php">Казимир Семенович</a>, <a href="../figures/budny.php">Сымон Будный</a>.		 
 		</br>Акты ректорского суда Краковского университета называют «Литвинами» (Lithuanus, лат.) всех студентов с земель ВКЛ, 
 		но без <a href="../places/samogitia.php">Жемайтии</a> и <a href="../download/zemie_ruskie.php">Руси</a> (за 1469-1536 годы проходит только один Жемайт и он не записан как Lithuanus).
 		</br><small>[Кстати, слова "<a href="../places/litwa.php">Литва</a>" у жмудинов нет ни в языке, ни в <a href="../places/_places_intro.php">топонимах</a>] </small> 
 		</p>
 		
 		<p>
-		 В "<a target="_blank" href="http://books.google.de/books?id=YX8OAAAAYAAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false">
+		 В "<a href="../download/chronicles_peter.php">
 		Chronicon terrae Prussiae von Peter von Dusburg</a>" от 1326 г. (хроника Тевтонского Ордена) можно видеть 
 		<small>[см. <a target="_blank" href="http://www.vostlit.info/Texts/rus6/Dusburg/frametext33.htm">перевод</a>]</small>,
-		что литвинами (Littouwin) называли Гедымина, его наместника Давида Городенского и воинов Гродно (Гарты). Эта же хроника отчетливо противопоставляет литвинов и 
+		что литвинами (Littouwin) называли <a href="../figures/gedimin.php">Гедымина</a>, его наместника 
+		<a href="../figures/david.php">Давида Городенского</a> и воинов Гродно (Гарты). Эта же хроника отчетливо противопоставляет литвинов и 
 		<a href="../places/samogitia.php">жмудинов</a> (Samaitin).
 		</p>
 		
 	<div class="col-md-12" >
 		<div class="col-md-4 img-float-center" >
-		<a target="_blank" href="../../images/img-terms/litwiny/litviny_david.jpg">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litviny_david_thumb.jpg" height="120">		
+		<a href="../../images/img-terms/litwiny/litviny_david.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litviny_david_thumb.jpg" width="160" height="120">		
 		</a>
 		</div>
+		
 		<div class="col-md-4 img-float-center" >
-		<a target="_blank" href="../../images/img-terms/litwiny/peter_text.jpg">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/peter_text.jpg" height="120">		
+		<a href="../../images/img-figures/david/coin_davyd.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="литвины-белорусы" src="../../images/img-figures/david/coin_davyd.jpg" height="120">		
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center" >
+		<a href="../../images/img-terms/litwiny/peter_text.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/peter_text.jpg" width="160" height="120">		
 		</a>
 		</div>
 	</div>
@@ -106,17 +121,22 @@
 		</p>
 	<div class="col-md-12" >
 		<div class="col-md-4 img-float-center" >
-		<a target="_blank" href="../../images/img-terms/litwiny/smolensk_blr.jpg">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/smolensk_blr.jpg" height="120" >
+		<a href="../../images/img-terms/litwiny/smolensk_blr.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/smolensk_blr.jpg" width="160" height="120" >
 		</a>
 		</div>
+		
 		<div class="col-md-4 img-float-center" >
-		<a target="_blank" href="../../images/img-terms/litwiny/litvin_1.jpg">
+		<a href="../../images/img-terms/litwiny/litvin_1.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_1_thumb.jpg" height="120" >
 		</a>
 		</div>
+		
 		<div class="col-md-4 img-float-center" >
-		<a target="_blank" href="../../images/img-terms/litwiny/litvin_religion.jpg">
+		<a href="../../images/img-terms/litwiny/litvin_religion.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_religion_thumb.jpg" height="120" >
 		</a>
 		</div>
@@ -129,21 +149,28 @@
 	<div class="col-md-12" >
 		
 		<div class="col-md-4 img-float-center" >
-		<a target="_blank" href="../../images/img-terms/litwiny/litvin_2.jpg">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_2.jpg" height="120" >
+		<a href="../../images/img-terms/litwiny/litvin_2.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_2.jpg" width="160" height="120" >
 		</a>
 		</div>
+		
 		<div class="col-md-4 img-float-center" >
-		<a target="_blank" href="../../images/img-terms/litwiny/litvin_3.jpg">
+		<a href="../../images/img-terms/litwiny/litvin_3.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_3_thumb.jpg" height="120" >
 		</a>
 		</div>
+		
 		<div class="col-md-4 img-float-center" >
-		<a target="_blank" href="../../images/img-terms/litwiny/litvin_blr.jpg">
+		<a href="../../images/img-terms/litwiny/litvin_blr.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_blr.jpg" height="120" >
 		</a>
 		</div>
+		
 	</div>
+	
 		<p>
 		<i><small>"ДЗЕКАТЬ — произносить дз вместо д, как белорусы и мазуры… Как не закаивайся литвин, а дзекнет. Только мертвый литвин не дзекнет. 
 		Разве лихо возьмет литвина, чтоб он не дзекнул." </i> 

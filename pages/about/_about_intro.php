@@ -114,18 +114,17 @@
           <a href="#" class="item-unable">Кристобаль Хозевич</a>
         </li>
         <li>
-          <a target="_blank" href="https://twitter.com/IMrFreeman">Александр</a>,
-		  </br>редактор <a href="https://twitter.com/Belbriefhistory">Твиттер-блога</a></a>
-        </li>
-        <li>
           <a target="_blank" href="http://ok.ru/profile/343280015857">Александр Грохотов</a>,
 		  </br>администратор <a target="_blank" href="http://ok.ru/group/53595131412721">ОК-группы</a></a>
         </li>
         <li>
-          <a target="_blank" href="https://www.facebook.com/aliaksei.kairys">Aliaksei Kairys</a>, историк, автор и эксперт текстов по темам
+          <a target="_blank" href="https://www.facebook.com/sergey.rogachevsky" >Sergey Rogachevsky</a>, программист-консультант
         </li>
         <li>
           <a target="_blank" href="http://www.talaka.by/user/555" >Ратмир Новиков</a>, программист-консультант
+        </li>
+        <li>
+          <a target="_blank" href="https://www.facebook.com/aliaksei.kairys">Aliaksei Kairys</a>, историк, автор и эксперт текстов по темам
         </li>
         </ul>
         </div>

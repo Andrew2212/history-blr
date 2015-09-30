@@ -12,7 +12,7 @@
 	(их можно скачать в разделе Download) и сопровождаются ссылками на общедоступные ресурсы с более полной информацией." />
 	<meta name="keywords" itemprop="keywords" content="История Беларуси, история Белоруссии, краткая история Беларуси, краткая история Беларуси в датах, 
 	 История Беларуси коротко, карты ВКЛ, карты белорусского этноса, метрики ВКЛ, литвины, шляхта Беларуси, белорусы, история Беларуси кратко" />
-  	<meta property="og:image" content="http://history-belarus.by/img/Lithvaniae_Blr.jpg" />
+  	<meta property="og:image" content="http://history-belarus.by/images/img-articles/articles_title.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_articles.php"); ?>
@@ -27,6 +27,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+    	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_articles.php"); ?>
+ 
 		<h3>
 		Как вы себе представляете «идеальный» школьный учебник по истории Беларуси?</br>
 		<small>Эссе на заданную тему. Европейский колледж Liberal Arts </small>

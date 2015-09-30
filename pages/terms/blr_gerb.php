@@ -25,7 +25,11 @@
 
 	
     <!-- ***Page Content*** -->
-    <div class="col-md-8">
+    <div class="col-md-8">    
+        
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_terms.php"); ?>
+    
 		<h3>Погоня. Национальный герб Беларуси</h3>
 	<div class="col-md-12">
 		<p class="img-float-left">	

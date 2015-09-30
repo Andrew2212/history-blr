@@ -28,6 +28,11 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+              
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_events.php"); ?>
+  
+
 		<h3>Битвы под Хотином, 1621 и 1673</h3>
 		
 		<h4>
@@ -71,7 +76,7 @@
 		
 	<div class="col-md-12">
 	
-		<div class="col-md-6 img-float-center">
+		<div class="col-md-4 img-float-center">
 		<a target="_blank" href="../../images/img-events/battle_hotin/17ce_Poland.jpg">
 		<img src="../../images/img-events/battle_hotin/17ce_Poland_thumb.jpg" height="160">
 		</br><small>Polonia, Litvania, Moldavia, Podolia.
@@ -79,13 +84,20 @@
 		</br>английская карта, XVI век</small>
 		</div>
 		
-		<div class="col-md-6 img-float-center">
+		<div class="col-md-4 img-float-center">
 		<a target="_blank" href="../../images/img-events/battle_hotin/chodkiewicz_in_hotin_1621.jpg">
 		<img src="../../images/img-events/battle_hotin/chodkiewicz_in_hotin_1621_thumb.jpg" height="160">
 		</br><small>Ян Кароль Ходкевич в Хотинской битве
 		</a>
 		</br>Юзеф Брантд, 1867.</small>
+		</div>
 		
+		<div class="col-md-4 img-float-center">
+		<a target="_blank" href="../../images/img-places/nowogrudok/hotin_1621.jpg">
+		<img src="../../images/img-places/nowogrudok/hotin_1621.jpg" height="160">
+		</br><small>В память о погибших. Новогрудок
+		</a>
+		</br>Фарный костел, 1643.</small>		
 		</div>
 		
 	</div>
@@ -93,13 +105,18 @@
 		<p>
 		Армия Речи Посполитой состояла из войска Польского, <a href="../download/spis_voiska.php">войска Литовского</a> и 
 		войска Запорожского (под командованием гетмана Петра Конашевича-Сагайдачного).
-		</br>В битве участвоавало свыше 200 тыс. человек. Она продолжалась 40 дней (2 сент.- 9 окт.).
+		</br>В битве участвовало свыше 200 тыс. человек. Она продолжалась 40 дней (2 сент.- 9 окт.).
 		В результате битвы турки потеряли до 32 тыс. человек, начались переговоры о заключении мира.
 		</p>
 		
 		<p>
 		Это была последняя битва великого воина и полководца Яна Ходкевича. 24 сентября тяжело больной Ходкевич умер.
 		</br>Экспансия турок  была остановлена.
+		</p>
+		
+		<p>
+		В 1643 году по заказу новогрудского кастеляна Яна Рудамины в <a href="../places/nowogrudok.php">фарном костеле</a> был установлен мраморный барельеф в память о новогрудских рыцарях, 
+		погибших в этой битве:  <i>"Калі ты забудзешся пра іх ты, Божа Нябесны забудься на мяне"</i>.
 		</p>
 		
 		

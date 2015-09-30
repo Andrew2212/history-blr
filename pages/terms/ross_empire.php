@@ -7,11 +7,12 @@
  	<title>Российская империя, Московия. История Беларуси</title>
 
 <!-- ***Meta*** -->
-    <meta name="description" content="Россия — государство, сформировавшееся на основе княжества Московского, расположенного на землях финно-угорских племен меря и весь. До XVI века часто рассматривалось европейской картографией в ряду Тартарий (Moscoviae et Tartariae descriptio) — и Великие князья (Александр Невский и др.), и первый Московский царь Иван Грозный — все московские правители утверждались (получали ярлык на правление) в ханской ставке; 
-	цитаты из Корана были самым популярным декором оружия и доспехов как простых воинов, так и царских особ" />
-    <meta name="keywords" itemprop="keywords" content="московия, беларусь в российской иперии, 
+    <meta name="description" content="Московия - Великое княжество Московское - Московское царство - Российская Империя - Россия
+	" />
+    <meta name="keywords" itemprop="keywords" content="московия, беларусь в российской иперии, российская империя, россия это беларусь, беларусь не россия,
+	почему беларусь не россия, белоруссия это россия, белоруссия не россия, россия и белоруссия, беларусь россия, 
 	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
-
+	<meta property="og:image" content="http://history-belarus.by/images/img-terms/ross_empire/1681_moscoviae.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>
@@ -26,13 +27,18 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_terms.php"); ?>
+    
 		<h3>Россия
 		</br><small>Московия, Великое княжество Московское, Московское царство, Российская Империя</small>
 		</h3>
 		
 		
 		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-terms/ross_empire/ross_empire_gerb.jpg">
+		<a href="../../images/img-terms/ross_empire/ross_empire_gerb.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/ross_empire/ross_empire_gerb_thumb.jpg" width="200">
 		</br><small>Большой герб Российской Империи</small>
 		</a>
@@ -72,7 +78,8 @@
 		
 				
 		<p class="img-float-center">
-		<a target="_blank" href="../../images/img-terms/ross_empire/russ_muslim.jpg">
+		<a href="../../images/img-terms/ross_empire/russ_muslim.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 			<img src="../../images/img-terms/ross_empire/russ_muslim_thumb.jpg" height="120"/>
 			</br><small>Шлемы А. Невского и И. Грозного</small>
 		</a>
@@ -85,34 +92,39 @@
 		<a target="_blank" href="../../images/img-terms/ross_empire/russ_obrok.jpg">до конца XVII века</a>.
 		</p>
 		
-		<div class="col-md-12 img-float-center">		
-		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-terms/ross_empire/1562_moskovia_tartaria_Jenkinson.jpg">
-			<img src="../../images/img-terms/ross_empire/1562_moskovia_tartaria_Jenkinson_thumb.jpg" height="120"/>
+		<div class="col-md-12">
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/ross_empire/1562_moskovia_tartaria_Jenkinson.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/ross_empire/1562_moskovia_tartaria_Jenkinson_thumb.jpg" height="120"/>
 			</br><small>Russiae Moscoviae </br>et Tartariae, 1562</small>
 		</a>
-		</p>
+		</div>
 		
-		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-terms/ross_empire/1562_moskovia_tartaria.jpg">
-			<img src="../../images/img-terms/ross_empire/1562_moskovia_tartaria_thumb.jpg" height="120"/>
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/ross_empire/1562_moskovia_tartaria.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/ross_empire/1562_moskovia_tartaria_thumb.jpg" height="120"/>
 			</br><small>Moscoviae et Tartariae </br>descriptio, 1562</small>
 		</a>
-		</p>
+		</div>
 		
-		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-terms/ross_empire/1549_moskovia_gerberstein.jpg">
-			<img src="../../images/img-terms/ross_empire/1549_moskovia_gerberstein_thumb.jpg" height="120"/>
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/ross_empire/1549_moskovia_gerberstein.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/ross_empire/1549_moskovia_gerberstein_thumb.jpg" height="120"/>
 			</br><small>Записки о Московии, </br>Герберштейн 1549</small>
 		</a>
-		</p>
+		</div>
 		
-		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-terms/ross_empire/1550_Polonia_Lithvania.jpg">
-			<img src="../../images/img-terms/ross_empire/1550_Polonia_Lithvania_thumb.jpg" height="120"/>
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/ross_empire/1550_Polonia_Lithvania.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/ross_empire/1550_Polonia_Lithvania_thumb.jpg" height="120"/>
 			</br><small>Polonia, Lithvania, 1550</small>
 		</a>
-		</p>
+		</div>
 		
 		</div>
 		
@@ -123,23 +135,65 @@
 		Московия официально переименовывается в Российскую Империю (Россию).
 		</p>
 		
-		<div class="col-md-12 img-float-center">		
-		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-terms/ross_empire/growth_of_russia_1390_1525.jpg">
-			<img src="../../images/img-terms/ross_empire/growth_of_russia_1390_1525_thumb.jpg" height="120"/>
-			</br><small>Рост империи</br>1390-1525</small>
-		</a>
-		</p>
+		<div class="col-md-12">
 		
-		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-terms/ross_empire/growth_of_russia_1547-1725.jpg">
-			<img src="../../images/img-terms/ross_empire/growth_of_russia_1547-1725_thumb.jpg" height="120"/>
-			</br><small>Рост империи</br>1547-1725</small>
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/ross_empire/growth_of_russia_1390_1525.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/ross_empire/growth_of_russia_1390_1525_thumb.jpg" height="120"/>
+			</br><small>Рост империи
+			</br>1390-1525</small>
 		</a>
-		</p>
+		</div>
+		
+		<div class="col-md-6 img-float-center">
+		<a target="_blank" href="https://youtu.be/lvPxN2VZ8gE">
+        <img src="../../images/img-films/brothers/film_brothers_thumb.jpg" height="120"/>
+    		</br><small>Короткий ролик (73 сек)
+			</br>о дружбе народов</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/ross_empire/growth_of_russia_1547-1725.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/ross_empire/growth_of_russia_1547-1725_thumb.jpg" height="120"/>
+			</br><small>Рост империи
+			</br>1547-1725</small>
+		</a>
+		</div>
 		
 		</div>
 		
+		<div class="col-md-12">
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-terms/ross_empire/1645_russiae_blaeu.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/ross_empire/1645_russiae_blaeu_thumb.jpg" height="120"/>
+			</br><small>1645 Tabula Russiae,</br>Blaeu</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-terms/ross_empire/1681_moscoviae.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/ross_empire/1681_moscoviae_thumb.jpg" height="120"/>
+			</br><small>1681 Moscoviae </br>feu Russiae Magnae</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-terms/ross_empire/tartaria.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/ross_empire/tartaria_tumb.jpg" height="120"/>
+			</br><small>1720 Asiae</small>
+		</a>
+		</div>
+		
+		</div>
+		
+
 		<p>
 		Экспансии Московии <i>на запад</i>, начиная с XIII века, противостояло сначала <a href="../terms/polotsk_principality.php">Полоцкое княжество</a>,
 		 а после — <a href="../terms/wkl.php">Великое княжество Литовское</a>. 
@@ -147,43 +201,59 @@
 		</br>Это время — XIII-XVI века — время формирования <a href="../terms/blr_etnos.php">белорусского этноса</a>. 
 		</p>
 		
-		<div class="col-md-12 img-float-center">		
-		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-terms/ross_empire/1681_moscoviae.jpg">
-			<img src="../../images/img-terms/ross_empire/1681_moscoviae_thumb.jpg" height="120"/>
-			</br><small>Moscoviae </br>feu Russiae Magnae, 1681</small>
-		</a>
+		<p>
+		В этническом плане "Русский мир", с момента своего рождения в 1871 году, похож на уродливый каток, стирающий индивидуальность и идущий вразрез 
+		с общемировым <a href="../articles/patria_propria.php">культурным трендом</a>. 
+		</br>В 1706 году было и Лукоморье (у Новой Земли), и Страна казаков, и Малая Тартария в Крыму, и Равнины Черемисов (кто сейчас знает — где это?) и 
+		Pays de Memac (даже не знаем, что это сейчас). А в 2001 Институт этнологии и антропологии РАН закрасил все фиолетовым цветом "русского этноса".	
 		</p>
 		
-		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-terms/ross_empire/1645_russiae_blaeu.jpg">
-			<img src="../../images/img-terms/ross_empire/1645_russiae_blaeu_thumb.jpg" height="120"/>
-			</br><small>Tabula Russiae,</br>Blaeu, 1645</small>
-		</a>
-		</p>
+		<div class="col-md-12" >
 		
-		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-terms/ross_empire/tartaria1.jpg">
-			<img src="../../images/img-terms/ross_empire/tartaria1_thumb.jpg" height="120"/>
-			</br><small>Carte de Tartarie</small>
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-articles/patria_propria/1706_tartaria.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Русский мир" src="../../images/img-terms/ross_empire/tartaria1_thumb.jpg" height="120">
+		</br><small>Территория "русского мира" 1706 г.</small>	
 		</a>
-		</p>
+		</div>
 		
-		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-terms/ross_empire/tartaria.jpg">
-			<img src="../../images/img-terms/ross_empire/tartaria_tumb.jpg" height="120"/>
-			</br><small>Asiae</small>
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-articles/patria_propria/1941_SSSR_ethnic_group_1941.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Русский мир" src="../../images/img-articles/patria_propria/1941_SSSR_ethnic_group_1941_thumb.jpg" height="120">
+		</br><small>Территория "русского мира" 1941 г.</small>	
 		</a>
-		</p>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-articles/patria_propria/russ_ross.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Русский мир" src="../../images/img-articles/patria_propria/russ_ross_thumb.jpg" height="120">
+		</br><small>Территория "русского мира" 2001 г.</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/blr_etnos/slavic_shafarik.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-terms/blr_etnos/slavic_shafarik_thumb.jpg" height="120"/>
+			</br><small>Й. Шафарик о "русском мире", 1882</small>
+		</a>				
+		</div>
 		
 		</div>
 		
+		<h4>PS.</h4>
 		<p>
-		<small>И да — материал на сайте подается с позиции <a href="../articles/blr_nationalist.php">белорусского националиста</a>. 
-		</br>С позицией <a href="../articles/step_away.html">русских националистов</a> вы можете ознакомится по трудам по трудам Почётного члена 
-		Российской Императорской Академии наук Н. Карамзина из знатного татарского рода Кара-Мурза, 
-		по <a href="../articles/rus_mir.php">выступлениям российских полит-историков</a>, либо по школьным учебникам.
-		</small>
+		 Страница создана для участников холиваров про "трединый народ", "старшего брата", "Беларусь это Россия" и тп. 
+		</br>И да — материал на сайте подается с позиции <a href="../articles/blr_nationalist.php">белорусского националиста</a>. 
+		</br>С позицией <a href="../articles/step_away.html">русских националистов</a> вы можете ознакомится 
+		по <a href="../articles/rus_mir.php">выступлениям</a> российских полит-историков, либо по школьным учебникам.
+		</p>
+		<p>
+		Русским и россиянам, для которых история — это повод вспомнить что-то свое, а не наплевать в чужое, и для кого навести порядок в 
+		собственном доме важнее, чем научить правильно жить соседа — респект. Нарэшце, з усяго Саюза толькі ў Маскве выйшлі сем змагароў у 1968 годзе. 
 		</p>
 		
 		</br></br></br>

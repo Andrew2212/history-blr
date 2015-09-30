@@ -27,6 +27,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_terms.php"); ?>
+    
 		<h3>Великий гетман литовский</h3>
 		<p>
 	— руководитель вооружённых сил <a href="wkl.php">Великого княжества Литовского</a>. После создания <a href="rzeczpospolita.php">Речи Посполитой</a> 

@@ -28,6 +28,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+    	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_articles.php"); ?>
+ 
 		<h3>Катажына Бонда 
 		</br><small>каралева польскага дэтэктыву</small>
 		</h3>

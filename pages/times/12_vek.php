@@ -3,9 +3,11 @@
 <html lang="ru">
   <head>
   
-  	<meta name="description" content="Основные события и значимые люди в истории Беларуси — короткие интерактивные статьи, структурированные по столетиям" />
+  	<meta name="description" content="Век феодальной раздробленности. Междуусобные войны. Войны с Киевом.
+	  " />
     <meta name="keywords" itemprop="keywords" content="12 век, XII век, 
 	история Беларуси кратко, краткая история беларуси, краткая история беларуси в датах, история Беларуси, история Белоруссии, Полоцкое княжество, Великое княжество Литовское" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-figures/litwa_rb.jpg" />
 	
 	<!-- ***Title*** -->
     <title>XII век. История Беларуси.</title> 
@@ -24,6 +26,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                    
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_times.php"); ?>
+ 
 
 	<h3>XII век</h4>
 
@@ -36,9 +42,36 @@
 		   IV крестовый поход • Вытеснение полабских славян немцами и датчанами •  
 		</p>
 		
+	<div class="col-md-12">
+	
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/_img-index/blr_12ce_country.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/_img-index/blr_12ce_country_thumb.jpg" height="120">
+		</br><small>XII век</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-terms/dwina_stouns/dvina_stoun.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/img-terms/dwina_stouns/dvina_stoun_thumb.jpg" height="120">
+		</br><small>Двинские камни</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-terms/lutizy/shafarik_lutizy_velety.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/img-terms/lutizy/shafarik_lutizy_velety.jpg" height="120">
+		</br><small>О лютичах-велетах в Вильне</small>
+		</a>
+		</div>
+		
+	</div>
+		
 	<h4></br><a href="../terms/belarus.php">Беларусь</a></br>
-	<small><a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_12century.php">карты</a>
-	, <a href="../terms/religion_blr.php">религия</a></small>
+	<small><a href="../terms/blr_etnos.php">этнос</a>, <a href="../terms/religion_blr.php">религия</a></small>
 	</h4>
 
 	
@@ -127,7 +160,6 @@
 		</br>Начало княжения Всеволода Большое Гнездо в Суздали (1176 - 1212).
 		</br>1147 Первое летописное упоминание о Москве.		
 		</br>1136 В Новгородской земле установилось республиканское правление. Независимость Новгорода от Киева.
-		</br>1258 Александр Невский едет в Орду «чтить» ханского наместника Улавчия, а в 1259 году, угрожая татарским погромом, добился от новгородцев согласия на перепись и дань.
 		 
 		</p>
 		

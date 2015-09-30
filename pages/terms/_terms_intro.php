@@ -30,6 +30,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+           
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_terms.php"); ?>
+    
 		<h3>Введение</h3>
 		<p>
 			Сложно понимать исторю, путаясь в словах, или не понимая их значения.

@@ -27,6 +27,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_figures.php"); ?>
+  
 		<h3>Кезгайлы, магнатский род
 		</br><small>старосты жемайтские</small></h3>
 		
@@ -76,7 +80,7 @@
 		<div class="col-md-6 img-float-center">
 		<a target="_blank" href="../../images/img-figures/kesgajla/map_Lotter_litwa_1770.jpg">
 		<img alt="Вилькомир на реке Святая" src="../../images/img-figures/kesgajla/map_Lotter_litwa_1770_thumb.jpg" height="120">
-		</br><small>Вилькомир на рееке Святая
+		</br><small>Вилькомир на реке Святая
 		</br>карта ВКЛ 1770 г.</small>	
 		</a>
 		</div>

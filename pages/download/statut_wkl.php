@@ -29,6 +29,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+        	                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_download.php"); ?>
+ 
 		<h3>Статут Великого Княжесва Литовского, Русского, Жемайтийского и иных</h3>
 		<p>
 		<img src="../../images/img-download/statut.jpg" class="img-float-left"/>

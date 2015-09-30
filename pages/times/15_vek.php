@@ -3,9 +3,11 @@
 <html lang="ru">
   <head>
   
-  	<meta name="description" content="Основные события и значимые люди в истории Беларуси — короткие интерактивные статьи, структурированные по столетиям" />
-    <meta name="keywords" itemprop="keywords" content="15 век, XV век, 
+  	<meta name="description" content="ВКЛ достигло своего расцвета. Наступил Золотой век (1410-1569) — время белорусского Ренессанса.
+	  " />
+    <meta name="keywords" itemprop="keywords" content="история беларуси 15 век, история беларуси XV век, 
 	история Беларуси кратко, краткая история беларуси, краткая история беларуси в датах, история Беларуси, история Белоруссии, Полоцкое княжество, Великое княжество Литовское" />
+	<meta property="og:image" content="http://history-belarus.by/images/_img-index/blr_15ce_country.jpg" />
 	
 	<!-- ***Title*** -->
     <title>XV век. История Беларуси.</title>
@@ -24,6 +26,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                            
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_times.php"); ?>
+ 
 
 	<h3>XV век</h4>
 
@@ -40,9 +46,46 @@
 		   • Иоганн Гутенберг изобретает печатный станок.
 		</p>
 		
+	<div class="col-md-12">
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/_img-index/blr_15ce_country.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/_img-index/blr_15ce_country_thumb.jpg" height="120">
+		</br><small>Беларусь XV век</small>
+		</a>
+		</div>
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/vitovt/vitovt.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/img-figures/vitovt/vitovt_thumb.jpg" height="120">
+		</br><small>В. князь Витовт</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+			<a href="../../images/img-places/sea_herodotus/1493_schedel_littav.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img src="../../images/img-places/sea_herodotus/1493_schedel_littav_thumb.jpg" height="120">
+			</br><small>Littav у моря Геродота
+			</br>"Всемирная хроника", 1493</small>				
+			</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/gedimin/wkl_13-14ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="История Беларуси" src="../../images/img-figures/gedimin/wkl_13-14ce_thumb.jpg" height="120">
+		</br><small>ВКЛ XIII-XV вв</small>
+		</a>
+		</div>
+
+	</div>
+		
 	<h4></br><a href="../terms/belarus.php">Беларусь</a></br>
 	<small>государственный язык — <a href="../terms/blr_mova.php">старобелорусский</a></br>
-	<a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_15century.php">карты</a>
+	<a href="../terms/blr_etnos.php">этнос</a>, <a href="../download/map_15century.php">старые карты</a>
 	, <a href="../terms/religion_blr.php">религия</a></small>
 	</h4>
 
@@ -138,9 +181,8 @@
 		
 		<h4><small>Люди</small></h4>
 		<p>
-		В.князь<a href="../figures/vitovt.php">Витовт</a> • В.князь и король Польши <a href="../figures/jagiello.php">Ягайло</a> • 
-		В.князь<a href="../figures/svidrigailo.php">Свидригайло</a> • 
-		<a href="../figures/ostrogski.php">Константин Острожский</a>, гетман великий литовский • <a href="../figures/skorina.php">Франциск Скорина</a>, философ и первопечатник •
+		В. князь <a href="../figures/vitovt.php">Витовт</a> • В. князь и король Польши <a href="../figures/jagiello.php">Ягайло</a> • 
+		В. князь <a href="../figures/svidrigailo.php">Свидригайло</a> • <a href="../figures/skorina.php">Франциск Скорина</a>, философ и первопечатник •
 		</p>
 	 
 	 <h4></br>Соседи</h4>

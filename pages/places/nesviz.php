@@ -25,6 +25,10 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
+                   
+    <!-- ***Top list [A-Z] *** -->
+    <? include ("../_include/top_list_places.php"); ?>
+ 
 		<h3>Несвиж</h3>
 		<p class="img-float-left">
 			<img src="../../images/img-places/nesviz/gerb.jpg" height="160" >
