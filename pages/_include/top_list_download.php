@@ -140,6 +140,9 @@
         <li>
           <a href="zemie_ruskie.php">"Земли Руские"</a> Речи Посполитой, XVII в
         </li>
+        <li>
+          <a href="map_sweden.php">Livonia, Curlandia, Sweden</a> времен шведской экспансии, XVI-XVIII вв
+        </li>
         
 		<h4>Старые карты XIX-XX вв</h4>
 		<li>

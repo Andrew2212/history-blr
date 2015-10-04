@@ -242,7 +242,7 @@
           <a href="tiapinsky.php">Тяпинский Василий</a> гуманист и еретик
         </li>
 		<li>
-          <a href="hodkewich.php" class="item-edit">Ходкевичи, воины великого княжества</a>
+          <a href="hodkewich.php">Ходкевичи</a>, воины великого княжества
         </li>
         <li>
           <a href="shagal.php" class="item-edit">Шагал Марк, художник</a>

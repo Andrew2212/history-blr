@@ -383,6 +383,13 @@
 	<p>
 	Карты большого разрешения можно найти <a href="../download/_download_intro.php">тут</a>
 	</p>
+	
+	<div class="col-md-16 img-float-center">
+		<a target="_blank" href="https://youtu.be/lvPxN2VZ8gE">
+        <img src="../../images/img-films/brothers/film_brothers_thumb.jpg" height="120"/>
+    		</br><small>Короткий ролик (73 сек) о дружбе народов</small>
+		</a>
+		</div>
 					
 	
 	</br></br></br>

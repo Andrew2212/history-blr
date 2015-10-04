@@ -11,7 +11,7 @@
 	Полоцк (Plosceke), Смоленск (Smalentike), Неман (Memela)." />
   	<meta name="keywords" itemprop="keywords" content="Эбсторфская карта, Белая Русь, Rossia Blanhca, Russia Alba, Alba Ruthenia, Russie Blanche, 
 	  карты ВКЛ, история Беларуси, краткая история Беларуси, литовские метрики, Статут ВКЛ"/>
-	<meta property="og:image" content="http://history-belarus.by/images/img-download/blr_atlas/1714_Pologne.jpg" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-download/map_ebstorf/Ebstorf_Map_1290_Polotsk.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_download.php"); ?>

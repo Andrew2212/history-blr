@@ -33,13 +33,14 @@
 		<h3>Миндовг <small>король пруссов и литвинов.
 		</br>Войшелк, сын Миндовга.</small></h3>
 		<p>
-			Миндовг (1195-1263) - король пруссов (rex Prussiae), первый великий князь <a href="../terms/wkl.php">ВКЛ</a> и король <a href="../places/litwa.php">Литвы</a> (rex Lithwanorum).
+			Миндовг (1195-1263) — король пруссов (rex Prussiae) и <a href="../places/litwa.php">Литвы</a> (rex Lithwanorum), основатель и первый великий князь <a href="../terms/wkl.php">ВКЛ</a>.
 		</p>
 		<p class="img-float-left">
-			<img src="../../images/img-figures/mindowg/mendog.jpg" height="180" >
+			<img src="../../images/img-figures/mindowg/mendog.jpg" height="160" >
 		</p>
 		<p class="img-float-right">
-		<a target="_blank" href="../../images/img-figures/mindowg/rex_prussiae.jpg">
+		<a href="../../images/img-figures/mindowg/rex_prussiae.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 			<img src="../../images/img-figures/mindowg/rex_prussiae_thumb.jpg" height="160" >
 			</br><small>Король пруссов и литвинов</small>
 		</a>
@@ -72,12 +73,41 @@
 		</small>
 		</p>
 		
-		<p class="img-float-center">
-			<a target="_blank" href="../../images/img-figures/mindowg/1 - Utvar_VKL.jpg">
-			<img src="../../images/img-figures/mindowg/1 - Utvar_VKL_thumb.jpg"/>
-			</br>Княжество Литовское при Миндовге
+		<div class="col-md-12">
+		
+			<div class="col-md-3 img-float-center">
+			<a href="../../images/img-figures/mindowg/ipat.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/mindowg/ipat_thumb.jpg" height="120"/>
+			</br><small>1219 г. Князья литовские</small>
 			</a>
-		</p>
+			</div>
+			
+			<div class="col-md-3 img-float-center">
+			<a href="../../images/_img-index/blr_13ce_country.jpg" class="highslide"
+       		 onclick="return hs.expand(this)">
+			<img alt="История Беларуси" src="../../images/_img-index/blr_13ce_country_thumb.jpg" height="120">
+			</br><small>Беларусь XIII век</small>
+			</a>
+			</div>
+			
+			<div class="col-md-3 img-float-center">
+			<a href="../../images/img-figures/mindowg/1 - Utvar_VKL.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/mindowg/1 - Utvar_VKL_thumb.jpg" height="120"/>
+			</br><small>Границы ВКЛ при Миндовге</small>
+			</a>
+			</div>
+			
+			<div class="col-md-3 img-float-center">
+			<a href="../../images/img-figures/gedimin/wkl_13-14ce.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/gedimin/wkl_13-14ce_thumb.jpg" height="120">
+			</br><small>Границы ВКЛ при Миндовге</small> 	
+			</a>
+		</div>
+			
+		</div>
 		
 		<p>
 		Впервые Миндовг упомянут среди литовских князей в Литовско-Волынском договоре 1219 года:
@@ -90,21 +120,7 @@
 		</i>
 		</p>
 		
-		<div class="col-md-12">
-			<div class="col-md-6 img-float-center">
-			<a target="_blank" href="../../images/img-figures/mindowg/ipat.jpg">
-			<img src="../../images/img-figures/mindowg/ipat_thumb.jpg"/>
-			</br><small>1219 г. Князья литовские</small>
-			</a>
-			</div>
-			
-			<div class="col-md-6 img-float-center">
-			<a target="_blank" href="../../images/img-figures/mindowg/volyn.jpg">
-			<img src="../../images/img-figures/mindowg/volyn.jpg" height="160"/>
-			</br><small>1200 г. Волынское княжество</small>
-			</a>
-			</div>			
-		</div>
+
 		
 		<p>
 		Поскольку "среди всех северных народов одни лишь славяне были упорнее других и позже других обратились к вере" (Гельмгольд, "Славянская хроника", XII век,  
@@ -126,17 +142,80 @@
 		</br>Согласно легенде, эти кубки принадлежали св. Ядвиге Силезской (1174-1243) и использовались для коронации, в них вода превращалась в вино. 
 		Сегодня в мире известно 14 таких кубков, и иногда их сравнивают с Чашей Грааля. 
 		Британский музей относит чаши этого типа к ста самым важным произведениям общечеловеческой материальной культуры.
-		</small>
-		</p>
-		<p class="img-float-center">
-		<a target="_blank" href="../../images/img-figures/mindowg/cup_jadviga.jpg" </a>
-		<img alt="Кубок святой Ядвиги" src="../../images/img-figures/mindowg/cup_jadviga.jpg" height="160"/>
-		</br><small>Кубок св. Ядвиги</small>
-		</a> 
-		</p>
+		</small>		
+		
+		<div class="col-md-12">
+		
+			<div class="col-md-6 img-float-center">
+			<a href="../../images/img-figures/mindowg/cup_jadviga.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/mindowg/cup_jadviga.jpg" height="120"/>
+			</br><small>Кубок св. Ядвиги</small>
+			</a>
+			</div>
+		
+			<div class="col-md-6 img-float-center">
+			<a href="../../images/img-figures/mindowg/nowogrudok_mindowg_hill.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/mindowg/nowogrudok_mindowg_hill_thumb.jpg" height="120"/>
+			</br><small>Гора Миндовга. Новогрудок</small>
+			</a>
+			</div>
+			
+		</div>
 		
 		<p>
-		В том же году Войшелк заключил мир с галицко-волынскими князьями, выдал замуж за <a href="shwarn.php">Шварна</a> свою сестру и передал Новогородское 
+		Интересно сравнить печать Миндовга с печатями его современников — немецких князей (вытеснивших пруссов и лютичей с Балтийского 
+		побережья) и соседей Литвы Миндовга (Мазовии, Полоцка, Пскова). 
+		</p>
+		<p>
+		Еще интересная деталь. Миндовг правил 15 лет. После него остались активная переписка с Папой Иннокентием VI, 
+		печать немецкого образца, признание христианства. Правящие после него князья, не являвшиеся его потомками, за 30 лет не оставили ничего. 
+		Более того — они утратили королевский титул, ради получения которого Миндовг отдал Тевтонскому Ордену <a href="../places/samogitia.php">Самогитию</a>. 
+		Сказался разный культурный уровень.
+		</p>
+		<p>
+		Первым князем, возобновившим после Миндовга контакты с Европой и признавший христианство, был <a href="gedimin.php">Гедимин</a>, наследник Рогволодовичей.
+		</p>
+		
+		<div class="col-md-12">
+		
+			<div class="col-md-3 img-float-center">
+			<a href="../../images/img-figures/mindowg/siegel_germany.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/mindowg/siegel_germany_thumb.jpg" height="120"/>
+			</br><small>Германские печати</small>
+			</a>
+			</div>
+			
+			<div class="col-md-3 img-float-center">
+			<a href="../../images/img-figures/mindowg/1255_siegel_Mindog.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/mindowg/1255_siegel_Mindog_thumb.jpg" height="120"/>
+			</br><small>Печать Миндовга</small>
+			</a>
+			</div>
+			
+			<div class="col-md-3 img-float-center">
+			<a href="../../images/img-figures/mindowg/siegel_slavic.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/mindowg/siegel_slavic_thumb.jpg" height="120"/>
+			</br><small>Печати соседей Литвы</small>
+			</a>
+			</div>
+			
+			<div class="col-md-3 img-float-center">
+			<a href="../../images/img-figures/gedimin/kirkor_litwa_duces.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/gedimin/kirkor_litwa_duces_thumb.jpg" height="120"/>
+			</br><small>Гедимин, наследник Рогволодовичей</small>
+			</a>
+			</div>
+			
+		</div>
+		
+		<p>
+		В 1253 году Войшелк заключил мир с галицко-волынскими князьями, выдал замуж за <a href="shwarn.php">Шварна</a> свою сестру и передал Новогородское 
 		княжество его брату, Роману Даниловичу. Сам же пошёл в Полонинский монастырь (Волынь), где принял постриг под именем Лавриш.
 		</br>После трёх лет жизни в  монастыре отправился в паломничество на гору Афон. 
 		Основал на Немане монастырь, который позже будет называться по его имени Лавришевским.
@@ -145,27 +224,12 @@
 		В 1261 году Миндовг снова вернулся в язычество.
 		</p>		
 		<p>
-		В 1263 году Миндовг был убит. По одним источникам поляками, по другим — литвинами 
+		В 1263 году Миндовг был убит (Rex Mendoch occiditur). По одним источникам поляками, по другим — литвинами 
 		</br>Monumenta Poloniae Historica, 
 		<a target="_blank" href="http://polona.pl/item/508894/3/">оригинал</a> /
 		 <a target="_blank" href="http://www.vostlit.info/Texts/rus/Chron_Pol_majoris/frametext5.htm">превод</a>
 		</p>
 		
-		<div class="col-md-12">
-			<div class="col-md-6 img-float-center">
-			<a target="_blank" href="../../images/img-figures/mindowg/occuditur.jpg">
-			<img src="../../images/img-figures/mindowg/occuditur.jpg" height="160"/>
-			</br><small>1263. Rex occiditur</small>
-			</a>
-			</div>
-			
-			<div class="col-md-6 img-float-center">
-			<a target="_blank" href="../../images/img-figures/mindowg/volyn_big.jpg">
-			<img src="../../images/img-figures/mindowg/volyn_big_thumb.jpg" height="160"/>
-			</br><small>1260-е г. Новогородское и Волынское княжества</small>
-			</a>
-			</div>			
-		</div>
 		
 		<p>
 		В 1263 году, после убийства Миндовга, Войшелк на короткое время бежал в <a href="../places/pinsk.php">Пинск</a>. Но уже в 1264 году вместе с пинским войском возвратился в Новогородок, где соединился с дружинами новогородских бояр и пошёл устанавливать свою власть в Литве.
@@ -176,12 +240,26 @@
 		</br>Но <i>Миндаугасом</i> (Mindaugas) он не был даже в своих письмах на латыни при переписке с папой. 
 		(См. <a target="_blank" href="https://archive.org/stream/codexdiplomatic00lithgoog#page/n24/mode/2up">Codex Diplomaticus Lithuaniae</a>) 
 		</p>
-		<p class="img-float-center">
-			<a target="_blank" href="../../images/img-figures/mindowg/pryvilej.jpg">
-			<img src="../../images/img-figures/mindowg/pryvilej.jpg" height="160"/>
+		
+		<div class="col-md-12">
+		
+			<div class="col-md-6 img-float-center">
+			<a href="../../images/img-figures/mindowg/occuditur.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/mindowg/occuditur_thumb.jpg" height="120"/>
+			</br><small>1263. Rex Mendoch occiditur</small>
+			</a>
+			</div>
+		
+			<div class="col-md-6 img-float-center">
+			<a href="../../images/img-figures/mindowg/pryvilej.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/mindowg/pryvilej_thumb.jpg" height="120"/>
 			</br><small>Письма Миндовга "signum notarii"</small>
 			</a>
-		</p>
+			</div>
+			
+		</div>
 		
 		</br></br></br>
 		<p><small>

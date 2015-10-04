@@ -53,6 +53,9 @@
           1558-1583 <a href="war_livonia.php" class="item-edit">Война Ливонская (с Московией)</a> 
         </li>
         <li>
+          1600-1611 <a href="war_1600.php">Война за Эстонию</a> (со Швецией)
+        </li>
+        <li>
           1609-1618 <a href="war_moscow_1610.php" class="item-edit">Война Московская (взятие Москвы)</a>
         </li>
         <li>
