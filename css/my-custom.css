@@ -50,10 +50,7 @@ text-align: center;
 }
 /*==========Right sidebar================================*/
 .right-bar{
-height: 1000px;	
-overflow-y: auto;
 border-left: 1px solid #888;
-text-align: center;
 }
 
 .right-center-bar{
@@ -119,6 +116,11 @@ margin-top: 0px;
 .img-float-left{
 	float: left; 
 	margin-right: 10px
+}
+
+.img-float-left-margin-bottom{
+	float: left; 
+	margin-bottom: 10px
 }
 
 .img-float-right{

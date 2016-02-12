@@ -108,7 +108,7 @@
           
           <li>
             <a href="mova.html">
-			<img src="img/lang.png" >
+			<img title="Зьмяніць мову" src="img/lang.png" >
 			</a>
           </li>
           

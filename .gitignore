@@ -1,7 +1,6 @@
-#Игнорим все картинки в директории /images
-/images/**/*.jpg
-/images/**/*.png
-/images/**/*.gif
+#Игнорим все папки и файлы в директории /images кроме README_Images.txt
+/images/*
+!/images/README_Images.txt
 
 #Игнорим архивы
 .zip

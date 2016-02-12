@@ -18,6 +18,8 @@
     hs.outlineType = 'rounded-white';   
 	</script>
 	
+
+	
     <!-- Bootstrap Core CSS -->
     <link href="../../css/bootstrap.min.css" rel="stylesheet" />
 	<link href="../../css/bootstrap.css" rel="stylesheet" />
@@ -111,7 +113,7 @@
           
           <li>
             <a href="../../mova.html">
-			<img src="../../img/lang.png" >
+			<img title="Зьмяніць мову" src="../../img/lang.png" >
 			</a>
           </li>
           
