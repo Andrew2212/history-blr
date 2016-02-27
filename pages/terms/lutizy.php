@@ -4,7 +4,7 @@
   <head>
     
 <!-- ***Title*** -->
- 	<title>Лютичи, полабские славяне. История Беларуси</title>
+ 	<title>Лютичи, полабские славяне</title>
 
 <!-- ***Meta*** -->
     <meta name="description" content="Полабские славяне в истории Беларуси. Лютичи — общее название для полабского союза племен, живших между Одером, Балтийским морем и Эльбой, в ареале лужицкой культуры. Самоназванием этого племенного союза было вильцы(нем. Wilzen, Wilsen, Wilciken, Wilkinen) или велеты. 
@@ -31,12 +31,12 @@
     <? include ("../_include/top_list_terms.php"); ?>
     
     
-    	<h3>Лютичи, полабские славяне
-		</br><small>подробно о лютичах — см. Й. Шафарик, <a href="../download/shafarik.php">"Славянские древности"</a>, 1847 г.</small></h3>    	
+    	<h2>Лютичи, полабские славяне
+		</br><small>подробно о лютичах — см. Й. Шафарик, <a href="../download/shafarik.php">"Славянские древности"</a>, 1847 г.</small></h2>    	
 		
-		<h4>Лютичи</h4>
+
 		<p>
-		— общее название для полабского союза племен, живших между Одером, Балтийским морем и Эльбой, в ареале лужицкой культуры.
+		Лютичи — общее название для полабского союза племен, живших между Одером, Балтийским морем и Эльбой, в ареале лужицкой культуры.
 		Самоназванием этого племенного союза было вильцы(нем. Wilzen, Wilsen, Wilciken, Wilkinen) или велеты.
 		</br>В немецких источниках часто упоминаются как венеды или венды. К X веку велеты становятся известны как лютичи.
 		</p>
@@ -50,10 +50,11 @@
 		</p>
 		
 		<p class="img-float-center">
-		<a  target="_blank" href="../../images/img-terms/lutizy/lutizy_byzantine_empires_814.jpg">
-			<img src="../../images/img-terms/lutizy/lutizy_byzantine_empires_814_thumb.jpg" />
+		<a href="../../images/img-terms/lutizy/lutizy_byzantine_empires_814.jpg" class="highslide"
+       	 onclick="return hs.expand(this)">
+			<img alt="лютичи, велеты" src="../../images/img-terms/lutizy/lutizy_byzantine_empires_814_thumb.jpg" height="160"/>
 			</br><small>Вильцы-лютичи на карте Византийской Империи</small>
-		</a>
+			</a>
 		</p>
 		
 		
@@ -95,26 +96,29 @@
 		
 		<div class="col-md-12 ">
 		
-		<div class="col-md-3 img-float-center">
-		<a   target="_blank" href="../../images/img-terms/lutizy/lutizy.jpg">
-			<img src="../../images/img-terms/lutizy/lutizy.jpg" height="200"/>
+			<div class="col-md-3 img-float-center">
+			<a href="../../images/img-terms/lutizy/lutizy.jpg" class="highslide"
+       		 onclick="return hs.expand(this)">
+			<img alt="лютичи, велеты" src="../../images/img-terms/lutizy/lutizy.jpg" height="100"/>
 			</br><small>Лютичи-велеты в словаре 1854 г.</small>
-		</a>
-		</div>
+			</a>
+			</div>
 		
-		<div class="col-md-4 img-float-center">
-		<a  target="_blank" href="../../images/img-terms/lutizy/shafarik_lutizy_velety.jpg">
-			<img src="../../images/img-terms/lutizy/shafarik_lutizy_velety.jpg" height="200"/>
+			<div class="col-md-4 img-float-center">
+			<a href="../../images/img-terms/lutizy/shafarik_lutizy_velety.jpg" class="highslide"
+       		 onclick="return hs.expand(this)">
+			<img alt="лютичи, велеты" src="../../images/img-terms/lutizy/shafarik_lutizy_velety.jpg" height="100"/>
 			</br><small>О велетах в Вильно</small>
-		</a>
-		</div>
+			</a>
+			</div>
 		
-		<div class="col-md-3 img-float-center">
-		<a  target="_blank" href="../../images/img-terms/lutizy/lutuania.jpg">
-			<img src="../../images/img-terms/lutizy/lutuania_thumb.jpg" height="200"/>
+			<div class="col-md-4 img-float-center">
+			<a href="../../images/img-terms/lutizy/lutuania.jpg" class="highslide"
+     	   onclick="return hs.expand(this)">
+			<img alt="лютичи, велеты" src="../../images/img-terms/lutizy/lutuania_thumb.jpg" height="100"/>
 			</br><small>LUTUANIA на карте</small>
-		</a>
-		</div>
+			</a>
+			</div>
 		
 		</div>
 		

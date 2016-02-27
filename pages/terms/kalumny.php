@@ -38,7 +38,7 @@
 	</div>
 					
 		<p>
-		Колюмны	— догеральдический и геральдический знак <a href="wkl.php">Великого княжества Литовского</a>. 
+		Калюмны	— догеральдический и геральдический знак <a href="wkl.php">Великого княжества Литовского</a>. 
 		Чаще всего рассматривается как герб <a href="../figures/gedimin.php">Гедиминовичей</a>, 
 		наследников <a href="../figures/rogvolod_rogneda.php">Рогволодовичей</a>.
 		</p>
@@ -46,30 +46,34 @@
 		<div class="col-md-12 img-float-center" >
 
 			<div class=" col-md-3 ">
-			<a target="_blank" href="../../images/img-terms/kalumny/kirkor_litwa_duces.jpg">
-			<img src="../../images/img-terms/kalumny/kirkor_litwa_duces_thumb.jpg" height="120" class="img-float-center">
+			<a href="../../images/img-terms/kalumny/kirkor_litwa_duces.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Калюмны, столпы Геимина" src="../../images/img-terms/kalumny/kirkor_litwa_duces_thumb.jpg" height="100" class="img-float-center">
 			</br><small>Князья дома Рогволодовичей
 			</br>А. Г. Киркор, "Живописная Россия", 1882</small>
 			</a>
 			</div>
 			
 			<div class=" col-md-3 ">
-			<a target="_blank" href="../../images/img-terms/kalumny/signet_iziaslav_10ce.jpg">
-			<img src="../../images/img-terms/kalumny/signet_iziaslav_10ce.jpg" height="120" class="img-float-center">
+			<a href="../../images/img-terms/kalumny/signet_iziaslav_10ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Калюмны, столпы Геимина" src="../../images/img-terms/kalumny/signet_iziaslav_10ce.jpg" height="100" class="img-float-center">
 			</br><small>Печать Изяслава, X в.</small>
 			</a>
 			</div>
 			
 			<div class=" col-md-3 ">
-			<a target="_blank" href="../../images/img-terms/kalumny/signet_charadzej_11ce.jpg">
-			<img src="../../images/img-terms/kalumny/signet_charadzej_11ce.jpg" height="120" class="img-float-center">
+			<a href="../../images/img-terms/kalumny/signet_charadzej_11ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Калюмны, столпы Геимина" src="../../images/img-terms/kalumny/signet_charadzej_11ce.jpg" height="100" class="img-float-center">
 			</br><small>Печать Всеслава Чародея, XI в.</small>
 			</a>
 			</div>
 			
 			<div class=" col-md-3 ">
-			<a target="_blank" href="../../images/img-terms/kalumny/signet_vitovt.jpg">
-			<img src="../../images/img-terms/kalumny/signet_vitovt_thumb.jpg" height="120" class="img-float-center">
+			<a href="../../images/img-terms/kalumny/signet_vitovt.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Калюмны, столпы Геимина" src="../../images/img-terms/kalumny/signet_vitovt_thumb.jpg" height="100" class="img-float-center">
 			</br><small>Печать Витовта, XIV в.
 			</br>"Калюмны" на щите всадника</small>
 			</a>
@@ -89,29 +93,35 @@
 		
 			
 			<div class=" col-md-3 ">
-			<a target="_blank" href="../../images/img-terms/kalumny/signs_ruric_10-13ce.jpg">
-			<img src="../../images/img-terms/kalumny/signs_ruric_10-13ce_thumb.jpg" height="120" class="img-float-center">
+			<a href="../../images/img-terms/kalumny/signs_ruric_10-13ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Калюмны, столпы Геимина" src="../../images/img-terms/kalumny/signs_ruric_10-13ce_thumb.jpg" height="100" class="img-float-center">
 			</br><small>Родовые знаки Рюриковичей, XI-XIII в.</small>
 			</a>
 			</div>
 			
 			<div class=" col-md-3 ">
-			<a target="_blank" href="../../images/img-terms/kalumny/ragvalod_stoun_12ce.jpg">
-			<img src="../../images/img-terms/kalumny/ragvalod_stoun_12ce_thumb.jpg" height="120" class="img-float-center">
+			<a href="../../images/img-terms/kalumny/ragvalod_stoun_12ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Калюмны, столпы Геимина" src="../../images/img-terms/kalumny/ragvalod_stoun_12ce_thumb.jpg" height="100" class="img-float-center">
 			</br><small>Рогволодов камень, XII в.</small>
 			</a>
 			</div>
 			
 			<div class=" col-md-3 ">
-			<a target="_blank" href="../../images/img-terms/kalumny/signet_pskov.jpg">
-			<img src="../../images/img-terms/kalumny/signet_pskov_thumb.jpg" height="120" class="img-float-center">
+			<a href="../../images/img-terms/kalumny/signet_pskov.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Калюмны, столпы Геимина" src="../../images/img-terms/kalumny/signet_pskov_thumb.jpg" height="100" class="img-float-center">
 			</br><small>Псковская печать, 1331 г.</small>
 			</a>
 			</div>
 			
 			<div class=" col-md-3 ">
-			<img src="../../images/img-terms/kalumny/dinar_kalumnu.jpg" height="120" class="img-float-center">
+			<a href="../../images/img-terms/kalumny/dinar_kalumnu.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Калюмны, столпы Геимина" src="../../images/img-terms/kalumny/dinar_kalumnu.jpg" height="100" class="img-float-center">
 			</br><small>Динар Витовта, конец XIV в.</small>
+			</a>
 			</div>			
 
 		</div>
@@ -120,15 +130,42 @@
 		Еще в XVI веке связь "Калюмны" - Гедыминовичи - Рогволодовичи - <a href="../places/polotsk.php">Полоцк</a> была очевидной. Московский царь Иван Грозный, 
 		после взятия Полоцка, добавил на большую царскую печать именно "Калюмны", как символ города.
 		</p>
-		
-		<p class="img-float-center">
-			<a target="_blank" href="../../images/img-terms/kalumny/signet_ivan_16ce.jpg">
-			<img src="../../images/img-terms/kalumny/signet_ivan_16ce_thumb.jpg" height="120">
-			</br><small>Царская печать Ивана Грозного, XVI в.</small>
-			</a>
+		<p>
+		В <a href="../events/grunwald.php">битве под Грюнвальдом</a> 1410 года из 40 литовских хоругвей 10 шли под знаком "Калюмны"
+		</p>
+		<p>
+		В гербовниках <a href="..terms/rzeczpospolita.php">Речи Посполитой</a> герб Калюмны именовался, как Dawny Litesky 
+		и не был привязан к конкретному воеводству <a href="../terms/wkl.php">Великого княжества Литовского</a>.
 		</p>
 		
+		<div class="col-md-12 img-float-center" >
 		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-events/grunwald/dligosz.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Грюнвальд, битва под Грюнвальдом"  src="../../images/img-events/grunwald/dligosz_thumb.jpg" height="100">
+		</br><small>"Хоругви Литовские"
+		</br>Ян Длугош, XV в</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+			<a href="../../images/img-terms/kalumny/signet_ivan_16ce.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="Калюмны, столпы Геимина" src="../../images/img-terms/kalumny/signet_ivan_16ce_thumb.jpg" height="100">
+			</br><small>Царская печать Ивана Грозного, XVI в.</small>
+			</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-download/atlas_historyczny_sage/1844_herby.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="гербы воеводств Реви Посполитой, гербы воеводств ВКЛ" src="../../images/img-download/atlas_historyczny_sage/1844_herby_thumb.jpg" height="100"/>
+		</br><small>Гербы воеводств  Речи Посполитой</small>
+		</a>
+		</div>
+		
+		</div>
 		
 		</br></br></br>
 		<p><small>

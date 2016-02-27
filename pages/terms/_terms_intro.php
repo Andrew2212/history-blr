@@ -33,46 +33,52 @@
            
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
+    	
+    	<p>
+    	Сложно понимать исторю, путаясь в словах, или не понимая их значения.
+    	</p>
+    	
+    	<p class="img-float-left">
+				<a href="../../images/img-terms/litwiny/litvin_religion.jpg" class="highslide"
+       		 onclick="return hs.expand(this)">
+			<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_religion_thumb.jpg" height="120" >
+			</a>
+		</p>
 
 		<p>
-			Сложно понимать исторю, путаясь в словах, или не понимая их значения.
-			</br>За каждым термином стоит череда людей и событий, определивших его значение. И сейчас строки Пушкина
-			 по поводу <a href="../events/uprising_1830.php"> восстания 1830 года</a>:
+			
+			За каждым термином стоит череда <a href="../figures/_figures_intro.php">людей</a> и <a href="../events/_events_intro.php">событий</a>, определивших его значение. 
+			</br>И сейчас строки Пушкина по поводу <a href="../events/uprising_1830.php"> восстания 1830 года</a>:
+		</p>
+		<p>
 			<i>
-			</br>Что возмутило вас? волнения Литвы?
+			Что возмутило вас? волнения Литвы?
 			</br>Оставьте: это спор славян между собою...
 			</i>
-			</br>для многих звучат странно — почему славян? 
-			Да потому, что Литва и <a href="litwiny.php">литвины</a> еще в XIX веке ассоциировались только со славянским 
+		</p>
+		<p>
+			для многих звучат странно — почему <a href="../terms/slavs.php">славян</a>? 
+		</p>
+		<p>
+			Просто потому, что <a href="../terms/wkl.php">Литва</a> и <a href="../terms/litwiny.php">литвины</a> еще в XIX веке ассоциировались только со славянским 
 			народом и государством. Земли жмудские, нынешняя Lietuva (Летува), называлась <a href="../places/samogitia.php">Самогития</a>, 
-			и на <a href="../download/map_wkl_lotter.php">картах</a>, и в титуле <a href="ross_empire.php">российских императоров</a> 
-			писалась отдельно от Литвы.  
-			Уже позже значение слов стало меняться: Литвин — Белорус, Русин — Малоросс</br>
-			<p class="img-float-center">
-				<a href="../../images/img-terms/litvin_blr.jpg" class="highslide"
-        		onclick="return hs.expand(this)">
-				<img src="../../images/img-terms/litvin_blr.jpg" height="140" />
-				</a>
-				<small>
-				<a href="http://books.google.ru/books?id=sbYaAAAAYAAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false">
-				</br>Основа: южно-русскій литературно-ученый вeстник 1861г., стр.265</a>
-				</small>
-			</p>
+			и на <a href="../download/map_wkl.php">картах</a>, и в <a href="ross_empire.php">титулах</a> писалась отдельно от Литвы.
+		</p>
+		<p> 
+			В XIX веке <a href="../terms/wkl.php">Великое княжество Литовское</a> стало <a href="../terms/sewero_zapadny_kraj.php">Северо-Западным краем</a> Российской империи. 
+			Значение слов стало меняться: "Литвин" — "Белорус", "Русин" — "Малоросс", "Жмудин" — "Литовец", 
+			"Народы финского племени, известные под именем Руссов" — "Великороссы".
+		</p>
+		<p>	
 			Такова судьба многих слов и понятий — значение либо утратилось, либо изменилось. Мир меняется, и мы вместе с ним.
 			</br>Раз вы это читаете — значит, синяя кнопка на <a href="../../index.php">главной</a> не для вас. 
-			И, может, вы найдете тут что-то интересное для себя.
-			
+			И, может, вы найдете тут что-то интересное для себя.			
 		</p>
 		
 
-		<p class="img-float-center">
-		<a href="../download/_download_intro.php" class="highslide"
-        onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/europe.jpg" height="140"/>
-		</a>
-			</br>Карты ВКЛ того времени можно посмотреть 
-			<a href="../download/map_wkl.php">тут</a> и <a href="../download/map_wkl_lotter.php">тут</a>
-		</p>
+		
+<!-- *** blr_entire *** -->
+<? include ("../_include/include_people_of_Russia.php"); ?>
 		
 	</div>
 	

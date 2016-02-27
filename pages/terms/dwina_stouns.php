@@ -45,6 +45,7 @@
 	
 		</br></br></br>
 		<p><small>
+		http://www.ufo-com.net/publications/art-6885-borisovy-kamni.html</br>
 		be-x-old.wikipedia.org</br>
 		be.wikipedia.org</br>
 		pl.wikipedia.org</br>

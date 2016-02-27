@@ -50,7 +50,7 @@
 	<div class="col-md-12">
 		<p>
 		<a href="pages/terms/belarus.php">
-		<img alt="Беларусь" title="Беларусь. Let's go!" src="/img/Lithvaniae_Blr.jpg">
+		<img alt="Беларусь" title="Беларусь. Let's go!" src="/img/Lithvaniae_Blr.jpg" width="560">
 		</a>
 		</p>
 	</div>
@@ -99,7 +99,7 @@
 			<div class="btn-group" style="margin-left: 20px">
 				<h4>
 					<a href="/pages/articles/step_away.html" class="btn btn-large btn-info"
-						data-toggle="modal"> <i class="glyphicon glyphicon-volume-up"></i> Я знаю все и верю в русский мир uber alles</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-volume-up"></i> Я знаю все и верю в Русский Мир Uber Alles</a>
 				</h4>
 			</div>
 		</div>
@@ -137,10 +137,13 @@
 	
 	<h3>Краткий ликбез по истории Беларуси</h3>
 		<p> 		
-		Для тех, кто из обрывочных знаний и официальной исторической каши пытается, но не может сложить внятную картину истории своей страны и своего народа. Для тех, у кого нет времени и большого желания покупать и читать толстые книги и прорываться сквозь латинские и старославянские цитаты на форумах знатоков.
+		Для тех, кто из обрывочных знаний, невнятных праздников, символики и <a href="pages/places/_places_intro.php">топонимики</a> пытается, но не может сложить внятную картину истории своей страны и своего народа.
 		</p>
 		<p>
-		На сайте собраны общедоступные, общепризнанные (подтвержденные архивными материалами и академическими изданиями), но не общеизвестные факты. 
+		Для тех, у кого нет времени и большого желания покупать и читать толстые книги и прорываться сквозь латинские и старославянские цитаты на форумах знатоков.
+		</p>
+		<p>
+		Для вас на сайте собраны общедоступные, общепризнанные (подтвержденные архивными материалами и академическими изданиями), но не общеизвестные факты. 
 		</p>
 		<p>
 		Сайт не претендует на статус энциклопедии — он дает связную картину времен, событий, имен и дат. И знакомит с источникам более полной информации.
@@ -154,107 +157,177 @@
 	<div class="col-md-12"  style="height:20px;">
 	</div>
 	
-	<div class="col-md-12">		
+	<div class="col-md-12">
+		
+		<h4><a href="pages/times/10_vek.php">X век</a></h4>
+			
 		<p class="img-float-left">
 		<a href="images/_img-index/blr_10ce_etno_variag_way.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Беларусь X век" src="images/_img-index/blr_10ce_etno_variag_way_thumb.jpg" height="120">
+		<img alt="Беларусь X век" src="images/_img-index/blr_10ce_etno_variag_way_thumb.jpg" height="100">
 		</a>
 		</p>		
-		<h4><a href="pages/times/10_vek.php">X век</a></h4>
+		
 		<p>
 			 Заложены основы государственности на <a href="pages/download/blr_people.php">белорусских землях</a>. 
-			 На пути из "варяг в греки" создано независиме государство —
-			  <a href="pages/terms/polotsk_principality.php">Полоцкое княжество</a>.
+		</p>
+		<p>
+		 На пути из "варяг в греки" создано государство кривичей —
+			  <a href="pages/terms/polotsk_principality.php">Полоцкое княжество</a>. 
+			  Первые летописные сведения о нем связаны со скандинавскими варягами. 
+			  Хроника "Деяния данов" (Gesta Danorum) 
+			  <a target="_blank" href="images/img-terms/belarus/polotsk_libre_saga.pdf">рассказывает о походе на Полоцк (Palteskja)</a> 
+			  легендарного короля Фроди I (V-VI в. н.э.)	
+		</p>
+		<p>
+			Первым упомянутым в летописях князем Полоцким был <a href="pages/figures/rogvolod_rogneda.php">Рогволод</a>. 
+			И последующие князья Полоцкие именовались в хрониках "Рогволожи внуки" или 
+			Изяславовичи (по имени сына <a href="pages/figures/rogvolod_rogneda.php">Рогнеды</a> и внука Рогволода — 
+			<a href="pages/figures/rogvolod_rogneda.php">Изяслава</a>)
+		</p>
+		<p>	
+			В конце века состоялось крещение Полоцка легендарным христианским миссионером и путешественником <a href="pages/figures/torwald.php">Торвальдом Кодранссоном</a>.
 		</p>
 	</div>
 		
-	<div class="col-md-12">		
+	<div class="col-md-12">	
+	
+		<h4><a href="pages/times/11_vek.php">XI век</a></h4>
+			
 		<p class="img-float-left">
 		<a href="images/_img-index/blr_10ce_country_variag_way.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Беларусь XI век" src="images/_img-index/blr_10ce_country_variag_way_thumb.jpg" height="120">
+		<img alt="Беларусь XI век" src="images/_img-index/blr_10ce_country_variag_way_thumb.jpg" height="100">
 		</a>
 		</p>		
-		<h4><a href="pages/times/11_vek.php">XI век</a></h4>
+		
 		<p>
-			В правление <a href="pages/figures/charadzej.php">Всеслава Чародея</a>, княжество достигло наибольшего могущества 
-			(занимало почти треть современной Беларуси).
-			 </br>Согласно исландским сагам (в которых Полоцк как <a target="_blank" href="images/img-terms/belarus/polotsk_libre_saga.pdf">Palteskja упоминается с V века</a>)
-			 , Полоцк был крещён около 1000 года исландским викингом-христианином <a href="pages/figures/torwald.php">Торвальдом Кодранссоном</a>.
-			 </br><small>[ Вообще, связи Полоцкого княжества, стоящего на "пути из варяг в греки", со Скандинавией были тесными — так, Софья Владимировна, княжна Минская,
-			  была женой датского короля Вальдемара I Великого и королевой Датской ]</small> 
+		
+			Век расцвета княжества (занимало почти треть современной Беларуси).
+			</br>Княжение двух князей — Брячеслава (1003-1044) и <a href="pages/figures/charadzej.php">Всеслава "Чародея"</a> (1044-1101). 
+		</p>
+		
+		<p>
+			Походы на Новгород, противостояние с Рюриковичами-Ярославичами и <a href="pages/events/battle_nemiga.php">битва на Немиге</a>. 
+		</p>
+		<p>	
+			Тесные связи со Скандинавией. О противостоянии Брячеслава с Ярославичами сложена "Сага об Эймунде", 
+			  в которой конунг Эймунд выступает на стороне Брячеслава. Софья, княжна Минская,
+			  была женой датского короля Вальдемара I Великого и королевой Датской. 			
+		</p>
+		<p>
+			<a href="pages/terms/religion_blr.php">Язычество и христианство</a>. Строительство Софийского собора в Полоцке и князья, <i>"советующиеся с волхвами и рожденные от волхования"</i>.
 		</p>
 	</div>
 		
-	<div class="col-md-12">		
+	<div class="col-md-12">	
+	
+		<h4><a href="pages/times/12_vek.php">XII век</a></h4>
+			
 		<p class="img-float-left">
 		<a href="images/_img-index/blr_12ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Беларусь XII век" src="images/_img-index/blr_12ce_country_thumb.jpg" height="120">
+		<img alt="Беларусь XII век" src="images/_img-index/blr_12ce_country_thumb.jpg" height="100">
 		</a>
 		</p>
-			 <h4><a href="pages/times/12_vek.php">XII век</a></h4>
-			 <p>
-			 Век феодальной раздробленности.
-			 </br>После смерти Всеслава Чародея, Полоцкое княжество (охватывало примерно половину современной Беларуси и 
+			
+		 <p>
+			 Век феодальной раздробленности и междуусобные войны.
+		</p>			 
+		<p>
+			После смерти Всеслава Чародея, Полоцкое княжество (охватывало примерно половину современной Беларуси и 
 			 достигало берегов Рижского залива) было разделено на Минское, Витебское, Друцкое, Изяславское, Логойское, Стрежевское и Городцовское княжества 
 			 между его сыновьями. 
-			</br>Туровское княжество распадается на Туровский и Клецкий уделы.
-			</br>Междуусобные войны.
-			</br>На западе и северо-западе Беларуси — на "землях <a href="pages/terms/yotving.php">ятвягов</a>, <a href="pages/places/litwa.php">литвы</a>
+		</p>			 
+		<p>
+			Гродненское и Туровское княжества распадаются на уделы.
+		</p>			 
+		<p>
+			На западе и северо-западе Беларуси — на "землях <a href="pages/terms/yotving.php">ятвягов</a>, <a href="pages/places/litwa.php">литвы</a>
 			 и мелких литовских народков" <small><a href="pages/download/shafarik.php">(Й. Шафарик)</a></small> 
 			  собственная государственность только складывается. На эти земли идет миграция <a href="pages/terms/lutizy.php">полабских славян</a>, уходящих от немецкой экспансии в западной балтике.			 				  			
-			</p>
+		</p>
 	</div>
 			
-	<div class="col-md-12">		
+	<div class="col-md-12">	
+	
+		<h4><a href="pages/times/13_vek.php">XIII век</a></h4>
+			
 		<p class="img-float-left">
 		<a href="images/_img-index/blr_13ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Беларусь XIII век" src="images/_img-index/blr_13ce_country_thumb.jpg" height="120">
+		<img alt="Беларусь XIII век" src="images/_img-index/blr_13ce_country_thumb.jpg" height="100">
 		</a>
-		</p>
-			 <h4><a href="pages/times/13_vek.php">XIII век</a></h4>
-			 </p>
-			 Завершается миграция <a href="pages/terms/lutizy.php">полабских славян</a> на северо-запад белорусских земель.
-			 </br><small>[Миграция полабских славян на земли Беларуси подробно описана в классическом труде <a href="pages/download/shafarik.php">Й. Шафарика</a>]</small> 
-			 </br>В правление <a href="pages/figures/mindowg.php">Миндовга</a> формируется 
+		</p>			 
+		<p>
+			В Пруссии и Ливонии доминируют Тевтонский и Ливонский Ордена. Снижается роль Полоцка в транзитной торговле по Западной Двине.
+		</p>			 
+		<p>
+			 Завершается миграция <a href="pages/terms/lutizy.php">полабских славян</a> на северо-запад белорусских земель
+			<small>[ подробно описана в классическом труде <a href="pages/download/shafarik.php">Й. Шафарика</a>]</small> 
+		</p>			 
+		<p>
+			В правление <a href="pages/figures/mindowg.php">Миндовга</a> формируется 
 			 <a href="pages/terms/wkl.php">княжество Литовское</a>,
 			  со столицей в <a href="pages/places/nowogrudok.php">Новогрудке</a> 
 			 (позже перенесенной в <a href="pages/places/wilno.php">Вильно</a>).
-			</p>
+		</p>			 
+		<p>
+			 После смерти его сына Войшалка и зятя <a href="pages/figures/shwarn.php">Шварна</a>, княжеская (королевская) династия обрывается.
+	</p>
+	<p>		
+		<i>Anarchie</i>  или <i>sans duc.</i> (<i>анархия, без князя</i>; франц.) — так характеризовали в старых учебниках период с 1223 года 
+		в Полоцком княжестве и с 1267 в княжестве Литовском. 
+		Конец этого периода связывали с княжением детей Лютувера (Lutuver) — в 1307 князя Воина в Полоцке и в 1291 князя 
+		<a href="pages/figures/vyten.php">Витеня</a> в Литве.
+	</p>
+	<p>
+		<a href="pages/figures/gedimin.php">Гедимин</a>, принявший правление после Витеня и мирно (без войн)
+		объединивший оба княжества, считался третьим сыном Лютувера. 
+		<p>
 	</div>
 		
-	<div class="col-md-12">		
+	<div class="col-md-12">	
+	
+		<h4><a href="pages/times/14_vek.php">XIV век</a></h4> 
+			
 		<p class="img-float-left">
 		<a href="images/_img-index/blr_14ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Беларусь XIV век" src="images/_img-index/blr_14ce_country_thumb.jpg" height="120">
+		<img alt="Беларусь XIV век" src="images/_img-index/blr_14ce_country_thumb.jpg" height="100">
 		</a>
 		</p>	 
-			<h4><a href="pages/times/14_vek.php">XIV век</a></h4> 
+			
 			<p>
-			Все белорусские земли собраны в единое государство — Великое княжество Литовское. Происходит формирование единого белорусского этноса.
-			</br><small>[ Результат можно наглядно видеть при <a href="pages/download/wkl_equal_etno.php">наложении карт</a> ВКЛ, белорусского этноса и Беларуси ]</small>
+			В правление <a href="pages/figures/gedimin.php">Гедимина</a> и <a href="pages/figures/olgerd.php">Ольгерда</a>
+			все белорусские земли собраны в единое государство — Великое княжество Литовское. 
+			</br>Происходит формирование 
+			<a href="pages/download/wkl_equal_etno.php">единого белорусского этноса</a>.
 			</p>
 			<p>			
-			<a href="pages/figures/gedimin.php">Гедимин</a>, основатель династии Гедиминовичей, наследников <a href="pages/figures/rogvolod_rogneda.php">Рогволодовичей</a>, 
+			В. князь <a href="pages/figures/gedimin.php">Гедимин</a>, стремясь интегрировать страну в европейское культурное пространство,
 			обращается к Папе Римскому Иоанну XXII, и в Великое княжество Литовское приходит котоличество. 
 			Так <a href="pages/terms/religion_blr.php">религия</a>, а именно разные конфессии христианства восточных и западных земель, 
 			начинает играть заметную роль в истории Беларуси.
 			</p>
+			<p>	
+			В. князь Ольгерд, разбив Орду в <a href="pages/events/sinie_wody.php">битве на Синих Водах</a>, присоединяет Земли Руские. Великое княжество Литвоское становится
+			крупнейшим государством Европы, страной "от моря до моря".
+			</p>
 	</div>
 		
 		
-	<div class="col-md-12">		
+	<div class="col-md-12">	
+	
+		<h4><a href="pages/times/15_vek.php">XV век</a></h4>
+			
 		<p class="img-float-left">
 		<a href="images/_img-index/blr_15ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Беларусь XV век" src="images/_img-index/blr_15ce_country_thumb.jpg" height="120">
+		<img alt="Беларусь XV век" src="images/_img-index/blr_15ce_country_thumb.jpg" height="100">
 		</a>
 		</p>
-		<h4><a href="pages/times/15_vek.php">XV век</a></h4>
+		
 		<p>
 		ВКЛ достигло своего расцвета. 		
 		Развитое европейское государство со сложной структурой власти 
@@ -263,25 +336,32 @@
 		</p>
 		<p>
 		 Первое межконфессиональное противостояние — <a href="pages/events/war_civil_1432.php">Гражданская война</a> 1432-1435 годов.
-		 </br><a href="pages/events/grunwald.php">Битва под Грюнвальдом</a> — окончание войн с Тевтонским Орденом и 
+		</p>			 
+		<p>
+		<a href="pages/events/grunwald.php">Битва под Грюнвальдом</a> — окончание войн с Тевтонским Орденом и 
 		 присеоденение <a href="pages/places/samogitia.php">Самогитии</a>.
 		 </p>
 		 <p>
 		 Наступил "Золотой век" (1410-1569) — время белорусского Ренессанса.
-		 </br>Издан <a href="pages/terms/statut.php">Статут ВКЛ</a>, составлена знаменитая карта <a href="pages/download/map_radziwill.php">Magni Ducatus Lithvaniae</a> Радзивилла "Сиротки", 
+		 </br>Издан <a href="pages/terms/statut.php">Статут ВКЛ</a>, 
 		 издаются труды гуманистов и просветителей — золотое наследие Беларуси.
-		 </br>Завершается формирование <a href="pages/terms/blr_etnos.php">белорусского этноса</a>.
+		 </p>
+		 <p>
+		 Завершается формирование <a href="pages/terms/blr_etnos.php">белорусского этноса</a>.
 		</p>
 	</div>		 	 
 		
-	<div class="col-md-12">		
+	<div class="col-md-12">	
+	
+		<h4><a href="pages/times/16_vek.php">XVI век</a></h4>
+			
 		<p class="img-float-left">
 		<a href="images/_img-index/blr_16ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Беларусь XVI век" src="images/_img-index/blr_16ce_country_thumb.jpg" height="120">
+		<img alt="Беларусь XVI век" src="images/_img-index/blr_16ce_country_thumb.jpg" height="100">
 		</a>
 		</p>
-		<h4><a href="pages/times/16_vek.php">XVI век</a></h4>
+		
 		<p>
 		ВКЛ объединяется с Королевстовм Польским в 
 		<a href="pages/terms/rzeczpospolita.php">Речь Посполитую Двух Народов</a> для противостояния
@@ -294,14 +374,17 @@
 		</p> 
 	</div>
 		
-	<div class="col-md-12">		
+	<div class="col-md-12">	
+	
+		<h4><a href="pages/times/17_vek.php">XVII век</a></h4>
+			
 		<p class="img-float-left">
 		<a href="images/_img-index/blr_17ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Беларусь XVII век" src="images/_img-index/blr_17ce_country_thumb.jpg" height="120">
+		<img alt="Беларусь XVII век" src="images/_img-index/blr_17ce_country_thumb.jpg" height="100">
 		</a>
 		</p>
-		<h4><a href="pages/times/17_vek.php">XVII век</a></h4> 
+		 
 		<p>
 		Век беспрерывных войн. <a href="pages/events/blood_potop.php">Кровавый Потоп</a> — население сократилось вдвое.
 		</br>Войны с Московией, Швецией, Османской империей, Войском Запорожским. 
@@ -310,14 +393,17 @@
 		</p>
 	</div>
 		
-	<div class="col-md-12">		
+	<div class="col-md-12">	
+	
+		<h4><a href="pages/times/18_vek.php">XVIII век</a></h4>
+			
 		<p class="img-float-left">
 		<a href="images/_img-index/blr_18ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Беларусь XVIII век" src="images/_img-index/blr_18ce_country_thumb.jpg" height="120">
+		<img alt="Беларусь XVIII век" src="images/_img-index/blr_18ce_country_thumb.jpg" height="100">
 		</a>
 		</p>
-		<h4><a href="pages/times/18_vek.php">XVIII век</a></h4>
+		
 		<p>
 		Век магнатской анархии. 
 		</br>Попытки найти выход из государственного кризиса. 
@@ -327,14 +413,17 @@
 		</p>
 	</div>
 			  
-	<div class="col-md-12">		
+	<div class="col-md-12">	
+	
+		<h4><a href="pages/times/19_vek.php">XIX век</a></h4>
+			
 		<p class="img-float-left">
 		<a href="images/_img-index/blr_19ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Беларусь XIX век" src="images/_img-index/blr_19ce_country_thumb.jpg" height="120">
+		<img alt="Беларусь XIX век" src="images/_img-index/blr_19ce_country_thumb.jpg" height="100">
 		</a>
 		</p>
-		<h4><a href="pages/times/19_vek.php">XIX век</a></h4>
+		
 		<p>
 		Белорусские земли — <a href="pages/terms/sewero_zapadny_kraj.php">Северо-Западный край</a> в составе <a href="pages/terms/ross_empire.php">Российской Империи</a>. 
 		</br><a href="pages/events/war_1812.php">Война 1812</a> года для Беларуси — ополчение последнего Радзивилла против Гродненского и Белорусского гусарских полков.
@@ -344,14 +433,17 @@
 		</p>
 	</div>
 		
-	<div class="col-md-12">		
+	<div class="col-md-12">	
+	
+		<h4><a href="pages/times/20_vek.php">XX век</a></h4>
+			
 		<p class="img-float-left">
 		<a href="images/_img-index/blr_20ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Беларусь XX век" src="images/_img-index/blr_20ce_country_thumb.jpg" height="120">
+		<img alt="Беларусь XX век" src="images/_img-index/blr_20ce_country_thumb.jpg" height="100">
 		</a>
 		</p>
-		<h4><a href="pages/times/20_vek.php">XX век</a></h4>
+		
 		<p>
 		Первая Мировая Война. Крушение Российской Империи. 
 		</br><a href="pages/terms/bnr.php">Белорусская Народная Республика</a> — преемник ВКЛ, предшественник современной Беларуси.

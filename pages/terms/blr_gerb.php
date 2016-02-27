@@ -85,18 +85,18 @@
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-terms/blr_gerb/rzecz_pred_razborom.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/blr_gerb/rzecz_pred_razborom_thumb.jpg" height="100">
-		</br><small>Гербы воеводств Речи Посполитой</small>	
+		<a href="../../images/img-download/atlas_historyczny_sage/1844_herby.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="гербы воеводств Реви Посполитой, гербы воеводств ВКЛ" src="../../images/img-download/atlas_historyczny_sage/1844_herby_thumb.jpg" height="100"/>
+		</br><small>Гербы воеводств  Речи Посполитой</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-terms/blr_gerb/grodno_harugva.jpg" class="highslide"
+		<a href="../../images/img-terms/blr_gerb/rzecz_pred_razborom.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/blr_gerb/grodno_harugva.jpg" height="100">
-		</br><small>Гродненская хоругва XVI-XVII вв.</small>	
+		<img src="../../images/img-terms/blr_gerb/rzecz_pred_razborom_thumb.jpg" height="100">
+		</br><small>Гербы воеводств Речи Посполитой</small>	
 		</a>
 		</div>
 		
@@ -116,6 +116,15 @@
 	губерний и наместничеств, осталась на гербах городов, в символике гусарских полков и символизировала наши земли на Большом гербе РИ.
 	</p>
 	<div class="col-md-12" >
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/blr_gerb/grodno_harugva.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/blr_gerb/grodno_harugva.jpg" height="100">
+		</br><small>Гродненская хоругва XVI-XVII вв.</small>	
+		</a>
+		</div>
+		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/blr_gerb/gerby_blr_ri.jpg" class="highslide"
         onclick="return hs.expand(this)">
@@ -139,14 +148,6 @@
 		</br><small>Нагрудные знаки гусарских полков</small>	
 		</a>
 		</div>
-		
-		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-figures/tarashkevicz/TBSz_1927.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img alt="Бронислав Тарашкевич" src="../../images/img-figures/tarashkevicz/TBSz_1927_thumb.jpg" height="100" >
-			</br><small>Таварыства Беларускай Школы, 1927</small>
-			</a>
-		</div>
 							
 	</div>
 	
@@ -161,6 +162,15 @@
 	</p>
 	
 	<div class="col-md-12" >
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/tarashkevicz/TBSz_1927.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Бронислав Тарашкевич" src="../../images/img-figures/tarashkevicz/TBSz_1927_thumb.jpg" height="100" >
+			</br><small>Таварыства Беларускай Школы, 1927</small>
+			</a>
+		</div>
+		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/blr_gerb/postcard_bnr.jpg" class="highslide"
         onclick="return hs.expand(this)">
@@ -184,20 +194,22 @@
 		</br><small>Белорусская диаспора, Торонто, 1970</small>	
 		</a>
 		</div>
-		
-		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-terms/blr_gerb/blr_1991.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/blr_gerb/blr_1991_thumb.jpg" height="100">
-		</br><small>"Погоня" в символике РБ, 1991</small>	
-		</a>
-		</div>					
+							
 	</div>
 	
 	<p>
 	Герб "Погоня" включен в "Дзяржаўны спіс гісторыка-культырных каштоўнасьцяў" Ресублики Беларусь. 
 	</br>Сегодня БЧБ флаг, Погоня, национальный орнамент стали символами единения нации, уважения к своей истории.
 	</p>
+	
+	<p class="img-float-center">
+		<a href="../../images/img-terms/blr_gerb/blr_1991.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/blr_gerb/blr_1991_thumb.jpg" height="100">
+		</br><small>"Погоня" в символике РБ, 1991</small>	
+		</a>
+	</p>
+	
 	<p>
 	11 августа — День национального герба и флага. 
 	</br>Первое официальное описание герба и флага Беларуси — БНР, газета "Вольная Беларусь", 1918

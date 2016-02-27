@@ -101,7 +101,7 @@
 			<a href="../../images/img-figures/vitovt/vitovt_gramota_p63.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Витовт" src="../../images/img-figures/vitovt/vitovt_gramota_p63_thumb.jpg" height="100">
-		</br><small>Грамота Витовта</small>	
+		</br><small>Грамота Витовта, 1383</small>	
 		</a>
 		</div>
 		

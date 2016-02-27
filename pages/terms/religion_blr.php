@@ -143,15 +143,31 @@
 	</div>
 	
 	<h4>Язычество</h4>
-		
+	
 		<p>
-		На западных белорусских землях христианство еще долго соседствовало с язычеством. 
+		Обращение в христианство не было стремительным. 
+		</p>		
+		<p>
+		В первой половине XI века были построены Софийские соборы — в Киеве, Полоцке и Новгороде. 
+		Киевские и новгородские правители того периода стали канонизированными 
+		святыми — св. кн. Анна Новгородская, киевские св. кн. Ольга, св. кн. Владимир "креститель Руси" и  его сын Ярослав Мудрый, родной брат Изяслава. 
+		</p>
+		<p>
+		Однако два 
+		<a href="../polotsk_principality.php">Полоцких князя</a>, правившие весь XI век запомнились иначе — 
+		Брячеслав "обращался к волхвам и сын его рожден от волхования", а Всеслава летописи описывали как оборотня-воўкалака и потомки дали ему имя колдун-Чарадзей.
+		</p>		
+		<p>
+		Массовое "крещение" языческих капищь в <a href="../terms/polotsk_principality.php">Полоцком княжестве</a> — так большинство иследователей 
+		определяет назначение <a href="../terms/dwina_stouns.php">Двинских камней</a> — случилось только в XII веке и имело локальный характер.
+		</p>		
+		<p>
+		На западных белорусских землях христианство также долго соседствовало с язычеством. 
 		</br>Одна из первых церквей в Гродно — Каложская церковь — 
 		была построена на рубеже XII-XIII вв. <a href="yotving.php">Ятвяги</a> оставались язычниками почти до самой своей ассимиляции в XIV-XVI вв. 
-		Кресты на <a href="dwina_stouns.php">Двинских камнях</a> были выбиты в конце XII века. 
-		И, хотя попытки христианизации предпренимались и во времена Гродненского княжества и, позже, 
-		<a href="../figures/mindowg.php">Миндовга</a>, даже в XIV веке, после создания <a href="wkl.php">ВКЛ</a>,
-		язычество было сильно распространено. 
+		И, хотя попытки христианизации предпринимались и во времена Гродненского княжества и, позже, во времена  
+		<a href="../figures/mindowg.php">Миндовга</a>, 
+		язычество было популярно до 1387 года — до "крещения Литвы и Жмуди" Витовтом и Ягайло. 
 		</p>
 		<p>
 		Так, хроника "<a href="../download/chronicles_peter.php">Chronicon terrae Prussiae von Peter von Duisburg</a>", 1326 г.,
@@ -171,7 +187,24 @@
 		</p>
 		
 	<div class="col-md-12" >
-		<div class="col-md-4 img-float-center">
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/polotsk_principality/saga_ditrek.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/polotsk_principality/saga_ditrek_thumb.jpg" height="100">
+		</br><small>А. Н. Веселовский о князьях Полоцких</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/polotsk_principality/dvina_stouns.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Полоцкое княжество" src="../../images/img-terms/polotsk_principality/dvina_stouns_thumb.jpg" height="100">
+		</br><small>Двинские камни, XII в</small>
+		</a>
+		</div>
+	
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/wkl/terrae_prussiae.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img src="../../images/img-terms/wkl/terrae_prussiae_thumb.jpg" height="100">
@@ -180,19 +213,11 @@
 			</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
-		<a href="../../images/img-terms/religion_blr/kirkor_pogan.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/religion_blr/kirkor_pogan_thumb.jpg" height="100"/>
-			</br><small>А. Киркор. "Живописная Россия". 1882</small>
-		</a>
-		</div>
-		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/religion_blr/blr_pogan.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/religion_blr/blr_pogan_thumb.jpg" height="100">
-		</br><small>"Россия — Полное географическое описание", 1905</small> 	
+		</br><small>Языческое наследие</small> 	
 		</a>
 		</div>		
 	</div>

@@ -25,13 +25,20 @@
 
 	
     <!-- ***Page Content*** -->
-    <div class="col-md-8">
+<div class="col-md-8">
                
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_places.php"); ?>
   
 		<p>
 		Топоним — имя собственное, обозначающее название (идентификатор) географического объекта — от небольших (колодец, овраг) до целых территорий.
+		</p>
+		<div class="col-md-12">
+		<p class="img-float-left">
+			<a href="../../images/img-figures/gusowsky/1539_Carta_Marina.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="Великое княжество Литовское, ВКЛ" src="../../images/img-figures/gusowsky/1539_Carta_Marina_thumb.jpg" height="120" >
+			</a>
 		</p>
 		<p>
 		<i>
@@ -41,6 +48,7 @@
 		</i>
 		</br><small>festival.1september.ru</small>
 		</p>
+		</div>
 		
 		<p>
 		Вся новейшая топонимика РБ, календарь дат и событий, официальная символика — ничто не проникает в историю глубже 1924 года. 
@@ -49,22 +57,19 @@
 		
 		<p>
 		Характерные старые названия несут в себе память <a href="../terms/blr_etnos.php">народа</a> о своих корнях, <a href="../terms/litwiny.php">этнонимах</a>. В Беларуси это Литовка, Литва (Гродненская обл.), Кривичи (Минская и Витебская обл.).
-		В Летуве — Жмуйдки (Жямайткямис), в России — Мамаев Курган, Бахчисарай, Инсар.
-	  
+		В Летуве — Жмуйдки (Жямайткямис), в России — Мамаев Курган, Бахчисарай, Инсар.	  
 		</p>
-
-			
-		<div class="col-md-12 img-float-center">
-			<img src="../../images/img-places/vostraja_brama.jpg" height="200"/>
-			
-		</br>
-			<small><a href="wostra_brama.php">Вострая Брама</a> на обложке Виленского альбома.
-			</br>Это ее вспоминает <a href="../figures/bogdanowich.php">поэт</a> в национальном <a href="../terms/blr_hymn.php">гимне</a>
-			</small>
-		</div>
 		
-		
-	</div>
+		<p>
+		Такие топонимы, как <a href="../events/battle_nemiga.php">Немига</a>, <a href="../events/orsha_battle.php">Крапивенское поле</a>,
+		 <a href="../events/battle_polonka.php">Полонка</a>, <a href="../places/wostra_brama.php">Вострая Брама</a>,
+		  <a href="../places/krevo.php">Крево</a> — это живая память о том, что происходило на нашей земле.
+		</p>
+	
+	<!-- *** blr_entire *** -->
+  	<? include ("../_include/include_blr_entire.php"); ?>	
+				
+</div>
 	
 	<!-- ***Sidebar Right*** -->
 

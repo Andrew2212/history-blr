@@ -29,7 +29,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_download.php"); ?>
  
-		<h3>Этнографические карты белорусов</h3>
+		<h1>Этнографические карты белорусов</h1>
 		
 		<p>
 		Карты земель белорусских. 
@@ -39,7 +39,8 @@
 		</p>
 		
 	<div class="col-md-12">
-		<h4>Этнографическая карта белорусского племени (профессор Е. Ф. Карский, 1903 г.)</h4>		
+		<h2>Этнографическая карта белорусского племени 
+		</br><small>профессор Е. Ф. Карский, 1903 </small></h2>		
 			<img src="../../images/img-download/map_blr_people_thumb.jpg" class="img-float-left"/>
 			<p>
 			Атлас 1864 года А. Ф. Риттиха и составленная им «Этнографическая карта Европейской России» (1875) так очерчивали территорию расселения белорусов: 
@@ -61,7 +62,10 @@
 			
 		<div class="col-md-12">
 			</br>
-			<h4>Границы расселения белорусов и административные границы <small>во второй половине XIX - первой половине XX вв.</small></h4>
+			<h2>Границы расселения белорусов и административные границы 
+			</br><small>во второй половине XIX - первой половине XX вв.
+			</small>
+			</h2>
 			<img src="../../images/img-download/bssr_20vekstart_thumb.jpg" class="img-float-left"/>
 			<p>
 			Карты Карского Е. Ф. (1903), Риттиха А. Ф. (1875) и Довнар-Запольского М. В. (1919)
@@ -75,7 +79,9 @@
 		
 		<div class="col-md-12">
 			</br>
-			<h4>Этнографическая карта Европейской России Риттих А. Ф., 1875</h4>
+			<h2>Этнографическая карта Европейской России 
+			</br><small>Риттих А. Ф., 1875</small>
+			</h2>
 			<img src="../../images/img-download/1875_etno_ross_empire_rittih_thumb.jpg" class="img-float-left"/>
 			<p>
 			В архиве (zip, 75 Мб) карта из 6 фрагментов по 8800 х 7700 каждый</br>
@@ -86,13 +92,44 @@
 		
 		<div class="col-md-12" style="padding-bottom:20px;">
 			</br>
-			<h4>Распределние народностей европейской России, Д. Рихтер, 1897 г.</h4>
+			<h2>Распределние народностей европейской России, Д. Рихтер, 1897 г.</h2>
 			<img src="../../images/img-download/slavs_in_russ_thumb.jpg" class="img-float-left"/>
 			<p>
 			Размер 2127 х 2798</br>
 			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DbVd0LVdoc1R5QXc/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
+		</div>
+		
+		<div class="col-md-12">
+		<h2>"Volker-Verteilung in West-Russland" 1916
+		</br><small>(распределение народов в Западной России)</small>
+		</h2>
+			<p class="img-float-left">
+			<a href="../../images/img-download/west_russland/book_title.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="Этнография Беларуси" src="../../images/img-download/west_russland/book_title_thumb.jpg" height="160"/>
+			</br><small>"Volker-Verteilung", 1916</small>
+			</a>
+			</p>
+			
+			<p class="img-float-right">
+			<a href="../../images/img-download/west_russland/weiss_russen.jpg" class="highslide"
+       		 onclick="return hs.expand(this)">
+			<img alt="Этнография Беларуси"  src="../../images/img-download/west_russland/weiss_russen_thumb.jpg" height="160">
+			</br><small>Weiss Russen</small>	
+			</a>
+			</p>						
+
+			<p>
+			 В издании с немецкой аккуратностью в очень наглядном виде собрана информация о Западном крае Российской империи — шесть губерний 
+			 <a href="../terms/sewero_zapadny_kraj.php">Северо-Западного края</a> — Виленская, Ковенская, Гродненская, Минская, Могилёвская, Витебская — плюс Киевская, 
+			 Волынская, Подольская.
+			</p>
+			<p>
+			<a href="../download/west_russland.php">Посмотреть / скачать</a> на странице. 
+			</p>
+			
 		</div>
 		
 		<h3>Бонус</h3>

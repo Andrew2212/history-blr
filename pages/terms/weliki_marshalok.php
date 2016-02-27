@@ -30,7 +30,18 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
     
-		<h3>Великий маршалок литовский</h3>
+		<h2>Великий маршалок литовский</h2>
+		
+	<div class="col-md-12">
+	
+		<p class="img-float-left">
+		<a href="../../images/img-download/atlas_historyczny_sage/atlas_sage_kanclers_marszalok.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="Atlas historyczny, карты ВКЛ" src="../../images/img-download/atlas_historyczny_sage/atlas_sage_kanclers_marszalok_thumb.jpg" height="120"/>
+		</br><small>В. канцлеры и маршалки</small>
+		</a>
+		</p>
+		
 		<p>
 			Великий маршалок литовский &mdash; один из центральных чиновников в <a href="wkl.php">Великом Княжестве Литовском</a>. 
 			Руководил двором великого князя, принимал иностранных послов, высших чиновников государства, наблюдал за этикетом, 
@@ -39,6 +50,11 @@
 			</br>С 1569 года (<a href="../events/unia_liublin.php">Люблинской унии</a>) должность маршалка великого литовского стала сенаторской. 
 			Во время проведения Сейма Речи Посполитой на территории Великого княжества Литовского созывал и вёл сеймовые заседания.
 		</p>
+		<p>
+		Полный список Великих гетманов, маршалков и канцлеров Литовских, подканцлеров и подскарбиев приведен в 
+		<a href="../download/atlas_historyczny_sage.php">"Atlas historyczny, genealogiczny, chronologiczny"</a> A. Le Sage, 1799 .
+		</p>
+	</div>
 		
 		<p>
 			<h4>Маршалки великие литовские </h4>

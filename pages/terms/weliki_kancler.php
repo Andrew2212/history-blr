@@ -30,7 +30,17 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
     
-		<h3>Великий канцлер литовский</h3>
+		<h2>Великий канцлер литовский</h2>		
+		
+	<div class="col-md-12">
+		<p class="img-float-left">
+		<a href="../../images/img-download/atlas_historyczny_sage/atlas_sage_kanclers_marszalok.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="Atlas historyczny, карты ВКЛ" src="../../images/img-download/atlas_historyczny_sage/atlas_sage_kanclers_marszalok_thumb.jpg" height="120"/>
+		</br><small>В. канцлеры и маршалки</small>
+		</a>
+		</p>
+		
 		<p>
 		Канцлер великий литовский - глава правительства <a href="wkl.php">Великого Княжества Литовского</a>, второй после 
 		<a href="weliki_marshalok.php">маршалка</a> министр государства. 
@@ -45,6 +55,11 @@
 		Считался вторым (после <a href="weliki_marshalok.php">маршалка</a>) министром. В качестве платы получал от великого князя в держание староство 
 		(земельное владение, принадлежащее казне).
 		</p>
+		<p>
+		Полный список Великих гетманов, маршалков и канцлеров Литовских, подканцлеров и подскарбиев приведен в 
+		<a href="../download/atlas_historyczny_sage.php">"Atlas historyczny, genealogiczny, chronologiczny"</a> A. Le Sage, 1799 .
+		</p>
+	</div>
 
 	<p>
 	<h4>Канцлеры великие литовские </h4>

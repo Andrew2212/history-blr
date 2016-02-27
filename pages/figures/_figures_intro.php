@@ -54,10 +54,10 @@
 		</p>
 		
 		<p class="img-float-left">
-			<a href="../../images/img-figures/blr_polak.jpg" class="highslide"
+			<a href="../../images/img-terms/filomaty/tut_kraj.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img src="../../images/img-figures/blr_polak.jpg" height="100" width="100"/>
-			</a>
+		<img alt="Филоматы" src="../../images/img-terms/filomaty/tut_kraj_thumb.jpg" height="120">
+		</a>
 		</p>
 		<p>
 			Многие из них жили, когда слова <i>белорус</i> еще не было. Как не было слов <i>русский, литовец, украинец</i>. Эти термины возникли не так давно, и никогда
@@ -77,8 +77,9 @@
 		</div>
 		
 
-	<!-- *** blr_entire *** -->
-  	<? include ("../_include/include_blr_entire.php"); ?>
+<!-- *** blr_entire *** -->
+<? include ("../_include/include_people_of_Russia.php"); ?>
+  	
 	</div>
 	
 	<!-- ***Sidebar Right*** -->

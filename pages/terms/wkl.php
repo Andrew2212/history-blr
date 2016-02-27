@@ -160,12 +160,62 @@
 			
 		</div>
 		
-		<h4><a href="../times/14_vek.php">XIV век</a></h4>
+		<h4><a href="../times/14_vek.php">XIV век</a></h4>		
+		
+		<p>		
+		<i>Anarchie</i>  или <i>sans duc.</i> (<i>анархия, без князя</i>; франц.) — так характеризовали в старых учебниках период с 1223 года 
+		в <a href="../terms/polotsk_principality.php">Полоцком княжестве</a> и с 1267 (после Шварна, зятя Миндовга) в княжестве Литовском. 
+		Конец этого периода связывали с княжением детей Лютувера (Lutuver) — в 1307 Воина в Полоцке и в 1291 <a href="../figures/vyten.php">Витеня</a> в Литве. 
+		<p>
+		<p>
+		Гедимин, принявший правление после Витеня и 
+		объединивший оба княжества, считался третьим сыном Лютувера. Имя Лютувер (Lutuver) многие считают производным от 
+		<a href="../terms/lutizy.php">лютичей</a> (lutizi). На ранних картах <a href="../places/litwa.php">Литва (Lithuania)</a> 
+		иногда писалась как LUTUANIA.
+		<p>
+		
+		<div class="col-md-12">
+		
+			<div class="col-md-3 img-float-center">
+			<a href="../../images/img-figures/rogvolod_rogneda/1844_hstorie_lelevel.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="Великое княжество Литовское, ВКЛ" src="../../images/img-figures/rogvolod_rogneda/1844_hstorie_lelevel_thumb.jpg" height="100"/>
+			</br><small>"Slavons du nord et de l'est" 1844</small>
+			</a>
+			</div>
+			
+			<div class="col-md-3 img-float-center">
+			<a href="../../images/img-terms/lutizy/lutizy.jpg" class="highslide"
+       	 onclick="return hs.expand(this)">
+			<img alt="лютичи, велеты" src="../../images/img-terms/lutizy/lutizy.jpg" height="100"/>
+			</br><small>Лютичи-велеты в словаре 1854 г.</small>
+			</a>
+			</div>
+			
+			<div class="col-md-3 img-float-center">
+			<a href="../../images/img-terms/lutizy/lutizy_byzantine_empires_814.jpg" class="highslide"
+       	 onclick="return hs.expand(this)">
+			<img alt="лютичи, велеты" src="../../images/img-terms/lutizy/lutizy_byzantine_empires_814_thumb.jpg" height="100"/>
+			</br><small>Вильцы-лютичи на карте Византийской Империи</small>
+			</a>
+			</div>
+		
+			<div class="col-md-3 img-float-center">
+			<a href="../../images/img-terms/lutizy/lutuania.jpg" class="highslide"
+     	   onclick="return hs.expand(this)">
+			<img alt="лютичи, велеты" src="../../images/img-terms/lutizy/lutuania_thumb.jpg" height="100"/>
+			</br><small>LUTUANIA на карте</small>
+			</a>
+		</div>
+			
+		</div>
+		
 		<p>
 		В правление (1316-1341) в. князя <a href="../figures/gedimin.php">Гедимина</a> к Великому княжеству Литовскому мирно присоединились Полоцк, Гродно и Берестье, 
 		Витебск, Минск, Туров и Пинск. 
 		Собраны воедино все белорусские земли, кроме <a href="../places/sea_herodotus.php">Полесья</a>.
 		</p>
+		
 		<p>
 		Собраны мирно — нет в хрониках упоминания о битвах и осадах. Полоцкая <a href="../places/sophia_sobor.php">София</a> нетронутой простояла 
 		еще 300 лет (до прихода московского войска) — что несравнимо с походом 
@@ -173,7 +223,8 @@
 		<p>
 		<p>
 		Возможно, Императорское Русское Географическое Общество (<a href="../download/kirkor.php">"Живописная Россия"</a>, 1882) было право, 
-		утверждая происхождение Гедыминовичей от кривичских <a href="../figures/rogvolod_rogneda.php">Рогволодовичей</a> — иных объективных причин мирного объединения историки не находят.
+		утверждая происхождение Гедыминовичей от кривичских <a href="../figures/rogvolod_rogneda.php">Рогволодовичей</a>
+		 — из многих версий эта выглядит наиболее логично..
 		</p>
 		<p>
 		<a href="../places/samogitia.php">Самогития-Жмудь</a> (Samogitia) — <i>"в <a href="../times/13_vek.php">XIII</a> и даже в <a href="../times/14_vek.php">XIV</a> вв. занимала большое пространство, 
@@ -237,7 +288,7 @@
 		
 		
 		<p>
-		1345-1377 При в. князе <a href="../figures/olgerd.php">Ольгерде</a> в Великое княжество Литовское были собраны все <a href="../download/blr_people.php">белорусские земли</a>. 
+		1345-1377 При в. князе <a href="../figures/olgerd.php">Ольгерде</a>, сыне Гедимина, в Великое княжество Литовское были собраны все <a href="../download/blr_people.php">белорусские земли</a>. 
 		</br>Разбив войска Золотой Ордой в <a href="../events/sinie_wody.php">битве на Синих Водах</a>, Ольгерд присединил к ВКЛ 
 		<a href="../download/zemie_ruskie.php">"земли Русские"</a> (современная Украина).
 		</br>1377 после смерти Ольгерда новым в. князем становится его сын <a href="../figures/jagiello.php">Ягайло</a>.

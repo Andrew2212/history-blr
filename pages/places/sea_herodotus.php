@@ -54,24 +54,27 @@
 		
 		<div class="col-md-12">			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-places/sea_herodotus/1550_Munster_Poloniae_et_vngariae.jpg">
-			<img src="../../images/img-places/sea_herodotus/1550_Munster_Poloniae_et_vngariae_thumb.jpg" height="120">
+			<a href="../../images/img-places/sea_herodotus/1550_Munster_Poloniae_et_vngariae.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-places/sea_herodotus/1550_Munster_Poloniae_et_vngariae_thumb.jpg" height="100">
 			</br><small>Карта Мюнстера, 1550
 			</br>Poloniae et VngariaeNova</small>				
 			</a>
 			</div>	
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-places/sea_herodotus/1575_Lafreri.jpg">
-			<img src="../../images/img-places/sea_herodotus/1575_Lafreri_thumb.jpg" height="120">
+			<a href="../../images/img-places/sea_herodotus/1575_Lafreri.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-places/sea_herodotus/1575_Lafreri_thumb.jpg" height="100">
 			</br><small>Антуан дю Перак Лафрери
 			</br>"Tavole moderne di geografia", 1575</small>				
 			</a>
 			</div>	
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-places/sea_herodotus/1655_lithuanie_polesie.jpg">
-			<img src="../../images/img-places/sea_herodotus/1655_lithuanie_polesie_thumb.jpg" height="120">
+			<a href="../../images/img-places/sea_herodotus/1655_lithuanie_polesie.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-places/sea_herodotus/1655_lithuanie_polesie_thumb.jpg" height="100">
 			</br><small>Полесье, 1665
 			</br>Новогродское и Берестейское воеводства ВКЛ</small>				
 			</a>
@@ -86,24 +89,27 @@
 		</p>
 		<div class="col-md-12">
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-places/sea_herodotus/1493_schedel_littav.jpg">
-			<img src="../../images/img-places/sea_herodotus/1493_schedel_littav_thumb.jpg" height="120">
+			<a href="../../images/img-places/sea_herodotus/1493_schedel_littav.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-places/sea_herodotus/1493_schedel_littav_thumb.jpg" height="100">
 			</br><small>Г. Шедель, карта Европы
 			</br>"Всемирная хроника", 1493</small>					
 			</a>
 			</div>
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-places/sea_herodotus/1493_schedel_littaw.jpg">
-			<img src="../../images/img-places/sea_herodotus/1493_schedel_littaw_thumb.jpg" height="120">
+			<a href="../../images/img-places/sea_herodotus/1493_schedel_littaw.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-places/sea_herodotus/1493_schedel_littaw_thumb.jpg" height="100">
 			</br><small>Г. Шедель, Littaw
 			 </br>"Всемирная хроника", 1493</small>				
 			</a>
 			</div>	
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-places/sea_herodotus/polesie_shishkin.jpg">
-			<img src="../../images/img-places/sea_herodotus/polesie_shishkin.jpg" height="120">
+			<a href="../../images/img-places/sea_herodotus/polesie_shishkin.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-places/sea_herodotus/polesie_shishkin.jpg" height="100">
 			</br><small>Полесье
 			 </br>И. И. Шишкин</small>				
 			</a>

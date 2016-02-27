@@ -142,7 +142,7 @@
           <a href="kondratovich.php">Кондратович Киприан</a>, министр обороны БНР
         </li>
         <li>
-          <a href="kostiushko.php" class="item-edit">Костюшко Тадеуш, национальный герой США</a>
+          <a href="kostiushko.php">Костюшко Тадеуш</a>, национальный герой Беларуси, Польши и США
         </li>
         <li>
           <a href="konenkow.php" class="item-edit">Коненков С. Т., скульптор</a>

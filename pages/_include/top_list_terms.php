@@ -82,6 +82,9 @@
           <a href="tur_evangelie.php" class="item-edit">Евангелие туровское, XI век</a>
         </li>
         <li>
+          <a href="../download/west_russland.php">Западный край</a> Российской империи
+        </li>
+        <li>
           <a href="zemiane.php">Земяне и панцирные бояре</a>
         </li>
         <li>
@@ -142,7 +145,7 @@
           <a href="../figures/gusowsky.php">"Песня о зубре"</a> 1523
         </li>
         <li>
-          <a href="polotsk_principality.php" class="item-edit">Полоцкое княжество</a>
+          <a href="polotsk_principality.php">Полоцкое княжество</a>
         </li>
         <li>
           <a href="blr_gerb.php">Погоня</a>
@@ -172,7 +175,7 @@
           <a href="statut.php">Статут ВКЛ</a>
         </li>
         <li>
-          <a href="sewero_zapadny_kraj.php">Северо-Западный край</a>
+          <a href="sewero_zapadny_kraj.php">Северо-Западный край</a> Российской империи
         </li>
         <li>
           <a href="turow_principality.php" class="item-edit">Туровское княжество</a>

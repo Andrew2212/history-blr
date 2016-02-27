@@ -31,19 +31,21 @@
     <? include ("../_include/top_list_events.php"); ?>
   
 
-		<h3>Кровавый Потоп 1654—1667
-		</br><small>тринадцатилетняя война</small></h3>
+		<h1>Кровавый Потоп 1654—1667
+		</br><small>тринадцатилетняя война</small></h1>
+					
 		<p class="img-float-left">
-		<a href="battle_polonka.php">	
-		<img src="../../images/img-events/blood_potop/palonka_memory_thumb.jpg" height="160"/>
-		</br><small>Битва под Полонкой, 1660
-		</br>— начало освобождения</small>
+		<a href="../../images/img-events/battle_polonka/palonka_memory.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кровавый Потоп" src="../../images/img-events/blood_potop/palonka_memory_thumb.jpg" height="140">
+		</br><small>Битва под Полонкой, 1660</small>	
 		</a>
 		</p>
 		
 		<p class="img-float-right">
-		<a target="_blank" href="../../images/img-events/blood_potop/people_lost.jpg">
-		<img alt="Кровавый Потоп" src="../../images/img-events/blood_potop/people_lost_thumb.jpg" height="160">
+		<a href="../../images/img-events/blood_potop/people_lost.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кровавый Потоп" src="../../images/img-events/blood_potop/people_lost_thumb.jpg" height="140">
 		</br><small>Людские потери Беларуси</small>	
 		</a>
 		</p>
@@ -91,21 +93,24 @@
 		<div class="col-md-12" >
 		
 		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-events/battle_polonka/RP1658.jpg">
+		<a href="../../images/img-events/battle_polonka/RP1658.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/RP1658_thumb.jpg" height="120">
 		</br><small>Речь Посполитая Трех Народов, 1658</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-events/battle_polonka/rzeczpospolita_Potop.jpg">
+		<a href="../../images/img-events/battle_polonka/rzeczpospolita_Potop.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/rzeczpospolita_Potop_thumb.jpg" height="120">
 		</br><small>"Кровавый Потоп" 1654-1667</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-events/blood_potop/areas_lost.jpg">
+		<a href="../../images/img-events/blood_potop/areas_lost.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img alt="Кровавый Потоп" src="../../images/img-events/blood_potop/areas_lost_thumb.jpg" height="120">
 		</br><small>Территориальные потери</small>	
 		</a>
@@ -118,17 +123,21 @@
 		<i>"шляхты, поляков и литвы, и иных служилых людей… побито больше 10 тысяч человек"</i>.
 		И уничтожение <a href="../terms/bastards.php">"белорусскими казаками"</a> ерейской общины Могилева после захвата города московским войском. 
 		И истребление московского гарнизона Могилева жителями города. (Кстати — Мстиславль тоже был освобожден не регулярной армией, а местными жителями).
-		</p>		
+		</p>
+		
+		<h3>1600 Битва под Полонкой и начало освобождения</h3>		
 		
 		<p>
 		Освобождение <a href="../download/wkl_equal_etno.php">белорусских земель</a> началось после разгрома московских войск в 
-		<a href="battle_polonka.php">битве под Полонкой</a> в 1660 году. 12 тысяч литвинов под 
-		командованием Яна Сапеги разбили 20-ти тысячную московскую армию. И еще долгих семь лет войска Речи Посполитой выгоняли захватчиков 
+		<a href="battle_polonka.php">битве под Полонкой</a> в 1660 году. 13 тысячное войско под 
+		командованием великого гетмана Литовского <a href="../figures/sapegi.php">Павла Яна Сапеги</a> и польного гетмана коронного 
+		Стефана Чарнецкого разбило 20-ти тысячную московскую армию. И еще долгих семь лет войска Речи Посполитой выгоняли захватчиков 
 		из своей страны.
 		</p>
 		
 		<div class="col-md-12 img-float-center" >
-		<a target="_blank" href="../../images/img-events/blood_potop/1696-Rzeczpospolita-Korony-Polskiej-WKL.jpg">
+		<a href="../../images/img-events/blood_potop/1696-Rzeczpospolita-Korony-Polskiej-WKL.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img alt="Кровавый Потоп" src="../../images/img-events/blood_potop/1696-Rzeczpospolita-Korony-Polskiej-WKL_thumb.jpg" height="120">
 		</br><small>1696 Речь Посполитая</small>	
 		</a>
@@ -137,7 +146,7 @@
 		<p>
 		В результате 13-летней войны население <a href="../terms/belarus.php">Беларуси</a> сократилось вдвое. 
 		</br><a href="../places/smolensk.php">Смоленск</a> и Левобережная Украина были захвачены Московским царством. 
-		</br>На Землях Русских (Украина) наступило смутное время, оставшееся в истории как "Руина". 
+		</br>На Землях Руских (Украина) наступило смутное время, оставшееся в истории как "Руина". 
 		</p>
 							
 		

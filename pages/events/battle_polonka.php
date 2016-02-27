@@ -51,7 +51,7 @@
 		 <a href="../terms/rzeczpospolita_treh_narodov.php">Речь Посполитую Трех Народов</a>. 
 		 </p>		
 		<p>
-		 После этой победы началось освобождение захваченных <a href="../download/blr_people.php">белорусских земель</a>.
+		 Поворотный момент в самой кровавой войне за всю историю Беларуси (по восточным воеводствам людские потери составили до 70%). После этой победы началось освобождение захваченных <a href="../download/blr_people.php">белорусских земель</a>.
 		</p>		
 		<p>
 		Войско Речи Посполитой — ВКЛ (8 тыс) и Польши (4 тыс), возглавляемое великим гетманом Литовским <a href="../figures/sapegi.php">Павлом Яном Сапегой</a> и 
@@ -69,23 +69,34 @@
 		
 	<div class="col-md-12" >
 		
-		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-events/battle_polonka/RP1658.jpg">
-		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/RP1658_thumb.jpg" height="120">
-		</br><small>Речь Посполитая Трех Народов, 1658</small>	
-		</a>
-		</div>
-		
-		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-events/battle_polonka/rzeczpospolita_Potop.jpg">
-		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/rzeczpospolita_Potop_thumb.jpg" height="120">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/battle_polonka/rzeczpospolita_Potop.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/rzeczpospolita_Potop_thumb.jpg" height="100">
 		</br><small>"Кровавый Потоп" 1654-1667</small>	
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-events/battle_polonka/palonka_memory.jpg">
-		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/palonka_1992.jpg" height="120">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/blood_potop/people_lost.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кровавый Потоп" src="../../images/img-events/blood_potop/people_lost_thumb.jpg" height="100">
+		</br><small>Людские потери 1654-1667</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/battle_polonka/RP1658.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/RP1658_thumb.jpg" height="100">
+		</br><small>Речь Посполитая Трех Народов, 1658</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/battle_polonka/palonka_memory.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/palonka_1992.jpg" height="100">
 		</br><small>Памятник под Полонкой, 1992</small>	
 		</a>
 		</div>
