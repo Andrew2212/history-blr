@@ -36,40 +36,17 @@
   </head>
   <!-- ***BODY*** -->
   <body>
-  <!-- ***Header*** -->
-		<div class="page-header" style="background-color:#888;">
-		<div class="col-md-2 ">
-		</div>
-		
-		<div>
-		<h2 style="text-align: left;">
-		<font color="white" face="Georgia">
-		Краткая история Беларуси 
-		<img style="text-align: right; margin-top:10px;" src="../../img/pagoniaBNR.png" height="80">
-		за последнюю 1000 лет
-		</font>
-		</h2>
-		</div>
-	</div>
-<!-- ***Navbar*** -->
-  <div class="navbar navbar-default navbar-fixed-top" role="navigation" style="margin-top: 4px">
-    <div class="container">
-      <!-- Brand and toggle get grouped for better mobile display -->
-      <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-      <span class="sr-only">Toggle navigation</span> 
-	  <!-- Полоски на кнопке -->
-      <span class="icon-bar"></span> 
-	  <span class="icon-bar"></span> 
-	  <span class="icon-bar"></span> 
-	  </button> 
-	  
-      <a class="navbar-brand" href="../../index.php">
-        <img src="../../img/logo.png" style="max-width:60px; margin-top: -7px;" alt="" />
-      </a></div>
-      <!-- ***Collect the nav links, forms, and other content for toggling*** -->
-      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+  
+<!-- ***Header*** --> 
 
+<!-- *** Include header_navbar_title*** -->
+<? include ("../_include/include_header_navbar_title.php"); ?>	  
+	  	  	  
+
+<!-- *** Include header_navbar_brand (logo in the left corner)*** -->
+<? include ("../_include/include_header_navbar_brand.php"); ?>
+
+	  
         <ul class="nav navbar-nav">
           <li>
             <a href="../times/_times_intro.php">Время</a>
