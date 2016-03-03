@@ -1,6 +1,6 @@
 
       <div class="col-md-2 right-bar-align-center">
-      
+      <!--
       <p>
 			<a href="drozdovich.php">
 			<img src="../../images/img-figures/_hot_figures_right/drozdovich.jpg" class="img-right-80""/></br>
@@ -56,6 +56,6 @@
 			</br>культуртрегер Беларуси</small>
 			</a></br>			
 	   </p>
-	   
+	   -->
 	  </div>
 	

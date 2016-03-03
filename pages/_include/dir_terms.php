@@ -1,6 +1,6 @@
 
       <div class="col-md-2 left-bar-align-center">
-      
+      <!--
        <p>
 			<a href="belarus.php">
 			<img src="../../images/img-terms/_hot_terms_left/belarus.jpg" class="img-right-80""/></br>
@@ -49,6 +49,6 @@
 			<small>Религия в Беларуси</small>
 			</a></br>			
 	   </p>
-	   
+	   -->
 	  </div>
 	

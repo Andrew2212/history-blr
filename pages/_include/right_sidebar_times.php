@@ -1,5 +1,6 @@
 
       <div class="col-md-2 right-bar-align-center" >
+      <!--
 	   <p>
 	   		<a href="../terms/kalumny.php">
 			<img src="../../images/img-times/kalumny.png" class="img-right-80"/></br>
@@ -42,6 +43,6 @@
 			<small>Республика Беларусь</small>
 			</a>
 	   </p>	   
-
+	-->
 	  </div>
 	

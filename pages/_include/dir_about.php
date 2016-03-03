@@ -1,6 +1,6 @@
 
       <div class="col-md-2 left-bar">
-      <ul>
+     <!-- <ul>
       
         <h4 class="img-float-center">Помощь </br>и партнерство</h4>
           
@@ -108,6 +108,7 @@
 		  </a>
         </li>
       </ul>
+      -->
       
 	  </div>
 	

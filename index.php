@@ -26,40 +26,36 @@
 	
     <!-- ***Page Content*** -->
 <div class="col-md-8">	
-
-	<div class="col-md-12">				
+	
+	<div class="col-md-12 img-float-center">
+	
+		
 		<p>
 		<i>
-			"Память — это наша сила. Те, кто жив,</br>
-			получают мандат от тех, кто умолк навсегда."
+			"Память — это наша сила. Те, кто жив, получают мандат от тех, кто умолк навсегда."
 		</i></br>
 			<small>Чеслав Милош, лауреат Нобелевской премии </small>
 		</p>				
 		<p>
 		Проект развивается при поддержке <a target="_blank" href="http://www.talaka.by/projects/565" style="color:red">Talaka.by </a>
 		</p>
-	</div>
-	
-	<div class="col-md-12">	
-
-	</br>
-	<small>Герб <a href="pages/terms/blr_gerb.php">Погоня</a> включен в "Дзяржаўны спіс гісторыка-культурных каштоўнасьцяў" Республики Беларусь
-	</small>
-	</div>
-	
-	<div class="col-md-12">
+			
 		<p>
 		<a href="pages/terms/belarus.php">
 		<img alt="Беларусь" title="Беларусь. Let's go!" src="/img/Lithvaniae_Blr.jpg" width="560">
 		</a>
+		</br>
+		<small>
+		* Герб <a href="pages/terms/blr_gerb.php">Погоня</a> включен в "Дзяржаўны спіс гісторыка-культурных каштоўнасьцяў" Республики Беларусь
+		</small>
 		</p>
 	</div>
 	
 	<div class="col-md-12">
+	<h3>Навошта ўсе гэта патрэбна?</h3> 
 		<small>
 		<p>
-			<b>Навошта ўсе гэта патрэбна?</b> 
-			</br>Адказвае 
+			Адказвае 
 			<a href="pages/articles/patria_propria.php">Борис  Гройс</a>
 			 — советский и немецкий искусствовед, философ, писатель, публицист. Профессор философии, теории искусства, медиа-ведения в Государственной высшей школе дизайна в Карлсруэ, 
 			профессор славистики в Нью-Йоркском университете:
@@ -88,12 +84,12 @@
 	
 	<!-- Buttons -->
 	<div class="col-md-12">
-		<b>Тебе выбирать:</b>
+		<h3>Тебе выбирать:</h3>
 		<div class=" pagination pagination-centered col-centered">
 			<div class="btn-group" style="margin-left: 20px">
 				<h4>
 					<a href="/pages/download/_download_intro.php" class="btn btn-large btn-danger"
-						> <i class="glyphicon glyphicon-heart"></i> Я хочу узнать больше</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-heart"></i> Я хочу узнать больше</a>
 				</h4>
 			</div>
 			<div class="btn-group" style="margin-left: 20px">
@@ -104,13 +100,11 @@
 			</div>
 		</div>
 
-		<p><small>
+		<p>
 		<i>
 		— Выбери красную, и я покажу тебе, как глубока эта кроличья нора.</br>
-		— Выберешь синюю — и забудешь все, что увидел здесь...
+		— Выберешь синюю — и забудешь все, что увидел здесь.
 		</i>
-		</br> Морфеус
-		</small>
 		</p>		
 	</div>
 	<!-- /Buttons -->

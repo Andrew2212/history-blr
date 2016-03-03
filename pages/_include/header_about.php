@@ -46,8 +46,10 @@
 <!-- *** Include header_navbar_brand (logo in the left corner)*** -->
 <? include ("../_include/include_header_navbar_brand.php"); ?>
 
-	  
-        <ul class="nav navbar-nav">
+      <!-- ***Collect the nav links, forms, and other content for toggling*** -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+	  	  
+        <ul class="nav navbar-nav navbar-right">
           <li>
             <a href="../times/_times_intro.php">Время</a>
           </li>
@@ -83,11 +85,7 @@
           <li>
             <a href="../dates/_dates_intro.php">Календарь</a>
           </li>
-          
-          <li>
-            <a href="../films/_films_intro.php">Films</a>
-          </li>
-          
+		          
           <li>
             <a href="../../mova.html">
 			<img title="Зьмяніць мову" src="../../img/lang.png" >

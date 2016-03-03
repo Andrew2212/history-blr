@@ -1,6 +1,6 @@
 
       <div class="col-md-2 right-bar-align-center">
-      
+      <!--
       <p>
 			<a href="map_wkl.php">
 			<img src="../../images/img-download/_hot_download_right/map_wkl.jpg" class="img-right-80""/></br>
@@ -56,6 +56,6 @@
 			</br>"Атлас" Меркатора, 1595 </small>
 			</a></br>			
 	   </p>
-
+		-->
 	  </div>
 	

@@ -1,6 +1,6 @@
 
       <div class="col-md-2 right-bar-align-center">
-    	
+    	<!--
     	<p>
 			<a href="unia_krewo.php">
 			<img src="../../images/img-events/_hot_events_right/unia_krewo.jpg" class="img-right-80""/></br>
@@ -50,6 +50,6 @@
 			<small>Кровавый Потоп</small>
 			</a></br>			
 	   </p>
-	   
+	   -->
 	  </div>
 	

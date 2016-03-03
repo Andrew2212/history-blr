@@ -1,5 +1,6 @@
 
       <div class="col-md-2 right-bar">
+      <!--
       <ul>
 
           <h4>What for?</h4>
@@ -31,5 +32,6 @@
 
 
       </ul>
+      -->
 	  </div>
 	

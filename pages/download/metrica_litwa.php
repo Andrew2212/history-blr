@@ -31,7 +31,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_download.php"); ?>
  
-		<h3>Метрики Литовские</h3>
+		<h1>Метрики Литовские</h1>
 		<p>
 		 — собрание специфических материалов (тетрадей, книг) канцелярии Великого княжества Литовского XV-XVIII веков с копиями документов,
 		  издаваемых от имени великого князя, рады, сеймов и подлежащих неограниченному по времени хранению.
@@ -40,12 +40,14 @@
 		  Документы метрики использовались всеми государственными органами, верховной властью, привилегированными сословиями, 
 		  мещанами, магистратами, церковью и другими субъектами права
 		</p>
-		
+	
+<div class="col-md-12">	
+	
 		<div class="col-md-4">
 			<p>
 			</br>
 			<h4>Метрики Литовские, книга записей 3, 1440-1498 гг. </h4>
-			<img src="../../images/img-download/metrica_wkl/book_3.jpg" class="img-float-centr"/>	
+			<img src="../../images/img-download/metrica_wkl/book_3.jpg " class="img-float-centr" height="180"/>	
 			</p>
 
 			<p>
@@ -59,7 +61,7 @@
 			<p>
 			</br>
 			<h4>Метрики Литовские, книга записей 4, 1479-1491 гг. </h4>
-			<img src="../../images/img-download/metrica_wkl/book_4.jpg" class="img-float-centr"/>	
+			<img src="../../images/img-download/metrica_wkl/book_4.jpg" class="img-float-centr" height="180"/>	
 			</p>
 
 			<p>
@@ -73,7 +75,7 @@
 			<p>
 			</br>
 			<h4>Метрики Литовские, книга записей 6, 1494-1506 гг. </h4>
-			<img src="../../images/img-download/metrica_wkl/book_6.jpg" class="img-float-centr"/>	
+			<img src="../../images/img-download/metrica_wkl/book_6.jpg" class="img-float-centr" height="180"/>	
 			</p>
 
 			<p>
@@ -83,11 +85,15 @@
 			</p>			
 		</div>
 		
+</div>
+
+<div class="col-md-12">
+		
 		<div class="col-md-4">
 			<p>
 			</br>
 			<h4>Метрики Литовские, книга записей 28, 1522-1552 гг. </h4>
-			<img src="../../images/img-download/metrica_wkl/book_28.jpg" class="img-float-centr"/>	
+			<img src="../../images/img-download/metrica_wkl/book_28.jpg" class="img-float-centr" height="180"/>	
 			</p>
 
 			<p>
@@ -101,7 +107,7 @@
 			<p>
 			</br>
 			<h4>Метрики Литовские, книга записей 46, 1562-1565 гг. </h4>
-			<img src="../../images/img-download/metrica_wkl/book_46.jpg" class="img-float-centr"/>	
+			<img src="../../images/img-download/metrica_wkl/book_46.jpg" class="img-float-centr" height="180"/>	
 			</p>
 
 			<p>
@@ -115,7 +121,7 @@
 			<p>
 			</br>
 			<h4>Метрики Литовские, книга записей 70, 1582-1585 гг. </h4>
-			<img src="../../images/img-download/metrica_wkl/book_70.jpg" class="img-float-centr"/>	
+			<img src="../../images/img-download/metrica_wkl/book_70.jpg" class="img-float-centr" height="180"/>	
 			</p>
 
 			<p>
@@ -124,20 +130,17 @@
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>			
 		</div>
+
+</div>		
 		
 		
-		
-		<div class="col-md-4">
-			<p>
-		<!--WTF? Where is the good of it?-->
-			</p>			
-		</div>
+<div class="col-md-12">
 		
 		<div class="col-md-4">
 			<p>
 			</br>
 			<h4>Метрики Литовские. Реестр подымный воеводства Виленского, 1690 г. </h4>
-			<img src="../../images/img-download/metrica_litwa.jpg" class="img-float-centr"/>
+			<img src="../../images/img-download/metrica_litwa.jpg" class="img-float-centr" height="180"/>
 			</br>Большой файл, 122 Мб, слишком велик для просмотра стандартным просмотрщиком гугль-диск. 
 			</br>(Google said: "Не удалось загрузить документ для предпросмотра") 
 			</br>Вирусов нет, можно скачать.	
@@ -155,12 +158,21 @@
 		<p>
 		</br>
 		<h4>Метрики Литовские. Перепись войска Литовского 1528-1565 гг.</h4>
-		<img src="../../images/img-download/wkl_spis_woiska_1565.jpg" class="img-float-centr"/>
+		<img src="../../images/img-download/wkl_spis_woiska_1565.jpg" class="img-float-centr" height="180"/>
 		<a href="spis_voiska.php" >смотреть/скачать </a>
 		</p>
 		</div>
+</div>	
+	
+	<h3>PS.</h3>
+	<p>
+	Редакция благодарит <a target="_blank" href="http://daggir84.livejournal.com/">DAggir84</a> за предоставленный материал
+	</p>
+	
 		
 	</div>
+	
+	
 	
 	<!-- ***Sidebar Right*** -->
 

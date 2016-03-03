@@ -1,5 +1,6 @@
 
       <div class="col-md-2 right-bar-align-center">
+      <!--
 	   <p>
 			<a href="july.php">
 			<img src="../../images/img-dates/july_grunwald.jpg" class="img-right-80""/></br>
@@ -36,6 +37,7 @@
 			<img src="../../images/img-dates/december_bogdanovicz.jpg" class="img-right-80"/></br>
 			<small>Декабрь</small>
 			</a></br>
-	   </p>	   
+	   </p>
+	   -->	   
 	  </div>
 	
