@@ -1,3 +1,5 @@
+
+
 	    <!-- ***Meta*** -->
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -17,9 +19,11 @@
     hs.outlineType = 'rounded-white';   
 	</script>
 	
+	
+	
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet" />
-	<link href="css/bootstrap.css" rel="stylesheet" />
+	<!--<link href="css/bootstrap.css" rel="stylesheet" />
     <!-- Custom CSS -->
     <link href="css/logo-nav.css" rel="stylesheet" />
     <link href="css/simple-sidebar.css" rel="stylesheet" />
@@ -38,15 +42,16 @@
 
 <!-- ***Header*** --> 
 	<!-- *** Include header_navbar_title*** -->
-	<? include ("pages/_include/include_header_navbar_title.php"); ?>	  
+	<? include ("pages/_include/include_header_navbar_title.php"); ?>   
+
 	  	  	  
-      <a class="navbar-brand" href="#">
-        <img src="img/logo.png" style="max-width:50px; margin-top: 0px;" alt="" />
-      </a>
-	  </div>
-      
-         
-      <!-- ***Collect the nav links, forms, and other content for toggling*** -->
+    <a class="navbar-brand" href="#">
+     <img src="img/logo.png" height="30" style="margin-top: 0px;" alt="История Беларуси" title="Home" /> 	  
+    </a> 
+    <!-- /***NavBar-Header***-->
+	</div>
+ 
+      <!-- ***.navbar-collapse. Collect the nav links, forms, and other content for toggling*** -->
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
         <ul class="nav navbar-nav navbar-right">
@@ -93,10 +98,13 @@
           </li>
           
         </ul>
+        
       </div>
       <!-- /.navbar-collapse -->
+      
     </div>
     <!-- /.container -->
+    
   </div>
   <!-- /***Navbar*** -->
-  <!-- /***Header*** -->
+

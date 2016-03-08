@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
-  
     
       <!-- ***Title*** -->
     <title>Август. Календарь Беларуси</title>
@@ -27,7 +26,11 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Август</h3>
+    
+<!-- ***Top list 12_Months *** -->
+<? include ("../_include/top_list_dates.php"); ?>
+    
+		<h1>Август</h1>
 		<div class="col-md-12">
 		<table class="table table-hover">
 			<thead>

@@ -86,6 +86,9 @@
           <a href="nowogrudok.php" class="item-edit">Новогрудок</a> — первая столица ВКЛ
         </li>
         <li>
+          <a href="../figures/kishky.php">Подляшье</a> — белорусская диаспора в Польше
+        </li>
+        <li>
           <a href="sea_herodotus.php">Полесье</a> — наследие Моря Геродота
         </li>
         <li>

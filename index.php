@@ -39,16 +39,32 @@
 		<p>
 		Проект развивается при поддержке <a target="_blank" href="http://www.talaka.by/projects/565" style="color:red">Talaka.by </a>
 		</p>
-			
+		
+
+		<!--<div class="col-md-6 img-float-center"  style="height:450px;">
+		<img 
+		style=" 
+		min-width: 100%;
+		min-height: 100%;
+		width: auto;
+		height: auto;"
+		alt="Беларусь" title="Беларусь. Let's go!" src="/img/Lithvaniae_Blr.jpg" >
+		</div>-->	
+		
+
 		<p>
-		<a href="pages/terms/belarus.php">
-		<img alt="Беларусь" title="Беларусь. Let's go!" src="/img/Lithvaniae_Blr.jpg" width="560">
+		<a href="/img/Lithvaniae_Blr.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Великое княжество Литовское - Беларусь" title="ВКЛ-Беларусь" src="/img/Lithvaniae_Blr_thumb.jpg" width="300">
 		</a>
 		</br>
 		<small>
 		* Герб <a href="pages/terms/blr_gerb.php">Погоня</a> включен в "Дзяржаўны спіс гісторыка-культурных каштоўнасьцяў" Республики Беларусь
 		</small>
 		</p>
+
+
+		
 	</div>
 	
 	<div class="col-md-12">
@@ -85,17 +101,17 @@
 	<!-- Buttons -->
 	<div class="col-md-12">
 		<h3>Тебе выбирать:</h3>
-		<div class=" pagination pagination-centered col-centered">
-			<div class="btn-group" style="margin-left: 20px">
+		<div class="col-md-12">
+			<div  style="margin-left: 0px">
 				<h4>
 					<a href="/pages/download/_download_intro.php" class="btn btn-large btn-danger"
 						data-toggle="modal"> <i class="glyphicon glyphicon-heart"></i> Я хочу узнать больше</a>
 				</h4>
 			</div>
-			<div class="btn-group" style="margin-left: 20px">
+			<div  style="margin-left: 0px">
 				<h4>
 					<a href="/pages/articles/step_away.html" class="btn btn-large btn-info"
-						data-toggle="modal"> <i class="glyphicon glyphicon-volume-up"></i> Я знаю все и верю в Русский Мир Uber Alles</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-volume-up"></i> Я верю в Русский Мир Uber Alles</a>
 				</h4>
 			</div>
 		</div>

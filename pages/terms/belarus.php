@@ -39,32 +39,28 @@
 		</h2>
 		
 		<div class="col-md-12 img-float-center" >
-		<p>
-			<div class=" col-md-1 ">
-			</div>
 			
-			<div class=" col-md-3 ">
+			<div class=" col-md-4 ">
 			<a href="blr_flag.php">
 			<img src="../../images/img-terms/belarus/flagBChB.jpg" height="100" class="img-float-center">
 			</br><small>Национальный флаг</small>
 			</a>
 			</div>
 			
-			<div class=" col-md-3 ">
+			<div class=" col-md-4 ">
 			<a href="blr_hymn.php">
 			<img src="../../images/img-terms/belarus/blr.jpg" height="100" class="img-float-center">
 			</br><small>Национальный гимн</small>
 			</a>
 			</div>
 			
-			<div class=" col-md-3 ">
+			<div class=" col-md-4 ">
 			<a href="blr_gerb.php">
 			<img src="../../images/img-terms/belarus/pagonia.jpg" height="100" class="img-float-center">
 			</br><small>Национальный герб</small>
 			</a>
 			</div>
 			
-		</p>
 		</div>
 		
 		<h4><a href="../times/10_vek.php">X век</a></h4>

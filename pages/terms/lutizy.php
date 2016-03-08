@@ -31,8 +31,9 @@
     <? include ("../_include/top_list_terms.php"); ?>
     
     
-    	<h2>Лютичи, полабские славяне
-		</br><small>подробно о лютичах — см. Й. Шафарик, <a href="../download/shafarik.php">"Славянские древности"</a>, 1847 г.</small></h2>    	
+    	<h1>Лютичи, вильцы, велеты. Полабские славяне
+		</br><small>и Й. Шафарик, <a href="../download/shafarik.php">"Славянские древности"</a>, 1847 г.</small>
+		</h1>    	
 		
 
 		<p>
@@ -49,21 +50,48 @@
 		</br><small>Энциклопедический словарь <a target="_blank" href="http://bibliotekar.ru/bel2/316.htm">Брокгауза и Ефрона</a></small>
 		</p>
 		
-		<p class="img-float-center">
+		<div class="col-md-12 ">
+		
+		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-terms/lutizy/lutizy_byzantine_empires_814.jpg" class="highslide"
        	 onclick="return hs.expand(this)">
-			<img alt="лютичи, велеты" src="../../images/img-terms/lutizy/lutizy_byzantine_empires_814_thumb.jpg" height="160"/>
+			<img alt="лютичи, велеты" src="../../images/img-terms/lutizy/lutizy_byzantine_empires_814_thumb.jpg" height="100"/>
 			</br><small>Вильцы-лютичи на карте Византийской Империи</small>
 			</a>
-		</p>
+		</div>
 		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-terms/blr_gerb/BogislawI_Siegel.jpg" class="highslide"
+       		 onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/blr_gerb/BogislawI_Siegel_thumb.jpg" height="100">
+		</br><small>Печать Богуслава I, князя лютичей</small>
+		</a> 
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-terms/lutizy/Frankish_Empire_481-814.jpg" class="highslide"
+       	 onclick="return hs.expand(this)">
+			<img alt="лютичи, велеты" src="../../images/img-terms/lutizy/Frankish_Empire_481-814_thumb.jpg" height="100"/>
+			</br><small>Вильцы-лютичи iX в</small>
+			</a>
+		</div>
+		
+		</div>
+		
+		<h3><a target="_blank" href="../../images/img-terms/lutizy/disappearance_of_Polabian_Slavs.pdf">"Венды в научной мысли"</a>
+		</br><small>славяно-германский этнокультурный синтез в междуречье Эльбы и Одера</small>
+		</h3>
 		
 		<p>
 		<i>"Относительно исторической судьбы славянских племен за Эльбой в справочниках можно выделить две противоречивые точки зрения. 
 		Согласно одной из них, все славянские племена, за исключением сохранившихся 
-		<a target="_blank" href="../../images/img-articles/kaliada.jpg">серболужицких</a> в Лаузитцу, полностью исчезли с этнолингвистической карты 
+		серболужицких в Лаузитцу, полностью исчезли с этнолингвистической карты 
 		Европы к началу ХVIII в. 
-		</br>О причинах исчезновения основной массы полабских славян авторы словарных статей не сообщают, указывая только на изгнание вендов или их бегство. 
+		</p>
+		<p>
+		О причинах исчезновения основной массы полабских славян авторы словарных статей не сообщают, указывая только на изгнание вендов или их бегство. 
+		</p>
+		<p>
 		Другая точка зрения признает сохранение в местности, до сих пор называющейся Вендланд, остатков полабских славян древян, которые еще во время написания лексиконов сохраняли свой язык, многие древние суеверия и языческие верования."
 		</i>
 		</br><small>Иванова-Бучатская Ю.В. 
@@ -93,6 +121,11 @@
 		<a href="litwiny.php">Литвинов</a> от народа 
 		Лютичей (лютов, литвы) — Велетов-Вильцев. На ранних картах иногда название Литвы  пишется как LUTUANIA. 
 		</p>
+		<p> 		
+		Имя Лютувера (Lutuver) — легендарного отца князей <a href="../figures/vyten.php">Витеня</a>, Воина и 
+		<a href="../figures/gedimin.php">Гедимина</a> — многие исследователи так же выводили от 
+		<a href="../terms/lutizy.php">лютичей</a>-велетов (lutizi-veltae-wilzians).
+		<p>
 		
 		<div class="col-md-12 ">
 		
@@ -104,7 +137,7 @@
 			</a>
 			</div>
 		
-			<div class="col-md-4 img-float-center">
+			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-terms/lutizy/shafarik_lutizy_velety.jpg" class="highslide"
        		 onclick="return hs.expand(this)">
 			<img alt="лютичи, велеты" src="../../images/img-terms/lutizy/shafarik_lutizy_velety.jpg" height="100"/>
@@ -112,23 +145,32 @@
 			</a>
 			</div>
 		
-			<div class="col-md-4 img-float-center">
+			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-terms/lutizy/lutuania.jpg" class="highslide"
      	   onclick="return hs.expand(this)">
 			<img alt="лютичи, велеты" src="../../images/img-terms/lutizy/lutuania_thumb.jpg" height="100"/>
 			</br><small>LUTUANIA на карте</small>
 			</a>
 			</div>
+			
+			<div class="col-md-3 img-float-center">
+			<a href="../../images/img-download/shafarik/velety.jpg" class="highslide"
+       		 onclick="return hs.expand(this)">
+			<img src="../../images/img-download/shafarik/velety_thumb.jpg" class="img-float-centr" height="100"/>
+			</br><small>"Лютичи и Велеты" Й. Шафарик</small>
+			</a>
+			</div>
 		
 		</div>
 		
 		<p>
-		Такие белорусские топонимы, как Волковыск, Вильча, Вильчицы, <a href="../places/wilno.php">Вильно</a>, Литва, Люта, Лютца, Лютовичи в Гродненской, Минской, Витебской 
+		Такие топонимы, как Волковыск, Вильча, Вильчицы, <a href="../places/wilno.php">Вильно</a>, <a href="../figures/kesgajla.php">Вилькомир</a>,
+		<a href="../places/vowczyn.php">Волчин</a>, Литва, Люта, Лютца, Лютовичи в Виленской, Гродненской, Минской, Витебской 
 		областях не выглядят случайными. 
 		</p>
 		
 		<p>
-		Для соседей-латышей факт миграции Полабских Славян (<a href="yotving.php">венедов</a>) на территорию современной Латвии – доказанный факт.
+		Для соседей-латышей факт миграции Полабских Славян (<a href="yotving.php">венедов</a>) на территорию современной Латвии – общепризнанный факт.
 		в XIII веке весь район по реке Венте и по морскому побережью носил название Winda (terra Winda).
 		Венды-Венеды имели два крупнейших города в Ливонии – Венден-Цесис и Виндаву-Вентспилс, крупнее этих городов намного позже стала только Рига.
 		</p>

@@ -27,7 +27,11 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Март</h3>
+    
+<!-- ***Top list 12_Months *** -->
+<? include ("../_include/top_list_dates.php"); ?>    
+
+		<h1>Март</h1>
 		
 		<div class="col-md-12">
 		<table class="table table-hover">
