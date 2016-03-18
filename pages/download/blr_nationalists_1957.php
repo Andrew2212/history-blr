@@ -31,27 +31,45 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_download.php"); ?>
  
-    <h2>Белорусскиий национализм
-	</br><small>от филоматов и краевцев до наших дней</small></h2>
+    <h1>Белорусскиий национализм
+	</br><small>от филоматов и краевцев до наших дней</small></h1>
     
-    <div class="col-md-12">
-    <p class="img-float-left">
-		<a href="../../images/img-terms/blr_mova/gum.jpg" class="highslide"
-        	onclick="return hs.expand(this)">        	
-			<img src="../../images/img-terms/blr_mova/gum_thumb.jpg" height="100"/>
-		</a>
-	</p>
-	<p class="img-float-right">
-		<a href="../../images/img-figures/kalinowski/pismy.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img alt="Кастусь (Винцент Константин) Калиновский" src="../../images/img-figures/kalinowski/pismy_thumb.jpg" height="100" >
-			</a>
-		</p>
 	
 	<p>
 	Длинный путь поиска национальной идеи на европейском перекрестке путей и народов. Через войны, унии, акты конфедераций, восстания. Через переделы государственных границ 
 	XVIII-XX веков. Поиск, ставший особенно актуальным, после присоединения к империи и не завершенный по сей день.
 	</p>
+
+`<div class="col-md-12" >
+		
+		<div class="col-md-3 img-float-center" >
+		<a href="../../images/img-terms/litwiny/litwiny_blr.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litwiny_blr_thumb.jpg" height="100" >
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center" >
+		<a href="../../images/img-terms/litwiny/litvin_blr.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_blr.jpg" height="100" >
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/blr_mova/kitab.jpg" class="highslide"
+        	onclick="return hs.expand(this)">        	
+			<img src="../../images/img-terms/blr_mova/kitab_thumb.jpg" height="100"/>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center" >
+		<a href="../../images/img-terms/blr_mova/gum.jpg" class="highslide"
+        	onclick="return hs.expand(this)">        	
+			<img src="../../images/img-terms/blr_mova/gum_thumb.jpg" height="100"/>
+		</a>
+		</div>
+		
 	</div>
     	<h3>Филоматы</h3>
     	<p class="img-float-left">

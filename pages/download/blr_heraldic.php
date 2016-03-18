@@ -65,7 +65,7 @@
 		
 		<p>
 		Впервые гербы в современном понятии возникли во времена Крестовых походов XI-XIII вв. На <a href="blr_people.php">белорусских землях</a> такие гербы появились в XIV-XV вв. 
-		По Городельской унии 1413 года бояре <a href="../terms/wkl.php">Великого княжества Литовского</a> вошли в польское шляхетское гербовое братство — "акт об адопции".
+		По <a href="../events/unia_gorodlo.php">Городельской унии</a> 1413 года бояре <a href="../terms/wkl.php">Великого княжества Литовского</a> вошли в польское шляхетское гербовое братство — "акт об адопции".
 		</p>
 		
 		<p>
@@ -165,25 +165,25 @@
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-terms/blr_gerb/rzecz_pred_razborom.jpg" class="highslide"
+		<a href="../../images/img-download/atlas_historyczny_sage/1844_herby.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/blr_gerb/rzecz_pred_razborom_thumb.jpg" height="100">
-		</br><small>Гербы воеводств Речи Посполитой</small>	
+		<img alt="гербы воеводств Реви Посполитой, гербы воеводств ВКЛ" src="../../images/img-download/atlas_historyczny_sage/1844_herby_thumb.jpg" height="100"/>
+		</br><small>Воеводства Речи Посполитой, A. Le Sage, 1799 </small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/blr_gerb/gerby_blr_ri.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/blr_gerb/gerby_blr_ri_thumb.jpg" height="120">
-		</br><small>Гербы белорусских городов и губерний в Российской империи</small>	
+		<img src="../../images/img-terms/blr_gerb/gerby_blr_ri_thumb.jpg" height="100">
+		</br><small>Гербы в Российской империи</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-download/blr_heraldic/mohilew_herb.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-download/blr_heraldic/mohilew_herb_thumb.jpg" height="120">
+		<img src="../../images/img-download/blr_heraldic/mohilew_herb_thumb.jpg" height="100">
 		</br><small>Могилевская губерния</small>	
 		</a>
 		</div>

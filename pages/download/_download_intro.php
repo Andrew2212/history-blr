@@ -9,7 +9,7 @@
 <!-- ***Meta*** -->
 	<meta name="description" content="Карты, хроники, архивные документы, академические издания по истории Беларуси и ВКЛ — в on-line режиме и доступные для скачивания" />
   	<meta name="keywords" itemprop="keywords" content="карты ВКЛ, история Беларуси, краткая история Беларуси, литовские метрики, Статут ВКЛ"/>
-	<meta property="og:image" content="http://history-belarus.by/images/img-download/map_radziwill.jpg" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-download/intro_title.jpg" />
 	
 <!-- ***Include Header*** -->
 <? include ("../_include/header_download.php"); ?>

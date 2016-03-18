@@ -20,7 +20,7 @@
       <div class="col-md-6">
        <ul>
 
-          <h3>[А - Л]</h3>
+          <h3>[А - К]</h3>
 
         <li>
           <a href="you.php">Лично ТЫ и история</a>
@@ -30,6 +30,46 @@
           <a href="aleksiewicz.php">Алексиевич Светлана</a> 
 		  </br><small>Нобелевский лауреат по литературе</small>
         </li>
+        	<ul>
+        	<h4>Белорусская Народная Респулика</h4>
+        <li>
+          <a href="bulak.php">Булак-Балахович Станислав</a>
+          </br><small>командир Белорусской Народной Армии</small>
+        </li>
+		<li>
+          <a href="vasilkovsky.php">Васильковский Олег</a>
+		  </br><small>глава дипмиссии БНР в Прибалтике</small>  
+        </li>
+        <li>
+          <a href="duz_duszewski.php">Дуж-Душевский Клавдий</a>
+		  </br><small>автор эскиза национального флага</small> 
+        </li>
+        <li>
+          <a href="kondratovich.php">Кондратович Киприан</a>
+		  </br><small>министр обороны БНР</small> 
+        </li>
+        <li>
+          <a href="lastowski.php">Ластовский Вацлав</a>
+          </br><small>Премьер-Министр БНР, академик АН БССР</small>
+        </li>
+        <li>
+          <a href="luckiewicz_anton.php">Луцкевич Антон</a>
+		  </br><small>Старшыня Рады Міністраў БНР</small> 
+        </li>
+        <li>
+          <a href="luckiewicz_ivan.php">Луцкевич Иван</a>
+		  </br><small>культуртрегер Беларуси</small>
+        </li>
+        <li>
+          <a href="lesik.php" class="item-edit">Лёсик Язеп</a>
+		  </br><small>Председатель Рады БНР, академик АН БССР</small>
+        </li>
+        <li>
+          <a href="skirmunt.php">Скирмунт Роман</a>
+		  </br><small>элита Империи и Премьер-Министр БНР</small> 
+        </li>
+        	</ul>
+        	
 		<li>
           <a href="bogdanowich.php">Богданович Максим</a>
           </br><small>один и создателей современного литературного языка, автор гимна "Погоня"</small>
@@ -38,13 +78,10 @@
           <a href="bogushewicz.php" class="item-edit">Богушевич Франтишек</a>
         </li>
         <li>
-          <a href="bulak.php">Булак-Балахович</a>
-          </br><small>главком вооруженных сил БНР, командир Белорусской Народной Армии</small>
-        </li>
-        <li>
           <a href="budny.php">Будны Сымон</a>
 		  </br><small>гуманист, просветитель, еретик, церковный реформатор</small>
         </li>
+        
         	<ul>
         	<h4>Великие князья Литовские</h4>
         <li>
@@ -99,22 +136,15 @@
           <a href="poniatowski.php">Станислав II Август</a> (1764-1795)
 		  </br><small>последний король и в. князь</small> 
         </li>
+        <li>
+          <a href="jagellony.php" >Ягеллоны</a>
+		  </br><small>девять славянских королей</small>
+        </li>
         	</ul>
-        <li>
-          <a href="vasilkovsky.php">Васильковский О. П.</a>
-		  </br><small>глава дипмиссии БНР в Прибалтике</small>  
-        </li>
-        <li>
-          <a href="volovicz.php">Воловичи</a>
-		  </br><small>— от канцлера ВКЛ до змагара 1830 г.</small>
-        </li>
+    
         <li>
           <a href="woinillovicz.php">Войниловичи</a>
-		  </br><small>шляхта тутэйшая и фундаторы расного костела в Минске</small>.
-        </li>
-        <li>
-          <a href="charadzej.php" class="item-edit">Всеслав Чародей</a>
-          </br><small></small>
+		  </br><small>шляхта тутэйшая и фундаторы Красного костела в Минске</small>.
         </li>
         <li>
           <a href="#" class="item-unable">Гениюш Лариса</a>
@@ -153,15 +183,7 @@
 		  </br><small>"вечный странник", астроном и художник</small>
         </li>
         <li>
-          <a href="duz_duszewski.php">Дуж-Душевский Клавдий</a>
-		  </br><small>автор эскиза национального флага</small> 
-        </li>
-        <li>
           <a href="dunin-marzinkewicz.php" class="item-edit">Дунин-Марцинкевич Винцент</a>
-          </br><small></small>
-        </li>
-        <li>
-          <a href="efrosinia.php" class="item-edit">Ефросиния Полоцкая</a>
           </br><small></small>
         </li>
         <li>
@@ -173,12 +195,8 @@
 		  </br><small>Jaska Haspadar s pad Wilni, национальный герой</small>
         </li>
         <li>
-          <a href="kirill_tur.php">Кирилл Туровский</a>
-		  </br><small>богослов и писатель XII в</small> 
-        </li>
-        <li>
-          <a href="kondratovich.php">Кондратович Киприан</a>
-		  </br><small>министр обороны БНР</small> 
+          <a href="#" class="item-unable">Карский Ефимий Федорович</a>
+          </br><small></small>
         </li>
         <li>
           <a href="kostiushko.php">Костюшко Тадеуш</a>
@@ -187,6 +205,10 @@
         <li>
           <a href="konenkow.php" class="item-edit">Коненков С. Т.</a>
           </br><small>скульптор</small>
+        </li>
+        <li>
+          <a href="#" class="item-unable">Копиевич Илия (Галляш)</a>
+          </br><small></small>
         </li>
         <li>
           <a href="kmicic.php">Кмитич Самуил</a>
@@ -214,24 +236,13 @@
           <a href="you.php">Лично ТЫ и история</a>
           </br><small>наши имена в хрониках — тонкая нить через столетия</small>
         </li>
-        <li>
-          <a href="lastowski.php">Ластовский Вацлав</a>
-          </br><small>Премьер-Министр БНР, академик АН БССР</small>
-        </li>
-        <li>
-          <a href="luckiewicz_anton.php">Луцкевич Антон</a>
-		  </br><small>Старшыня Рады Міністраў БНР</small> 
-        </li>
-        <li>
-          <a href="luckiewicz_ivan.php">Луцкевич Иван</a>
-		  </br><small>культуртрегер Беларуси</small>
-        </li>
-        <li>
-          <a href="lesik.php">Лёсик Язеп</a>
-		  </br><small>Председатель Рады БНР, академик АН БССР</small>
-        </li>
+        
         	<ul>
         	<h4>Магнатский род</h4>
+        <li>
+          <a href="volovicz.php">Воловичи</a>
+		  </br><small>от канцлера ВКЛ до змагара 1830 г.</small>
+        </li>
 	    <li>
           <a href="kishky.php">Кишки</a>
           </br><small>шляхта Подляшская, наследники воеводы Смоленского </small>
@@ -241,8 +252,16 @@
           </br><small>старосты Жмудские из Вилькомира на реке Святой, "границе Литвы и Жмуди"</small>
         </li>
         <li>
+          <a href="oginskie.php">Огинские</a>
+          </br><small><i>"magnacki rod ksiazecy pochodzenia ruskiego"</i></small>
+        </li>
+        <li>
+          <a href="ostrogski.php" >Острожские</a>
+		  </br><small>защитники отечества и фундаторы просвещения</small> 
+        </li>
+        <li>
           <a href="pacy.php">Пацы</a>
-          </br><small><i>"во всем мире в доброй славе, мощи и мужестве известные, народа русского дома"</i></small>
+          </br><small><i>"во всем мире в доброй славе и мужестве известные, народа руского дома"</i></small>
         </li>
         <li>
           <a href="radziwilly.php" class="item-edit">Радзивиллы</a>
@@ -253,10 +272,11 @@
           </br><small></small>
         </li>
         <li>
-          <a href="oginskie.php">Огинские</a>
-          </br><small><i>"magnacki rod ksiazecy pochodzenia ruskiego"</i></small>
+          <a href="hodkewich.php">Ходкевичи</a>
+		  </br><small>воины великого княжества</small> 
         </li>
         	</ul>
+        	
         <li>
           <a href="malewicz.php">Малевич Казимир</a>
 		  </br><small>Витебское общество УНОВИС и "Черный квадрат"</small>
@@ -304,6 +324,43 @@
           <a href="ostrogski.php" >Острожский Константин-Василий</a>
 		  </br><small>фундатор православия</small> 
         </li>
+        
+        	<ul>
+        	<h4>Полоцкое княжество</h4>
+		<li>
+          <a href="rogvolod_rogneda.php">Рогволод</a> (920-978)
+		  </br><small>первый летописный князь Полоцка, основатель династии Рогволодовичей</small>
+        </li>
+        <li>
+          <a href="rogvolod_rogneda.php">Рогнеда и Изяслав</a>
+		  </br><small>легенда о чести и смелости</small>
+        </li>
+        <li>
+          <a href="torwald.php">Торвальд Кодранссон</a> (950-1002)
+		  </br><small>креститель Полоцка (986)</small> 
+        </li>
+        <li>
+          <a href="../terms/polotsk_principality.php">Брячеслав</a>
+          </br><small>князь Полоцкий (1003-1044) и герой "Саги об Эймунде"</small>
+        </li>
+        <li>
+          <a href="charadzej.php" class="item-edit">Всеслав Чародей</a>
+          </br><small>легендарный князь (1044-1101), герой битвы на Немиге</small>
+        </li>
+        <li>
+          <a href="../terms/dwina_stouns.php" class="item-edit">Рогволод-Борис</a>
+          </br><small>князь Полоцкий (1101-1128) и Двинские камни</small>
+        </li> 
+		<li>
+          <a href="efrosinia.php" class="item-edit">Ефросиния Полоцкая</a> (1101-1167)
+          </br><small></small>
+        </li> 
+		<li>
+          <a href="kirill_tur.php">Кирилл Туровский</a> (1130-1182)
+		  </br><small>богослов и писатель</small> 
+        </li>    
+        	</ul>
+        	
         <li>
           <a href="przewalskij.php" class="item-edit">Пржевальский Н. М.</a>
 		  </br><small>путешественник и натуралист</small> 
@@ -317,14 +374,6 @@
 		  </br><small>первый исследователь древнего Вавилона</small> 
         </li>
         <li>
-          <a href="rogvolod_rogneda.php" class="item-edit">Рогволод, князь Полоцкий</a>
-		  </br><small>первый летописный князь Полоцка, основатель династии Рогволодовичей</small>
-        </li>
-        <li>
-          <a href="rogvolod_rogneda.php" class="item-edit">Рогнеда и Изяслав</a>
-		  </br><small>династия Изяславичей-Рогволодовичей</small>
-        </li>
-        <li>
           <a href="sapega.php" class="item-edit">Сапега Лев</a>
           </br><small></small>
         </li>
@@ -335,10 +384,6 @@
         <li>
           <a href="simeon.php" class="item-edit">Симеон Полоцкий</a>
           </br><small></small>
-        </li>
-        <li>
-          <a href="skirmunt.php">Скирмунт Роман</a>
-		  </br><small>элита Империи и Премьер-Министр БНР</small> 
         </li>
         <li>
           <a href="skorina.php" class="item-edit">Скорина Франциск</a>
@@ -369,16 +414,8 @@
 		  </br><small>филолог, расстрелянный за любовь к Беларуси</small> 
         </li>
         <li>
-          <a href="torwald.php">Торвальд Кодранссон</a>
-		  </br><small>креститель Полоцка</small> 
-        </li>
-        <li>
           <a href="tiapinsky.php">Тяпинский Василий</a> 
 		  </br><small>гуманист и еретик</small>
-        </li>
-		<li>
-          <a href="hodkewich.php">Ходкевичи</a>
-		  </br><small>воины великого княжества</small> 
         </li>
         <li>
           <a href="shagal.php" class="item-edit">Шагал Марк</a>
@@ -396,10 +433,7 @@
           <a href="kupala.php" class="item-edit">Янка Купала</a>
           </br><small></small>
         </li>
-		<li>
-          <a href="jagellony.php" >Ягеллоны</a>
-		  </br><small>девять славянских королей</small>
-        </li>
+		
 	   
 	   </ul>
 	   </div>

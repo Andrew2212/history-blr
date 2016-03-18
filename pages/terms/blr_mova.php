@@ -45,7 +45,7 @@
 			<p class="img-float-right">
 			<a href="../../images/img-terms/blr_mova/mova_1858.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/blr_mova/mova_1858.jpg" height="140"/>
+			<img src="../../images/img-terms/blr_mova/mova_1858.jpg" height="140" width="150"/>
 			</br><small>Этнографический сборник.
 			</br>С-Петербург, 1858 г.</small>
 			</a>
@@ -95,21 +95,67 @@
 
 		</p>
 		
+		<h2>Prehistory</h2>
+		<p>
+		Белорусский этнос сложился в XIV-XV веках, когда все <a href="../download/blr_people.php">белорусские земли</a>
+		 были собраны в единое <a href="../terms/wkl.php">Великое княжество Литовское</a>. Исследователи отмечают, что 
+		 на фоне <a href="../terms/religion_blr.php">пестрой религиозной картины</a> объединяющим факторм служила культурная и языковая общность. 
+		 </p>
+		 <p>
+		 Одним из первых упоминаний об устном использовании старобелорусского языка является <a href="../figures/kejstut.php">"клятва Кейстута"</a> — 
+		заключая мир с венгерским королём, Кейстут убил быка (рогатую скотину, rogacina) и при свидетелях прокричал 
+		 <i>"Рогацина — розни наши! Господ з нами!"</i>, что было громко повторено 
+		 <a href="../terms/litwiny.php">литвинами</a> (Lithwani). 
+		 Эти слова фонетически дословно записаны в <a href="../download/chronicles_dubnica.php">Дубницкой хронике</a> 1351.	 
+		</p>
+		
+		<div class="col-md-12" >
+	
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-terms/blr_etnos/blr_etnos15ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="О белорусской народности" src="../../images/img-terms/blr_etnos/blr_etnos15ce_thumb.jpg" height="100"/>
+			</br><small>"О белорусской народности"</small>
+		</a>				
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-download/blr_people_now/1690_Hondius_Valk_Lithvaniae.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="ВКЛ 1690 Hondius Valk Lithvaniae" src="../../images/img-download/blr_people_now/1690_Hondius_Valk_Lithvaniae_thumb.jpg" height="100">
+		</br><small>1690 Lithvaniae</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-figures/kejstut/kejstut_oath.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Рогацина — розни наши! Господ з нами! (rogachina rozne nachy gospanany)" 
+		src="../../images/img-figures/kejstut/kejstut_oath_thumb.jpg" height="100">
+		</br><small>"Клятва Кейстута", 1351</small>	
+		</a>
+		</div>
+		
+		</div>
+		
 		<p>
 			<h2>Государственный язык
 			</br><small>белорусский, польский, русский</small>
 			</h2>
 			Белорусский или старобелорусский. Не будем спорить о терминах — можно называть его литовским (от <a href="litwiny.php">литвинов</a>) 
 			или старо-<a href="../download/zemie_ruskie.php">руським</a> (старо-украинским) — это дело лингвистов. 
-			</br>Это язык, на котором говорил и писал свои законы народ <a href="../download/blr_people.php">земель белорусских</a>.
-			</br>Был государственным языком удельных княжеств (Полоцкого и др.) и государственным языком ВКЛ до <a href="../times/18_vek.php">XVIII века</a>. 
+			Это язык, на котором говорил и писал свои законы народ <a href="../download/blr_people.php">земель белорусских</a>.
+		</p>
+		<p>	
+			Он был языком <a href="../terms/polotsk_principality.php">Полоцкого княжества</a> и государственным языком ВКЛ до <a href="../times/18_vek.php">XVIII века</a>. 
 			На этом языке написан <a href="statut.php">Статут ВКЛ</a>, все <a href="../download/metrica_litwa.php">Метрики Литовские</a>, 
 			княжеские и королевские привилеи (см. <a target="_blank" href="http://niab.by/unikdocs/">Национальный исторический архив</a>)
 		</p>
 		<p>	
 			700 лет — с X века до 1696 года — государственным языком на белорусских землях был наш национальный язык. 
 			</br>[ <small>На нем говорили не только литвины-белорусы.
-			Он стал родным для тысяч татар, пришедших к Витовту с Тохтамышем — на нем писали они свои китабы.</small> ]
+			Он стал родным для тысяч татар, пришедших к Витовту с Тохтамышем: на нем писали они свои китабы 
+			— тексты на белорусском языке арабским письмом.</small> ]
 		</p>
 		<p>
 			168 лет — с 1696 по 1864 — польский и латынь. 
