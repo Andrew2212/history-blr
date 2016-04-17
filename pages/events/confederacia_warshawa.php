@@ -31,8 +31,8 @@
     <? include ("../_include/top_list_events.php"); ?>
   
 
-		<h2>Варшавская конфедерация. Генриховы артикулы
-		</br><small>акт религиозного примирения и ограничение королевской власти</small></h2>
+		<h1>Варшавская конфедерация. Генриховы артикулы
+		</br><small>акт религиозного примирения и ограничение королевской власти</small></h1>
 		
 		<p>
 		<i>
@@ -40,20 +40,26 @@
 		to prevailing conditions elsewhere in Europe; and they governed the principles of religious life in the Republic for over two hundred years".
 		</i>
 		</br><small>Norman Davies, "God's Playground"</small>
+		</p>
+		<p>
+		В 1569 году по <a href="unia_liublin.php">Люблинской унии</a> была образована <a href="../terms/rzeczpospolita.php">Речь Посполитая</a>. 
+		</br>В 1572 году умер последний <a href="../figures/jagellony.php">Ягеллон</a> — в. внязь Литовский и король Польши Сигизмунд II Август. 
+		</br>Религиозные противоречия и нерешенные вопросы наследования королевской власти породили два исторических документа. 
+		</p>
 		
-		<h3>Варшавская конфедерация</h3>
-		
-		<h4>1573 год</h4>
+		<h2>1573 Акт Варшавской конфедерации</h2>
 		
 		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-events/confederacia_warshawa/confederacia_act.jpg">
+		<a href="../../images/img-events/confederacia_warshawa/confederacia_act.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img alt="Варшавская конфедерация" src="../../images/img-events/confederacia_warshawa/confederacia_act_thumb.jpg" height="140">
 		</br><small>Акт конфедерации</small>
 		</a>		
 		</p>
 		
 		<p class="img-float-right">
-		<a target="_blank" href="../../images/img-events/confederacia_warshawa/radziwill_stamp.jpg">
+		<a href="../../images/img-events/confederacia_warshawa/radziwill_stamp.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img alt="Варшавская конфедерация" src="../../images/img-events/confederacia_warshawa/radziwill_stamp_thumb.jpg" height="140">
 		</br><small>Печать Николая 
 		</br>Радзивилла Рыжего</small>
@@ -67,8 +73,8 @@
 		 с ним прекратилась династия Ягеллонов. <a href="../terms/dukes_wkl.php">Генрих Валуа</a> будет коронован только в 1574.
 		 </p>
 		 <p>
-		Варшавская конфедерация имела целью преодолеть проблемы, которые возникли после заключения <a href="unia_liublin.php">Люблинской унии</a>, 
-		и образования <a href="../terms/rzeczpospolita.php">Речи Посполитой</a>, имевшей единого короля (а в тот момент не имевшей и его), 
+		Варшавская конфедерация имела целью преодолеть проблемы, которые возникли после заключения Люблинской унии, 
+		и образования Речи Посполитой, имевшей единого короля (а в тот момент не имевшей и его), 
 		но не имевшей общей церкви. 
 		И если в Польше доминировали католики, то <a href="../terms/religion_blr.php">религиозная палитра</a> ВКЛ была довольно пестрой. На восточных землях преобладало православные, на западных — католицизм. 
 		На севере и западе распространялись идеи Реформации. Со времен Витовта в ВКЛ проживала большая иудейская община.
@@ -144,9 +150,9 @@
 	</br>[ <small>Некрасивый и нелитературный (первые два абзаца) — от нас. Редакция</small> ]
 	</p>
 	
-	<h3></br>Генрих Валуа. Генриховы артикулы
+	<h2>Генриховы артикулы
 	</br><small>первый выборный король и его клятва</small>
-	</h3>
+	</h2>
 	<p>
 		Генрих Валуа — последний король Франции из династии Валуа, в. князь Литовский и первый выборный король Польши (с января по июнь 1574). 
 		Правление его было недолгим — узнав о возможности занять престол Франции, он отказался от династического брака с Анной Ягеллонкой и вернулся на родину. 
@@ -168,7 +174,7 @@
 		tedy obywatele Koronne oboyga narodu, od posluszenstwa y wiary Nam powinney, wolne czyniemy."</i></small> ]
 	</p>
 	<p>
-		Все епископы, кроме краковского Франциска Красинского, были против ее принятия акта конфедерации и религиозных свобод. 
+		Все епископы, кроме краковского Франциска Красинского, были против принятия акта конфедерации и религиозных свобод. 
 		 И когда католики торжествовали по случаю избрания Генриха Валуа, диссиденты,
 		в числе которых был киевский воевода Острожский (сын великого гетмана <a href="../figures/ostrogski.php">Константина Острожского</a>) с православной шляхтой,
 		 удалились с поля избрания. 
@@ -208,7 +214,6 @@
 		<p><small>
 		http://www.sedmitza.ru/lib/text/439821/</br>
 		Central Archives of Historical Records in Warsaw</br>
-		<a target="_bolank" href="http://culnhist.com/евреи-на-территории-великого-княжест/">Pages of Jewish culture and history</a></br>
 		http://belreform.org/ru/confed.php</br>
 		be-x-old.wikipedia.org</br>
 		be.wikipedia.org</br>

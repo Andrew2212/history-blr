@@ -29,25 +29,27 @@
     <? include ("../_include/top_list_events.php"); ?>
   
 
-		<h3>Битва при Кирхгольме
-		</br><small>27 сентября, 1605 года</small></h3>		
+		<h1>Битва при Кирхгольме
+		</br><small>27 сентября, 1605 года</small></h1>		
 
 		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-events/battle_kircholm/1630_livonia.jpg">
+		<a href="../../images/img-events/battle_kircholm/1630_livonia.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img src="../../images/img-events/battle_kircholm/1630_livonia_thumb.jpg" height="160">
-		</br><small>1630, Ливония (Liefland & Curland)</small>
+		</br><small>1630, Ливония </small>
 		</a>
 		</p>
 		
 		<p class="img-float-right">
-		<a href="../figures/hodkewich.php">
+		<a href="../../images/img-figures/hodkewich/duke_on_mysh.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img src="../../images/img-events/battle_kircholm/hodkiewicz.jpg" height="160">
 		</br><small>Ян Кароль Ходкевич</small>
 		</a>
 		</p>
 		
 		<p>
-		Битва при Кирхгольме (ныне Саласпилс, 18 км от Риги) - 
+		Битва при Кирхгольме (ныне Саласпилс, 18 км от Риги) — 
 		одно из крупнейших сражений <a href="war_1600.php">войны 1600-1611</a> со Швецией за Эстонию. 
 		</br>Войска ВКЛ под командованием великого гетмана Литовского 
 		<a href="../figures/hodkewich.php">Яна Кароля Ходкевича</a> сражались с втрое превосходящими 
@@ -59,7 +61,8 @@
 		Исход сражения предопределил решающий удар <a href="../terms/husaria.php">крылатых гусар</a>. 
 		</p>
 		<p>
-		Гетман Ходкевич располагал силами насчитывающими около 4500 человек: 2500 крылатых гусар, 1300 пехотинцев, татарские всадники, составлявшие авангард.
+		Гетман Ходкевич располагал силами насчитывающими около 4500 человек: 
+		2500 <a href="../terms/husaria.php">крылатых гусар</a>, 1300 пехотинцев, татарские всадники, составлявшие авангард.
 		</p>
 		<p>
 		Силы Карла IX Шведского были численно превосходящими - 12 500 человек: 11 000 пехоты (8500 копейщиков, 2500 мушкетёров), 2500 кавалеристов и 11 пушек. Шведская армия включала несколько тысяч немецких и голландских наёмников и несколько сот шотландцев.
@@ -84,33 +87,48 @@
 		
 	<div class="col-md-12">
 	
-		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-events/battle_kircholm/Kirholm_1605.jpg">
-		<img src="../../images/img-events/battle_kircholm/Kirholm_1605_thumb.jpg" height="160">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-download/map_sweden/1662_Livonia_Joan_Blaeu.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Estonia, Curlandia, Livonia" src="../../images/img-download/map_sweden/1662_Livonia_Joan_Blaeu_thumb.jpg" height="100">
+		</br><small>Livonia, Джон Блау 1662</small>
+		</a>
+		</div>
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/battle_kircholm/Kirholm_1605.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-events/battle_kircholm/Kirholm_1605_thumb.jpg" height="100">
 		</br><small>Питер Снаерс, «Битва под Кирхгольмом» (1630).</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
-		<a href="../terms/husaria.php">
-		<img src="../../images/img-events/battle_kircholm/husaria.jpg" height="160">
-		</br><small>Крылатые гусары</small>
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/husaria/mir_castle_husaria.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/husaria/mir_castle_husaria_thumb.jpg" height="100">
+		</br><small>Гусарский доспех, Мирский замок</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
-		<a href="../download/carolomachia.php">
-		<img src="../../images/img-events/battle_kircholm/karol_thumb.jpg" height="160">
-		</br><small>Поэма о Яне Ходкевиче, 1606</small>
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/zawisza/carolomachia.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Минск, Завиши" src="../../images/img-figures/zawisza/carolomachia_thumb.jpg" height="100">
+		</br><small>"Кароломахия", 1605</small>	
 		</a>
 		</div>
 		
 	</div>	
 		<p>
-		Битва при Кирхгольме стала самой выдающейся среди многих побед Ходкевича. Весть о его победе над шведами разнеслась по всей Европе. Яна Кароля письменно поздравили не только король Речи Посполитой Сигизмунд III, но и папа римский Павел V, германский император Рудольф II. английский король Яков I, даже персидский шах Аббас Великий и турецкий султан Ахмед I.
+		Битва при Кирхгольме стала самой выдающейся среди многих побед Ходкевича. Весть о его победе над шведами разнеслась по всей Европе. 
+		Яна Кароля письменно поздравили не только король Речи Посполитой Сигизмунд III, но и папа римский Павел V, германский император Рудольф II, 
+		английский король Яков I, даже персидский шах Аббас Великий и турецкий султан Ахмед I.
 		</p>
 		<p>
-		Яну Ходкевичу и битве при Кирхгольме были посвящены поэмы и живописные полотна.
+		Яну Ходкевичу и битве при Кирхгольме были посвящены поэмы и живописные полотна. 
+		Поэма <a href="../download/carolomachia.php">"Кароломахия"</a> минского воеводы <a href="../figures/zawisza.php">Христофора Завиши</a> 
+		входит в состав белорусского латинского эпоса наряду с <a href="../figures/gusowsky.php">"Песней о зубре"</a>
 		</p>
 		
 		

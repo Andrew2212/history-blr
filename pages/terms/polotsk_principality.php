@@ -135,12 +135,10 @@
 <div class="alt2">
 <div style="display: none;">
 
-		<div class="col-md-12">
-   		 <ul class="nav nav-list">
-        <!--It's just line-->
-        <li class="nav-divider"></li>
-    	</ul>
-   		 </div>
+<div class="col-md-12 top-list">
+<!--It's just line-->
+</div>
+
 <h3>
 Это интересно знать
 </h3>
@@ -165,12 +163,9 @@
 
 
 
-		<div class="col-md-12">
-   		 <ul class="nav nav-list">
-        <!--It's just line-->
-        <li class="nav-divider"></li>
-    	</ul>
-   		 </div>     
+<div class="col-md-12 top-list">
+<!--It's just line-->
+</div>    
       
 </div>
 </div>
@@ -279,7 +274,7 @@
 		
 	<div class="col-md-12">
 				
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/polotsk_principality/saga_ditrek.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/polotsk_principality/saga_ditrek_thumb.jpg" height="100">
@@ -287,7 +282,15 @@
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/polotsk_principality/about_Polotsk_duces.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/polotsk_principality/about_Polotsk_duces_thumb.jpg" height="100">
+		</br><small>Рогволодовичи vs Ярославичи</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/polotsk_principality/briaczeslaw.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Полоцкое княжество" src="../../images/img-terms/polotsk_principality/briaczeslaw_thumb.jpg" height="100">
@@ -296,7 +299,7 @@
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/polotsk_principality/Polatsk-Cathedral_of_Sophia.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Полоцкое княжество" src="../../images/img-terms/polotsk_principality/Polatsk-Cathedral_of_Sophia_thumb.jpg" height="100">
@@ -368,25 +371,41 @@
 	
 	
 		<h3>XII век</h3>
-		
+	<div class="col-md-12">
+		<p class="img-float-left">
+		<a href="../../images/img-terms/polotsk_principality/cronicle_Litowska.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/polotsk_principality/cronicle_Litowska_thumb.jpg" height="120">
+		</br><small><i>"О полоцкой свободности 
+		</br>або Венеции"</i></small>	
+		</a>
+		</p>
 		<p>
-		Век феодальной раздробленности. 
-		</br>Крещение языческих капищь и первые христианские святые — <a href="../figures/efrosinia.php">Ефросиния Полоцкая</a> 
+		Век феодальной раздробленности. Полоцкое княжество разделено
+ 		на Минское, Витебское, Друцкое, Изяславское, Логойское, Стрежевское и Городцовское.  
+		</p>
+		<p>
+		1101-1128 княжение <a href="../terms/dwina_stouns.php">Рогволода-Бориса</a> — последнее долгое княжение Полоцкого князя. 
+		В его княжение были ограничены права князя в Полоцке, усилилось городское самоуправление. 
+		Рогволод-Борис был последним князем, запомнившимся догим (27 лет) правлением.
+		К концу XII  века форму правления в Полоцком княжестве <a href="../download/chronicles.php">"Хроника Литовская и Жмойтская"</a>
+		 характеризует как <i>"свободность полоцкую або Венецию"</i>.
+		</p>
+		<p>
+			В XII веке продолжилась вражда с Ярославичами — в разгоревшейся войне сын Бориса, Рогволод-Василий вместе с другими полоцкими князьями 
+			был пленен и выслан в Византию. Через 10 лет они возвратились, но к этому времени князей в полоцких землях выбирало вече. 
+			Подробно свидетельства и причины высыки князей рассмотрены в 
+			<a target="_blank" href="../../images/img-terms/dwina_stouns/about_Polotsk_duces.pdf">работе А. В. Рукавишникова</a> (МГУ им Ломоносова). 
+		</p>
+		<p> 
+		Крещение языческих капищь и первые христианские святые — <a href="../figures/efrosinia.php">Ефросиния Полоцкая</a> 
 		и <a href="../figures/kirill_tur.php">Кирилл Туровский</a>.
 		</p>
-		<p>
-		Полоцкое княжество разделено
- 		на Минское, Витебское, Друцкое, Изяславское, Логойское, Стрежевское и Городцовское. 
-		Начались междуусобные войны на фоне непрекращавшегося противостояния с Киевом. 
-		</p>
-		<p>
-		В 1129 году князь киевский Мстислав высылает в Византию шестерых захваченных Рогволодовичей. 
-		 За время их отсутствия в Полоцке сильно возросла роль веча. Через 10 лет князья возвращаются, 
-		но с этого времени князей в Полоцке выбирало вече.
-		</p>
 	
+	</div>
+		
 		<h4>
-		Язычество и христианство. Двинские камни.
+		Язычество и христианство. 
 		</h4>
 		<p>
 		В XII на территории Беларуси христианство не было доминирующей религией, скорее было довольно локальным.
@@ -403,6 +422,9 @@
 		<p>
 		Так начинала складываться богатая <a href="../terms/religion_blr.php">палитра религий на белорусских землях</a>.
 		</p>
+		<h4>
+		1101-1128 князь Рогволод-Борис и Двинские камни.
+		</h4>
 		<p>
 		Одним из значимых культовых артефактов, оставшихся от XII века являются 
 		<a href="../terms/dwina_stouns.php">Двинские (Борисовы) камни</a> — огромные валуны с выбитыми на них христианскими символами. 
@@ -411,7 +433,7 @@
 		</p>
 		<p>
 		Двинские (Борисовы) камни связывают с именами первых князей Полоцких и Друцких, носивших по два имени (языческое и христианское) — 
-		Рогволода-Бориса (сына Всеслава "Чародея") и его сына Рогволода-Василия. С именем Рогволода-Бориса также связан город Борисов — 
+		<a href="../terms/dwina_stouns.php">Рогволода-Бориса</a> (1040-1128, сын Всеслава "Чародея") и его сына Рогволода-Василия. С именем Рогволода-Бориса также связан город Борисов — 
 		<i>"ходил он на ятвяг и, победя их, возвратясь, поставил град во свое имя..."</i>
 		</p>
 		<p>

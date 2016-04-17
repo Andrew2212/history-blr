@@ -1,4 +1,8 @@
-
+/*==========Body font style===================*/
+body {
+    font-family: Verdana,sans-serif;
+    color: #444;
+}
 /*==========Dividers===================================*/
 
 /*Divider vertical right for div*/
@@ -15,7 +19,7 @@ border-left: 1px solid #F2F2F2;
 
 /*==========Top list================================*/
 .top-list{
-border-bottom: 1px solid #888;
+border-bottom: 1px solid #666;
 margin-bottom:12px;
 padding-bottom:8px;
 }

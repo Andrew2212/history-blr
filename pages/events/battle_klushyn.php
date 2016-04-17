@@ -4,11 +4,10 @@
   <head>
     
 <!-- ***Title*** -->
-    <title>Битва при Клушине. История Беларуси</title>
+    <title>Битва при Клушине</title>
 <!-- ***Meta*** -->  
-    <meta name="description" content="Битва при Клушине. 
-	Основные события в истории Беларуси — короткие интерактивные статьи, 
-	иллюстрированные истрическими картами и архивными документами" />
+    <meta name="description" content="Решающее сражение войны с Московией 1609-1618 гг., 
+		в ходе которой войска Речи Посполитой на два года (с 1610 по 1612) заняли Московский Кремль." />
 	<meta name="keywords" itemprop="keywords" content="Битва при Клушине, 
 	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
 	<meta property="og:image" content="http://history-belarus.by/images/img-events/16_1.jpg" />
@@ -31,16 +30,18 @@
     <? include ("../_include/top_list_events.php"); ?>
   
 
-		<h3>Битва при Клушине</h3>
+		<h1>1610 Битва при Клушино</h1>
 		
 		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-events/battle_klushyn/klushyno_battle.jpg">
+		<a href="../../images/img-events/battle_klushyn/klushyno_battle.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img src="../../images/img-events/battle_klushyn/klushyno_battle_thumb.jpg" height="160">
 		</br><small>Битва при Клушино. План</small>
 		</a>
 		</p>
 		<p class="img-float-right">
-		<a target="_blank" href="../../images/img-events/battle_klushyn/klushino.jpg">
+		<a href="../../images/img-events/battle_klushyn/klushino.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img src="../../images/img-events/battle_klushyn/klushino.jpg" height="160">
 		</br><small>д. Клушино</small>
 		</a>
@@ -65,21 +66,57 @@
 		<p>
 		Битва при Клушине 4 июля 1610 года — решающее сражение <a href="war_moscow_1610.php">войны с Московией 1609-1618</a> гг., 
 		в ходе которой войска Речи Посполитой на два года (с 1610 по 1612) заняли Московский Кремль.  
-		Одно из основных событий Смутного времени.
+		Одно из основных событий Смутного времени, когда на московском троне сидел сын в. князя Литовского и короля Польши 
+		<a href="../figures/sigismund_waza.php">Сигизмунда III Ваза</a>.
 		</p>		
-
 		<p>
 		Войска <a href="../terms/rzeczpospolita.php">Речи Посполитой</a> под командованием Станислава Жолкевского в количестве около 6800 человек 
 		(5500 из которых составляли <a href="../terms/husaria.php">крылатые гусары</a>) 
 		разгромили 30000 московских и 5000 шведских войск.
+		</p>		
+		<p>
+		Русский обоз, казна, артиллерия, знамена, наконец весь личный багаж полководцев, включая саблю и воеводскую булаву Шуйского, достался войску 
+		Жолкевского. <i>«Когда мы шли в Клушино,</i> — писал Жолкевский в донесении королю,
+		 — <i>у нас была только одна моя коляска и фургоны двух наших пушек; при возвращении у нас было больше телег, чем солдат под ружьем»</i>
 		</p>
 		
-		<p class="img-float-center">
-		<a target="_blank" href="../../images/img-events/battle_klushyn/Battle_of_Klushino_1610.jpg">
-		<img src="../../images/img-events/battle_klushyn/Battle_of_Klushino_1610_thumb.jpg" height="160">
+		<div class="col-md-12">
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/war_moscow_1610/smuta.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Война с Московией 1609-1618" src="../../images/img-events/war_moscow_1610/smuta_thumb.jpg" height="100">
+		</br><small>Война 1609-1618 годов</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/blr_gerb/grodno_harugva.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/blr_gerb/grodno_harugva.jpg" height="100">
+		</br><small>Гродненская хоругва XVII в.</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/war_moscow_1610/1614_moskovia.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Война с Московией 1609-1618" src="../../images/img-events/war_moscow_1610/1614_moskovia_thumb.jpg" height="100">
+		</br><small>Карта Russiae (фрагмент), Joan Blaeu 1614</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/battle_klushyn/Battle_of_Klushino_1610.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-events/battle_klushyn/Battle_of_Klushino_1610_thumb.jpg" height="100">
 		</br><small>Битва при Клушино</small>
 		</a>
-		</p>
+		</div>
+		
+		</div>
+		
+
 				
 		<p>
 		Итоги сражения:
@@ -94,6 +131,10 @@
 		Вслед за тем в Москве был свергнут Василий Шуйский и образовано временное боярское правительство (Семибоярщина), 
 		которое присягнуло Владиславу (сыну Сигизмунда III) и впустило в Москву войско Речи Посполитой. 
 		Таким образом, победа при Клушине на некоторое время привела к ликвидации Московского государства.
+		</p>
+		
+		<p>
+		Через год, 3 июня 1611 г., после долгой осады в состав ВКЛ был возвращен Смоленск.
 		</p>
 		
 		</br></br></br>

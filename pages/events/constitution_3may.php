@@ -30,7 +30,7 @@
     <? include ("../_include/top_list_events.php"); ?>
   
 
-		<h2>Конституция 3 мая 1791 года</h2>
+		<h1>Конституция 3 мая 1791 года</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/constitution_3may/book_cover.jpg" class="highslide"
@@ -101,7 +101,7 @@
 <div class="spoil">
 
 	<div class="smallfont" style="margin-bottom:20px;">
-	<h3>Конституция 3 мая (на русском). Читать</h3>
+	<h3>Текст Конституции читать <small>(перевод на русский)</small></h3>
 	
 	<input type="button" class="btn btn-default btn-sm" value="Показать / Скрыть" class="input-button" 
 	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Свернуть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Текст спойлера'; }">

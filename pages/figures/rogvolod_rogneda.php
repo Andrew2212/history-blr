@@ -78,15 +78,10 @@
 		киевский князь Изяслав приглашал Всеслава на съезд и <i>«крест целовал: "Приди к нам, не сотворим тебе зла"»</i>. Там Всеслав был пленен, 
 		затем освобожден восставшими горожанами и киевским вече посажен на Киевское княжение.
 		</p>
-		<p>
-		От Изяслава — внука Рогволода выводило происхождение <a href="../terms/dukes_wkl.php">Гедиминовичей</a> Русское Императорское Географическое Общество в 
-		своем труде <a href="../download/kirkor.php">"Живописная Россия"</a>, 1882
-		</p>
-
 		
 	<div class="col-md-12">
 	
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-terms/religion_blr/viking expeditions.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Полоцкое княжество" src="../../images/img-terms/religion_blr/viking expeditions_thumb.jpg" height="100">
@@ -94,7 +89,7 @@
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-terms/polotsk_principality/saga_ditrek.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Рогволод, Рогнеда и Изяслав" src="../../images/img-terms/polotsk_principality/saga_ditrek_thumb.jpg" height="100">
@@ -102,7 +97,25 @@
 		</a>
 		</div>
 	
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-terms/polotsk_principality/about_Polotsk_duces.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/polotsk_principality/about_Polotsk_duces_thumb.jpg" height="100">
+		</br><small>Рогволодовичи vs Ярославичи</small>	
+		</a>
+		</div>
+		
+	</div>
+		
+		<p>
+		От Изяслава — внука Рогволода выводило происхождение <a href="../terms/dukes_wkl.php">Гедиминовичей</a> Русское Императорское Географическое Общество в 
+		своем труде <a href="../download/kirkor.php">"Живописная Россия"</a>, 1882
+		</p>
+
+		
+	<div class="col-md-12">
+
+		<div class="col-md-6 img-float-center">
 		<a href="../../images/img-figures/rogvolod_rogneda/1844_hstorie_lelevel.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Рогволод, Рогнеда и Изяслав" src="../../images/img-figures/rogvolod_rogneda/1844_hstorie_lelevel_thumb.jpg" height="100">
@@ -110,7 +123,7 @@
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-6 img-float-center">
 		<a href="../../images/img-figures/gedimin/kirkor_litwa_duces.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-figures/gedimin/kirkor_litwa_duces_thumb.jpg" height="100">
@@ -126,7 +139,12 @@
 		Рогнеда (960-1000) — дочь князя Рогволода, князя Полоцкого.
 		</p>
 		<p>
-		События, связанные с Рогнедой, изложены в "Повести временных лет". В 980 году она была объявлена невестой Ярополка Святославича, великого князя киевского. Брат Ярополка Владимир, в то время князь новгородский, 
+		События, связанные с Рогнедой, изложены в "Повести временных лет". Запись от 1128 года говорит об этой истории, как о событии, полжившем начало вражде
+		Рогволодовичеий и Ярославичей. Подробный анализ источников приведен в 
+			<a target="_blank" href="../../images/img-terms/dwina_stouns/about_Polotsk_duces.pdf">работе А. В. Рукавишникова</a> (МГУ им Ломоносова). 
+		</p>
+		<p>
+		В 980 году Рогнеда была объявлена невестой Ярополка Святославича, великого князя киевского. Брат Ярополка Владимир, в то время князь новгородский, 
 		был сильно унижен Рогнедой, так как тоже сватался к ней, однако был назван "робичичем" и получил отказ: княжна считала недопустимым выйти замуж 
 		за сына наложницы. 
 		</p>

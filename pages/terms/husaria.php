@@ -39,7 +39,7 @@
 		
 		<p class="img-float-left">
 		<a target="_blank" href="../../images/img-terms/husaria/mir_castle_husaria.jpg">
-		<img src="../../images/img-terms/husaria/mir_castle_husaria.jpg" height="160">
+		<img src="../../images/img-terms/husaria/mir_castle_husaria_thumb.jpg" height="160">
 		</br><small>Доспехи, Мирский замок</small>
 		</a>
 		</p>

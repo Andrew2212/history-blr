@@ -34,19 +34,21 @@
     <? include ("../_include/top_list_events.php"); ?>
   
 
-		<h3>Битва при Чашниках (Битва на Уле) 1564</h3>
+		<h1>Битва при Чашниках (Битва на Уле) 1564</h1>
 		
 		<p class="img-float-left">
-		<a href="../figures/radziwilly.php">
-		<img src="../../images/img-events/battle_ula/Mikalaj_Radzivil_Rudy.jpg" height="160">
+		<a href="../../images/img-events/battle_ula/Mikalaj_Radzivil_Rudy.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-events/battle_ula/Mikalaj_Radzivil_Rudy.jpg" height="140">
 		</br><small>Николай Радзивилл 
 		</br>Рыжий</small>
 		</a>
 		</p>
 		
 		<p class="img-float-right">
-		<a href="../figures/hodkewich.php">
-		<img src="../../images/img-events/battle_ula/Grzegorz_Chodkiewicz.jpg" height="160">
+		<a href="../../images/img-events/battle_ula/Grzegorz_Chodkiewicz.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-events/battle_ula/Grzegorz_Chodkiewicz.jpg" height="140">
 		</br><small>Григорий Ходкевич</small>
 		</a>
 		</p>
@@ -96,16 +98,26 @@
 		
 		<div class="col-md-12">
 		
-		<div class="col-md-6 img-float-center">
-		<a target="_blank" href="../../images/img-events/battle_ula/chashniki.jpg">
-		<img alt="Чашники на р. Уле" src="../../images/img-events/battle_ula/chashniki.jpg" height="160">
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-events/battle_ula/chashniki.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Чашники на р. Уле" src="../../images/img-events/battle_ula/chashniki.jpg" height="100">
 		</br><small>Чашники на р. Ула</small>
 		</a>
 		</div>
 		
-		<div class="col-md-6 img-float-center">
-		<a target="_blank" href="../../images/img-events/battle_ula/ulla_memory.jpg">
-		<img alt="Битва при Чашниках (Битва на Уле)" src="../../images/img-events/battle_ula/ulla_memory_thumb.jpg" height="160">
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-events/war_livonia/livon1558.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Ливонская война" src="../../images/img-events/war_livonia/livon1558_thumb.jpg" height="100">
+		</br><small>Ливонская война</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-events/battle_ula/ulla_memory.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Битва при Чашниках (Битва на Уле)" src="../../images/img-events/battle_ula/ulla_memory_thumb.jpg" height="100">
 		</br><small>Памятные камни на месте битвы</small>
 		</a>
 		</div>

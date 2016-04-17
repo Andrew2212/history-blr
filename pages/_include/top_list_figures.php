@@ -211,6 +211,10 @@
           </br><small></small>
         </li>
         <li>
+          <a href="#" class="item-unable">Кит Борис Владимирович</a>
+          </br><small><i>"беларус нумар адзін ва ўсім свеце"</i></small>
+        </li>
+        <li>
           <a href="kmicic.php">Кмитич Самуил</a>
 		  </br><small>оршанский хорунжий, герой "Трилогии"</small> 
         </li>
@@ -348,7 +352,7 @@
           </br><small>легендарный князь (1044-1101), герой битвы на Немиге</small>
         </li>
         <li>
-          <a href="../terms/dwina_stouns.php" class="item-edit">Рогволод-Борис</a>
+          <a href="../terms/dwina_stouns.php">Рогволод-Борис</a>
           </br><small>князь Полоцкий (1101-1128) и Двинские камни</small>
         </li> 
 		<li>
@@ -366,6 +370,10 @@
 		  </br><small>путешественник и натуралист</small> 
         </li>
         <li>
+          <a href="../figures/radziwill_janusz.php">Радзивилл Януш</a>
+		  </br><small>герой битв под Лоевом</small>й
+        </li>
+        <li>
           <a href="rejtan.php" class="item-edit">Рейтан Тадеуш</a>
 		  </br><small> Дон Кихот Речи Посполито</small>й
         </li>
@@ -376,6 +384,10 @@
         <li>
           <a href="sapega.php" class="item-edit">Сапега Лев</a>
           </br><small></small>
+        </li>
+        <li>
+          <a href="szydlowski_mirskie.php">Святополк-Мирские</a>
+		  </br><small>последние хозяева Мирского замка</small>
         </li>
         <li>
           <a href="simienowicz.php" >Семенович Казимир</a>
@@ -424,6 +436,10 @@
         <li>
           <a href="#" class="item-unable">Шостакович Д. Д.</a>
 		  </br><small>композитор</small>
+        </li>
+        <li>
+          <a href="szydlowski_mirskie.php">Шидловский Сымон Визунас</a>
+		  </br><small>легендарный хорунжий Витебский</small>
         </li>
         <li>
           <a href="fedorow.php" class="item-edit">Федоров Иван</a>

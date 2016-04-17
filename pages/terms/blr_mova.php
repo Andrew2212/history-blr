@@ -404,6 +404,18 @@
 		</br><small>Ангела Эспіноса Руіз. 
 		Распавед пра свой зборнік вершаў “Раяль ля мора”</small>
 		</p>
+		
+		<h2>Мова для школьников</h2>
+		<p>
+		Короткий (9 страниц А4) реферат с иллюстрациями для школьников по материалам страницы. 
+		Формат PDF, текст легко и без проблем с кодировкой переносится в Ворд для правки и переделки под свои нужды.
+		Иллюстрации при печати на А4 хорошо читаемы.
+		</p>
+		<p>
+			Файл PDF, 1,2 Мб</br>
+			<a target="_blank" href="../../images/img-terms/blr_mova/Belaruskaja_mova.pdf" class="btn btn-info img-float-centr"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+		</p>
 								
 		<h2>Белорусская теонимическая лексика 
 		</br><small>на филологическом портале <a target="_blank" href="http://www.philology.ru/linguistics3/musorin-06.htm">Philology.ru</a></small>
@@ -417,12 +429,20 @@
 		что, в свою очередь, нашло отражение и в белорусской теонимии."
 		</i>
 		</p>
+		
+		<h2>Пра беларускія лаянку і паўторамоўе
+		</br><small>ад Уладзіслава Іванова, выкладчыка сацыелінгвістыкі ЕГУ</small>
+		</h2>
+		<p>
+		Уладзіслаў выбраў не самую простую галіну лінгвістыкі для вывучэння: лаянку беларускай мовы. 
+		І мэта ягоная гэткая ж нялёгкая як і справы ў беларускай лінгвістыцы: пераканаць беларусаў — ад паэтаў і выкладчыкаў 
+		да звычайных гараджанаў — што цэнзураваць сябе ў штодзённым жыцці не варта. І што разнастайнасць і плюралізм — гэта добра.
+		</br><a target="_blank" href="http://generation.by/news7131.html">Read more...</a>
+		</p>
 
 	
 		</br></br></br>
 		<p><small>
-		http://biofile.ru/his/27498.html</br>
-		http://www.gistoryja.ru/vtoraya-polovina-XVI-konec-XVIII-v/33-kontrreformacija-v-belarusi.php</br>
 		be-x-old.wikipedia.org</br>
 		be.wikipedia.org</br>
 		pl.wikipedia.org</br>

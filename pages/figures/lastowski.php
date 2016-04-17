@@ -12,7 +12,7 @@
 	" />
   	<meta name="keywords" itemprop="keywords" content="Вацлав Ластовский, Ластовский, краткая история беларуси ластовский, краткая история беларуси,
 	  история беларуси, история белоруссии, история беларуси кратко в датах, известные люди беларуси, знаменитые люди беларуси"/>
-	<meta property="og:image" content="http://history-belarus.by/images/img-figures/lastowski/museum.jpg" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-figures/lastowski/title.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_figures.php"); ?>
@@ -31,18 +31,21 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Вацлав Ластовский</h3>
+		<h1>Вацлав Ластовский
+		</br><small>Премьер-Министр, академик, директор Исторического музея</small></h1>
 		
 		<p class="img-float-left">
-			<a target="_blank" href="../../images/img-figures/lastowski/lastowski.jpg">
-			<img alt="Вацлав Ластовский" src="../../images/img-figures/lastowski/lastowski.jpg" height="180" >
+			<a href="../../images/img-figures/lastowski/lastowski.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Вацлав Ластовский" src="../../images/img-figures/lastowski/lastowski.jpg" height="140" >
 			</a>
 		</p>
 		
 		<p class="img-float-right">
-			<a target="_blank" href="../../images/img-figures/lastowski/museum.jpg">
-			<img alt="Вацлав Ластовский" src="../../images/img-figures/lastowski/museum_thumb.jpg" height="180" >
-			</br><small>Национальный Исторический музей</small>
+			<a href="../../images/img-figures/lastowski/museum.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Вацлав Ластовский" src="../../images/img-figures/lastowski/museum_thumb.jpg" height="140" >
+			</br><small>Исторический музей РБ</small>
 			</a>
 		</p>
 		
@@ -83,6 +86,35 @@
 		<p>
 		В. Ластовский выступал против советской власти и польской оккупации за независимую и целостную <a href="../terms/belarus.php">Беларусь</a>.
 		</p>
+		
+		<div class="col-md-12 img-float-center" >
+
+			<div class=" col-md-4 ">
+			<a href="../../images/img-terms/bnr/BNR_Third_charter.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/BNR_Third_charter_thumb.jpg" height="100">
+			</br><small>Уставная Грамота Рады БНР </small>
+			</a>
+			</div>
+			
+			<div class="col-md-4 ">
+			<a href="../../images/img-terms/bnr/map_bnr.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/map_bnr_thumb.jpg" height="100">
+			</br><small>Карта БНР </small>
+			</a>
+			</div>
+			
+			<div class="col-md-4 ">
+			<a href="../../images/img-terms/bnr/postcard_bnr.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/postcard_bnr_thumb.jpg" height="100">
+			</br><small>Почтовая открытка с гербом БНР </small>
+			</a>
+			</div>
+
+		</div>
+		
 		<p>
 		У 1916 — Ластоўскi адзін з аўтараў "Мемарандума прадстаўнікоў Беларусі", у якім адстойваў права беларускага народа на нацыянальна-дзяржаўнае развіццё 
 		і які быў прадстаўлены на міжнароднай канферэнцыі ў Лазане (Швейцарыя).
@@ -97,24 +129,35 @@
 		</p>
 		
 		<div class="col-md-12">	
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/lastowski/INBELKULT.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Вацлав Ластовский" src="../../images/img-figures/lastowski/INBELKULT_thumb.jpg" height="100">
+		</br><small>ИнБелКульт</small>
+		</a>
+		</div>
 	
-		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-figures/lastowski/vlast.jpg">
-		<img alt="Вацлав Ластовский" src="../../images/img-figures/lastowski/vlast.jpg" height="140">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/lastowski/vlast.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Вацлав Ластовский" src="../../images/img-figures/lastowski/vlast_thumb.jpg" height="100">
 		</br><small>Мемориальная доска, Вильно</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-figures/lastowski/blr_history.jpg">
-		<img alt="Вацлав Ластовский" src="../../images/img-figures/lastowski/blr_history.jpg" height="140">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/lastowski/blr_history.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Вацлав Ластовский" src="../../images/img-figures/lastowski/blr_history_thumb.jpg" height="100">
 		</br><small>"Кароткая гісторыя Беларусі"</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-figures/lastowski/blr_book.jpg">
-		<img alt="Вацлав Ластовский" src="../../images/img-figures/lastowski/blr_book.jpg" height="140">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/lastowski/blr_book.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Вацлав Ластовский" src="../../images/img-figures/lastowski/blr_book_thumb.jpg" height="100">
 		</br><small>"Гiсторыя беларускай (крыўскай) кнiгi"</small>
 		</a>
 		</div>

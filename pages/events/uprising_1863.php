@@ -205,18 +205,51 @@
 		</div>
 		
 		<p>
-		Государственный Архив РБ. 
-		</br>Алфавитный список лиц, осужденных за участие в восстании 1863-1864 гг. — Адамович, Борткевич, Балахович, Волович... — список 
+		В Государственном Архиве РБ сохранился 
+		<i><a target="_blank" href="http://archives.gov.by/index.php?id=166384">"Алфавитный список лиц</a>, осужденных за участие в восстании 1863-1864 гг."</i> 
+		— Адамович, Борткевич, Балахович, Волович... — список 
 		<a href="../articles/blr_family_names.php">белорусских фамилий</a>, в котором каждый найдет знакомую.
 		</p>
-		
-		<p class="img-float-center">
-		<a target="_blank" href="http://archives.gov.by/index.php?id=166384">
-		<img src="../../images/img-download/spis_1863/spis_1863.jpg"height="180" />
-		</br><small>Список осужденных смотреть</small>
-		</a>
+		<p>
+		Собирательным образом повстанца стал портрет Витебского хорунжего <a href="../figures/szydlowski_mirskie.php">Сымона Шидловского</a>
+		— шляхтич и блестящий офицер в крестьянской сермяге с хоругвой Витебской — как символ соединения традиций простого народа и аристократии.
 		</p>
 		
+	<div class="col-md-12">	
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-download/spis_1863/spis_1863.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-download/spis_1863/spis_1863_thumb.jpg"height="100" />
+		</br><small>"Алфавитный список лиц" стр. 1</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/szydlowski_mirskie/symon_szydlowski.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Сымон Шидловский и Святополк-Мирские" src="../../images/img-figures/szydlowski_mirskie/symon_szydlowski_thumb.jpg" height="100" >
+		</br><small>Сымон Визунас Шидловский</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/rzeczpospolita_treh_narodov/1569-1869.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Речь Посполитая Трех Народов" src="../../images/img-terms/rzeczpospolita_treh_narodov/1569-1869_thumb.jpg" height="100">
+		</br><small>"Wolni z wolnymi"</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/szydlowski_mirskie/horugva_1863.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Сымон Шидловский и Святополк-Мирские" src="../../images/img-figures/szydlowski_mirskie/horugva_1863_thumb.jpg" height="100" >
+		</br><small>Хоругва 1863</small>
+		</a>
+		</div>
+		
+	</div>	
 		
 		
 		<p>
@@ -226,7 +259,7 @@
 		<p>
 		<h4>PS</h4>
 		Вообще, забавно трактуется история. Мятеж русского дворянства — Восстание декабристов — длился один день в одном городе. И стал "героической страницей". Восстание 
-		шляхты — длилось год и охватило все земли Речи Посполитой — ну... как-то так. Не на слуху как-то. 
+		шляхты — длилось год и охватило все земли и социальные слои Речи Посполитой — ну... как-то так. Не на слуху как-то. 
 		</p>
 		
 		<p class="img-float-center">

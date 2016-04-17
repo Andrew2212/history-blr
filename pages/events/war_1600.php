@@ -28,8 +28,8 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
 
-		<h3>Война 1600-1611 со Швецией 
-		</br><small>за Эстонские земли</small></h3>
+		<h1>Война 1600-1611 со Швецией 
+		</br><small>за Эстонские земли</small></h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/war_1600/Zygmunt_III_Waza.jpg" class="highslide"

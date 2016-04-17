@@ -54,7 +54,7 @@
           <a href="blr_mova.php">Национальный язык</a>
         </li>
 		<li>
-          <a href="religion_blr.php">Религия на белорусских землях</a>
+          <a href="religion_blr.php">Религия Беларуси</a>
         </li>	
         	
 		  </ul>
@@ -62,31 +62,31 @@
 			<ul>
         	<h4>Белорусская государственность</h4>
         <li>
-          <a href="polotsk_principality.php">Полоцкое княжество</a> X-XIV вв
+          X - XIV вв <a href="polotsk_principality.php">Полоцкое княжество</a> 
         </li>
         <li>
-          <a href="turow_principality.php" class="item-edit">Туровское княжество</a> X-XIV вв
+         1240 - 1795 <a href="wkl.php">Великое княжество Литовское</a> 
         </li>
         <li>
-          <a href="wkl.php">Великое княжество Литовское</a> 1240-1795
-        </li>
-        <li>
-          <a href="rzeczpospolita.php" class="item-edit">Речь Посполитая</a> 1569-1795
+          1569 - 1795 <a href="rzeczpospolita.php" class="item-edit">Речь Посполитая</a> 
         </li>
 		<li>
-          <a href="rzeczpospolita_treh_narodov.php">Речь Посполитая Трех Народов</a> 1658
+          1658 <a href="rzeczpospolita_treh_narodov.php">Речь Посполитая Трех Народов</a> 
         </li>
         <li>
-          <a href="sewero_zapadny_kraj.php">Северо-Западный край</a> 1795-1917
+          1795 - 1917 <a href="sewero_zapadny_kraj.php">Северо-Западный край</a> 
         </li>
 		<li>
-          <a href="bnr.php">БНР</a> 1918-1919
-        </li>
-		<li>
-          <a href="bssr.php" class="item-edit">БССР</a> 1919-1991
+         1918 - 1919 <a href="bnr.php">БНР</a> 
         </li>
         <li>
-          <a href="#" class="item-unable">Республика Беларусь</a> 1991-н.в.
+          1919 - 1920 <a href="lit_bel.php" class="item-edit">ССРБ, ЛитБел и Срединная Литва</a>
+        </li>
+		<li>
+         1920 - 1991 <a href="bssr.php" class="item-edit">БССР</a> 
+        </li>
+        <li>
+         1991 - н.в. <a href="rb.php" class="item-edit">Республика Беларусь</a> 
         </li>
         	</ul>
         	
@@ -132,7 +132,7 @@
           <a href="gudai.php">Гуды и Белая Русь</a>
         </li>
         <li>
-          <a href="dwina_stouns.php" class="item-edit">Двинские (Борисовы) камни</a>
+          <a href="dwina_stouns.php">Двинские (Борисовы) камни</a>
         </li>
         <li>
           <a href="tur_evangelie.php" class="item-edit">Евангелие туровское, XI век</a>
@@ -202,6 +202,10 @@
         <li>
           <a href="../terms/kraj_tut.php">Тутэйшая краёвасьць</a>
 		  </br><small>истоки белорусского национализма</small>
+        </li>
+        <li>
+          <a href="turow_principality.php" class="item-edit">Туровское княжество</a> 
+		  </br><small></small>
         </li>
         <li>
           <a href="black_day.php">Черный день 1937</a>

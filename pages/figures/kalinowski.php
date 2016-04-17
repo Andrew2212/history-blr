@@ -136,12 +136,12 @@
 			</a>
 		</p>
 		
-		<p class="img-float-right">
-		<a href="../../images/img-events/uprising_1863/insurgents.jpg" class="highslide"
+		<p class="img-float-right">		
+		<a href="../../images/img-figures/kalinowski/dead_place.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Кастусь (Винцент Константин) Калиновский" src="../../images/img-events/uprising_1863/insurgents_thumb.jpg" height="140" />
-		</br><small>Повстанцы</small>
-		</a>
+			<img alt="Восстание 1863-1864 года (Восстание Калиновского)" src="../../images/img-figures/kalinowski/dead_place_thumb.jpg" height="140" >
+			</br><small>Место казни, Вильня</small>
+			</a>
 		</p>
 		
 		<i>
@@ -165,19 +165,66 @@
 			Твой слуга народзе
 			</br>Яська-гаспадар з-пад Вільні
 		</p>
-		</i>
+		</i>		
 		
-		<p class="img-float-center">
-		<a href="../../images/img-figures/kalinowski/dead_place.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img alt="Восстание 1863-1864 года (Восстание Калиновского)" src="../../images/img-figures/kalinowski/dead_place_thumb.jpg" height="140" >
-			</br><small>Место казни К. Калиновского. Вильно</small>
-			</a>
+		<p>
+		В Государственном Архиве РБ сохранился 
+		<i><a target="_blank" href="http://archives.gov.by/index.php?id=166384">"Алфавитный список лиц</a>, осужденных за участие в восстании 1863-1864 гг."</i> 
+		— Адамович, Борткевич, Балахович, Волович... — список 
+		<a href="../articles/blr_family_names.php">белорусских фамилий</a>, в котором каждый найдет знакомую.
 		</p>
+		<p>
+		Собирательным образом инсургента 1863 года стал портрет Витебского хорунжего <a href="../figures/szydlowski_mirskie.php">Сымона Шидловского</a>
+		— шляхтич и блестящий офицер в крестьянской сермяге с хоругвой Витебской — как символ соединения традиций простого народа и аристократии.
+		</p>
+		
+	<div class="col-md-12">	
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-download/spis_1863/spis_1863.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-download/spis_1863/spis_1863_thumb.jpg"height="100" />
+		</br><small>"Алфавитный список лиц" стр. 1</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/szydlowski_mirskie/symon_szydlowski.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Сымон Шидловский и Святополк-Мирские" src="../../images/img-figures/szydlowski_mirskie/symon_szydlowski_thumb.jpg" height="100" >
+		</br><small>Сымон Визунас Шидловский</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/rzeczpospolita_treh_narodov/1569-1869.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Речь Посполитая Трех Народов" src="../../images/img-terms/rzeczpospolita_treh_narodov/1569-1869_thumb.jpg" height="100">
+		</br><small>"Wolni z wolnymi"</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/uprising_1863/insurgents.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Кастусь (Винцент Константин) Калиновский" src="../../images/img-events/uprising_1863/insurgents_thumb.jpg" height="100" />
+		</br><small>Инсургенты 1863</small>
+		</a>
+		</div>
+		
+	</div>
 		
 		<p>
 		В статье использованы материалы из <a target="_blank" href="http://archives.gov.by/index.php?id=552774">Государственного Архива</a> 
 		Ресублики Беларусь.
+		</p>
+		<p>[ <small>
+		В праве XIX века инсургенция понималась как восстание, носящее выраженный политический характер, 
+		и в этом смысле противопоставлялась восстанию (в более ранней терминологии возмущению) в узко-юридическом смысле, 
+		понимаемом как сопротивление власти, не преследующее цели её ниспровержения, и отчасти сближалась с понятием бунта. 
+		Инсургенты считались политическими (не уголовными) преступниками, более того, уже тогда признавалось, 
+		что они могут быть признаны воюющей стороной и пользоваться покровительством законов войны.
+		</small> ]
 		</p>
 		
 		</br></br></br>

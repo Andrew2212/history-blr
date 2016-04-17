@@ -40,10 +40,10 @@
 		</a>
 		</p>
 		<p class="img-float-right">
-		<a href="../../images/img-terms/blr_gerb/1697_polska.jpg" class="highslide"
+		<a href="../../images/img-terms/blr_gerb/1645_POGONIA_Orbis Polonus.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/blr_gerb/1697_polska_thumb.jpg" height="140"/>
-		</br><small>Погоня на карте ВКЛ</small>
+		<img src="../../images/img-terms/blr_gerb/1645_POGONIA_Orbis Polonus_thumb.jpg" height="140"/>
+		</br><small>Погоня (POGONIA)</small>
 		</a>
 		</p>
 		<p>
@@ -165,7 +165,7 @@
 		<a href="../../images/img-terms/blr_gerb/grodno_harugva.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/blr_gerb/grodno_harugva.jpg" height="100">
-		</br><small>Гродненская хоругва XVI-XVII вв.</small>	
+		</br><small>Гродненская хоругва XVII в.</small>	
 		</a>
 		</div>
 		

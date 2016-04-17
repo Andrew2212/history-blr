@@ -68,6 +68,10 @@
           <a href="../events/battle_liahowiczy.php">Ляховичи</a> — несокрушенный бастион
         </li>
         <li>
+          <a href="../figures/szydlowski_mirskie.php">Мир и Мирский замок</a>
+		  </br><small>наследие Радзивиллов</small>
+        </li>
+        <li>
           <a href="#" class="item-unable">Могилев</a>
         </li>
         <li>

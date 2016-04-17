@@ -33,12 +33,15 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Олег Петрович Васильковский
+		<h1>Олег Петрович Васильковский
 		 </br><small>глава дипмиссии БНР в Прибалтике</small>
-		</h3>
+		</h1>
 		
 		<p class="img-float-left">
-			<img src="../../images/img-figures/vasilkovsky/Oleg_Petrovich_Vasilkovskiy.jpg" height="180" >
+		<a href="../../images/img-terms/bnr/Oleg_Petrovich_Vasilkovskiy.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Олег Петрович Васильковский" src="../../images/img-terms/bnr/Oleg_Petrovich_Vasilkovskiy_thumb.jpg" height="140" >
+		</a>
 		</p>
 		<p>
 			Родился 28 октября 1879 в Витебской губернии. В 1901 окончил Николаевское кавалерийское училище с отличием в чине хорунжего. 
@@ -58,9 +61,13 @@
 		25 июня 1920 г. Васильковский получает официальные полномочия военно-дипломатического представителя БНР при правительстве Финляндии. 
 		Олег Васильковский вёл переговоры с лидерами Антанты о признании независимости БНР.
 		</p>
-		<p class="img-float-center">
-			<img src="../../images/img-figures/vasilkovsky/bnr_mission.jpg" height="200"/>
-		</p>
+		<div class="col-md-12 img-float-center">
+		<a href="../../images/img-terms/bnr/bnr_mission.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Олег Петрович Васильковский" src="../../images/img-terms/bnr/bnr_mission_thumb.jpg" height="100" >
+		</br><small>Вайскова- Дыплёматычная мисыя БНР</small>
+		</a>
+		</div>
 		<p>
 		После Гражданской войны частвовал в создании Союза русских увечных воинов-эмигрантов в Эстонии. 
 		Также в 1930 при поддержке Васильковского был организован 
@@ -73,13 +80,13 @@
 		
 		</br></br></br>
 		<p><small>
-		<a href="https://www.facebook.com/radabnr">Рада Б.Н.Р.</a></br>
+		<a target="_blank" href="https://www.facebook.com/radabnr">Рада Б.Н.Р.</a></br>
 		be-x-old.wikipedia.org</br>
 		be.wikipedia.org</br>
 		pl.wikipedia.org</br>
 		uk.wikipedia.org</br>
 		ru.wikipedia.org</br>
-		inbelhist.org/?p=4737
+		
 		</small></p>
 	</div>
 	

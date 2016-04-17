@@ -60,14 +60,47 @@
 		Наконец Всеслав Полоцкий начал атаку, и много воинов пало с обеих сторон.
 		</p>
 		<p>
-		В описании этой битвы встречаем первое летописное упоминание Минска.
-		</br><small>[ Так же там впервые упомянуты Дудутки: "Всеслав... с Дудуток пустился как волк до Немиги" ]</small>
+		В описании этой битвы встречаем первое летописное упоминание Минска и Немиги.
+		Так же там впервые упомянуты Дудутки: <i>"Всеслав... с Дудуток пустился как волк до Немиги" </i>
 		</p>
+		
+		<p>
+		<i>"В вековой распре Ярославичей и Изяславичей есть что-то расовое"</i> — отмечал Веселовский (историк литературы, профессор Петербургского университета, академик). 
+		</p>
+		
+	<div class="col-md-12">
+	
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/_img-index/blr_10ce_country_variag_way.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Полоцкое княжество" src="../../images/_img-index/blr_10ce_country_variag_way_thumb.jpg" height="100">
+		</br><small>Полоцкое княжество X-XI вв</small>
+		</a>
+		</div>
+				
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-terms/polotsk_principality/saga_ditrek.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/polotsk_principality/saga_ditrek_thumb.jpg" height="100">
+		</br><small>А. Н. Веселовский о Полоцке</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-terms/polotsk_principality/about_Polotsk_duces.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/polotsk_principality/about_Polotsk_duces_thumb.jpg" height="100">
+		</br><small>Рогволодовичи vs Ярославичи</small>	
+		</a>
+		</div>
+		
+	</div>
+		
 		<p>
 		По итогам битвы Всеслав Чародей был приглашен на переговоры, пленен, освобожден киевским вече и избран киевским князем.
 		</p>
 		<p>
-		Про результаты этой битвы Полоцкая (погибла при пожаре Москвы в 1812 году) и Киевская летописи рассказывают по-разному. 
+		Про результаты этой битвы Полоцкая (считается утраченной) и Киевская летописи рассказывают по-разному. 
 		Так, Киевская летопись говорит о поражении Всеслава и его бегстве, тогда как Полоцкая предлагала другую версию: 
 		о больших потерях с обеих сторон и отступлении Ярославовичей, которые спустя несколько месяцев встретились с Всеславом и просили о мире.
 		</p>
