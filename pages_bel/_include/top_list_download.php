@@ -40,6 +40,9 @@
           <a href="shafarik.php">"Славянские древности"</a>, П. Й. Шафарик 1847
         </li>
         <li>
+          <a href="all_peoples_RI.php">"Описание всех народов России"</a> — первое сводное этнографическое описание, Императорская АН, 1799
+        </li>
+        <li>
           <a href="spis_1863.php">Список осужденных участников восстания 1863 года</a> Государственный архив Республики Беларусь
         </li>
         <li>
@@ -69,6 +72,9 @@
         </li>
         <li>
           <a href="chronicles_dubnica.php">Дубницкая хроника</a> XIV-XV вв
+        </li>
+        <li>
+          <a href="atlas_historyczny_sage.php">"Atlas Historyczny"</a>, A. le Sage 1844
         </li>
         <li>
           <a href="../events/uprising_1794.php">"Восстание и война 1794 года в Литовской провинции"</a> документы из архивов Москвы и Минска
@@ -101,6 +107,9 @@
         </li>
         <li>
           <a href="wkl_equal_etno.php">Этнографическая карта белорусов на карте ВКЛ</a>
+        </li>
+        <li>
+          <a href="west_russland.php">"Volker-Verteilung in West-Russland"</a>, 1916 — распределение народов в Северо-Западном крае
         </li>
         <li>
           <a href="map_ptolemy.php">Карты Птолемея</a> — от 150 г. н.э. до XV века. Сарматия

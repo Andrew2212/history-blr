@@ -83,7 +83,7 @@
           </li>
           
           <li>
-            <a href="../../mova.html">
+            <a href="../../pages_bel/events/_events_intro.php">
 			<img src="../../img/lang.png" >
 			</a>
           </li>

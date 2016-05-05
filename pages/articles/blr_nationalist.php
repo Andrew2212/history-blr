@@ -35,6 +35,15 @@
 		Стась Карпов. Читать <a target="_blank" href="http://nn.by/?c=ar&i=125014&lang=ru">в оригинале</a>
 		
 		<h2>А хто там і дзе?</h2>
+
+		<p class="img-float-left">
+		<a href="../../images/img-articles/blr_nationalist/nazionalist.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-articles/blr_nationalist/nazionalist_thumb.jpg" height="140">
+		</a>
+		</p>
+
+
 <p>
 Где-то год тому назад у нас с Юрием Зиссером состоялась небольшая дискуссия на тему национализма. Ну такая, дидактическая: что такое хорошо и что такое плохо. Важность этого разговора для меня была в том, что на момент нашей встречи я и забыл, что базовые понятия, которые якобы и не требуют обсуждения, также следует уметь доказывать или хотя бы связно излагать.
 </p>

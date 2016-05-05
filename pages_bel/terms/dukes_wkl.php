@@ -60,14 +60,16 @@
 			</div>
 			
 			<div class="col-md-3 img-float-center">
-			<a target="_blank" href="../../images/img-figures/mindowg/rex_prussiae.jpg">
+			<a href="../../images/img-figures/mindowg/rex_prussiae.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 			<img src="../../images/img-figures/mindowg/rex_prussiae_thumb.jpg" height="120" >
 			</br><small>Король пруссов и литвинов</small>
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
-			<a target="_blank" href="../../images/img-figures/mindowg/1 - Utvar_VKL.jpg">
+			<a href="../../images/img-figures/mindowg/1 - Utvar_VKL.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 			<img src="../../images/img-figures/mindowg/1 - Utvar_VKL_thumb.jpg" height="120"/>
 			</br><small>Границы ВКЛ XIII в</small>
 			</a>
@@ -121,14 +123,16 @@
         	</div>
         	
         	<div class="col-md-3 img-float-center">
-			<a target="_blank" href="../../images/img-figures/gedimin/kirkor_litwa_duces.jpg">
+			<a href="../../images/img-figures/gedimin/kirkor_litwa_duces.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 			<img src="../../images/img-figures/gedimin/kirkor_litwa_duces_thumb.jpg" height="120">
 			</br><small>Генеалогия Гедыминовичей</small>
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
-			<a target="_blank" href="../../images/img-figures/gedimin/wkl_13-14ce.jpg">
+			<a href="../../images/img-figures/gedimin/wkl_13-14ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 			<img src="../../images/img-figures/gedimin/wkl_13-14ce_thumb.jpg" height="120">
 			</br><small>Границы ВКЛ XIV-XV в</small> 	
 			</a>
@@ -176,14 +180,16 @@
         	</div>
         	
         	<div class="col-md-3 img-float-center">
-			<a target="_blank" href="../../images/img-events/unia_liublin/rp_16_vek.jpg">
+			<a href="../../images/img-events/unia_liublin/rp_16_vek.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 			<img src="../../images/img-events/unia_liublin/rp_16_vek_thumb.jpg" height="120">
 			</br><small>ВКЛ, Люблинская уния 1569</small>
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
-			<a target="_blank" href="../../images/img-figures/jagellony/Jagiellony_15ce.jpg">
+			<a href="../../images/img-figures/jagellony/Jagiellony_15ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 			<img src="../../images/img-figures/jagellony/Jagiellony_15ce_thumb.jpg" height="120">
 			</br><small>Династия Ягеллонов</small> 	
 			</a>

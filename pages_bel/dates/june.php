@@ -1,16 +1,16 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="be">
   <head>
     
       <!-- ***Title*** -->
-    <title>Июнь. Календарь Беларуси</title>
+    <title>Чэрвень. Каляндар Беларусі</title>
 
 <!-- ***Meta*** -->  
-    <meta name="description" content="Июнь. Национальные праздники и 
-	даты знаменательных событий — битвы, унии, дни рождения выдающихся людей. История страны дает повод прикоснуться к национальной памяти" />
-    <meta name="keywords" itemprop="keywords" content="история беларуси, основные даты в истории Беларуси, важные даты в истории Беларуси, даты истории Беларуси, 
-	праздники Беларуси, краткая история беларуси в датах, важные даты истории Беларуси, история Беларуси кратко" />
+    <meta name="description" content="Чэрвень. Нацыянальныя святы і 
+	даты знамянальных падзей - бітвы, уніі, дні народзінаў выбітных людзей. Гісторыя краіны дае нагоду дакрануцца да нацыянальнай памяці" />
+    <meta name="keywords" itemprop="keywords" content="гісторыя Беларусі, асноўныя даты ў гісторыі Беларусі, важныя даты ў гісторыі Беларусі, даты гісторыі Беларусі, 
+	святы Беларусі, кароткая гісторыя Беларусі ў датах, важныя даты гісторыі Беларусі, гісторыя Беларусі коратка" />
 	<meta property="og:image" content="http://history-belarus.by/images/img-dates/title.jpg" />
 
 <!-- ***Include Header*** -->
@@ -26,14 +26,18 @@
 	
     <!-- ***Page Content*** -->
     <div class="col-md-8">
-		<h3>Июнь</h3>
+    
+<!-- ***Top list 12_Months *** -->
+<? include ("../_include/top_list_dates.php"); ?>    
+
+		<h1>Чэрвень</h1>
 		
 		<div class="col-md-12">
 		<table class="table table-hover">
 			<thead>
 				<tr>
 					<th>Дата</th>
-					<th>Событие</th>
+					<th>Падзея</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -42,7 +46,7 @@
 					<td>5</td>
 					<td>
 						<ul>
-							<li>День памяти <a href="../figures/efrosinia.php">св. Ефросинии Полоцкой</a> — покровительницы просвещения</li>
+							<li>Дзень памяці <a href="../figures/efrosinia.php">святой Ефрасінні Полацкай</a> — апякункі асветніцтва</li>
 						</ul>
 					</td>
 				</tr>
@@ -51,7 +55,7 @@
 					<td>9</td>
 					<td>
 						<ul>
-							<li>1881 Родился <a href="../figures/luckiewicz_ivan.php">Иван Луцкевич</a> — культуртрегер Беларуси</li>
+							<li>1881 Нарадзіўся <a href="../figures/luckiewicz_ivan.php">Іван Луцкевіч</a> — культуртрэгер Беларусі</li>
 						</ul>
 					</td>
 				</tr>
@@ -60,7 +64,7 @@
 					<td>12</td>
 					<td>
 						<ul>
-							<li>1881 Родился <a href="../figures/skosyrew.php">Скосырев Борис</a> — король Андорры из <a href="../places/wilno.php">Вильно</a></li>
+							<li>1881 Нарадзіўся <a href="../figures/skosyrew.php">Скосыраў Барыс</a> — кароль Андоры з<a href="../places/wilno.php">Вільні</a></li>
 						</ul>
 					</td>
 				</tr>
@@ -69,7 +73,7 @@
 					<td>18</td>
 					<td>
 						<ul>
-							<li>1806 Родился <a href="../figures/volovicz.php">Михаил Волович</a> — участник восстания 1830 г., наследник составителя Статута ВКЛ</li>
+							<li>1806 Нарадзіўся <a href="../figures/volovicz.php">Міхал Валовіч</a> — удзельнік паўстання 1830 г., спадчыннік складальніка Статута ВКЛ</li>
 						</ul>
 					</td>
 				</tr>
@@ -78,9 +82,9 @@
 					<td>20</td>
 					<td>
 						<ul>
-							<li>1806 Родился 
-							<a href="../figures/sigismund_waza.php">Жигимонт III Ваза</a> 
-							— в. князя Литовский, возвративший Смоленск и захвативший Москву</li>
+							<li>1566 Нарадзіўся 
+							<a href="../figures/sigismund_waza.php">Жыгімонт III Ваза</a> 
+							— вялікі князь Літоўскі, які вярнуў Смаленск і захапіў Маскву</li>
 							</li>
 						</ul>
 					</td>
@@ -90,7 +94,7 @@
 					<td>28</td>
 					<td>
 						<ul>
-							<li><a href="../events/battle_polonka.php">Битва под Полонкой</a> с Московским царством, 1660</li>
+							<li><a href="../events/battle_polonka.php">Бітва пад Палонкай</a> з Маскоўскім царствам, 1660</li>
 						</ul>
 					</td>
 				</tr>

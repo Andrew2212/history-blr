@@ -132,6 +132,16 @@
 				</tr>
 				
 				<tr>
+					<td>18</td>
+					<td>
+						<ul>1891 Родился <a href="../terms/vajacki_marsz.php">Макар Кравцов (Костевич)</a> — 
+						поэт, переводчик, публицист, автор гимна БНР 
+						<a href="../terms/vajacki_marsz.php">"Ваяцки марш"</a></li>
+						</ul>
+					</td>
+				</tr>
+				
+				<tr>
 					<td>20</td>
 					<td>
 						<ul>

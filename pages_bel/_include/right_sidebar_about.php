@@ -1,6 +1,7 @@
 
  <div class="col-md-2 right-bar">
-      <ul style="text-align: left">
+    <!--
+	  <ul style="text-align: left">
 
           <h4>Материалы предоставили</h4>
          
@@ -103,5 +104,6 @@
           <a href="#" class="item-unable">Some link</a>
         </li>
       </ul>
+      -->
 	  </div>
 	

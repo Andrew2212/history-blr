@@ -92,7 +92,7 @@
           </li>
           
           <li>
-            <a href="mova.html">
+            <a href="blr.php">
 			<img title="Зьмяніць мову" src="img/lang.png" >
 			</a>
           </li>
@@ -107,4 +107,3 @@
     
   </div>
   <!-- /***Navbar*** -->
-

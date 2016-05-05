@@ -28,7 +28,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   		
-  		<h2>Ляховичи и Белыничская икона</h2>
+  		<h1>Ляховичи и Белыничская икона</h1>
 
 		<h3>Осада Ляхович
 		</br><small>23 марта - 27 июля 1660</small>
@@ -68,7 +68,8 @@
 		</small>
 		</p>
 		<p class="img-float-center">
-		<a target="_blank" href="../../images/img-events/battle_liahowiczy/icon.jpg">
+		<a href="../../images/img-events/battle_liahowiczy/icon.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img alt="Белыничская икона Божьей Матери" src="../../images/img-events/battle_liahowiczy/icon_thumb.jpg" height="160">
 		</br><small>Белыничская икона Божьей Матери</small>
 		</a>
@@ -84,23 +85,34 @@
 		
 		<div class="col-md-12">
 		
-		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-events/battle_liahowiczy/fort_old.jpg">
-		<img alt="Осада Ляхович" src="../../images/img-events/battle_liahowiczy/fort_old_thumb.jpg" height="160">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/battle_liahowiczy/fort_old.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Осада Ляхович" src="../../images/img-events/battle_liahowiczy/fort_old_thumb.jpg" height="100">
 		</br><small>Место старой фортеции</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-events/battle_liahowiczy/fort.jpg">
-		<img alt="Осада Ляхович" src="../../images/img-events/battle_liahowiczy/fort_thumb.jpg" height="160">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/battle_polonka/rzeczpospolita_Potop.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/rzeczpospolita_Potop_thumb.jpg" height="100">
+		</br><small>"Кровавый Потоп" 1654-1667</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/battle_liahowiczy/fort.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Осада Ляхович" src="../../images/img-events/battle_liahowiczy/fort_thumb.jpg" height="100">
 		</br><small>Осада Ляхович. Гравюра XVII в</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-events/battle_liahowiczy/fort_memory_new.jpg">
-		<img alt="Осада Ляхович" src="../../images/img-events/battle_liahowiczy/fort_memory_new.jpg" height="160">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/battle_liahowiczy/fort_memory_new.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Осада Ляхович" src="../../images/img-events/battle_liahowiczy/fort_memory_new.jpg" height="100">
 		</br><small>Памятник фортеции и осаде</small>
 		</a>
 		</div>
@@ -122,9 +134,10 @@
 		Под Ляховичами родился и похоронен <a href="../figures/rejtan.php">Тадеуш Рейтан</a> — Дон Кихот Речи Посполитой, национальный герой Беларуси и Польши. 
 		</p>
 		<p class="img-float-center">
-		<a target="_blank" href="../../images/img-events/battle_liahowiczy/reyten_father.jpg">
+		<a href="../../images/img-events/battle_liahowiczy/reyten_father.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img alt="Могила отца Тадеуша Рейтана" src="../../images/img-events/battle_liahowiczy/reyten_father_thumb.jpg" height="160">
-		</br><small>Могила отца Тадеуша Рейтана</small>
+		</br><small>Могила племянника Тадеуша Рейтана</small>
 		</a>
 		</p>
 

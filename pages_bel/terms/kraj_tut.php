@@ -82,11 +82,11 @@
 		</p>
 		
 		<p class="img-float-center">
-		<a href="../../images/img-terms/kraj_tut/Kreva1389.jpg" class="highslide"
+		<a href="../../images/img-terms/filomaty/tut_kraj.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Тутэйшая краевасьць" src="../../images/img-terms/kraj_tut/Kreva1389_thumb.jpg" height="100" >
-			</br><small>Крево 1389. П. Татарников</small>
-			</a>
+		<img alt="Филоматы" src="../../images/img-terms/filomaty/tut_kraj_thumb.jpg" height="120">
+		</br><small>Истоки краевасьці</small>
+		</a>
 		</p>
 		
 		<p>

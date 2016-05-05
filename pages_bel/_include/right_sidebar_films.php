@@ -1,5 +1,6 @@
 
 <div class="col-md-2 right-bar">
+<!--
       <ul style="text-align: left">
 
           <h4>NonPoliticalFilms основаны на материалах:</h4>
@@ -60,5 +61,6 @@
         </li>
 
       </ul>
+      -->
 	  </div>
 	

@@ -45,16 +45,19 @@
 		<p class="img-float-right">
 		<a href="../../images/img-figures/kmicic/orsha.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-figures/kmicic/orsha.jpg" height="140">
+		<img alt="битва под Оршей" src="../../images/img-figures/kmicic/orsha.jpg" height="120">
 		</br><small>Орша,
 		</br>Крапивенское поле</small> 	
 		</a>
 		</p>
 		
 		<p>
-		Битва под Оршей — сражение в ходе <a href="war_1512.php">войны 1512-22</a> годов, 
+		Битва под Оршей на Крапивенском поле — сражение в ходе <a href="war_1512.php">войны 1512-22</a> годов, 
 		в котором войска ВКЛ и Королевства Польского под началом Великого гетмана Литовского Константина <a href="../figures/ostrogski.php">Острожского</a> 
 		разгромили московское  войско.
+		</p>
+		<p>
+		Война 1512-22 годов — одна из <a href="../events/wars_1487-1537.php">войн с Московией 1487-1537</a>, определивших современную границу Республики Беларусь.
 		</p>
 		<p>
 		Войско Острожского насчитывало от 14000 человек <small>(А. Тарас, С. Сарницкий, А. Лобин)</small> до 26000 <small>(М. Стрыйковский)</small>
@@ -81,33 +84,42 @@
 		автор <a target="_blank" href="http://www.vostlit.info/haupt-Dateien/index-Dateien/G.phtml?id=2044">"Записок о Московии"</a>. 
 		</p>
 		
-		<div class="col-md-12">
 		<p>
 		Eques (reuters) — рыцари, всадники — Polonia & Lithuania & Ruthenia
 		</p>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-12">
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/wars_1487-1537/wkl_15ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Война с Московией 1512-1522" src="../../images/img-events/wars_1487-1537/wkl_15ce_thumb.jpg" height="100"> 
+		</br><small>Войны 1487-1537 </small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/rus_deBruyn.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/rus_deBruyn_thumb.jpg" height="120"> 
+		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/rus_deBruyn_thumb.jpg" height="100"> 
 		</br><small>Eques Ruthenus
 		</br>А.де Брейн</small>	
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/lit_deBruyn.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/lit_deBruyn_thumb.jpg" height="120"> 
+		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/lit_deBruyn_thumb.jpg" height="100"> 
 		</br><small>Eques ex Lithuania 
 		</br>А.де Брейн</small>	
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/pol_deBruyn.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/pol_deBruyn_thumb.jpg" height="120"> 
+		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/pol_deBruyn_thumb.jpg" height="100"> 
 		</br><small>Eques Polonus 
 		</br>А.де Брейн</small>	
 		</a>
@@ -115,17 +127,17 @@
 		
 		</div>
 		
-		<div class="col-md-12">
-		
 		<p>
 		Eques (reuters) — рыцари, всадники — Moscovita. 
 		И немного экзотики от А. де Брейна — Nobilus Polonus & Princeps Moscovitarum (знатный поляк и московский князь).
 		</p>
 		
+		<div class="col-md-12">
+		
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/orsha_battle/moscov_deBruyn.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/moscov_deBruyn_thumb.jpg" height="120"> 
+		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/moscov_deBruyn_thumb.jpg" height="100"> 
 		</br><small>Eques Moscovita cum armis  
 		</br>А.де Брейн</small>	
 		</a>
@@ -134,7 +146,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/orsha_battle/moscov_Herberstein.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/moscov_Herberstein_thumb.jpg" height="120"> 
+		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/moscov_Herberstein_thumb.jpg" height="100"> 
 		</br><small>Московские всадники  
 		</br>Герберштейн</small>	
 		</a>
@@ -143,7 +155,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/orsha_battle/pol_mosk_deBruyn.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/pol_mosk_deBruyn_thumb.jpg" height="120"> 
+		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/pol_mosk_deBruyn_thumb.jpg" height="100"> 
 		</br><small>Nobilus Polonus & Princeps Moscovitarum  
 		</br>А.де Брейн</small>	
 		</a>
@@ -180,7 +192,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/ostrogski_headstoun.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/ostrogski_headstoun_thumb.jpg" height="120"> 
+		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/ostrogski_headstoun_thumb.jpg" height="100"> 
 		</br><small>Надгробие К. Острожского
 		</br>Киево-Печерская Лавра</small>	
 		</a>
@@ -189,7 +201,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/Radziwil_Herkules.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/Radziwil_Herkules_thumb.jpg" height="120"> 
+		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/Radziwil_Herkules_thumb.jpg" height="100"> 
 		</br><small>Портрет Радзивилла 
 		</br>Юрия Геркулеса</small>	
 		</a>
@@ -198,7 +210,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/1520_Krell_Battle_of_Orsha.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/1520_Krell_Battle_of_Orsha_thumb.jpg" height="120"> 
+		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/1520_Krell_Battle_of_Orsha_thumb.jpg" height="100"> 
 		</br><small>"Битва под Оршей", фрагмент
 		</br>Hans Krell, 1520 год</small>	
 		</a>
@@ -207,7 +219,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/husaria/dospech_radziwill.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-terms/husaria/dospech_radziwill_thumb.jpg" height="120">
+		<img alt="битва под Оршей" src="../../images/img-terms/husaria/dospech_radziwill_thumb.jpg" height="100">
 		</br><small>Турнирный доспех
 		</br>Радзивилла Черного, 1550 г.</small>	
 		</a>
@@ -238,28 +250,28 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/memory_1.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/memory_1_thumb.jpg" height="120"> 	
+		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/memory_1_thumb.jpg" height="100"> 	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/victory_day_near_orsha.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/victory_day_near_orsha_thumb.jpg" height="120"> 	
+		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/victory_day_near_orsha_thumb.jpg" height="100"> 	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/memory_31.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/memory_31_thumb.jpg" height="120"> 	
+		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/memory_31_thumb.jpg" height="100"> 	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/memory_23.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/memory_23_thumb.jpg" height="120"> 	
+		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/memory_23_thumb.jpg" height="100"> 	
 		</a>
 		</div>
 		

@@ -33,7 +33,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
     
-		<h3>Гуды и Белая Русь</h3>
+		<h1>Гуды и Белая Русь</h1>
 		<p>
 		На белорусских землях встретились и закрепились два географически мигрирующих 
 		этно-культурных термина — <i>Гуды</i> и <i>Белая Русь</i>.
@@ -42,14 +42,8 @@
 		 "Белая Русь" — с востока, с экспансией Московского Княжества, вытеснившего его с Новгородских земель.
 		</p>
 		
-		<h4>Гуды </h4>
+		<h3>Гуды </h3>
 		
-		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-terms/gudai/gudija.jpg">
-		<img src="../../images/img-terms/gudai/gudija_thumb.jpg" height="160">
-		</br><small>1941, Gudija — земля гудов</small>
-		</a>
-		</p>
 		
 		<p>
 			<i>Gudai</i>, baltarusiai (летувск.) — белорусы. Кстати, по латышски — baltkrieviem (балтокривичи).
@@ -74,11 +68,36 @@
 		<p>
 		Этимология слова — от искаженного <a href="yotving.php">готы</a> (Gothi, Gutans, Gytos) или 
 			<a href="yotving.php">ятвяги</a> (Gudwa, Sudwa, Sudovia). 
-			Значительная часть ятвягов растворилась среди белорусов, и потому не удивительно, что в летувском языке 
+			Значительная часть ятвягов растворилась среди белорусов, и потому не удивительно, что в языке Летувы
 			ассимилированные белорусами ятвяги продолжали сохранять свое прежнее название, 
 			а затем это название было перенесено на всех белорусов.
-			</br>
+			Была даже жалобная молитва: <i>"Бог Перкун, не бей жмудина, а бей Гуда, как собаку рыжего"</i>
 		</p>
+		<p>
+		Миграцию термина гуды рассматривал профессор А. Н. Веселовский в своей работе 
+		"<a target="_blank" href="../../images/img-terms/polotsk_principality/Veselovskij_Rus_in_Wilkinasaga.djvu">Русские и вильтины в саге о Тидреке Бернском</a> (Wilkinasaga)".
+		</p>
+		
+	<div class="col-md-12">
+		
+		<div class="col-md-6 img-float-center">
+		<a href="../../images/img-terms/gudai/gudija.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/gudai/gudija_thumb.jpg" height="100">
+		</br><small>1941, Gudija — земля гудов</small>
+		</a>
+		</div>
+		
+		<div class="col-md-6 img-float-center">
+		<a href="../../images/img-terms/gudai/1906_gudai_saga.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/gudai/1906_gudai_saga_thumb.jpg" height="100">
+		</br><small>Гуды в "Саге о Тильдрике"</small>
+		</a>
+		</div>
+		
+	</div>
+		
 		<p> 
 		<i>"Кстати, Gudas, Gudelis, Gudaitis, Gudelaitis — очень распространенные фамилии в Литве, 
 		и люди точно не видят причин их менять. Топонимов тоже масса, слово мы употребляем каждодневно без никакого негативного оттенка 
@@ -89,25 +108,7 @@
 		<small>Giedrius Bagdonas</small>
 		</p>
 		
-		<h4>Белая Русь</h4>
-		
-		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-terms/gudai/1539_Carta_Marina.jpg">
-		<img src="../../images/img-terms/gudai/1539_Carta_Marina_thumb.jpg" height="160">
-		</br><small>1539, Carta Marina.
-		</br>Russia Alba — земля 
-		</br>Новгородская</small>
-		</a>
-		</p>
-		
-		<p class="img-float-right">
-		<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DUkNIaDVDYmhERlU/view?usp=sharing">
-		<img src="../../images/img-terms/gudai/pologne1700_thumb.jpg" height="160">
-		</br><small>1700, Carte des Estats.
-		</br>Russie Blanche ou Lituanique
-		</br>(Белая Русь или Литва)</small>
-		</a>
-		</p>
+		<h3>Белая Русь</h3>
 		
 		<p>
 		<i>Белая Русь</i> (лат. Russia Alba, Ruthenia Alba, итал. Rossia Bianca, нем. Weissreussen, фр. la Russie blanche) — термин, использовавшийся  преимущественно в западноевропейском научной 
@@ -121,18 +122,56 @@
 		<p>
 		Первой административно-территориальной единицей, которая содержала в своем названии термин "Беларусь" была создана в 1632 г. 
 		православная Могилевская епархия (в ВКЛ), так как параллельно с конца XVII в. часто называлась как "Белорусский епархия". 
-		
-		</br>Первой административно-территориальной единицей светского характера, 
+		</p>
+		<p>
+		Первой административно-территориальной единицей светского характера, 
 		которая содержала в своей официальной названии термин "Беларусь" было Белорусское генерал-губернаторства (1772-1796) 
 		в составе Российской империи. К началу 1870-х гг. топоним "Белоруссия" ("Белая Русь") 
 		относился только к Витебской и Могилевской губерний Российской империи. В 1870-е название "Белоруссия" 
 		уже начала относится и к Минской губернии Российской империи, 
 		а начиная с 1890-х гг. стала общепринятой названием всех территорий, где компактно проживал <a href="../download/blr_people.php">белорусский этнос</a> .
 		</p>
+		
+	<div class="col-md-12">
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-terms/gudai/1539_Carta_Marina.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/gudai/1539_Carta_Marina_thumb.jpg" height="100">
+		</br><small>1539, Carta Marina.
+		</br>Russia Alba — земля 
+		</br>Новгородская</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-terms/gudai/pologne1700.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/gudai/pologne1700_thumb.jpg" height="100">
+		</br><small>1700, Carte des Estats.
+		</br>Russie Blanche ou Lituanique
+		</br>(Белая Русь или Литва)</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center" >
+		<a href="../../images/img-terms/litwiny/smolensk_blr.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/smolensk_blr.jpg" width="120" height="100">
+		</br><small>"Белоруссия" 1768</small>
+		</a>
+		</div>
+		
+	</div>
+		
+		
+		
 		<p>
 		Идею создания самостоятельного государства (а не государственных образований в составе каких-либо автономий, 
 		федераций или конфедераций), которое имело бы титульное название "Беларусь", выдвинул в конце 1915 Вацлав Ластовский. 
-		</br>Первым  государством, которое имело название "Беларусь" в официальном титуле была <a href="bnr.php">Белорусская Народная Республика</a> (с 25 марта 1918 г.).		
+		</p>
+		<p>
+		Первым  государством, которое имело название "Беларусь" в официальном титуле была <a href="bnr.php">Белорусская Народная Республика</a> (с 25 марта 1918 г.).		
 		</p>
 		
 		
@@ -140,6 +179,7 @@
 		<p><small>
 		<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DdDUtT2ItdDA2c1k/view?usp=sharing">
 		Материалы конференции</a> "Беларусь і беларусы сярод суседзяў: гістарычныя стэрэатыпы і палітычныя канструктары" Варшава, 2011 г.</br>
+		http://forum.secret-r.net/viewtopic.php?f=1&t=883&sid=c5e0df32de50a029c523b92715e6ec9d</br>
 		translate.google.ru</br>
 		be.wikipedia.org</br>
 		lt.wikipedia.org</br>

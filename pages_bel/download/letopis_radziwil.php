@@ -31,10 +31,11 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_download.php"); ?>
  
-		<h3>Радзивилловская летопись</h3>
-		<p>
-		<a target="_blank" href="../../images/img-download/letopis_radziwil/letopis.jpg">
-		<img src="../../images/img-download/letopis_radziwil/letopis_thumb.jpg" class="img-float-left"/>
+		<h1>Радзивилловская летопись</h1>
+		<p class="img-float-left">
+		<a href="../../images/img-download/letopis_radziwil/letopis.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-download/letopis_radziwil/letopis_thumb.jpg" height="140"/>
 		</a>
 		</p>
 		<p>

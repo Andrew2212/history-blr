@@ -83,7 +83,7 @@
           </li>
           
           <li>
-            <a href="../../mova.html">
+            <a href="../../pages_bel/times/_times_intro.php">
 			<img title="Зьмяніць мову" src="../../img/lang.png" >
 			</a>
           </li>

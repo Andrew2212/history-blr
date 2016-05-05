@@ -34,15 +34,21 @@
     <? include ("../_include/top_list_events.php"); ?>
   
 
-		<h3>Битва под Полонкой, 1660</h3>
+		<h1>Битва под Полонкой, 1660</h1>
 		
-		<p class="img-float-left">	
-		<img src="../../images/img-events/battle_polonka/Jan_Pawel_Sapieha.jpg" height="200"/>
+		<p class="img-float-left">
+		<a href="../../images/img-events/battle_polonka/Jan_Pawel_Sapieha.jpg" class="highslide"
+        onclick="return hs.expand(this)">	
+		<img src="../../images/img-events/battle_polonka/Jan_Pawel_Sapieha_thumb.jpg" height="140"/>
 		</br><small>Ян Павел Сапега</small>
+		</a>
 		</p>
 		<p class="img-float-right">
-		<img src="../../images/img-events/battle_polonka/polonka.jpg" height="200"/>
+		<a href="../../images/img-events/battle_polonka/polonka.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-events/battle_polonka/polonka_thumb.jpg" height="140"/>
 		</br><small>Полонка, Беларусь</small>
+		</a>
 		</p>
 		
 		<p>
@@ -51,42 +57,60 @@
 		 <a href="../terms/rzeczpospolita_treh_narodov.php">Речь Посполитую Трех Народов</a>. 
 		 </p>		
 		<p>
-		 После этой победы началось освобождение захваченных <a href="../download/blr_people.php">белорусских земель</a>.
+		 Поворотный момент в самой кровавой войне за всю историю Беларуси (по восточным воеводствам людские потери составили до 70%). После этой победы началось освобождение захваченных <a href="../download/blr_people.php">белорусских земель</a>.
 		</p>		
 		<p>
-		Войско Речи Посполитой — ВКЛ (8 тыс) и Польши (4 тыс), возглавляемое великим гетманом Литовским <a href="../figures/sapegi.php">Павлом Яном Сапегой</a> и 
+		Войско Речи Посполитой — ВКЛ (8000 чел.) и Польши (4000 чел.), возглавляемое великим гетманом Литовским <a href="../figures/sapegi.php">Павлом Яном Сапегой</a> и 
 		воеводой Русским (глава Русского воеводства в Королевстве Польском) 
 		Стефаном Чарнецким разгромило 20-ти тысячную московскую армию.
+		</p>
+		<p>		
+		В битве под Полонкой принимал участие легендарный шляхтич Оршанский — <a href="../figures/kmicic.php">Самуил Кмитич</a>, "генеральный полковник" дивизии Сапеги, 
+		послуживший прообразом главного героя романа Г. Сенкевича "Потоп"
 		</p>
 		<p>		
 		Положение на фронтах войны к началу битвы — московское войско захватило всю территорию <a href="../terms/wkl.php">ВКЛ</a>
 		, кроме Слуцка и <a href="battle_liahowiczy.php">Ляхович</a>.
 		</p>		
 		<p>		
-		Итоги битвы — освобождены западные земли ВКЛ. Московитские гарнизоны Новогрудка и некоторых других городов капитулировали сразу, 
-		а в  Берестье, Гродно и Вильне — после одно-двухлетних осад. Продвижение польско-литовской армии было остановлено только под Борисовым.
+		Итоги битвы — полный разгром московского войска. Потери армии Сапеги 300 человек, противника — 3500. Освобождены западные земли ВКЛ. Московские войска в Новогрудке и некоторых других городах капитулировали сразу, 
+		а в  Берестье, Гродно и <a href="../places/wilno.php">Вильне</a> — после одно-двухлетних осад. Продвижение польско-литовской армии было остановлено только под Борисовым.
+		</p>
+		<p>		
+		Война до полного освобождения страны продолжалась еще долгих семь лет.
 		</p>
 		
 	<div class="col-md-12" >
 		
-		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-events/battle_polonka/RP1658.jpg">
-		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/RP1658_thumb.jpg" height="120">
-		</br><small>Речь Посполитая Трех Народов, 1658</small>	
-		</a>
-		</div>
-		
-		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-events/battle_polonka/rzeczpospolita_Potop.jpg">
-		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/rzeczpospolita_Potop_thumb.jpg" height="120">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/battle_polonka/rzeczpospolita_Potop.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/rzeczpospolita_Potop_thumb.jpg" height="100">
 		</br><small>"Кровавый Потоп" 1654-1667</small>	
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-events/battle_polonka/palonka_memory.jpg">
-		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/palonka_1992.jpg" height="120">
-		</br><small>Памятник под Полонкой, 1992</small>	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/blood_potop/people_lost.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кровавый Потоп" src="../../images/img-events/blood_potop/people_lost_thumb.jpg" height="100">
+		</br><small>Людские потери 1654-1667</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/battle_polonka/RP1658.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/RP1658_thumb.jpg" height="100">
+		</br><small>Речь Посполитая Трех Народов, 1658</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/battle_polonka/1696-Rzeczpospolita.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Карта ВКЛ 17 век" src="../../images/img-events/battle_polonka/1696-Rzeczpospolita_thumb.jpg" height="100">
+		</br><small>Lithuania, 1696</small>	
 		</a>
 		</div>
 							
@@ -94,9 +118,15 @@
 	
 		<p>
 		В 1994 году был установлен знак (каменный валун) в память об одной из главных битв в нашей истории. 
-		Памятник освятили двое священников – православный и католический.		
-		</br>28 июня 2010 года члены Общества беларуского языка имени Скорины из Баранович и местные краеведы устроили фестиваль, 
-		посвященный 350-й годовщине Полонковской битвы.
+		Памятник освятили двое священников — православный и католический.		
+		</p>
+		
+		<p class="img-float-center">
+		<a href="../../images/img-events/battle_polonka/palonka_memory.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/palonka_1992.jpg" height="100">
+		</br><small>Памятник под Полонкой, 1992</small>	
+		</a>
 		</p>		
 		
 		

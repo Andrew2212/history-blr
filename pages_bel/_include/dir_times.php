@@ -1,5 +1,6 @@
 
       <div class="col-md-2 left-bar-align-center" >
+      <!--
       <p>
 	   		<a href="10_vek.php">
 			<img src="../../images/_img-index/blr_10ce_etno_variag_way_thumb.jpg" class="img-right-80"/></br>
@@ -54,7 +55,7 @@
 			<small>XVIII век</a></small>
 			</a>
 	   </p>
-	   
+	   -->
 
 	  </div>
 	

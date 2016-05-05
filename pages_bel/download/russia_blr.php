@@ -36,7 +36,8 @@
 		</br><small>Верхнее Поднепровье и Белоруссия</small></h3>
 		
 		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-download/russia_blr/blr_title.jpg">
+		<a href="../../images/img-download/russia_blr/blr_title.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img src="../../images/img-download/russia_blr/blr_title.jpg" height="200"/>
 		</a>
 		</p>
@@ -71,7 +72,8 @@
 	<div class="col-md-12">
 		
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-terms/blr_etnos/blr_etnos15ce.jpg">
+		<a href="../../images/img-terms/blr_etnos/blr_etnos15ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 			<img src="../../images/img-terms/blr_etnos/blr_etnos15ce_thumb.jpg" height="100"/>
 			</br><small>"О белорусской народности"</small>
 		</a>				
@@ -79,21 +81,24 @@
 		
 		
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-terms/blr_etnos/blr_faceview.jpg">
+		<a href="../../images/img-terms/blr_etnos/blr_faceview.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 			<img src="../../images/img-terms/blr_etnos/blr_faceview_thumb.jpg" height="100"/>
 			</br><small>"Облик белорусского племени"</small>
 		</a>				
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-terms/blr_etnos/blr_character.jpg">
+		<a href="../../images/img-terms/blr_etnos/blr_character.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 			<img src="../../images/img-terms/blr_etnos/blr_character_thumb.jpg" height="100"/>
 			</br><small>"О характере белоруссов"</small>
 		</a>				
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-terms/shliahta/blr_shliahta1.jpg">
+		<a href="../../images/img-terms/shliahta/blr_shliahta1.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/shliahta/blr_shliahta1_thumb1.jpg" height="100">
 		</br><small>"Белорусская шляхта и панцирные бояре"</small>
 		</a>				

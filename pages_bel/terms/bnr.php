@@ -4,14 +4,15 @@
   <head>
      
 <!-- ***Title*** -->
- 	<title>БНР. История Беларуси</title>
+ 	<title>Белорусская Народная Республика</title>
 
 <!-- ***Meta*** -->
-    <meta name="description" content="Белорусская Народная Республика (БНР) - государство, объявленное на территории Беларуси 25 марта 1918 года. Именно с 25 марта 1918 года и по сей день Беларусь существует на политической карте Европы как самостоятельная единица. 
-Люди, которые восстановили независимость Беларуси в 1991 году, в качестве своего ориентира видели именно Белорусскую Народную Республику 1918 года. Этот день — главный праздник Беларуси. " />
+    <meta name="description" content="Белорусская Народная Республика (БНР) - государство, объявленное на территории Беларуси 25 марта 1918 года. 
+Люди, которые восстановили независимость Беларуси в 1991 году, в качестве своего ориентира видели именно Белорусскую Народную Республику 1918 года. 
+" />
     <meta name="keywords" itemprop="keywords" content="бнр, 
 	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
-	<meta property="og:image" content="http://history-belarus.by/images/img-terms/bnr/map_bnr.jpg" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-terms/bnr/title.jpg" />
 	
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>
@@ -30,7 +31,8 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
     
-		<h3>Белорусская Народная Республика, 1918-1919 гг.<small> БНР</small></h3>
+		<h1>Белорусская Народная Республика, 1918-1919 </h1>
+		
 		<p>
 		<i>
 		"Няхай жыве магутны, сьмелы
@@ -45,53 +47,72 @@
 		</br><small> 2-я Уставная Грамота Рады БНР</small>
 		</p>
 		
-		<p>
-		<img src="../../images/img-terms/bnr/stamp_bnr.jpg" height="160" class="img-float-left">
+	<div class="col-md-12">
+		
+		<p class="img-float-left">
+		<a href="../../images/img-terms/bnr/map_bnr.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/map_bnr_thumb.jpg" height="120">
+			</br><small>БНР 1918</small>
+			</a>
+		</p>
+		<p class="img-float-right">
+		<a href="../../images/img-terms/bnr/postcard_bnr.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/postcard_bnr_thumb.jpg" height="120">
+			</br><small>Герб БНР </small>
+			</a>
 		</p>
 		
-		<p>
-		<img src="../../images/img-terms/bnr/stamp_rb.jpg" height="160" class="img-float-right">
-		</p>
+
 		
 		<p>
-		Белорусская Народная Республика - государство, объявленное на территории Беларуси 25 марта 1918 года. 
+		Белорусская Народная Республика — государство, объявленное на территории Беларуси 25 марта 1918 года. 
 		</br>Главным руководящим органом являлась Рада БНР.
 		</br>Государственная и обязательный язык: белорусский.
 		</br>Место заседаний правительства: Минск, Гродно (с декабря 1918).
+		</br><a href="../events/uprising_sluzk.php">Слуцки Збройны чын</a> 1920 года — продолжение истории БНР.
 		</p>
+		
+	</div>
+		
 		<p>
 		В БНР действовала Временная конституция, существовал институт гражданства (печатались паспорта граждан БНР), государственная печать, 
 		<a href="blr_flag.php">флаг</a> и <a href="blr_gerb.php">герб</a>, формировались собственные вооруженные силы,
-		действовала система образования, издавались почтовые марки.
+		действовала система образования, издавались почтовые марки 
+		(<a href="../terms/atrad_bnr.php">Асобны Атрад БНР</a> — самая, пожалуй, известная из них).
 		</p>
 		
 		<div class="col-md-12 img-float-center" >
-		<p>
-			<div class=" col-md-1 ">
+		
+			<div class="col-md-3 img-float-center">
+			<a href="../../images/img-figures/bulak/mark.jpg" class="highslide"
+      	  onclick="return hs.expand(this)">
+			<img alt="Булак-Балахович. Асобны атрад БНР" src="../../images/img-figures/bulak/mark_thumb.jpg" height="100">
+			</a> 
 			</div>
 			
 			<div class=" col-md-3 ">
-			<a target="_blank" href="../../images/img-terms/bnr/gramata_bnr.gif">
-			<img src="../../images/img-terms/bnr/gramata_bnr.gif" height="200" class="img-float-center">
+			<a href="../../images/img-terms/bnr/stamp_bnr1.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/stamp_bnr1.jpg" height="100" >
 			</a>
-			</br><small>Уставная Грамота Рады БНР </small>
 			</div>
 			
-			<div class="col-md-3 ">
-			<a target="_blank" href="../../images/img-terms/bnr/map_bnr.jpg">
-			<img src="../../images/img-terms/bnr/map_bnr_thumb.jpg" height="200" class="img-float-center">
+			<div class=" col-md-3 ">
+			<a href="../../images/img-terms/bnr/stamp_bnr.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/stamp_bnr.jpg" height="100" >
 			</a>
-			</br><small>Карта БНР </small>
+			</div>
+
+			<div class=" col-md-3 ">
+			<a href="../../images/img-terms/bnr/stamp_rb.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/stamp_rb.jpg" height="100">
+			</a>
 			</div>
 			
-			<div class="col-md-3 ">
-			<a target="_blank" href="../../images/img-terms/bnr/postcard_bnr.jpg">
-			<img src="../../images/img-terms/bnr/postcard_bnr_thumb.jpg" height="200" class="img-float-center">
-			</a>
-			</br><small>Почтовая открытка с гербом БНР </small>
-			</div>
-			
-		</p>
 		</div>
 		
 		<p>
@@ -101,32 +122,42 @@
 		В этих странах работали белорусские дипломатические и военно-дипломатические миссии, консульства и представительства 
 		(в Каунасе, Риге, Константинополе, Киеве, Одессе, Праге, Берлине, Гданьске, Копенгагене и других городах).
 		</p>
-
 		
-		<div class="col-md-12 " >
-		<p>
-			
-			<div class=" col-md-3 img-float-center">
-			<a href="../figures/vasilkovsky.php">
-			<img src="../../images/img-figures/vasilkovsky/Oleg_Petrovich_Vasilkovskiy.jpg" height="180">
-			</br><small>О. П. Васильковский
-			</br>глава дипмиссии БНР в Прибалтике </small>
+		<div class="col-md-12 img-float-center" >
+
+			<div class=" col-md-3 ">
+			<a href="../../images/img-terms/bnr/BNR_Third_charter.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/BNR_Third_charter_thumb.jpg" height="100">
+			</br><small>Уставная Грамота Рады БНР </small>
 			</a>
 			</div>
 			
-			<div class=" col-md-6 img-float-center">
-			<img src="../../images/img-terms/bnr/rada.jpg" height="180">
-			</div>
+			<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/bnr/bnr_mission.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Слуцки збройны чын" src="../../images/img-terms/bnr/bnr_mission_thumb.jpg" height="100" >
+		</br><small>Вайскова- Дыплёматычная мисыя БНР</small>
+		</a>
+		</div>
 			
-			<div class=" col-md-3 img-float-center">
-			<a href="../figures/kondratovich.php">
-			<img src="../../images/img-figures/kondratowich/kandratovic_1906.jpg" height="180">
-			</br><small>К. А. Кондратович
-			</br>министр обороны БНР</small>
+			
+			<div class="col-md-3 img-float-center">
+			<a href="../../images/img-terms/blr_flag/blr_rada.jpg" class="highslide"
+       		 onclick="return hs.expand(this)">
+			<img alt="Флаг Беларуси БЧБ" src="../../images/img-terms/blr_flag/blr_rada_thumb.jpg" height="100">
+			</br><small>БНР, Минск </small>
 			</a>
 			</div>
 			
-		</p>
+			<div class="col-md-3 ">
+			<a href="../../images/img-terms/blr_flag/blr_grodno.jpg" class="highslide"
+       		 onclick="return hs.expand(this)">
+			<img alt="Флаг Беларуси БЧБ" src="../../images/img-terms/blr_flag/blr_grodno_thumb.jpg" height="100">
+			</br><small>БНР, Гродно</small>
+			</a>
+			</div>
+
 		</div>
 		
 		<p>
@@ -134,7 +165,8 @@
 		Достаточно перечислить некоторых из них.
 		</p>		
 		<p>
-		<a href="../figures/lastowski.php">Вацлав Ластовский</a> — Премьер-министр БНР — историк, филолог, директор Национального Исторического Музея РБ. Академик НАН РБ
+		<a href="../figures/lastowski.php">Вацлав Ластовский</a> — Премьер-министр БНР — историк, филолог, директор Национального Исторического Музея РБ. 
+		Академик НАН РБ
 		</p>		
 		<p>
 		Иван Середа — член президиума Наивысшей Рады БНР — основатель и директор Минского ветеринарно-зоотехнического техникума, сотрудник Института белорусской культуры (Инбелкульта), прообраза Национальной академии наук Беларуси. 
@@ -143,7 +175,8 @@
 		<a href="../figures/luckiewicz_anton.php">Антон Луцкевич</a> — Старшыня Рады Міністраў Найвышэйшай Рады БНР — директор Белорусского музея в Вильне, издатель газеты "Наша Ніва".
 		</p>		
 		<p>
-		<a href="../figures/duz_duszewski.php">Клаўдзій Дуж-Душэўскі</a> — старшыня Цэнтральнай беларускай рады Віленшчыны і Гродзеншчыны — архитектор, дацэнт Каўнаскага ўніверсітэта. 
+		<a href="../figures/duz_duszewski.php">Клавдий Дуж-Душевский</a> — старшыня Цэнтральнай беларускай рады Віленшчыны і Гродзеншчыны 
+		— архитэктар, дацэнт Каўнаскага ўніверсітэта. 
 		</p>		
 		<p>
 		<a href="../figures/lesik.php">Язеп Лёсик</a> — Председатель Рады БНР — Академик АН БССР, родной дядя Якуба Коласа.
@@ -151,29 +184,169 @@
 		<p>
 		<a href="../figures/tarashkevicz.php">Бронислав Тарашкевич</a> —  один из лидеров Белорусской социалистической громады — языковед, переводчик, публицист. Академик АН БССР
 		</p>
-		
-		<div class=" col-md-12 img-float-center">
-			<img src="../../images/img-terms/bnr/bnr_mission.jpg" height="160">
-			</div>		
 		<p>
+		<a href="../figures/skirmunt.php">Роман Скирмунт</a> — буржуазная элита (член Государственного Совета) Российской Империи и Премьер-Министр БНР.
+		</p>
 		
+		<p>
+		Министром обороны БНР был генерал Российской империи <a href="../figures/kondratovich.php">Киприан Кондратович</a>, другой генерал 
+		— <a href="../figures/vasilkovsky.php">Олег Васильковский</a> — был главой дипломатической мисси БНР в Прибалтике.
+		Главнокомандующим вооруженными силами был легендарный <a href="../figures/bulak.php">Станислав Булак-Балахович</a>.
+		</p>
+		
+		<div class="col-md-12 ">
+			
+			<div class=" col-md-3 img-float-center">
+			<a href="../../images/img-terms/bnr/rada.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/rada_thumb.jpg" height="100">
+			</br><small>Народный секретариат БНР</small>
+			</a>
+			</div>
+			
+			<div class=" col-md-3 img-float-center">
+			<a href="../../images/img-figures/lastowski/lastowski.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Вацлав Ластовский" src="../../images/img-figures/lastowski/lastowski.jpg" height="100" >
+			</br><small>Вацлав Ластовский</small>
+			</a>
+			</div>
+			
+			<div class=" col-md-3 img-float-center">
+			<a href="../../images/img-figures/bulak/bulak-balahowicz.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Белорусская Народная Республика БНР" src="../../images/img-figures/bulak/bulak-balahowicz_thumb.jpg" height="100" >
+			</br><small>Станислав Булак-Балахович</small>
+			</a>
+			</div>
+			
+			
+			<div class=" col-md-3 img-float-center">
+			<a href="../../images/img-figures/kondratowich/kandratovic_1906.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Кондратович Киприан" src="../../images/img-figures/kondratowich/kandratovic_1906_thumb.jpg" height="100" >
+			</br><small>Киприан Кондратович</small>
+			</a>
+			</div>
+			
+		</div>
+		
+		<p>
+		Немногим странам удалось отделиться</a> от разваливающейся <a href="ross_empire.php">Российской Империи</a>. 
+		Во вновь сложившемся на ее руинах <a href="sssr.php">СССР</a> проживало более 200 народов и было всего 15 Союзных Республик. 
+		Только благодаря провозглашению БНР была создана <a href="bssr.php">БССР</a> — одна из этих 15. 
+		</p>
+		
+<!--Spoiler-->
+<!--http://forwebmaster.net/prostoy-spoyler-dlya-sayta-v-html/-->
+<div class="spoil">
+	
+	<p>
+	<div class="smallfont">
+	<h3>Границы Беларуси 1914-1946 гг</h3>
+	
+	<input type="button" class="btn btn-info btn-sm" value="Показать / Скрыть" class="input-button" 
+	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Показать / Скрыть'; }">
+	</p>
+
+</div>
+
+<div class="alt2">
+<div style="display: none;">
+
+
+
+	<!-- ***blr_entire *** -->
+  	<? include ("../_include/include_Blr_border_1914-1946.php"); ?>
+
+
+<div class="col-md-12 top-list">
+<!--It's just line-->
+</div>    
+      
+</div>
+</div>
+</div>	
+<!--/Spoiler-->
+
+		<p>
+		Из <a href="../articles/bnr_article.php">статьи</a> Алеся Чайчыца:</small>
+		</p>
+		
+		<i>
+		<p>
+		В начале марта 1918 года в Бресте российские большевики после серии военных поражений заключили мир с Германией. 
+		По условиям мира Россия отказывалась от Прибалтики, Беларуси и Украины. 
+		</p>
+		<p>
+		Исполнительный комитет Всебелорусского съезда, 
+		белорусского координационного представительного органа, среагировал мгновенно: Беларусь не должна была остаться «ничьей землёй», 
+		её судьбой должны распоряжаться сами белорусы, а не немцы или большевики. 
+		Легитимное самоорганизованное местное представительство взяло на себя ответственность за будущее страны, издав три уставные грамоты, 
+		в которых провозглашался государственный суверенитет Беларуси.
+		</p>
+		<p>
+		Беларусь провозгласила о создании самостоятельного государства через считанные недели после Эстонии и Литовской Республики 
+		и на полгода раньше Латвии.
+		</p>
+		<p>
+		Кому удалось оторваться от рухнувшей империи, а кому нет — это во многом история о везении и невезении.
+		</p>
+		<p>
+		Скажем, государствам Балтии в 1918 повезло. У латышей и эстонцев не было линии фронта посреди страны, не было претендующих на их территорию 
+		с одной стороны советской России, а с другой — мощной возрождённой Польши. У них были с одной стороны большевики, а с другой — Балтийское море,
+		 где дружественный британский флот не только оказывал материальную поддержку войскам новых стран, 
+		 но и предоставлял непосредственную огневую поддержку. 
+		</p>
+		<p>
+		Повезло так далеко не всем. По итогам гражданской войны в бывшей Российской Империи не удалось удержаться даже независимой Украине 
+		с её, казалось бы, колоссальными материальными ресурсами и массовым национальным движением. 
+		</p>
+		<p>
+		Не удержались демократические Грузия, Армения и Азербайджан, провозгласившие независимость от России, 
+		несмотря даже ни на какое выгодное географическое положение, ни на какой горный ландшафт. 
+		</p>
+		</i>
+			
+		
+		<h3>25 марта — День воли</h3>	
+		<p>		
 		Именно с 25 марта 1918 года и по сей день Беларусь существует на политической карте Европы как самостоятельная единица. 
 		</br>Люди, которые восстановили независимость Беларуси в 1991 году, в качестве своего ориентира 
 		видели именно Белорусскую Народную Республику 1918 года. Этот день — главный праздник Беларуси.
 		</p>
 		<p>
-		Немногим странам удалось отделиться</a> от разваливающейся <a href="ross_empire.php">Российской Империи</a>. 
-		Во вновь сложившемся на ее руинах <a href="sssr.php">СССР</a> проживало более 100 народов и было всего 15 Союзных Республик. 
-		Только благодаря провозглашению БНР была создана <a href="bssr.php">БССР</a> — одна из этих 15. 
-		</br><small><a href="../articles/bnr_article.php">Тут</a> хорошая статья на тему.</small>
-		</p>
-		<p>
 		День провозглашения независимости Белорусского Народной Республики (25 марта) празднуется как День Воли.
 		</p>
 		
-		<p class="img-float-center">
-		<img src="../../images/img-terms/bnr/dzen_voli.jpg" class="img-float-center">
-		</p>
+		<div class="col-md-12 img-float-center" >
+
+			<div class=" col-md-4 ">
+			<a href="../../images/img-terms/bnr/dzen_voli.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/dzen_voli_thumb.jpg" height="100">
+			</a>
+			</div>
+			
+			<div class=" col-md-4 ">
+			<a href="../../images/img-terms/bnr/dzen_voli2.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/dzen_voli2_thumb.jpg" height="100">
+			</a>
+			</div>
+			
+			<div class=" col-md-4 ">
+			<a href="../../images/img-terms/bnr/dzen_voli3.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/dzen_voli3_thumb.jpg" height="100">
+			</a>
+			</div>
+			
+		</div>
+		
+
+		
+				
 		
 		
 		</br></br></br>

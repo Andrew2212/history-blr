@@ -1,6 +1,6 @@
 
       <div class="col-md-2 right-bar-align-center">
-      
+      <!--
       <p>
 			<a href="nesviz.php">
 			<img src="../../images/img-places/_hot_places_right/nesviz.jpg" class="img-right-80""/></br>
@@ -42,6 +42,6 @@
 			<small>Полесье</small>
 			</a></br>			
 	   </p>
-	      
+	    -->  
 	  </div>
 	

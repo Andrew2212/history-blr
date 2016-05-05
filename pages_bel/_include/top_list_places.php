@@ -68,6 +68,10 @@
           <a href="../events/battle_liahowiczy.php">Ляховичи</a> — несокрушенный бастион
         </li>
         <li>
+          <a href="../figures/szydlowski_mirskie.php">Мир и Мирский замок</a>
+		  </br><small>наследие Радзивиллов</small>
+        </li>
+        <li>
           <a href="#" class="item-unable">Могилев</a>
         </li>
         <li>
@@ -84,6 +88,9 @@
         </li>
         <li>
           <a href="nowogrudok.php" class="item-edit">Новогрудок</a> — первая столица ВКЛ
+        </li>
+        <li>
+          <a href="../figures/kishky.php">Подляшье</a> — белорусская диаспора в Польше
         </li>
         <li>
           <a href="sea_herodotus.php">Полесье</a> — наследие Моря Геродота

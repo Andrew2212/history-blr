@@ -131,75 +131,75 @@
 <!-- *** Friends *** -->
 <h3>Сябры і дапамога</h3>
 <div class="col-md-12">
-<ul>
-
-	<div class="col-md-4 img-float-center">
 	
-		<p>
+	<div class="col-md-12">
+	
+		<div class="col-md-4 img-float-center">
         <a target="_blank" href="http://www.talaka.by/">
-        	<img src="../../images/img-about/talaka.jpg" class="img-right-100"/></br>
+        	<img src="../../images/img-about/talaka.jpg" width="160"/></br>
 		  <small> Кропка збору неабыякавых людзей Talaka.by</small>
 		  </a>
-        </p>
+        </div>
 
-        <p>
+        <div class="col-md-4 img-float-center">
+        <a target="_blank" href="http://inbelhist.org/">
         	<img src="../../images/img-about/inbelhist.jpg" class="img-right-100"/></br>
-           <a target="_blank" href="http://inbelhist.org/">
 		   <small>Інстытут беларускай гісторыі і культуры</small>
 		  </a>
-        </p>
+        </div>
         
-        <p>
+        <div class="col-md-4 img-float-center">
         <a target="_blank" href="http://vkl3d.com/">
         <img src="../../images/img-about/vkl3d_logo.jpg" class="img-right-100"/></br>
           <small>ВКЛ, архитектура 3D</small>
 		  </a>
-        </p>
+        </div>
         
-    </div>    
+    </div>
+    
+    <div class="col-md-12">
         
-	<div class="col-md-4 img-float-center">
-        
-        <p>
+        <div class="col-md-4 img-float-center">
         <a target="_blank" href="http://mfront.net/">
         <img src="../../images/img-about/m_front.jpg" class="img-right-100"/></br>
           <small>Малады Фронт</small>
 		  </a>
-        </p>
+        </div>
 
-        <p>
+        <div class="col-md-4 img-float-center">
         <a target="_blank" href="http://budzma.by/">
         <img src="../../images/img-about/by_budzma.jpg" class="img-right-100"/></br>
           <small>Будзьма беларусамi!</small>
 		  </a>
-        </p>
+        </div>
 
-        <p>
+        <div class="col-md-4 img-float-center">
         <a target="_blank" href="http://belhistory.com/">
-        <img src="http://belhistory.com/banners/88f.jpg" width="88" height="31" border="1" alt="Беларускі гістарычны партал"/></br>
+        <img src="http://belhistory.com/banners/88f.jpg" class="img-right-100" alt="Беларускі гістарычны партал"/></br>
         <small>Беларускі гістарычны партал</small>
 		</a>
-        </p>
+        </div>
         
     </div>
     
-	<div class="col-md-4 img-float-center">
-	    
-        <p>
+    <div class="col-md-12">
+        
+       <div class="col-md-4 img-float-center">
         <a target="_blank" href="http://merjamaa.ru/">
         <img src="../../images/img-about/meryan_ban_smol.jpg" class="img-right-100"/></br>
           <small>История народа Меря</small>
 		  </a>
-        </p>
+        </div>
         
-        <p>
+        <div class="col-md-4 img-float-center">
         <a target="_blank" href="https://belarusianheroes.com/">
         <img src="../../images/img-about/bel_heroes.png" class="img-right-100"/></br>
           <small>Беларускія героі</small>
 		  </a>
-        </p>
+        </div>
 
-        <p>
+        <div class="col-md-4 img-float-center">
+        	<p>
         	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="88" height="31" id="belarus 88_31" align="middle">
 			<param name="allowScriptAccess" value="sameDomain" />
 			<param name="allowFullScreen" value="false" />
@@ -210,47 +210,53 @@
            <a target="_blank" href="http://www.belarus.kz/">
 		   <small>Беларускі партал у Казахстане</small>
 		  </a>
-        </p>
+		  </p>
+        </div>
         
     </div>
     
-    <div class="col-md-4 img-float-center">
+    <div class="col-md-12">
         
-        <p>
+        <div class="col-md-4 img-float-center">
         <a target="_blank" href="http://www.smalensk.org/">
         <img src="../../images/img-about/blr_smalensk.jpg" class="img-right-100"/></br>
           <small>Беларуская Смаленшчына</small>
 		  </a>
-        </p>
+        </div>
 
-        <p>
+        <div class="col-md-4 img-float-center">
         <a target="_blank" href="http://tatarnikov.com/">
         <img src="../../images/img-about/pavel.jpg" class="img-right-100"/></br>
           <small>Pavel Tatarnikov, художник</small>
 		  </a>
-        </p>
-        
-    </div>
-        
-    <div class="col-md-4 img-float-center">
+        </div>
 
-        <p>
+        <div class="col-md-4 img-float-center">
         <a target="_blank" href="https://www.facebook.com/hovsepme">
         <img src="../../images/img-about/logo_jesuit.jpg" class="img-right-100"/></br>
           <small>Hovsep Meliksetian, теолог</small>
 		  </a>
-        </p>
+        </div>
         
-        <p>
+    </div>
+    
+    <div class="col-md-12">
+        
+        <div class="col-md-4 img-float-center">
            <a target="_blank" href="https://www.facebook.com/pages/%D0%9C%D0%B0%D0%B9%D1%81%D1%82%D1%8D%D1%80%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D0%B0%D0%B4%D0%B0%D1%9E%D0%BD%D1%96%D1%85-%D0%B3%D0%B5%D0%B0%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%87%D0%BD%D1%8B%D1%85-%D0%BC%D0%B0%D0%BF/527727034041838">
 		   <img src="../../images/img-about/maps.jpg" class="img-right-100" width="80"/></br>
 		   <small>Майстэрня старадаўніх геаграфічных мап</small>
 		  </a>
-        </p>
+        </div>
+
+		<div class="col-md-4 img-float-center">
+        	<a target="_blank" href="http://www.istoriia.ru">
+			<img src="http://www.istoriia.ru/images/rus.jpg" alt="Всемирная История" width="88" height="31" border="1"></br>
+			<small>История в деталях — проект, посвященный Всемирной Истории</small></a>
+        </div>
         
-	</div>
-      
-</ul>     
+    </div>
+    
 </div>
 <!-- /*** Friends *** -->		
 		
@@ -281,7 +287,10 @@
         </li>
         <li>
           <a target="_blank" href="http://ok.ru/profile/343280015857">Александр Грохотов</a>,
-		  </br>администратор <a target="_blank" href="http://ok.ru/group/53595131412721">ОК-группы</a></a>
+		  администратор <a target="_blank" href="http://ok.ru/group/53595131412721">ОК-группы</a></a>
+        </li>
+        <li>
+          <a target="_blank" href="https://vk.com/id134079550" >Віктар Старасценка	</a>, пераклад артыкулаў на мову
         </li>
         <li>
           <a target="_blank" href="https://www.facebook.com/sergey.rogachevsky" >Sergey Rogachevsky</a>, программист-консультант

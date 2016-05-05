@@ -40,17 +40,17 @@
 		</a>
 		</p>
 		<p class="img-float-right">
-		<a href="../../images/img-terms/blr_gerb/1697_polska.jpg" class="highslide"
+		<a href="../../images/img-terms/blr_gerb/1645_POGONIA_Orbis Polonus.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/blr_gerb/1697_polska_thumb.jpg" height="140"/>
-		</br><small>Погоня на карте ВКЛ</small>
+		<img src="../../images/img-terms/blr_gerb/1645_POGONIA_Orbis Polonus_thumb.jpg" height="140"/>
+		</br><small>Погоня (POGONIA)</small>
 		</a>
 		</p>
 		<p>
 			"... В том же случае, когда придется преследовать врагов, неприятелей наших, 
 			которые убегали бы с нашей  Литовской земли, то для этого рода преследований, 
 			которое по-народному (обыкновенно) называется <i>pogonia</i> (погоня), обязуются отправляться не только рыцари, но и каждый мужчина ...".
-			</br><small>Грамота В.кн. Литовского Ягайло, 1387</small>
+			</br><small>Грамота В.кн. Литовского <a href="../figures/jagiello.php">Ягайло</a>, 1387</small>
 		</p>
 		<p>[ <small>	
 			"... Quotiescunque etiam hostes et adversarios nostros et ipsius terrae nostrae Lithuanicae fugitivos insequi opportuerit, 
@@ -63,6 +63,50 @@
 	В <a href="../download/blr_heraldic.php">белорусской геральдике</a> Погоня занимает особое место. Ей посвящены работы историка, геральдиста и сфрагиста, сотрудника Белорусского научно-исследовательского 
 	института делопроизводства и архивного дела А. К. Титова.
 	</p>
+	<p>
+		Согласно Густынской летописи, герб ВКЛ "Погоня" установил в. князь <a href="../figures/vyten.php">Витень</a> (кн. 1293-1316): 
+		</br><i>«Витен нача княжити над Литвою, измысли себе герб и всему князству Литовскому: рыцер збройны на коне з мечем, еже ныне наричут Погоня».</i>
+	</p>
+	<p>
+	Возможно, этот герб пришел вместе с <a href="../terms/lutizy.php">лютичами-велетами</a> (полабскими славянами), уходящих от немецкой экспансии с Эльбы и Одера на берега Немана и Двины. 
+	Им посвящен целый раздел фундаментальноо труда <a href="../download/shafarik.php">"Славянские древности"</a> Й. Шафарика, 1847.
+	</p>
+	
+	<div class="col-md-12" >
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/vyten/viten_pogonia.jpg" class="highslide"
+       		 onclick="return hs.expand(this)">
+		<img src="../../images/img-figures/vyten/viten_pogonia_thumb.jpg" height="100">
+		</br><small>Витень и "Погоня"</small>
+		</a> 
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-download/shafarik/velety.jpg" class="highslide"
+       		 onclick="return hs.expand(this)">
+			<img src="../../images/img-download/shafarik/velety_thumb.jpg" class="img-float-centr" height="100"/>
+			</br><small>"Лютичи и Велеты" Й. Шафарик</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/blr_gerb/BogislawI_Siegel.jpg" class="highslide"
+       		 onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/blr_gerb/BogislawI_Siegel_thumb.jpg" height="100">
+		</br><small>Печать Богуслава I, князя лютичей</small>
+		</a> 
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+			<a href="../../images/img-terms/lutizy/lutizy.jpg" class="highslide"
+       		 onclick="return hs.expand(this)">
+			<img alt="лютичи, велеты" src="../../images/img-terms/lutizy/lutizy.jpg" height="100"/>
+			</br><small>Лютичи-велеты в словаре 1854 г.</small>
+			</a>
+		</div>
+		
+	</div>
 	
 	<p>
 	"Погоня" — древний символ <a href="../download/blr_people.php">белорусских земель</a> со времен <a href="../terms/wkl.php">ВКЛ</a>. 
@@ -85,18 +129,18 @@
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-terms/blr_gerb/rzecz_pred_razborom.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/blr_gerb/rzecz_pred_razborom_thumb.jpg" height="100">
-		</br><small>Гербы воеводств Речи Посполитой</small>	
+		<a href="../../images/img-download/atlas_historyczny_sage/1844_herby.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="гербы воеводств Реви Посполитой, гербы воеводств ВКЛ" src="../../images/img-download/atlas_historyczny_sage/1844_herby_thumb.jpg" height="100"/>
+		</br><small>Гербы воеводств  Речи Посполитой</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-terms/blr_gerb/grodno_harugva.jpg" class="highslide"
+		<a href="../../images/img-terms/blr_gerb/rzecz_pred_razborom.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/blr_gerb/grodno_harugva.jpg" height="100">
-		</br><small>Гродненская хоругва XVI-XVII вв.</small>	
+		<img src="../../images/img-terms/blr_gerb/rzecz_pred_razborom_thumb.jpg" height="100">
+		</br><small>Гербы воеводств Речи Посполитой</small>	
 		</a>
 		</div>
 		
@@ -116,6 +160,15 @@
 	губерний и наместничеств, осталась на гербах городов, в символике гусарских полков и символизировала наши земли на Большом гербе РИ.
 	</p>
 	<div class="col-md-12" >
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/blr_gerb/grodno_harugva.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/blr_gerb/grodno_harugva.jpg" height="100">
+		</br><small>Гродненская хоругва XVII в.</small>	
+		</a>
+		</div>
+		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/blr_gerb/gerby_blr_ri.jpg" class="highslide"
         onclick="return hs.expand(this)">
@@ -139,14 +192,6 @@
 		</br><small>Нагрудные знаки гусарских полков</small>	
 		</a>
 		</div>
-		
-		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-figures/tarashkevicz/TBSz_1927.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img alt="Бронислав Тарашкевич" src="../../images/img-figures/tarashkevicz/TBSz_1927_thumb.jpg" height="100" >
-			</br><small>Таварыства Беларускай Школы, 1927</small>
-			</a>
-		</div>
 							
 	</div>
 	
@@ -161,6 +206,15 @@
 	</p>
 	
 	<div class="col-md-12" >
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/tarashkevicz/TBSz_1927.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Бронислав Тарашкевич" src="../../images/img-figures/tarashkevicz/TBSz_1927_thumb.jpg" height="100" >
+			</br><small>Таварыства Беларускай Школы, 1927</small>
+			</a>
+		</div>
+		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/blr_gerb/postcard_bnr.jpg" class="highslide"
         onclick="return hs.expand(this)">
@@ -184,20 +238,22 @@
 		</br><small>Белорусская диаспора, Торонто, 1970</small>	
 		</a>
 		</div>
-		
-		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-terms/blr_gerb/blr_1991.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/blr_gerb/blr_1991_thumb.jpg" height="100">
-		</br><small>"Погоня" в символике РБ, 1991</small>	
-		</a>
-		</div>					
+							
 	</div>
 	
 	<p>
 	Герб "Погоня" включен в "Дзяржаўны спіс гісторыка-культырных каштоўнасьцяў" Ресублики Беларусь. 
 	</br>Сегодня БЧБ флаг, Погоня, национальный орнамент стали символами единения нации, уважения к своей истории.
 	</p>
+	
+	<p class="img-float-center">
+		<a href="../../images/img-terms/blr_gerb/blr_1991.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/blr_gerb/blr_1991_thumb.jpg" height="100">
+		</br><small>"Погоня" в символике РБ, 1991</small>	
+		</a>
+	</p>
+	
 	<p>
 	11 августа — День национального герба и флага. 
 	</br>Первое официальное описание герба и флага Беларуси — БНР, газета "Вольная Беларусь", 1918

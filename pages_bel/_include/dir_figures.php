@@ -1,6 +1,6 @@
 
       <div class="col-md-2 left-bar-align-center">
-      
+      <!--
       <p>
 			<a href="you.php">
 			<img src="../../images/img-figures/_hot_figures_left/you.jpg" class="img-right-80""/></br>
@@ -55,6 +55,6 @@
 			</br>в. канцлеры и змагары</small>
 			</a></br>			
 	   </p>
-	   
+	   -->
 	  </div>
 	

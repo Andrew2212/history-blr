@@ -78,7 +78,7 @@
 		
 	<div class="col-md-12">
 	
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/battle_hotin/17ce_Poland.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-events/battle_hotin/17ce_Poland_thumb.jpg" height="100">
@@ -86,7 +86,15 @@
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/battle_hotin/chocin_battle.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-events/battle_hotin/chocin_battle_thumb.jpg" height="100">
+		</br><small>Битва под Хотином</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/battle_hotin/chodkiewicz_in_hotin_1621.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-events/battle_hotin/chodkiewicz_in_hotin_1621_thumb.jpg" height="100">
@@ -94,7 +102,7 @@
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-places/nowogrudok/hotin_1621.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-places/nowogrudok/hotin_1621.jpg" height="100">

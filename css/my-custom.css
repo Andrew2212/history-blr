@@ -17,6 +17,12 @@ border-right: 1px solid #F2F2F2;
 border-left: 1px solid #F2F2F2;
 }
 
+/*Divider empty vertical */
+.div-empty{
+border-bottom: 1px solid #DDD;
+height: 12px;
+}
+
 /*==========Top list================================*/
 .top-list{
 border-bottom: 1px solid #666;

@@ -4,7 +4,7 @@
   <head>
    
 <!-- ***Title*** -->
- 	<title>Национальный язык. История Беларуси</title>
+ 	<title>Национальный язык</title>
 
 <!-- ***Meta*** -->
     <meta name="description" content="Н. я. формируется вместе с образованием нации, являясь одновременно предпосылкой 
@@ -45,7 +45,7 @@
 			<p class="img-float-right">
 			<a href="../../images/img-terms/blr_mova/mova_1858.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/blr_mova/mova_1858.jpg" height="140"/>
+			<img src="../../images/img-terms/blr_mova/mova_1858.jpg" height="140" width="150"/>
 			</br><small>Этнографический сборник.
 			</br>С-Петербург, 1858 г.</small>
 			</a>
@@ -63,9 +63,9 @@
 		</div>
 		
 		<p>
-			<h4>Esse - Habere
-			<small>или "Два мира, два образа жизни"</small>
-			</h4>
+			<h2>Esse - Habere
+			</br><small>или "Два мира, два образа жизни"</small>
+			</h2>
 			<p>
 			Амаль усе мовы падзяляюцца на дзьве вялікія групы — мовы <i>habere</i> ("мець, маю" лат.) 
 			і мовы <i>esse</i> ("быць" лат.). "Я кнігу маю" — "у меня есть книга". Беларуская і ўкраінская мовы лічацца пераходнымі.
@@ -95,39 +95,95 @@
 
 		</p>
 		
+		<h2>Prehistory</h2>
 		<p>
-			<h4>Старобелорусский язык</h4>
-			 Не будем спорить о терминах — можно называть его литовским (от <a href="litwiny.php">литвинов</a>) 
+		Белорусский этнос сложился в XIV-XV веках, когда все <a href="../download/blr_people.php">белорусские земли</a>
+		 были собраны в единое <a href="../terms/wkl.php">Великое княжество Литовское</a>. Исследователи отмечают, что 
+		 на фоне <a href="../terms/religion_blr.php">пестрой религиозной картины</a> объединяющим факторм служила культурная и языковая общность. 
+		 </p>
+		 <p>
+		 Одним из первых упоминаний об устном использовании старобелорусского языка является <a href="../figures/kejstut.php">"клятва Кейстута"</a> — 
+		заключая мир с венгерским королём, Кейстут убил быка (рогатую скотину, rogacina) и при свидетелях прокричал 
+		 <i>"Рогацина — розни наши! Господ з нами!"</i>, что было громко повторено 
+		 <a href="../terms/litwiny.php">литвинами</a> (Lithwani). 
+		 Эти слова фонетически дословно записаны в <a href="../download/chronicles_dubnica.php">Дубницкой хронике</a> 1351.	 
+		</p>
+		
+		<div class="col-md-12" >
+	
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-terms/blr_etnos/blr_etnos15ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="О белорусской народности" src="../../images/img-terms/blr_etnos/blr_etnos15ce_thumb.jpg" height="100"/>
+			</br><small>"О белорусской народности"</small>
+		</a>				
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-download/blr_people_now/1690_Hondius_Valk_Lithvaniae.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="ВКЛ 1690 Hondius Valk Lithvaniae" src="../../images/img-download/blr_people_now/1690_Hondius_Valk_Lithvaniae_thumb.jpg" height="100">
+		</br><small>1690 Lithvaniae</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-figures/kejstut/kejstut_oath.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Рогацина — розни наши! Господ з нами! (rogachina rozne nachy gospanany)" 
+		src="../../images/img-figures/kejstut/kejstut_oath_thumb.jpg" height="100">
+		</br><small>"Клятва Кейстута", 1351</small>	
+		</a>
+		</div>
+		
+		</div>
+		
+		<p>
+			<h2>Государственный язык
+			</br><small>белорусский, польский, русский</small>
+			</h2>
+			Белорусский или старобелорусский. Не будем спорить о терминах — можно называть его литовским (от <a href="litwiny.php">литвинов</a>) 
 			или старо-<a href="../download/zemie_ruskie.php">руським</a> (старо-украинским) — это дело лингвистов. 
-			</br>Это язык, на котором говорил и писал свои законы народ <a href="../download/blr_people.php">земель белорусских</a>.
-			</br>Был государственным языком удельных княжеств (Полоцкого и др.) и государственным языком ВКЛ до <a href="../times/18_vek.php">XVIII века</a>. 
+			Это язык, на котором говорил и писал свои законы народ <a href="../download/blr_people.php">земель белорусских</a>.
+		</p>
+		<p>	
+			Он был языком <a href="../terms/polotsk_principality.php">Полоцкого княжества</a> и государственным языком ВКЛ до <a href="../times/18_vek.php">XVIII века</a>. 
 			На этом языке написан <a href="statut.php">Статут ВКЛ</a>, все <a href="../download/metrica_litwa.php">Метрики Литовские</a>, 
 			княжеские и королевские привилеи (см. <a target="_blank" href="http://niab.by/unikdocs/">Национальный исторический архив</a>)
 		</p>
 		<p>	
 			700 лет — с X века до 1696 года — государственным языком на белорусских землях был наш национальный язык. 
 			</br>[ <small>На нем говорили не только литвины-белорусы.
-			Он стал родным для тысяч татар, пришедших к Витовту с Тохтамышем — на нем писали они свои китабы.</small> ]
+			Он стал родным для тысяч татар, пришедших к Витовту с Тохтамышем: на нем писали они свои китабы 
+			— тексты на белорусском языке арабским письмом.</small> ]
 		</p>
 		<p>
-			100 лет — польский и латынь. 
+			168 лет — с 1696 по 1864 — польский и латынь. 
 			</br>[<small> В 1696 году Всеобщая конфедерация сословий (конфедеративный сейм) 
 			Речи Посполитой приняла постановление о том, 
 			что в ВКЛ государственные документы должны писаться не на белорусском, а на польском и латинском языках ]</small>
 		</p>
 		<p>	
-			196 лет — с 1795 года, после раздела Речи Посполитой, и до 1991 года — государственным языком был русский.	
-		</p>
-		<p>	
-			*16 лет — с 1920 года (образование БССР) и до 1936 года государственных языков было четыре — белорусский, русский, польский, идиш.	
+			127 лет — с 1864 года, после <a href="../events/uprising_1863.php">восстания Калиновского</a>, и до 1991 года — государственным языком был русский.
+			</br>[<small> С 1863 года, после востания Калиновского, усилиями русского правительства 
+			<i>"педагогический персонал преобразился и стал исключительно русским и православным"</i>. Формально, государственных языков с 1919 года два 
+			— белорусский и русский, однако вся система образования поддерживает только один. ]</small>	
 		</p>
 		
 	<div class="col-md-12" >
 	
 		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/vitovt/vitovt_gramota_p63.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Витовт" src="../../images/img-figures/vitovt/vitovt_gramota_p63_thumb.jpg" height="100">
+		</br><small>Грамота Витовта, 1383</small>	
+		</a>
+		</div>	
+	
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/blr_mova/1391_gramota_kiriatovich.jpg" class="highslide"
         	onclick="return hs.expand(this)">       	
-			<img src="../../images/img-terms/blr_mova/1391_gramota_kiriatovich_thumb.jpg" height="120"/>
+			<img src="../../images/img-terms/blr_mova/1391_gramota_kiriatovich_thumb.jpg" height="100"/>
 			</br><small>1391 г., грамота Федора Кориатовича, внука Гедымина.
 			</br>Старабеларуская мова. Паўустаў. Пергамент</small>
 		</a>
@@ -136,7 +192,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/blr_mova/kitab.jpg" class="highslide"
         	onclick="return hs.expand(this)">        	
-			<img src="../../images/img-terms/blr_mova/kitab_thumb.jpg" height="120"/>
+			<img src="../../images/img-terms/blr_mova/kitab_thumb.jpg" height="100"/>
 			</br><small>Китаб, XVI-XVII вв.
 			</br>— белорусский текст арабской вязью
 			</br>(книги белорусских татар)</small>
@@ -146,26 +202,61 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/blr_mova/1581_gramota_batory.jpg" class="highslide"
         	onclick="return hs.expand(this)">      	
-			<img src="../../images/img-terms/blr_mova/1581_gramota_batory_thumb.jpg" height="120"/>
+			<img src="../../images/img-terms/blr_mova/1581_gramota_batory_thumb.jpg" height="100"/>
 			</br><small>1581 г., грамота Стефана Батория 
 			</br>справцу венгерских войск Г. Бекешу. 
 			</br>Старабеларуская мова. Скорапіс. Пергамент.</small>
 		</a>
+		</div>	
+		
+	</div>
+		
+		<p>	
+			*16 лет — с 1920 года (образование БССР) и до 1936 года государственных языков было четыре — белорусский, русский, польский, идиш.	
+		</p>
+	
+	
+	<div class="col-md-12" >
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/sewero_zapadny_kraj/russ_education.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Северо-Западный край" src="../../images/img-terms/sewero_zapadny_kraj/russ_education_thumb.jpg" height="100" >
+			</br><small>"Русское дело в Северо-Западном крае", 1864</small>
+			</a>
+		</div>
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/blr_mova/gum.jpg" class="highslide"
+        onclick="return hs.expand(this)">        	
+		<img src="../../images/img-terms/blr_mova/gum_thumb.jpg" height="100"/>
+		</br><small>Минский ГУМ, 1936</small>
+		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-terms/blr_mova/gum.jpg" class="highslide"
-        	onclick="return hs.expand(this)">        	
-			<img src="../../images/img-terms/blr_mova/gum_thumb.jpg" height="120"/>
-			</br><small>Минский ГУМ, 1936</small>
+		<a href="../../images/img-terms/blr_mova/mensk_1930.jpg" class="highslide"
+        onclick="return hs.expand(this)">        	
+		<img src="../../images/img-terms/blr_mova/mensk_1930_thumb.jpg" height="100"/>
+		</br><small>Главпочтампт, 1936</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/blr_mova/herb_1927.jpg" class="highslide"
+        onclick="return hs.expand(this)">        	
+		<img src="../../images/img-terms/blr_mova/herb_1927_thumb.jpg" height="100"/>
+		</br><small>Герб БССР, 1927</small>
 		</a>
 		</div>
 		
 		
 	</div>
 		
+
+		
 		<p>
-		<h4>Белорусская латинка</h4>
+		<h2>Белорусская латинка</h2>
 		— беларускі лацінскі алфавіт ("bielaruskaja lacinka") — агульная назва некалькіх гістарычна існавалых сістэм запісу беларускага 
 		(кірылаўскага) тэксту ў лацінскай сістэме пісьма. 
 		</p>
@@ -188,7 +279,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/blr_mova/lacinka_a.jpg" class="highslide"
         	onclick="return hs.expand(this)">        	
-		<img src="../../images/img-terms/blr_mova/lacinka_a_thumb.jpg" height="120">
+		<img src="../../images/img-terms/blr_mova/lacinka_a_thumb.jpg" height="100">
 		</br><small>Белорусский латинский алфавит</small> 	
 		</a>
 		</div>
@@ -196,7 +287,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/blr_mova/signs_moscov.jpg" class="highslide"
         	onclick="return hs.expand(this)">        	
-		<img src="../../images/img-terms/blr_mova/signs_moscov_thumb.jpg" height="120">
+		<img src="../../images/img-terms/blr_mova/signs_moscov_thumb.jpg" height="100">
 		</br><small>Расписки резчиков, XVII в</small>	
 		</a>
 		</div>
@@ -204,7 +295,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_1863/jaska_haspadar.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Восстание 1863-1864 года (Восстание Калиновского)" src="../../images/img-events/uprising_1863/jaska_haspadar_thumb.jpg" height="120" >
+			<img alt="Восстание 1863-1864 года (Восстание Калиновского)" src="../../images/img-events/uprising_1863/jaska_haspadar_thumb.jpg" height="100" >
 		</br><small>Воззвание Калиновского, 1863</small> 	
 		</a>
 		</div>
@@ -212,14 +303,15 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/blr_mova/lacinka_book.jpg" class="highslide"
         	onclick="return hs.expand(this)">        	
-		<img src="../../images/img-terms/blr_mova/lacinka_book_thumb.jpg" height="120">
+		<img src="../../images/img-terms/blr_mova/lacinka_book_thumb.jpg" height="100">
 		</br><small>Книги на "латинке", 1910-31 гг.</small>	
 		</a>
 		</div>		
 	</div>
 		
 		<p>
-		<h4>Тарашкевица <small>классическое правописание</small></h4>  
+		<h2>Тарашкевица 
+		</br><small>классическое правописание</small></h2>  
 		— вариант белорусской орфографии 
 		(в более широком смысле — грамматики или языковой нормы), основанный на литературной норме современного белорусского языка, 
 		первая нормализация которого была произведена <a href="../figures/tarashkevicz.php">Брониславом Тарашкевичем</a> в 1918 году и официально действовала 
@@ -229,7 +321,7 @@
 		</p>
 		
 		<p>
-		<h4>Наркомовка</h4>
+		<h2>Наркомовка</h2>
 		Реформа белорусского языка была проведена постановлением СНК БССР (опубликовано 26 августа 1933 года). 
 		</br>Был введен свод правил грамматики (издан в 1934 году), который действовал до 1959 года.
 		</br>Современные белорусские филологи подчеркивают тот факт, что более 20 новых правил, введенных реформой 1933 года, 
@@ -237,7 +329,8 @@
 		</p>
 		
 		<p>
-		<h4>Дзень дзяржаўнасьці беларускае мовы <small>3 красавіка</small></h4>
+		<h2>Дзень дзяржаўнасьці беларускае мовы 
+		</br><small>3 красавіка (3 апреля) 1918</small></h2>
 		<i>
 		"Народны Сакратарыят <a href="bnr.php">Беларускае Народнае Рэспублікі</a> прыняў пастанову пра абвешчаньне беларускае 
 		мовы дзяржаўнаю і абавязковаю моваю Рэспублікі. Нацыянальным мяншыням Беларусі дазваляецца карыстацца сваёю моваю 
@@ -247,18 +340,39 @@
 		</br>Гэта, як сказалі б цяпер, урадавы прэс-рэліз ад 3 красавіка 1918 году. Пісаны яшчэ па-расейску, пераклад — Вiнцук Вячорка.
 		</p>
 		
+		
+		<h2>Современный белорусский язык</h2>
 		<p>
-		<h4>Современный белорусский язык</h4>
-		— время покажет. Пока — <a href="../articles/book_mova.php">так</a>. 
+		Официальный язык в Беларуси и в <a target="_blank" href="../../images/img-terms/blr_mova/polasie.jpg">Подляшье</a> (Польша). 
+		Статус по оценке ЮНЕСКО — "уязвимый".
+		</br>Что будет дальше — время покажет. Пока — <a href="../articles/book_mova.php">так</a>. 
 		</p>
 		
+		<h3>Артаграфічны стандарт беларускага пісьма</h3>
 		<p>
-		<b>Горад</b>
+		Возвращение  <a target="_blank" href="http://www.svaboda.org/content/transcript/27498636.html">классическиого правописания</a>.
+		
+		Зьміцер Саўка: 
+		</br><i>"Тое, што мы назвалі клясычным правапісам, сталася такім ужо ў мінулым стагодзьдзі. Нагадаю, што летась мы адзначалі 
+		90-годзьдзе існаваньня граматыкі Тарашкевіча. Якраз для таго, каб ня блытаць правапісных праяваў мовы зь іншымі (граматычнымі, лексычнымі, 
+		сынтаксічнымі), на пачатку 1990-х увялі тэрмін «беларускі клясычны правапіс»."
+		</i>
+		</p>		 
+		<p>
+		Збор правілаў можна спампаваць 
+		<a target="_blank" href="../../images/img-terms/blr_mova/belaruski_pravapis2005.pdf">ТУТ</a>.
+		</p>
+		
+		
+		<h3><i>"Горад"</i>
 		</br><small>
 		<a target="_blank" href="http://euroradio.fm/u-ispanki-yakaya-pisha-pa-belarusku-u-minsku-vyhodzic-zbornik-vershau">Ангела Эспіноса Руіз</a>
 		</small>
+		</h3>
+		
+		<p>
 		<i>
-	</br>Легенда абвяшчае, што дзесьці ёсьць горад,
+		Легенда абвяшчае, што дзесьці ёсьць горад,
 	</br>Восеньню золата і агню,
 	</br>Дзе зіма разразае паветра, як тысяча нажоў,
 	</br>Пакідаючы кроплі крыві, зь якіх будуць расьці кветкі
@@ -291,17 +405,22 @@
 		Распавед пра свой зборнік вершаў “Раяль ля мора”</small>
 		</p>
 		
+		<h2>Мова для школьников</h2>
 		<p>
-		Возвращение  <a target="_blank" href="http://www.svaboda.org/content/transcript/27498636.html">классическиого правописания</a>. 
-		</br>Артаграфічны стандарт беларускага пісьма. Збор правілаў . Спампаваць 
-		<a target="_blank" href="../../images/img-terms/blr_mova/belaruski_pravapis2005.pdf">ТУТ</a>.
-		</p>				
-		<p>
-		Официальный язык в Беларуси и в <a target="_blank" href="../../images/img-terms/blr_mova/polasie.jpg">Подляшье</a> (Польша). Статус по оценке ЮНЕСКО — "уязвимый".
+		Короткий (9 страниц А4) реферат с иллюстрациями для школьников по материалам страницы. 
+		Формат PDF, текст легко и без проблем с кодировкой переносится в Ворд для правки и переделки под свои нужды.
+		Иллюстрации при печати на А4 хорошо читаемы.
 		</p>
 		<p>
-		<a target="_blank" href="http://www.philology.ru/linguistics3/musorin-06.htm">"Белорусская теонимическая лексика"</a> на филологическом портале Philology.ru
-		</br><i>
+			Файл PDF, 1,2 Мб</br>
+			<a target="_blank" href="../../images/img-terms/blr_mova/Belaruskaja_mova.pdf" class="btn btn-info img-float-centr"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+		</p>
+								
+		<h2>Белорусская теонимическая лексика 
+		</br><small>на филологическом портале <a target="_blank" href="http://www.philology.ru/linguistics3/musorin-06.htm">Philology.ru</a></small>
+		</h2>
+		<p><i>
 		"Теонимическая лексика белорусского языка формировалась в условиях, принципиально отличных от тех, в которых формировалась теонимическая 
 		лексика русского, или, скажем, польского языков. Дело в том, что белорусы на протяжении почти всей своей этнической истории 
 		не были православным народом, как русские, или католическим, как поляки, но представляли собой 
@@ -310,12 +429,20 @@
 		что, в свою очередь, нашло отражение и в белорусской теонимии."
 		</i>
 		</p>
+		
+		<h2>Пра беларускія лаянку і паўторамоўе
+		</br><small>ад Уладзіслава Іванова, выкладчыка сацыелінгвістыкі ЕГУ</small>
+		</h2>
+		<p>
+		Уладзіслаў выбраў не самую простую галіну лінгвістыкі для вывучэння: лаянку беларускай мовы. 
+		І мэта ягоная гэткая ж нялёгкая як і справы ў беларускай лінгвістыцы: пераканаць беларусаў — ад паэтаў і выкладчыкаў 
+		да звычайных гараджанаў — што цэнзураваць сябе ў штодзённым жыцці не варта. І што разнастайнасць і плюралізм — гэта добра.
+		</br><a target="_blank" href="http://generation.by/news7131.html">Read more...</a>
+		</p>
 
 	
 		</br></br></br>
 		<p><small>
-		http://biofile.ru/his/27498.html</br>
-		http://www.gistoryja.ru/vtoraya-polovina-XVI-konec-XVIII-v/33-kontrreformacija-v-belarusi.php</br>
 		be-x-old.wikipedia.org</br>
 		be.wikipedia.org</br>
 		pl.wikipedia.org</br>

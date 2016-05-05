@@ -84,7 +84,7 @@
 		<div class="col-md-4 img-float-center" >
 		<a href="../../images/img-terms/litwiny/litviny_david.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litviny_david_thumb.jpg" width="160" height="120">		
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litviny_david_thumb.jpg" height="120">		
 		</a>
 		</div>
 		
@@ -98,7 +98,7 @@
 		<div class="col-md-4 img-float-center" >
 		<a href="../../images/img-terms/litwiny/peter_text.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/peter_text.jpg" width="160" height="120">		
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/peter_text_thumb.jpg" height="120">		
 		</a>
 		</div>
 	</div>
@@ -123,7 +123,7 @@
 		<div class="col-md-4 img-float-center" >
 		<a href="../../images/img-terms/litwiny/smolensk_blr.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/smolensk_blr.jpg" width="160" height="120" >
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/smolensk_blr_thumb.jpg" height="120" >
 		</a>
 		</div>
 		
@@ -147,25 +147,32 @@
 		</p>
 		
 	<div class="col-md-12" >
-		
-		<div class="col-md-4 img-float-center" >
-		<a href="../../images/img-terms/litwiny/litvin_2.jpg" class="highslide"
+	
+		<div class="col-md-3 img-float-center" >
+		<a href="../../images/img-terms/litwiny/1842_litviny.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_2.jpg" width="160" height="120" >
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/1842_litviny_thumb.jpg"  height="120" >
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center" >
+		<div class="col-md-3 img-float-center" >
+		<a href="../../images/img-terms/litwiny/litvin_2.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_2_thumb.jpg" height="120" >
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center" >
 		<a href="../../images/img-terms/litwiny/litvin_3.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_3_thumb.jpg" height="120" >
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center" >
+		<div class="col-md-3 img-float-center" >
 		<a href="../../images/img-terms/litwiny/litvin_blr.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_blr.jpg" height="120" >
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_blr_thumb.jpg" height="120" >
 		</a>
 		</div>
 		
@@ -194,6 +201,25 @@
 		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litwiny_blr_thumb.jpg" height="120" >
 		</br><small>Bialarusini — prawdziwi, historyczni Litwini</small>
 		</a>
+		</p>
+		
+		<i>
+		<p>
+		"Пан падлоўчы быў родам дзесь з Гарадзеншчыны і паходзіў, як ён казаў сам, са старога дваранскага роду. Тутэйшае жыхарства лічыла яго палякам, 
+		сам жа пан падлоўчы з гэтым не згаджаўся.
+		</p>
+		<p>
+		«Я — ліцвін», — з нейкаю гордасцю зазначаў пан падлоўчы і сваю належнасць да ліцвіноў даводзіў, паміж іншым, 
+		і тым, што яго прозвішча — Баранкевіч — мела канчатак на «іч», тады як чыста польскія прозвішчы канчаюцца на «скі»: 
+		Жулаўскі, Дамброўскі, Галонскі. Даведаўшыся, што прозвішча новага настаўніка Лабановіч, падлоўчы пры спатканні з ім прыметна 
+		выказаў адзнакі здавальнення, як гэта бывае тады, калі нам на чужыне прыходзіцца спаткацца з земляком.
+		</p>
+		<p>
+		— То і пан — ліцвін! — весела сказаў ён маладому настаўніку і пастукаў яго па плячы." 
+		</p>
+		</i>
+		<p>
+		<small>"У палескай глушы", Я. Колас</small>
 		</p>
 		
 		

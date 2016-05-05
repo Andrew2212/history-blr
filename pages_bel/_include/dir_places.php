@@ -1,6 +1,6 @@
 
       <div class="col-md-2 left-bar-align-center">
-      
+      <!--
       <p>
 			<a href="wilno.php">
 			<img src="../../images/img-places/_hot_places_left/vilno.jpg" class="img-right-80""/></br>
@@ -42,6 +42,6 @@
 			<small>Немига</small>
 			</a></br>			
 	   </p>
-	   
+	   -->
 	  </div>
 	

@@ -19,12 +19,11 @@
 <div class="alt2">
 <div style="display: none;">
 
-		<div class="col-md-12">
-   		 <ul class="nav nav-list">
-        <!--It's just line-->
-        <li class="nav-divider"></li>
-    	</ul>
-   		 </div>
+<div class="col-md-12 top-list">
+<!--It's just line-->
+</div>
+
+
 <h3>
 Родовод Гедиминовичей.
 </h3>
@@ -51,6 +50,12 @@
 </p>
 <p>
  И чем руководствовались жители, предпочтя их выходцам из соседних (Волынь, Киев, Смоленск, Новгород, Мазовия) княжеств, которые
+ <p class="img-float-left" style="margin-right:28px;">
+		<a href="../../images/img-terms/polotsk_principality/cronicle_Litowska.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/polotsk_principality/cronicle_Litowska_thumb.jpg" height="100">	
+		</a>
+		</p>
  <ul>
  	<li>
  	представляют мощное государственное образование
@@ -70,7 +75,7 @@
  </ul>
 </p>
 <p>
-И это при том, что в то время — время княжеско-вечевого строя — неугодных правителей довольно часто просто изгоняли.
+И это при том, что в то время в Полоцке была <i>"свободность Полоцкая або Венеция"</i>  — неугодных правителей довольно часто просто изгоняли.
 </p>
 <p>
  <a href="../figures/mindowg.php">Миндовг</a> был принят на ятвяжских землях — но он был король <a href="../terms/yotving.php">пруссов</a>, а 
@@ -164,12 +169,9 @@
 		</a>
 		</p>
 
-		<div class="col-md-12">
-   		 <ul class="nav nav-list">
-        <!--It's just line-->
-        <li class="nav-divider"></li>
-    	</ul>
-   		 </div>     
+<div class="col-md-12 top-list">
+<!--It's just line-->
+</div>     
       
 </div>
 </div>

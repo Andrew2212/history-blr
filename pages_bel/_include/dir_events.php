@@ -1,6 +1,6 @@
 
       <div class="col-md-2 left-bar-align-center">
-      
+      <!--
       <p>
 			<a href="battle_nemiga.php">
 			<img src="../../images/img-events/_hot_events_left/battle_nemiga.jpg" class="img-right-80""/></br>
@@ -56,6 +56,6 @@
 			<small>Битва под Лоевом</small>
 			</a></br>			
 	   </p>
-	   
+	   -->
 	  </div>
 	

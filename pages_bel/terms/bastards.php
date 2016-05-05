@@ -39,8 +39,7 @@
 		</p>
 		
 		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-terms/bastards/kazaki_by.jpg">
-		<a href="#_#_#" class="highslide"
+		<a href="../../images/img-terms/bastards/kazaki_by.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/bastards/kazaki_by_thumb.jpg" height="160">
 		</br><small>Белорусские казаки 

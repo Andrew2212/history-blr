@@ -355,7 +355,15 @@ XI. Народные вооруженные силы
 		
 		<div class="col-md-12">
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/constitution_3may/3_may_medal.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Конституция 3 мая 1791 года" src="../../images/img-events/constitution_3may/3_may_medal_thumb.jpg" height="100">
+		</br><small>Памятная медаль</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/constitution_3may/glybokae_3may.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Конституция 3 мая 1791 года" src="../../images/img-events/constitution_3may/glybokae_3may_thumb.jpg" height="100">
@@ -363,7 +371,7 @@ XI. Народные вооруженные силы
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/constitution_3may/Passing_of_the_3rd_of_May_Constitution.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Конституция 3 мая 1791 года" src="../../images/img-events/constitution_3may/Passing_of_the_3rd_of_May_Constitution_thumb.jpg" height="100">
@@ -371,7 +379,7 @@ XI. Народные вооруженные силы
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/constitution_3may/mahilewcy_3may.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Конституция 3 мая 1791 года" src="../../images/img-events/constitution_3may/mahilewcy_3may_thumb.jpg" height="100">

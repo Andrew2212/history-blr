@@ -124,7 +124,11 @@
           <h4>Разное</h4>
 		<li>
           <a href="atrad_bnr.php">Асобны атрад БНР</a>
-        </li>             
+        </li> 
+		 <li>
+          <a href="vajacki_marsz.php">"Ваяцкі марш"</a>
+		  </br><small>гимн Белорусской Народной Республики</small>
+        </li>            
         <li>
           <a href="yotving.php">Готы, ятвяги, пруссы, венеды</a>
         </li>

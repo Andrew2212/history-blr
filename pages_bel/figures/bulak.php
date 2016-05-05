@@ -3,20 +3,15 @@
 <html lang="ru">
   <head>
 <!-- ***Title*** -->
- 	<title>Булак-Балахович. История Беларуси</title>
+ 	<title>Станислав Булак-Балахович</title>
 
 <!-- ***Meta*** -->
-	<meta name="description" content="Булак-Балахович. 
-	...Я предоставляю обществу свободно решить, кого из арестованных или подозреваемых освободить, а кого покарать. Коммунистов же 
-	и убийц повешу до единого человека...
-	Выдающиеся люди в истории Беларуси. Эти люди рождались, жили, творили, сражались и умирали на этой земле и за эту землю. 
-	Они достойны того, чтобы их помнили. Среди них были воины и поэты, художники и скульпторы, ученые и путешественники, 
-	авантюристы и интеллектуалы-романтики, первый Президент Гавайев и основоположник ракетостроения, первый исследователь древнего Вавилона и 
-	святой апостол церковного единения.
+	<meta name="description" content="Командир Асобнага Атрада БНР, главнокомандующий вооруженных сил Беларуси, командир Белорусской Народной Армии 
+	— он воевал с немцами и большевиками, поддерживал БНР и Слуцки Збройны чын, его имя до сих пор запрещено на родине — Станислав Булак-Балахович
 	" />
   	<meta name="keywords" itemprop="keywords" content=" Булак-Балахович, 
 	  история беларуси, история белоруссии, история беларуси кратко в датах, известные люди беларуси, знаменитые люди беларуси"/>
-	  <meta property="og:image" content="http://history-belarus.by/images/img-figures/bulak/card.jpg" />
+	  <meta property="og:image" content="http://history-belarus.by/images/img-figures/bulak/title.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_figures.php"); ?>
@@ -35,17 +30,18 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Булак-Балахович, Станислав Никодимович</h3>
+		<h1> Станислав Булак-Балахович</h1>
 		<p class="img-float-left">
-			<a target="_blank" href="../../images/img-figures/bulak/bulak_speech.jpg">
-			<img alt="Булак-Балахович" src="../../images/img-figures/bulak/bulak_speech_thumb.jpg" height="180" >
-			</br><small>"Народзе беларускi!"</small>
+			<a href="../../images/img-figures/bulak/bulak-balahowicz.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Булак-Балахович" src="../../images/img-figures/bulak/bulak-balahowicz_thumb.jpg" height="160" >
 			</a>
 		</p>
 		<p class="img-float-right">
-			<a target="_blank" href="../../images/img-figures/bulak/bulak-balahowicz.jpg">
-			<img alt="Булак-Балахович" src="../../images/img-figures/bulak/bulak-balahowicz.jpg" height="180" >
-			</br><small>С. Н. Булак-Балахович</small>
+			<a href="../../images/img-figures/bulak/bulak_speech.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Булак-Балахович" src="../../images/img-figures/bulak/bulak_speech_thumb.jpg" height="140" >
+			</br><small>"Народзе беларускi!"</small>
 			</a>
 		</p>
 		<p>
@@ -54,7 +50,7 @@
 		</i>
 		</p>
 		<p>
-		Станислав Булак-Балахович (22.02.1883 - 10.05.1940) — военный и политический деятель эпохи Гражданской войны, генерал Белой армии, 
+		Станислав Никодимович Булак-Балахович (22.02.1883 - 10.05.1940) — военный и политический деятель эпохи Гражданской войны, генерал Белой армии, 
 		один из лидеров вооруженного сопротивления большевикам в <a href="../terms/belarus.php">Беларуси</a>.
 		</p>
 		<p>
@@ -68,12 +64,52 @@
 		Считая Германию главным врагом, примкнул к Красной Армии. Был командиром Лужского партизанского (1-го конного) полка.	
 		</p>
 		<p>
+		Это было время, когда на руинах <a href="../terms/sewero_zapadny_kraj.php">Северо-Западного края</a> 
+		идею <a href="../terms/kraj_tut.php">тутэйшай краевасьци</a> и самоуправления 
+		— в различных его вариантах: от унии с Польшей до полной независимости — 
+		поддерживали все слои населения, от крестьян до польскоязычной <a href="../terms/shliahta.php">шляхты</a>. 
+		</p>
+		<h3>Асобны Атрад БНР</h3>
+		<p>
 		 В 1918 году, на фоне обострившихся конфликтов с большевиками и желания участвовать в разгоравшейся национально-освободительном движении
 		  Северо-Западного края, переходит на сторону "белых". Воевал в составе Северо-Западной Армии 
-		  (<a href="../terms/atrad_bnr.php">Асобны атрад БНР</a>, 1919-20 г). 
+		  — <a href="../terms/atrad_bnr.php">Асобны атрад БНР</a>, 1919-20 г. 
 		  Для «учинения расчетов» по содержанию армии, арестовывает командующего армией генерала Юденича. После этого был выдан ордер на 
-		  его арест. Атаман сумел скрыться.
+		  его арест. Станислав Булак-Балахович сумел скрыться.
 		</p>
+		
+<!--Spoiler-->
+<!--http://forwebmaster.net/prostoy-spoyler-dlya-sayta-v-html/-->
+<div class="spoil">
+	
+	<p>
+	<div class="smallfont">
+	<h3>* Границы Беларуси 1914-1946 гг</h3>
+	
+	<input type="button" class="btn btn-info btn-sm" value="Показать / Скрыть" class="input-button" 
+	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Показать / Скрыть'; }">
+	</p>
+
+</div>
+
+<div class="alt2">
+<div style="display: none;">
+
+
+
+	<!-- ***blr_entire *** -->
+  	<? include ("../_include/include_Blr_border_1914-1946.php"); ?>
+
+
+<div class="col-md-12 top-list">
+<!--It's just line-->
+</div>    
+      
+</div>
+</div>
+</div>	
+<!--/Spoiler-->	
+		
 		<p>
 		С 1920 года Булак-Балахович в составе РНДА сражается с большевиками на территории Беларуси. 
 		 По соглашению с <a href="../terms/bnr.php">БНР</a> был признан главнокомандующим вооруженных сил Беларуси и приказал сформировать (отдельно от 
@@ -88,29 +124,45 @@
 		В ноябре 1920 года после неудачного похода в Полесье армия отступила на территорию Польши, где была интернирована и расформирована. ]
 		</small></p>
 		
+		<p>
+		Про Белорусскую Народную армию <a href="../figures/bulak.php">Булак-Балаховича</a>,
+		газеты писали, что <i>"он хочет создать Белорусскую Речь Посполитую"</i> с временным правительством, в которое входили бы
+		<a href="../figures/skirmunt.php">Роман Скирмунт</a> и <a href="../figures/woinillovicz.php">Эдвард Войнилович</a> 
+		(см. <a href="../download/blr_nationalists_1957.php">"Воспоминания 1917-1928"</a> Э. Войниловича)
+		</p>
+		
 	<div class="col-md-12">	
 	
-		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-figures/bulak/krzyz_Bulaka-Balachowicza.jpg">
-		<img alt="Булак-Балахович Крест Храбрых" src="../../images/img-figures/bulak/krzyz_Bulaka-Balachowicza.jpg" height="160">
-		</br><small>"Крест Храбрых"
-		</br>орден, учрежденный Булак-Балаховичем</small>
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/uprising_sluzk/wojnilowicz_book.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img lt="Слуцки Збройны чын 1920" src="../../images/img-events/uprising_sluzk/wojnilowicz_book_thumb.jpg" height="100" >
+			</br><small>Из "Воспоминаний" Э. Войниловича</small>
+			</a>
+		</div>
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/bulak/krzyz_Bulaka-Balachowicza.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Булак-Балахович Крест Храбрых" src="../../images/img-figures/bulak/krzyz_Bulaka-Balachowicza_thumb.jpg" height="100">
+		</br><small>"Крест Храбрых" — орден, учрежденный Булак-Балаховичем</small>
 		</a> 
 		</div>
 		
-		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-figures/bulak/mark.jpg">
-		<img alt="Булак-Балахович. Асобны атрад БНР" src="../../images/img-figures/bulak/mark_thumb.jpg" height="160">
-		</br><small>Марка "Асобны атрад БНР" 
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/bulak/mark.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Булак-Балахович. Асобны атрад БНР" src="../../images/img-figures/bulak/mark_thumb.jpg" height="100">
+		</br><small>"Асобны атрад БНР" 
 		</br>выпуск Булак-Балаховича, 1920</small>
 		</a> 
 		</div>
 		
-		<div class="col-md-4 img-float-center">
-		<a target="_blank" href="../../images/img-figures/bulak/card.jpg">
-		<img alt="Булак-Балахович" src="../../images/img-figures/bulak/card.jpg" height="160">
-		</br><small>Булак-Балахович на марке "Беларусь"
-		</br>1980-е, Польша, "Солидарность"</small>
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/bulak/card.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Булак-Балахович" src="../../images/img-figures/bulak/card_thumb.jpg" height="100">
+		</br><small>1980-е, Польша, "Солидарность"</small>
 		</a> 
 		</div>
 				
@@ -124,9 +176,10 @@
 		
 	<div class="col-md-12">	
 	
-		<div class="col-md-6 img-float-center">
-		<a target="_blank" href="../../images/img-figures/bulak/Bulak_Balachowicz_Warsaw.jpg">
-			<img alt="Булак-Балахович" src="../../images/img-figures/bulak/Bulak_Balachowicz_Warsaw_thumb.jpg" height="180" >
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-figures/bulak/Bulak_Balachowicz_Warsaw.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Булак-Балахович" src="../../images/img-figures/bulak/Bulak_Balachowicz_Warsaw_thumb.jpg" height="100" >
 			</br><small>Мемориальная доска </small>
 			</a>
 			<small>
@@ -134,9 +187,19 @@
 			</br>в память о генерале Булак-Балаховиче, Варшава</small>
 		</div>
 		
-		<div class="col-md-6 img-float-center">
-		<a target="_blank" href="../../images/img-figures/bulak/bulak_memory.jpg">
-			<img alt="Булак-Балахович" src="../../images/img-figures/bulak/bulak_memory_thumb.jpg" height="180" >
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-figures/bulak/1919_Balachovicz.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Булак-Балахович" src="../../images/img-figures/bulak/1919_Balachovicz_thumb.jpg" height="100" >
+			</br><small>1919 Отряд Станислава Булак-Балаховича</small>
+			</a>
+
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-figures/bulak/bulak_memory.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Булак-Балахович" src="../../images/img-figures/bulak/bulak_memory_thumb.jpg" height="100" >
 			</br><small>Памятник Балаховичам</small>
 			</a>
 			<small>
@@ -145,6 +208,8 @@
 		</div>
 		
 	</div>
+	
+
 		
 		</br></br></br>
 		<p><small>

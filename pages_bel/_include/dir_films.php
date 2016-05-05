@@ -1,5 +1,6 @@
 
       <div class="col-md-2 left-bar">
+      <!--
       <ul>
 
           <h4>NonPoliticslFilms</h4>
@@ -21,5 +22,6 @@
         </li>
         
       </ul>
+      -->
 	  </div>
 	

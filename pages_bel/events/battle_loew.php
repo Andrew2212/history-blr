@@ -8,7 +8,7 @@
 	"/>
 	<meta name="keywords" itemprop="keywords" content="Битва под Лоевом,
 	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
-	<meta property="og:image" content="http://history-belarus.by/images/img-events/battle_loew/1670_wkl_loew_thumb.jpg" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-events/battle_loew/1670_wkl_loew.jpg" />
 	<!-- ***Title*** -->
     <title>Битвы под Лоевом. История Беларуси</title>
 
@@ -30,37 +30,47 @@
     <? include ("../_include/top_list_events.php"); ?>
   
 
-		<h3>Битвы под Лоевом, 1649 и 1651</h3>
+		<h1>Битвы под Лоевом с Войском Запорожским</h1>
+		
+		<p>
+		Битвы под Лоевом — сражения между армией 
+		<a href="../terms/wkl.php">Великого Княжества Литовского</a> и Войском
+		Запорожским в ходе Казацкой войны (восстание Хмельницкого).
+		</p>
+		<p>
+		Восстание Хмельницкого (1648-1654) — восстание казаков на <a href="../download/zemie_ruskie.php">Землях Руских</a>, отошедших от ВКЛ 
+		к Польше по условиям <a href="unia_liublin.php">Люблинской унии</a> 1569 года. Сложные взаимоотношения между Короной и казачеством порождали 
+		многочисленные вооруженные конфликты.
+		</p>
 		
 		<p class="img-float-left">
-		<a href="../figures/radziwilly.php">
-		<img alt="Януш Радзивилл" src="../../images/img-events/battle_loew/janush_radziwill.jpg" height="160">
+		<a href="../../images/img-events/battle_loew/janush_radziwill.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Януш Радзивилл" src="../../images/img-events/battle_loew/janush_radziwill_thumb.jpg" height="120">
 		</br><small>Януш Радзивилл</small>
 		</a>
 		</p>
 		
 		<p class="img-float-right">
-		<img alt="Битва под Лоевом" src="../../images/img-events/battle_loew/loew.jpg" height="160">
+		<a href="../../images/img-events/battle_loew/loew.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Битва под Лоевом" src="../../images/img-events/battle_loew/loew_thumb.jpg" height="120">
 		</br><small>г. Лоев (Беларусь)</small>
+		</a>
 		</p>
+		
+		<h3>Битва под Лоевом, 1649 год</h3>
+		
 		<p>
-		Битва под Лоевом 31 июля 1649 года — сражение между армией 
-		<a href="../terms/wkl.php">Великого Княжества Литовского</a> и Войском
-		Запорожским в ходе Казацкой войны (восстание Хмельницкого).
-		</p>
-		<p>
-		7-тысячное войско под командованием Януша <a href="../figures/radziwilly.php">Радзивилла</a> разбило 20-тысячную казацкую армию Степана Пободайлы и Михаила Кричевского.
-		</p>
-		<p>
-		<small>[ Восстание Хмельницкого (1648-1654) — восстание казаков на <a href="../download/zemie_ruskie.php">Землях Русских</a>, отошедших от ВКЛ 
-		к Польше по условиям <a href="unia_liublin.php">Люблинской унии</a> 1569 года ]</small> 
+		Януш <a href="../figures/radziwilly.php">Радзивилл</a>, воевода Виленский и польный гетман Литовский, во главе 7-тысячной армии 
+		разбил 20-тысячное казацкое войско Степана Пободайлы и Михаила Кричевского.		
 		</p>
 		<p>
 		Казацкая армия под предводительством Степана Пободайло взяла Лоев в конце июня 1649 года. Город стал использоваться казаками, 
 		как основная база, для распространения власти Войска Запорожского на близлежащие области. 
 		</p>
 		<p>
-		В ответ на это, в июле того же года <a href="../terms/weliki_hetman.php">великий гетман Литовский</a> Радзивилл, собрав армию численностью 7000 человек 
+		В ответ на это, в июле того же года Януш Радзивилл, собрав армию численностью 7000 человек 
 		(820 <a href="../terms/husaria.php">гусар</a>, 1660 драгун, 2000 <a href="../terms/zemiane.php">панцирных бояр</a>, 1500 немецкой пехоты), двинул их на Лоев.
 		</p>
 		<p>
@@ -74,7 +84,9 @@
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../download/zemie_ruskie.php">
-		<img alt="Битва под Лоевом. Земли Русские" src="../../images/img-download/ziemie_ruskie_thumb.jpg" height="100">
+		<a href="../../images/img-events/battle_loew/Cborniy_atlas_Rechi_pospolitoy_ziemie_ruskie.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Битва под Лоевом. Земли Русские" src="../../images/img-events/battle_loew/Cborniy_atlas_Rechi_pospolitoy_ziemie_ruskie_thumb.jpg" height="100">
 		</br><small>Земли Русские Речи Посполитой</small>
 		</a>
 		</div>
@@ -82,7 +94,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-terms/blr_entire/ua_hmelnicky.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Беларусь и соседи" src="../../images/img-terms/blr_entire/ua_hmelnicky_thumb.jpg" height="100">
+		<img alt="Битва под Лоевом" src="../../images/img-terms/blr_entire/ua_hmelnicky_thumb.jpg" height="100">
 		</br><small>Восстание Хмельницкого</small>	
 		</a>
 		</div>
@@ -98,6 +110,8 @@
 		
 	</div>
 		
+		<h3>Битва под Лоевом, 1651 год</h3>
+		
 		<p>
 		Спустя два года, 6 июля 1651 года на том же месте состоялась вторая битва под Лоевом с Войском Запорожским. 
 		</br>На этот раз численное превосходство было у армии княжества Литовского. 
@@ -106,28 +120,33 @@
 		
 		<h3>Лоев</h3>
 		<p class=" img-float-left">
-		<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DcENfemRoR0R0SlU/view?usp=sharing">
+		<a href="../../images/img-events/battle_loew/1670_wkl_loew.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img alt="Битва под Лоевом" src="../../images/img-events/battle_loew/1670_wkl_loew_thumb.jpg" height="160">
-		</br><small>1670 г. Лоев на карте ВКЛ
-		</br>(у слияния  Днепра и Сожа)</small>
+		</br><small>Лоев на карте ВКЛ
+		</br>1670 Lithvaniae, Amsterdam</small>
 		</a>
 		</p>
 		<p>
-		Лоев — у слияния Днепра и Сожа — западная оконечность <a href="../places/sea_herodotus.php">Полесья</a>, полесских болот, 
+		Город Лоев — у слияния Днепра и Сожа — западная оконечность <a href="../places/sea_herodotus.php">Полесья</a>, полесских болот, 
 		оставшихся от <a href="../places/sea_herodotus.php">моря Геродота</a>. 
-		И потому именно здесь проходили пути армий, приходящих с юга на <a href="../download/blr_people.php">белорорусские земли</a>. 
+		И потому именно здесь проходили пути армий, приходящих с юга на <a href="../download/blr_people.php">белорорусские земли</a>.
+		 
 		</p>
 		
 		<p>
 		В XV-XVI веке Лоев стал тем местом, где татары Крымского ханства, идущие с набегом в направлении <i>"на Лоеву Гару, Петриковичи и на Слуцко"</i>, 
-		переправлялись через Днепр, и потому неоднократно был разрушен. 
-		</br>В королевской грамоте 1539 года было сказано: 
+		переправлялись через Днепр, и потому неоднократно был разрушен.  
+		</p>
+		<p>
+		В королевской грамоте 1539 года было сказано: 
 		</br><i>"люди великие поганство Татарове идуть у верх Днепра тым шляхом, которым третий год шли, мимо Чернигов на Лоеву Гору, 
 		и оттол бы они мели просто идти в тамошнее панство наше Великое князства Литовское, сказу и плен подданым нашим чинити"</i>.
 		</p>
 		
 		<p>
-		После одного из подобных разорений <a href="../figures/sapega.php">Лев Сапега</a> <i>"властным накладом своим замок и место на Лоевой Горе на шляху татарском заложил"</i>
+		После одного из подобных разорений <a href="../figures/sapega.php">Лев Сапега</a> <i>"властным накладом своим замок и место на Лоевой Горе на шляху 
+		татарском заложил"</i>. Город отмечен на большинстве <a href="../download/map_17century.php">карт ВКЛ XVII века</a>
 		</p>
 		
 		

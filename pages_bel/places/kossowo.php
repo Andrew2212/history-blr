@@ -32,9 +32,10 @@
 		<h3>Коссово</h3>
 		
 		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-places/kossovo/kossovo.jpg">
-		<img alt="Волчин" src="../../images/img-places/kossovo/kossovo.jpg" height="160">
-		</br><small>Коссово, Беларусь</small>
+		<a href="../../images/img-places/kossovo/kossovo.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Коссово, Меречевщина, Костюшко" src="../../images/img-places/kossovo/kossovo_thumb.jpg" height="160">
+		</br><small>Косава і Мерачоўшчына, РБ</small>
 		</a>
 		</p>
 		
@@ -58,22 +59,25 @@
 			Напротив дворца на берегу озера расположен дом-музей <a href="../figures/kostiushko.php">Тадеуша Костюшко</a>.
 		</p>
 		<p>
-			Анджей Тадеуш Бонавентура Костюшко ( 4 февраля 1746, Меречевщина /урочище 1,5 км от Коссово/, ВКЛ - 15 октября 1817, Швейцария) - военный и политический деятель Речи Посполитой и США, участник Войны за независимость США, организатор восстания 1794 года, национальный герой Польши, Беларуси, США и Литвы, почётный гражданин Франции.
+			Анджей Тадеуш Бонавентура Костюшко (4 февраля 1746, Меречевщина /урочище 1,5 км от Коссово/, ВКЛ — 15 октября 1817, Швейцария) - военный и политический деятель Речи Посполитой и США, участник Войны за независимость США, организатор восстания 1794 года, национальный герой Польши, Беларуси, США и Литвы, почётный гражданин Франции.
 
 		</p>
 		
 		
 		<div class="col-md-12" >
+		
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-places/kossovo/kosovo_palac.jpg">
-		<img src="../../images/img-places/kossovo/kosovo_palac_thumb.jpg" height="120">
+		<a href="../../images/img-places/kossovo/kosovo_palac.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-places/kossovo/kosovo_palac_thumb.jpg" height="100">
 		</br><small>Коссовский замок</small> 	
 		</a>
 		</div>
 		
-		<div class="col-md-6 img-float-center">
-		<a target="_blank" href="../../images/img-places/kossovo/kossovo_orda.jpg">
-		<img src="../../images/img-places/kossovo/kossovo_orda_thumb.jpg" height="120">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-places/kossovo/kossovo_orda.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-places/kossovo/kossovo_orda_thumb.jpg" height="100">
 		<small>
 		</br>Коссовский замок и усадьба Костюшко
 		</br>Рисунок Н. Орды.
@@ -82,9 +86,18 @@
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-places/kossovo/kossovo_kostiushko.jpg">
-		<img src="../../images/img-places/kossovo/kossovo_kostiushko_thumb.jpg" height="120">
+		<a href="../../images/img-places/kossovo/kossovo_kostiushko.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-places/kossovo/kossovo_kostiushko_thumb.jpg" height="100">
 		</br><small>Усадьба Костюшко</small>	 	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/kostiushko/kossovo_memory.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Тадеуш Костюшко" src="../../images/img-figures/kostiushko/kossovo_memory_thumb.jpg" height="100">
+		</br><small>Усадьба Костюшко</small>
 		</a>
 		</div>
 		

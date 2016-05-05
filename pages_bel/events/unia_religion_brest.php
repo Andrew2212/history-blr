@@ -29,8 +29,9 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h3>1596 Брестская церковная уния 
-		</br><small>наследие <a href="unia_religion_italy.php">Флорентийской Унии</a> 1439 года</small></h3>
+		<h1>1596 Брестская церковная уния 
+		</br><small>наследие <a href="unia_religion_italy.php">Флорентийской Унии</a> 1439 года</small>
+		</h1>
 		
 		<p>
 		Уния церковная (лат. соединение) — слияние исповеданий православного и католического, причем, с одной стороны, 
@@ -114,13 +115,23 @@
 		<a href="../figures/kunciewicz.php">св. Иосафат Кунцевич</a> — "апостол единения", архиепископ Полоцкий, проповедник Унии.
 		</p>
 		
+		<h2>Униатство — "белоруская вера"</h2>
+		<p>
+		В московских документах начала XVI века — уже через 30 лет после Брестской униинии — Униатство именуется "белоруской верой". Униаты составляли 
+		~40% населения, католики ~35%, прихожане РПЦ ~6%.
+		</p>
+		<p>
+		Переход в униатство — <i>"Гэта неправільная фармуліроўка. Праваслаўныя заставаліся праваслаўнымі, проста біскупы дамовіліся, што цяпер яны пераходзяць 
+		(ці вяртаюцца ў каталіцкім разуменні) у еднасць з Рымам."</i> — поправил редакцию представитель Рыма-каталіцкага Касцёла ў Беларусі.
+		</p>
 		<p>
 		Униатство было не столько религиозным выбором, сколько выбором цивилизационной модели. Догмы и обряды православных, принявших Унию, остались прежними. 
 		Однако, влияние Московского патриархата, жившего по Соборному уложению (основному закону Московского царства), более не оказывало давления 
 		на внутренние дела ВКЛ.
 		</p>
+		
 		<p>[ <small>
-		Интересно сравнить первую статью Соборного Уложения (действовало с 1649 по 1832) с первой статьей <a href="../download/statut_wkl.php">Статута ВКЛ</a> 
+		Интересно сравнить первую статью московского Соборного Уложения (действовало с 1649 по 1832) с первой статьей <a href="../download/statut_wkl.php">Статута ВКЛ</a> 
 		(действовал с 1566 по 1840). <i>"Вси обыватели Великого князства Литовского тым одным правом писаным 
 		и от нас даным сужоны быти мають" </i>
 		( арт. 1, разд. 1,: "О персоне нашой Господарской").
@@ -129,7 +140,23 @@
 		
 		<div class="col-md-12">
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center" >
+		<a href="../../images/img-terms/litwiny/litvin_religion.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_religion_thumb.jpg" height="100" >
+		</br><small>"Белоруская вера"</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/religion_blr/kuncewicz.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/religion_blr/kuncewicz_thumb.jpg" height="100">
+		</br><small>Святой Иосафат Кунцевич, архиепископ Полоцкий</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-figures/kunciewicz/sobor_ulozenie_1649.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Иосафат Кунцевич" src="../../images/img-figures/kunciewicz/sobor_ulozenie_1649_thumb.jpg" height="100">
@@ -138,15 +165,7 @@
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
-		<a href="../../images/img-terms/religion_blr/kuncewicz.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/religion_blr/kuncewicz_thumb.jpg" height="100">
-		</br><small>Святой Иосафат Кунцевич, архиепископ Полоцкий</small>	
-		</a>
-		</div>
-		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-figures/kunciewicz/statut_1566.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Иосафат Кунцевич" src="../../images/img-figures/kunciewicz/statut_1566_thumb.jpg" height="100">
@@ -202,8 +221,14 @@
 		</div>
 		
 		<p>
-		Церковно-приходские школы РПЦ, затеянные Российской империей в 1804 году (спустя 200 лет) даже близко не смогли подойти к тому, что было разрушено 
-		после <a href="razbor_rechi.php">разделов Речи Посполитой</a> и ликвидации Унии в 1839 году.
+		После <a href="../events/razbor_rechi.php">раздела Речи Посполитой</a> 
+		Белорусские земли вступили в <a href="../terms/sewero_zapadny_kraj.php">серую полосу</a> своей истории.  
+		</p>
+		<p>
+		В 1839 униатские приходы были переданы в ведение 
+		Московского патриархата РПЦ. 
+		Развитие образования и культуры затормозилось почти на столетие. На смену школам иезуитов и базилиан пришли 
+		церковно-приходские школы РПЦ (открытию типовой такой школы великий А. П. Чехов посвятил свой рассказ "Кошмар")
 		</p>
 		
 

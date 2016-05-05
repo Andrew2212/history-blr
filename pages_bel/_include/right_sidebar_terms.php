@@ -1,6 +1,6 @@
 
       <div class="col-md-2 right-bar-align-center">
-      
+      <!--
       <p>
 			<a href="slavs.php">
 			<img src="../../images/img-terms/_hot_terms_right/slavic.jpg" class="img-right-80""/></br>
@@ -49,7 +49,7 @@
 			<small>Крылатые гусары</small>
 			</a></br>			
 	   </p>
-	   
+	   -->
 	   
 	  </div>
 	

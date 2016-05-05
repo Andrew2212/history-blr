@@ -1,6 +1,6 @@
 
       <div class="col-md-2 left-bar-align-center">
-      
+      <!--
       <p>
 			<a href="statut_wkl.php">
 			<img src="../../images/img-download/_hot_download_left/statut.jpg" class="img-right-80""/></br>
@@ -55,7 +55,7 @@
 			</br>Peter von Duisburg, 1326</small>
 			</a></br>			
 	   </p>
-	   
+	   -->
 	   
 	   
 	  </div>

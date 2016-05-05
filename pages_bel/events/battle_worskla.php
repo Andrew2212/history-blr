@@ -32,19 +32,21 @@
     <? include ("../_include/top_list_events.php"); ?>
   
 
-		<h3>Битва на Ворскле</h3>
+		<h1>Битва на Ворскле</h1>
 		
 		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-events/battle_worskla/Vorskla_battle.jpg">
-		<img src="../../images/img-events/battle_worskla/Vorskla_battle.jpg" height="160">
+		<a href="../../images/img-events/battle_worskla/Vorskla_battle.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-events/battle_worskla/Vorskla_battle.jpg" height="140">
 		</br><small>Битва на Ворскле
 		</br>Миниатюра XVI в</small>
 		</a>
 		</p>
 		
 		<p class="img-float-right">
-		<a target="_blank" href="../../images/img-events/battle_worskla/worskla.jpg">
-		<img src="../../images/img-events/battle_worskla/worskla.jpg" height="160">
+		<a href="../../images/img-events/battle_worskla/worskla.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-events/battle_worskla/worskla.jpg" height="140">
 		</br><small>Место битвы,
 		</br>устье р. Ворскла</small>
 		</a>
@@ -77,38 +79,45 @@
 		они имели возможность получить документы от крымских ханов о своих предках.
 		</p>
 		<p>
-		Со временем для них стал родным <a href="../terms/blr_mova.php">белорусский язык</a>, а свой же был постепенно забыт. Очень яркое и уникальное явление — китабы — татарские книги, написанные арабской вязью, 
-		но на понятном местным татарам старобелорусском (<a href="../terms/litwiny.php">литвинском</a>) языке.
+		В пеструю <a href="../terms/religion_blr.php">религиозную картину Беларуси</a> добавился ислам.
+		</p>
+		<p>
+		Со временем для татар стал родным <a href="../terms/blr_mova.php">белорусский язык</a>, а свой же был постепенно забыт. 
+		Очень яркое и уникальное явление — китабы — татарские книги, написанные
+		на белорусском языке арабской вязью.
 		</p>		
 		
 		
 		<div class="col-md-12">	
 						
 		<div class="col-md-3 img-float-center">
-			<a target="_blank" href="../../images/img-figures/gedimin/wkl_13-14ce.jpg">
-			<img src="../../images/img-figures/gedimin/wkl_13-14ce_thumb.jpg" height="140">
+			<a href="../../images/img-figures/gedimin/wkl_13-14ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/gedimin/wkl_13-14ce_thumb.jpg" height="100">
 			</br><small>Границы ВКЛ при Витовте</small> 	
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-			<a target="_blank" href="../../images/img-events/battle_worskla/voin_tatar.jpg">
-			<img src="../../images/img-events/battle_worskla/voin_tatar_thumb.jpg" height="140">
+			<a href="../../images/img-events/battle_worskla/voin_tatar.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-events/battle_worskla/voin_tatar_thumb.jpg" height="100">
 			</br><small>Татарский воин</small> 	
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-			<a target="_blank" href="../../images/img-events/battle_worskla/kitab.jpg">
-			<img src="../../images/img-events/battle_worskla/kitab_thumb.jpg" height="140">
-			</br><small>Китаб
-			</br>белорусский текст арабской вязью</small> 	
+			<a href="../../images/img-events/battle_worskla/kitab.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-events/battle_worskla/kitab_thumb.jpg" height="100">
+			</br><small>Китаб</small> 	
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-			<a target="_blank" href="../../images/img-events/battle_worskla/muslim_minsk.jpg">
-			<img src="../../images/img-events/battle_worskla/muslim_minsk_thumb.jpg" height="140">
+			<a href="../../images/img-events/battle_worskla/muslim_minsk.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-events/battle_worskla/muslim_minsk_thumb.jpg" height="100">
 			</br><small>Минская мечеть</small> 	
 			</a>
 		</div>
