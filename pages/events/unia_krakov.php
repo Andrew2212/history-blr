@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
   <!-- ***Title*** -->
-    <title>Краковско-Виленская Уния. История Беларуси</title>
+    <title>Краковско-Виленская Уния</title>
 <!-- ***Meta*** -->  
     <meta name="description" content="Договор между внуками Ягайло - в. князем литовским Александром и его братом, 
 	королем Яном Ольбрахтом, основанный на Городельской унии
@@ -29,7 +29,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h3>1499 Краковско-Виленская</h3>
+		<h1>1499 Краковско-Виленская Уния</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/unia_krewo/unia_krewo.jpg" class="highslide"
@@ -57,11 +57,13 @@
 		<p>
 		Основной целью обновлённой унии оставался военно-стратегический союз, 
 		взаимопомощь Польши и ВКЛ при ведении оборонительных и наступательных войн; и прежде всего — войн Литвы с Москвой и Польши с турками и татарами.
-		</br>
-		[ <small>
+		</p>
+		
+		<p>
+		[ 
 		1497 Сражение у Козминского леса — битва армий молдавского господаря Стефана III и польского короля Яна I Ольбрахта. 
 		Тяжелое поражение ослабило силы Польши, что, в свою очередь, вскоре повлекло за собой опустошение страны татарами и турками.
-		</small> ]
+		 ]
 		</p>
 		
 		<div class="col-md-12">
@@ -69,7 +71,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-download/16_vek/wkl_06.jpg" class="highslide"
         onclick="return hs.expand(this)">
-    	<img alt="Краковско-Виленская Уния" src="../../images/img-download/16_vek/wkl_06_thumb.jpg" height="160"/>
+    	<img alt="Краковско-Виленская Уния" src="../../images/img-download/16_vek/wkl_06_thumb.jpg" height="100"/>
 		</br><small>ВКЛ 1430-1548</small>
 		</a>
 		</div>
@@ -77,7 +79,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/unia_liublin/unia_table.jpg" class="highslide"
         onclick="return hs.expand(this)">
-    	<img  alt="Краковско-Виленская Уния" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" height="160"/>
+    	<img  alt="Краковско-Виленская Уния" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" height="100"/>
 		</br><small>Хронология уний
 		</br>ВКЛ-Польша</small>
 		</a>
@@ -86,7 +88,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/unia_krakov/Carta_Marina_1539.jpg" class="highslide"
         onclick="return hs.expand(this)">
-    	<img  alt="Краковско-Виленская Уния" src="../../images/img-events/unia_krakov/Carta_Marina_1539_thumb.jpg" height="160"/>
+    	<img  alt="Краковско-Виленская Уния" src="../../images/img-events/unia_krakov/Carta_Marina_1539_thumb.jpg" height="100"/>
 		</br><small>1539 Carta Marina</small>
 		</a>
 		</div>

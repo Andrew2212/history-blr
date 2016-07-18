@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
   <!-- ***Title*** -->
-    <title>Великая Северная война. История Беларуси</title>
+    <title>Великая Северная война</title>
 <!-- ***Meta*** -->  
     <meta name="description" content="20 лет Северной войны для ВКЛ — анархия внутри и агрессия снаружи
 	" />
@@ -28,7 +28,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h2>Великая Северная война 1700-1721</h2>
+		<h1>1700-1721 Великая Северная война</h1>
 
 		<p class="img-float-left">
 		<a href="../../images/img-download/map_sweden/war_1700-21.jpg" class="highslide"

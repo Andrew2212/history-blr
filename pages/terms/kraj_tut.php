@@ -4,7 +4,7 @@
   <head>
      
 <!-- ***Title*** -->
- 	<title>Тутэйшая краевасьць. История Беларуси</title>
+ 	<title>Тутэйшая краевасьць</title>
 
 <!-- ***Meta*** -->
     <meta name="description" content="Истоки белорусского национализма. Краёвасць не звязаная з ніводнай нацыянальнасцю. Краёўцам можа быць як тутэйшы паляк, так і літовец, беларус, нават габрэй, 
@@ -33,9 +33,9 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
     
-		<h2>Тутэйшая краевасьць
+		<h1>Тутэйшая краевасьць
 		</br><small>истоки белорусского национализма</small>
-		</h2>
+		</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-terms/kraj_tut/Mapa_6_gubernij_Litwy_i_Bialej_Rusi.jpg" class="highslide"
@@ -46,11 +46,11 @@
 		</p>
 		
 		<p class="img-float-right">
-		<a href="../../images/img-terms/kraj_tut/map_Lotter_litwa_1770.jpg" class="highslide"
+		<a href="../../images/img-download/blr_people_now/map_Lotter_litwa_1770.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Тутэйшая краевасьць" src="../../images/img-terms/kraj_tut/map_Lotter_litwa_1770_thumb.jpg" height="160" >
-			</br><small>Lithuania, 1770</small>
-			</a>
+		<img alt="ВКЛ Меркатор" src="../../images/img-download/blr_people_now/map_Lotter_litwa_1770_thumb.jpg" height="160">
+		</br><small>1778 Lithuaniae, T. Lotter</small>
+		</a>
 		</p>
 		
 		<p>

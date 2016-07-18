@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
   <!-- ***Title*** -->
-    <title>Война 1600-1611 со Швецией. История Беларуси</title>
+    <title>Война 1600-1611 со Швецией</title>
 <!-- ***Meta*** -->  
     <meta name="description" content="Война 1600-1611 со Швецией за Эстонские земли. 
 	Сигизмунд Ваза пытается вернуть себе Шведский трон" />
@@ -28,7 +28,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
 
-		<h1>Война 1600-1611 со Швецией 
+		<h1>1600-1611 Война со Швецией 
 		</br><small>за Эстонские земли</small></h1>
 		
 		<p class="img-float-left">
@@ -70,7 +70,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-download/map_sweden/1525-1595_sweden.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Estonia, Curlandia, Livonia" src="../../images/img-download/map_sweden/1525-1595_sweden_thumb.jpg" height="120">
+		<img alt="Estonia, Curlandia, Livonia" src="../../images/img-download/map_sweden/1525-1595_sweden_thumb.jpg" height="100">
 		</br><small>Швеция 1525-1595</small>
 		</a>
 		</div>
@@ -78,7 +78,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-download/map_sweden/1573-78_Livoniae.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Estonia, Curlandia, Livonia" src="../../images/img-download/map_sweden/1573-78_Livoniae_thumb.jpg" height="120">
+		<img alt="Estonia, Curlandia, Livonia" src="../../images/img-download/map_sweden/1573-78_Livoniae_thumb.jpg" height="100">
 		</br><small>Livonia 1573-78</small>
 		</a>
 		</div>
@@ -86,16 +86,15 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-download/map_sweden/1662_Livonia_Joan_Blaeu.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Estonia, Curlandia, Livonia" src="../../images/img-download/map_sweden/1662_Livonia_Joan_Blaeu_thumb.jpg" height="120">
-		</br><small>Estonia, Curlandia, Smogitia. 
-		</br>Джон Блау, 1662</small>
+		<img alt="Estonia, Curlandia, Livonia" src="../../images/img-download/map_sweden/1662_Livonia_Joan_Blaeu_thumb.jpg" height="100">
+		</br><small>Livonia, Samogitia, 1662</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-download/map_sweden/1560-1629_sweden.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Estonia, Curlandia, Livonia" src="../../images/img-download/map_sweden/1560-1629_sweden_thumb.jpg" height="120">
+		<img alt="Estonia, Curlandia, Livonia" src="../../images/img-download/map_sweden/1560-1629_sweden_thumb.jpg" height="100">
 		</br><small>Швеция 1560-1629</small>
 		</a>
 		</div>
@@ -128,7 +127,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-figures/hodkewich/Jan_Karal_Chadkievicz.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Ходкевич" src="../../images/img-figures/hodkewich/Jan_Karal_Chadkievicz_thumb.jpg" height="120" >
+			<img alt="Ходкевич" src="../../images/img-figures/hodkewich/Jan_Karal_Chadkievicz_thumb.jpg" height="100" >
 			</br><small>Ян Кароль Ходкевич</small>
 			</a>
 		</div>
@@ -136,7 +135,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/battle_kircholm/Kirholm_1605.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-events/battle_kircholm/Kirholm_1605_thumb.jpg" height="120">
+		<img src="../../images/img-events/battle_kircholm/Kirholm_1605_thumb.jpg" height="100">
 		</br><small>Питер Снаерс, «Битва под Кирхгольмом» (1630).</small>
 		</a>
 		</div>
@@ -144,7 +143,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-figures/zawisza/carolomachia.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Минск, Завиши" src="../../images/img-figures/zawisza/carolomachia_thumb.jpg" height="120">
+		<img alt="Минск, Завиши" src="../../images/img-figures/zawisza/carolomachia_thumb.jpg" height="100">
 		</br><small>"Кароломахия", 1605</small>	
 		</a>
 		</div>

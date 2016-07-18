@@ -29,7 +29,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h3>Разделы Речи Посполитой 1772-1795 гг.</h3>
+		<h1>Разделы Речи Посполитой 1772-1795 </h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/razbor_rechi/Rejtan_Upadek_Polski_Matejko.jpg" class="highslide"
@@ -68,13 +68,25 @@
 		непосредственное влияние на ее внутренние дела, подкрепляя политическое давление размещенными в стране войсками. 
  		</p>
  		
- 		<p class="img-float-center">
+ 		<div class="col-md-12">
+		
+		<div class="col-md-6 img-float-center">
 		<a href="../../images/img-events/razbor_rechi/razbor_rechi.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Разделы Речи Посполитой" src="../../images/img-events/razbor_rechi/razbor_rechi_thumb.jpg" height="160" >
-			</br><small>Разделы Речи Посполитой</small>
+			<img alt="Падзелы Рэчы Паспалітай" src="../../images/img-events/razbor_rechi/razbor_rechi_thumb.jpg" height="140" >
+			</br><small>1772-1795 Разделы Речи Посполитой</small>
 			</a>
-		</p>
+		</div>
+		
+		<div class="col-md-6 img-float-center">
+		<a href="../../images/img-terms/kraj_tut/Mapa_6_gubernij_Litwy_i_Bialej_Rusi.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Тутэйшая краевасьць" src="../../images/img-terms/kraj_tut/Mapa_6_gubernij_Litwy_i_Bialej_Rusi_thumb.jpg" height="140" >
+			</br><small>1900 Северо-Западный Край</small>
+			</a>
+		</div>
+		
+		</div>
  		
 		<p>
 		 1767 Екатерина II инициирует принятие  "кардинальных прав", которые ликвидировали результаты начатых ранее прогрессивных реформ 1764 года. 
@@ -108,9 +120,15 @@
 		</p>
 		<p>
  		XIX век — <a href="../download/blr_people.php">белорусские земли</a> впервые вошли в состав московского государства. 
-		 </br>1839 Ликвидированы <a href="unia_religion_brest.php">Брестская церковная уния</a> и общеобразовательная система. 
-		 </br>1840 Прекратил свое действие <a href="../terms/statut.php">Статут ВКЛ</a> на белорусских землях ВКЛ. 
-		 </br>Наступила <a href="../terms/sewero_zapadny_kraj.php">серая полоса</a> в истории <a href="../terms/belarus.php">Беларуси</a>.
+		 </p>
+		<p>
+		1839 Ликвидированы <a href="unia_religion_brest.php">Брестская церковная уния</a> и общеобразовательная система. 
+		</p>
+		<p>
+		1840 Прекратил свое действие <a href="../terms/statut.php">Статут ВКЛ</a> на белорусских землях ВКЛ. 
+		 </p>
+		<p>
+		Наступила <a href="../terms/sewero_zapadny_kraj.php">серая полоса</a> в истории <a href="../terms/belarus.php">Беларуси</a>.
  		</p>
 
 		
@@ -119,7 +137,7 @@
 		<div class="col-md-6 img-float-center">
 			<p>
 			</br>
-			<img src="../../images/img-download/map_Lotter_litwa_1770_thumb.jpg" height="160"/>
+			<img src="../../images/img-download/map_Lotter_litwa_1770_thumb.jpg" height="140"/>
 			<small>
 			</br>Карта ВКЛ 1778 года. 
 			</br>Зеленым показан Первый раздел 1772.
@@ -135,7 +153,7 @@
 		<div class="col-md-6 img-float-center">
 			<p>
 			</br>
-			<img src="../../images/img-download/map_razbor_rechi_1799_thumb.jpg" height="160"/>
+			<img src="../../images/img-download/map_razbor_rechi_1799_thumb.jpg" height="140"/>
 			<small>
 			</br>Карта Речи Посполитой 1799 года. 
 			</br>Отмечены границы трех разделов страны.

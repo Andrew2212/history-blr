@@ -76,7 +76,7 @@
 			<div class="col-md-3 img-float-center">
         	<a target="_blank" href="../../images/img-terms/shliahta/Sarmatia_Sanson.jpg">
 			<img alt="Белорусская шляхта ВКЛ, сарматы, Сарматия" src="../../images/img-terms/shliahta/Sarmatia_Sanson_thumb.jpg" height="120">
-			</br><small>Сарматия. Sanson</small>
+			</br><small>1655 "Germano-Sarmata", N. Sanson</small>
 			</a>
 			</div>
 			
@@ -88,6 +88,27 @@
 			</div>
 			
 		</div>
+		<p>
+		Итересны попытки локализации <i>венедов</i> картографами XVIII века, оринетировавшихся на древние хроники.
+		</p>
+		
+		
+			
+			<div class="col-md-6 img-float-center">
+			<a target="_blank" href="../../images/img-download/map_wkl/1703_sanson_germano-sarmatia.jpg">
+			<img alt="Карта ВКЛ венеды" src="../../images/img-download/map_wkl/1703_sanson_germano-sarmatia_thumb.jpg" height="120" />
+			</br><small>1703 "Germano-Sarmata. Venedi, et Estiae", N. Sanson</small>
+			</a>
+			</div>
+			
+			<div class="col-md-6 img-float-center">
+			<a target="_blank" href="../../images/img-download/map_wkl/1790_Charles_Delamarche_Germano-Sarmatia.jpg">
+			<img alt="Карта ВКЛ венеды" src="../../images/img-download/map_wkl/1790_Charles_Delamarche_Germano-Sarmatia_thumb.jpg" height="120" />
+			</br><small>1790 "Germano-Sarmata", Ch. Delamarche</small>
+			</a>
+			</div>
+			
+	
 		
 		<div class="col-md-12 div-empty">
 		</div>
@@ -99,7 +120,7 @@
 			<img alt="Карта ВКЛ" src="../../images/img-download/13_vek/Ebstorf_Map_1290_thumb.jpg" width="180" />
 			</br>Размер 3571 х 3566</br>
 			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DOEtxWXZhbnhLUG8/view?usp=sharing" class="btn btn-default"
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
 			<div class="col-md-8">
 			<p>
@@ -123,7 +144,7 @@
 			<img alt="Карта ВКЛ" src="../../images/img-download/15_vek/1450 fra mauro_thumb.jpg" width="180"/>
 			</br>Размер 5037 х 5032</br>
 			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DUl95NG40WkNfNjg/view?usp=sharing" class="btn btn-default"
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
 			<div class="col-md-8">
 			Эта перевёрнутая географическая карта (север внизу) примечательна тем, что на ней собраны все термины, вызывающие сейчас столько споров:
@@ -185,7 +206,7 @@
 			</br>
 			Размер 2628 х 2330</br>
 			<a target="_blank"  href="https://drive.google.com/file/d/0B_T3PThCY39DSTFnNW9OS3BlaUk/view?usp=sharing" class="btn btn-default "
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
 			<div class="col-md-8">
 			1537, Первая версия карты Europa Regina (Королева Европа).
@@ -203,7 +224,7 @@
 			<img src="../../images/img-download/Carta_Marina_thumb.jpg" width="180"/>
 			</br>Размер 5016 х 3715</br>
 			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DZUR4U1FEbGFNa0E/view?usp=sharing" class="btn btn-default"
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
 			<div class="col-md-8">
 			<p>
@@ -226,21 +247,56 @@
 		</div>
 		
 		<div class="col-md-12">
-			<h3>1556 "Polonia, Litvaniae", Sebastian Munster</h3>
+			<h3>1540-1570 "Polonia, Litvaniae", Sebastian Munster</h3>
 		
+			<p>
+			На этой карте Litvaniae (ВКЛ) — расположена вокруг <a href="../places/sea_herodotus.php">моря Геродота</a>. 
+			Города — Вильня, Гродно, Пинск, Копыль, Новогрудок
+			</p>
+			
 			<div class="col-md-4">
 			<img alt="Карта ВКЛ" src="../../images/img-download/16_vek/1556_munster_polands_littaw_DET_thumb.jpg" width="180"/>
 			</br>Размер 1650 х 771</br>
 			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DTWhkcE44LUU0Mlk/view?usp=sharing" class="btn btn-default"
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
-			<div class="col-md-8">
-			На этой карте Litvaniae (ВКЛ) — расположена вокруг <a href="../places/sea_herodotus.php">моря Геродота</a>. 
-			Города — Вильня, Гродно, Пинск, Копыль, Новогрудок
+			
+			<div class="col-md-4">
+			<img alt="Карта ВКЛ" src="../../images/img-download/map_wkl/muenster-poland-eastern-europe-1540-1574_thumb.jpg" width="180"/>
+			</br>Размер 2000 х 900</br>
+			<a  target="_blank" href="../../images/img-download/map_wkl/muenster-poland-eastern-europe-1540-1574.jpg" class="btn btn-default"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
+			</div>
+			
+			<div class="col-md-4">
+			<img alt="Карта ВКЛ" src="../../images/img-download/map_wkl/1550_muenster-poland-littaw-eastern-europe_thumb.jpg" width="180"/>
+			</br>Размер 1580 х 940</br>
+			<a  target="_blank" href="../../images/img-download/map_wkl/1550_muenster-poland-littaw-eastern-europe.jpg" class="btn btn-default"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
 		</div>
 		
 		<div class="col-md-12 div-empty">
+		</div>
+		
+		<div class="col-md-12">
+			<h3>1584 "Polonia", Abraham Ortelius</h3>
+			
+			<div class="col-md-4">
+			<img alt="Карта ВКЛ" src="../../images/img-download/map_wkl/1584_Poloniae_ABRAHAM_ORTELIUS_Antwerp_thumb.jpg" width="180"/>
+			</br>Размер 2400 х 1800</br>
+			<a  target="_blank" href="../../images/img-download/map_wkl/1584_Poloniae_ABRAHAM_ORTELIUS_Antwerp.jpg" class="btn btn-default"
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
+			</div>
+			<div class="col-md-8">
+			<p>
+			Абрахам Ортелий — фламандский картограф, его работа Theatrum Orbis Terrarum, наряду с Атласом Меркатора, сыграла исключительную роль в развитии картографии. 
+			</p>
+			<p>
+			Ортелий составил и выпустил книгу нового типа — Theatrum Orbis Terrarum (Зрелище круга земного), содержащую 70 карт и статей страноведческого характера. 
+			Книга была выпущена в свет в Антверпене 20 мая 1570 года и  переиздана до 1624 года более 40 раз на шести европейских языках общим тиражом около 7300 экземпляров.
+			</p>
+			</div>
 		</div>
 		
 		<div class="col-md-12">
@@ -250,7 +306,7 @@
 			<img alt="Карта ВКЛ" src="../../images/img-download/16_vek/1595_Mercator_Lithuania_thumb.jpg" width="180"/>
 			</br>Размер 3000 х 2500</br>
 			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DblZCdmZtRFk0bHc/view?usp=sharing" class="btn btn-default"
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
 			<div class="col-md-8">
 			Самая классическая классика:
@@ -271,7 +327,7 @@
 			<img alt="Карта ВКЛ" src="../../images/img-download/map_nikola_radziwill_thumb.jpg" width="180"/>
 			</br>Размер 5100 х 3700</br>
 			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DeDRJNDJZTFFmSWc/view?usp=sharing" class="btn btn-default"
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
 			<div class="col-md-8">
 			<p>
@@ -302,7 +358,7 @@
 			<img alt="Карта ВКЛ" src="../../images/img-download/map_wkl/1690_Hondius_Valk_Lithvaniae_thumb.jpg" width="180"/>
 			</br>Размер 1930 х 1580</br>
 			<a  target="_blank" href="../../images/img-download/map_wkl/1690_Hondius_Valk_Lithvaniae.jpg" class="btn btn-default"
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
 			<div class="col-md-8">
 			
@@ -319,7 +375,7 @@
 			<img alt="Карта ВКЛ" src="../../images/img-download/map_1696_thumb.jpg" width="180"/>
 			</br>Размер 1024 х 880</br>
 			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DZ1dGUnYyNDc1d28/view?usp=sharing" class="btn btn-default"
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
 			<div class="col-md-8">
 			
@@ -336,7 +392,7 @@
 			<img alt="Карта ВКЛ" src="../../images/img-download/map_wkl/1710_van_keulenas_lithuania_thumb.jpg" width="180"/>
 			</br>Размер 1200 х 1020</br>
 			<a  target="_blank" href="../../images/img-download/map_wkl/1710_van_keulenas_lithuania.jpg" class="btn btn-default"
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
 			<div class="col-md-8">
 			
@@ -352,7 +408,7 @@
 			<img alt="Карта ВКЛ" src="../../images/img-download/map_1711_thumb.jpg" width="180"/>
 				</br>Размер 1723 х 1456</br>
 			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DSEptRzhCSmpsUms/view?usp=sharing" class="btn btn-default"
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
 			<div class="col-md-8">
 			
@@ -369,7 +425,7 @@
 			<img alt="Карта ВКЛ" src="../../images/img-download/18_vek/MagniDucatLithuaniae_Seutteri_thumb.jpg" width="180"/>
 				</br>Размер 4000 х 3388</br>
 			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DNXF0UEdrZS13UVk/view?usp=sharing" class="btn btn-default"
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
 			<div class="col-md-8">
 			<p>
@@ -393,7 +449,7 @@
 			<img alt="Карта ВКЛ" src="../../images/img-download/map_wkl/1758_John_Gibson_Poland_thumb.jpg" width="180"/>
 			</br>Размер 2048 х 1416</br>
 			<a  target="_blank" href="../../images/img-download/map_wkl/1758_John_Gibson_Poland.jpg" class="btn btn-default"
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
 			<div class="col-md-8">
 			В легенде карты даны размеры (в милях) всех обозначенных земель — Lithuania, Podolia, Prussia etc.
@@ -410,7 +466,7 @@
 			<img src="../../images/img-download/map_Lotter_polska_litwa_1759_thumb.jpg" width="180"/>
 			</br>Размер 1800 х 1550</br>
 			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DTlJwNWdiT09CSk0/view?usp=sharing" class="btn btn-default"
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
 			<div class="col-md-8">
 			Издатель карт Тобиас Конрад Лоттер (1717-1777 гг.) жил и работал в Аугсбурге, Германия. 
@@ -430,7 +486,7 @@
 			<img alt="Карта ВКЛ" src="../../images/img-download/map_Lotter_litwa_1770_thumb.jpg" width="180"/>
 			</br>Размер 7120 х 6200</br>
 			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DQ0xxeU4xUFRpOTg/view?usp=sharing" class="btn btn-default "
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
 			<div class="col-md-8">
 			Карта Великого княжества Литовского (ВКЛ). 
@@ -449,7 +505,7 @@
 			<img alt="Карта ВКЛ" src="../../images/img-download/map_razbor_rechi_1799_thumb.jpg" width="180"/>
 			</br>Размер 7120 х 6200</br>
 			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DMzkycEc3YXFzdUE/view?usp=sharing" class="btn btn-default"
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
 			<div class="col-md-8">
 			Карта разделов  Речи Посполитой. "The Kingdom of Poland and Grand Dutchy of Lithuania including Samogetia and Curland".
@@ -469,7 +525,7 @@
 			src="../../images/img-download/bssr_20vekstart_thumb.jpg" width="180"/>
 			</br>Размер 4039 х 2602</br>
 			<a  target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DYlJiclcyV3VPVHM/view?usp=sharing" class="btn btn-default"
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Смотреть/скачать</a>
 			</div>
 			<div class="col-md-8">
 			Беларусь в составе <a href="../terms/sewero_zapadny_kraj.php">Северо-Западного края</a> российской империи.

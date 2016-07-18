@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
   <!-- ***Title*** -->
-    <title>Гражданская война XVII в. История Беларуси</title>
+    <title>Гражданская война XVII в.</title>
 <!-- ***Meta*** -->  
     <meta name="description" content="Шляхетская конфедерация (Радзивиллы, Пацы, Огинские, Вишневецкие) против Сапег — правителей ВКЛ. 	
 	" />
@@ -28,7 +28,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h3>Гражданская война в ВКЛ 1696—1702</h3>
+		<h1>1696—1702 Гражданская война</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/war_civil_1696/gerb_sapieha.jpg" class="highslide"

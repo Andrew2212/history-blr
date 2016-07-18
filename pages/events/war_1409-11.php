@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
   <!-- ***Title*** -->
-    <title>Великая война 1409-1411. История Беларуси</title>
+    <title>Великая война 1409-1411</title>
 <!-- ***Meta*** -->  
     <meta name="description" content="Война между ВКЛ в союзе с Королевством Польским с одной стороны и 
 		рыцарями Тевтонского ордена с другой. К XIV веку немецкие рыцарские ордена заняли выходы к Балтийскому морю основных транспортных артерий — Немана (Тевтонский Орден) и Западной Двины 
@@ -31,7 +31,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h3>Великая война 1409-1411</h3>
+		<h1>1409-1411 Великая война</h1>
 		<p class="img-float-left">
 			<a href="../../images/img-figures/vitovt/vitovt.jpg" class="highslide"
        		onclick="return hs.expand(this)">
@@ -82,6 +82,7 @@
 		Ягайло и Витовтом по <a href="unia_vilno.php">Остовскому соглашению</a> 
 		сложились условия для совместных действий Польши и ВКЛ против Тевтонского ордена. 
 		</p>
+		<h3>1410 Грюнвальдская битва</h3>
 		<p>
 		Решающим сражением "Великой войны" стала <a href="grunwald.php">Грюнвальдская битва</a> 1410. Союз Королевства Польского и Великого княжества Литовского под предводительством 
 		короля Владислава II Ягайло и в. князя литовского Витовта одержал решающую победу над войском Тевтонского ордена. 
@@ -93,7 +94,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/unia_krewo/ordensgebiete.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Тевтонский Орден и ВКЛ" src="../../images/img-events/unia_krewo/ordensgebiete_thumb.jpg" height="140">
+		<img alt="Тевтонский Орден и ВКЛ" src="../../images/img-events/unia_krewo/ordensgebiete_thumb.jpg" height="100">
 		</br><small>XIV-XV в. Земли Deutschen Ordens</small>
 		</a>
 		</div>
@@ -101,7 +102,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_1409-11/Livland_15ce.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливония" src="../../images/img-events/war_1409-11/Livland_15ce_thumb.jpg" height="140">
+		<img alt="Ливония" src="../../images/img-events/war_1409-11/Livland_15ce_thumb.jpg" height="100">
 		</br><small>Ливония</small>
 		</a>
 		</a>
@@ -110,7 +111,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_1409-11/1410_Deutscher_Orden.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Тевтонский Орден и ВКЛ" src="../../images/img-events/war_1409-11/1410_Deutscher_Orden_thumb.jpg" height="140">
+		<img alt="Тевтонский Орден и ВКЛ" src="../../images/img-events/war_1409-11/1410_Deutscher_Orden_thumb.jpg" height="100">
 		</br><small>Земли Deutschen Ordens 1410</small>
 		</a>
 		</div>
@@ -118,7 +119,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/unia_vilno/wkl_polska_1386_1434.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="ВКЛ" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="140">
+		<img alt="ВКЛ" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="100">
 		</br><small>ВКЛ 1386-1434</small>
 		</a>
 		</a>
@@ -138,7 +139,7 @@
 		<div class="col-md-12 img-float-center">
 		<a href="../../images/img-events/war_1409-11/Malbork.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Тевтонский Орден и ВКЛ" src="../../images/img-events/war_1409-11/Malbork_thumb.jpg" height="160">
+		<img alt="Тевтонский Орден и ВКЛ" src="../../images/img-events/war_1409-11/Malbork_thumb.jpg" height="100">
 		</br><small>Столица Ордена Мариенбург (Мальборк)</small>
 		</a>
 		</div>

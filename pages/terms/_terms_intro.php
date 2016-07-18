@@ -4,7 +4,7 @@
   <head>
      
 <!-- ***Title*** -->
- 	<title>Исторические термины. История Беларуси</title>
+ 	<title>Термины — назвы и сэнсы</title>
 
 <!-- ***Meta*** -->
     <meta name="description" content=" 

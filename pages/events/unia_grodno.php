@@ -28,7 +28,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h3>1432 Гродненская Уния</h3>
+		<h1>1432 Гродненская Уния</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/unia_krewo/unia_krewo.jpg" class="highslide"
@@ -74,28 +74,36 @@
 		
 		<div class="col-md-12">
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/unia_vilno/wkl_polska_1386_1434.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Гродненская уния" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="160">
+		<img alt="Гродненская уния" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="100">
 		</br><small>ВКЛ 1386-1434</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/war_civil_1432/1432_wkl_swidrigajlo.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Гражданская война в ВКЛ" src="../../images/img-events/war_civil_1432/1432_wkl_swidrigajlo_thumb.jpg" height="100">
+		</br><small>Гражданская война 1432-38</small> 
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/unia_liublin/unia_table.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Гродненская уния" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" height="160">
+		<img alt="Гродненская уния" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" height="100">
 		</br><small>Хронология уний
 		</br>ВКЛ-Польша</small>
 		</a>
 		</div>
 		
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/unia_krewo/ordensgebiete.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Гродненская уния" src="../../images/img-events/unia_krewo/ordensgebiete_thumb.jpg" height="160">
+		<img alt="Гродненская уния" src="../../images/img-events/unia_krewo/ordensgebiete_thumb.jpg" height="100">
 		</br><small>XIV-XV в. Земли Deutschen Ordens</small>
 		</a>
 		</div>

@@ -1,14 +1,14 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="be">
   <head>
   <!-- ***Title*** -->
-    <title>Битва под Оршей. История Беларуси</title>
+    <title>Бітва пад Воршай. Гісторыя Беларусі</title>
 <!-- ***Meta*** -->  
-    <meta name="description" content="Polonia & Lithuania & Ruthenia vs Moscovia. Битва народов, остановившая экспансию с востока на 250 лет. Национальный праздник.
+    <meta name="description" content="Polonia & Lithuania & Ruthenia vs Moscovia. Бітва народаў, якая спыніла экспансію з усходу на 250 гадоў. Нацыянальнае свята.
 	" />
-	<meta name="keywords" itemprop="keywords" content="битва под Оршей, 
-	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
+	<meta name="keywords" itemprop="keywords" content="бітва пад Воршай, 
+	гісторыя Беларусі коратка ў датах, асноўныя падзеі ў гісторыі Беларусі, гісторыя ВКЛ, ВКЛ, гісторыя Беларусі, Кароткая гісторыя Беларусі, гісторыя Беларусі коратка" />
 	<meta property="og:image" content="http://history-belarus.by/images/img-events/orsha_battle/title.jpg" />
 
 <!-- ***Include Header*** -->
@@ -29,63 +29,61 @@
     <? include ("../_include/top_list_events.php"); ?>
   
 
-		<h1>Битва под Оршей 
-		</br><small>8 сентября 1514 года</small>
+		<h1>Бітва пад Воршай 
+		</br><small>8 верасня 1514 года</small>
 		</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/orsha_battle/ostrogski.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/ostrogski_thumb.jpg" height="120"> 
-		</br><small>Памятная монета
-		</br>500-летие битвы, РБ</small>
+		<img alt="бітва пад Воршай" src="../../images/img-events/orsha_battle/ostrogski_thumb.jpg" height="120"> 
+		</br><small>Памятная манета
+		</br>500-годдзе бітвы, РБ</small>
 		</a>	
 		</p>
 		
 		<p class="img-float-right">
-		<a href="../../images/img-figures/kmicic/orsha.jpg" class="highslide"
+		<a href="../../images/img-events/wars_1487-1537/wkl_15ce.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-figures/kmicic/orsha.jpg" height="120">
-		</br><small>Орша,
-		</br>Крапивенское поле</small> 	
-		</a>
+		<img alt="Война с Московией 1512-1522" src="../../images/img-events/wars_1487-1537/wkl_15ce_thumb.jpg" height="120"> 
+		</br><small>ВКЛ 1487-1537 </small>
 		</p>
 		
 		<p>
-		Битва под Оршей на Крапивенском поле — сражение в ходе <a href="war_1512.php">войны 1512-22</a> годов, 
-		в котором войска ВКЛ и Королевства Польского под началом Великого гетмана Литовского Константина <a href="../figures/ostrogski.php">Острожского</a> 
-		разгромили московское  войско.
+		Бітва пад Воршай на Крапівенскім полі — бітва падчас <a href="war_1512.php">вайны 1512-22</a> гадоў, 
+		у якой войска ВКЛ і Каралеўства Польскага на чале з Вялікім гетманам Літоўскім Канстанцінам <a href="../figures/ostrogski.php">Астрожскім</a> 
+		разграмілі маскоўскае войска.
 		</p>
 		<p>
-		Война 1512-22 годов — одна из <a href="../events/wars_1487-1537.php">войн с Московией 1487-1537</a>, определивших современную границу Республики Беларусь.
+		Вайна 1512-22 гадоў — адна з <a href="../events/wars_1487-1537.php">войнаў з Масковіяй 1487-1537</a>, якія вызначылі сучасную мяжу Рэспублікі Беларусь.
 		</p>
 		<p>
-		Войско Острожского насчитывало от 14000 человек <small>(А. Тарас, С. Сарницкий, А. Лобин)</small> до 26000 <small>(М. Стрыйковский)</small>
-		основной частью кавалерии командовал Юрий <a href="../figures/radziwilly.php">Радзивилл</a> "Геркулес". 
+		Войска Астрожскага налічвала ад 14 000 чалавек <small>(А. Тарас, С. Сарніцкі, А. Лобін)</small> да 26 000 <small>(М. Стрыйкоўскі)</small>
+		асноўнай часткай кавалерыі камандаваў Юры <a href="../figures/radziwilly.php">Радзівіл</a> "Геркулес". 
 		</p>
 		<p>
-		Составленный в 1528 году <a href="../download/spis_voiska.php">Спис войска литовского</a> дошел до наших дней. 
+		Складзены ў 1528 годзе <a href="../download/spis_voiska.php">Спіс войска літоўскага</a> дайшоў да нашых дзён. 
 		</p>
 		<p>
-		Воины шли в бой под флагом св. Георгия, ставшего прообразом <a href="../terms/blr_flag.php">национального БЧБ флага</a> (по иронии судьбы КЗ флаг 
-		никогда не реял над этим полем).
+		Ваяры ішлі ў бой пад сцягам св. Георгія, які стаў правобразам <a href="../terms/blr_flag.php">нацыянальнага БЧБ сцяга</a> (па іроніі лёсу ЧЗ сцяг 
+		ніколі не лунаў над гэтым полем).
 		</p>
 		<p>
-		Войско Московии составляло от 30000 человек <small>(А. Тарас, С. Сарницкий)</small> до 80000 <small>(письма короля Сигизмунда 1514)</small>.
+		Войска Масковіі налічвала ад 30 000 чалавек <small>(А. Тарас, С. Сарніцкі)</small> да 80 000 <small>(ліст караля Жыгімонта 1514)</small>.
 		</p>
 		<p>
-		Потери войск: войско ВКЛ — от 1000 до 2000 человек; московское войско — около 10000 (по общим оценкам 1/3 войска).
-		</br>Из 11 больших московских воевод в плен попало 6, 2 было убито и только 3 спаслись.
+		Страты войскаў: войска ВКЛ — ад 1000 да 2000 чалавек, маскоўскае войска — каля 10 000 (па агульных ацэнках 1/3 войска).
+		</br>З 11 вялікіх маскоўскіх ваяводаў у палон трапілі 6, 2 былі забіты і толькі 3 уратаваліся.
 		</p>
 		<p>
-		Любопытны гарвюры, изображающие всадников той войны. Абрахам де Брейн (1540-1587) был почти современником событий, 
-		а Сигизмунд фон Герберштейн — непосредственным участником: 
-		был послом в Москве, участвовал в подписании мирного договора 1522 года, 
-		автор <a target="_blank" href="http://www.vostlit.info/haupt-Dateien/index-Dateien/G.phtml?id=2044">"Записок о Московии"</a>. 
+		Цікавы гравюры, на якіх паказаны вершнікі той вайны. Абрахам дэ Брэйн (1540-1587) быў амаль сучаснікам падзей, 
+		а Жыгімонт фон Герберштэйн — непасрэдным удзельнікам: 
+		быў амбасадарам у Маскве, удзельнічаў у падпісанні мірнай дамовы 1522 года, 
+		аўтар <a target="_blank" href="http://www.vostlit.info/haupt-Dateien/index-Dateien/G.phtml?id=2044">"Нататак пра Масковію"</a>. 
 		</p>
 		
 		<p>
-		Eques (reuters) — рыцари, всадники — Polonia & Lithuania & Ruthenia
+		Eques (reuters) — рыцары, вершнікі — Polonia & Lithuania & Ruthenia
 		</p>
 		
 		<div class="col-md-12">
@@ -93,7 +91,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/wars_1487-1537/wkl_15ce.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Война с Московией 1512-1522" src="../../images/img-events/wars_1487-1537/wkl_15ce_thumb.jpg" height="100"> 
+		<img alt="Вайна з Масковіяй 1512-1522" src="../../images/img-events/wars_1487-1537/wkl_15ce_thumb.jpg" height="100"> 
 		</br><small>Войны 1487-1537 </small>
 		</a>
 		</div>
@@ -101,35 +99,35 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/rus_deBruyn.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/rus_deBruyn_thumb.jpg" height="100"> 
+		<img alt="бітва пад Воршай" src="../../images/img-events/orsha_battle/rus_deBruyn_thumb.jpg" height="100"> 
 		</br><small>Eques Ruthenus
-		</br>А.де Брейн</small>	
+		</br>А. дэ Брэйн</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/lit_deBruyn.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/lit_deBruyn_thumb.jpg" height="100"> 
+		<img alt="бітва пад Воршай" src="../../images/img-events/orsha_battle/lit_deBruyn_thumb.jpg" height="100"> 
 		</br><small>Eques ex Lithuania 
-		</br>А.де Брейн</small>	
+		</br>А. дэ Брэйн</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/pol_deBruyn.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/pol_deBruyn_thumb.jpg" height="100"> 
+		<img alt="бітва пад Воршай" src="../../images/img-events/orsha_battle/pol_deBruyn_thumb.jpg" height="100"> 
 		</br><small>Eques Polonus 
-		</br>А.де Брейн</small>	
+		</br>А. дэ Брэйн</small>	
 		</a>
 		</div>
 		
 		</div>
 		
 		<p>
-		Eques (reuters) — рыцари, всадники — Moscovita. 
-		И немного экзотики от А. де Брейна — Nobilus Polonus & Princeps Moscovitarum (знатный поляк и московский князь).
+		Eques (reuters) — рыцары, вершнікі — Moscovita. 
+		І трохі экзотыкі ад А. дэ Брэйна — Nobilus Polonus & Princeps Moscovitarum (заможны паляк і маскоўскі князь).
 		</p>
 		
 		<div class="col-md-12">
@@ -137,27 +135,27 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/orsha_battle/moscov_deBruyn.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/moscov_deBruyn_thumb.jpg" height="100"> 
+		<img alt="бітва пад Воршай" src="../../images/img-events/orsha_battle/moscov_deBruyn_thumb.jpg" height="100"> 
 		</br><small>Eques Moscovita cum armis  
-		</br>А.де Брейн</small>	
+		</br>А. дэ Брэйн</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/orsha_battle/moscov_Herberstein.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/moscov_Herberstein_thumb.jpg" height="100"> 
-		</br><small>Московские всадники  
-		</br>Герберштейн</small>	
+		<img alt="бітва пад Воршай" src="../../images/img-events/orsha_battle/moscov_Herberstein_thumb.jpg" height="100"> 
+		</br><small>Маскоўскія вершнікі  
+		</br>Герберштэйн</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/orsha_battle/pol_mosk_deBruyn.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/pol_mosk_deBruyn_thumb.jpg" height="100"> 
+		<img alt="бітва пад Воршай" src="../../images/img-events/orsha_battle/pol_mosk_deBruyn_thumb.jpg" height="100"> 
 		</br><small>Nobilus Polonus & Princeps Moscovitarum  
-		</br>А.де Брейн</small>	
+		</br>А. дэ Брэйн</small>	
 		</a>
 		</div>
 		
@@ -165,19 +163,19 @@
 		
 		<i>
 		<p>
-		"Пушки…  направили их против наседавших московитов и поразили задние их ряды, выстроенные в резерве, но слишком скученные, 
-		привели их в замешательство и рассеяли. Такой неожиданный боевой прием поверг московитов в ужас… придя в смятение, 
-		они обратились в бегство. Литвины, развернувшись и двинув все свои силы, преследовали их, гнали и убивали. 
-		Только ночь и леса положили конец этому  избиению.
+		"Гарматы…  скіравалі іх супраць маскавітаў і пабілі заднія іх шэрагі, якія былі выстаўлены ў рэзерве, але занадта скучаныя, 
+		прывялі іх у замяшанне і рассеялі. Такі нечаканы баявы прыём кінуў маскавітаў у жах… у замяшанні, 
+		яны кінуліся наўцёкі. Літвіны, разгарнуўшыся і вырухнуўшы ўсе свае сілы, пераследвалі іх, гналі і забівалі. 
+		Толькі ноч і лясы паклалі канец гэтаму збіццю.
 		</p>
 		<p>
-		Между Оршей и Дубровно (Dobrowna), которые отстоят друг от друга на четыре немецких мили, есть река по имени Кропивна (Cropiwna); 
-		предавшись бегству по ее опасным и крутым берегам, московиты потонули в таком количестве, что запрудили течение реки. 
-		В этом бою были взяты в плен все военачальники."
+		Паміж Воршай і Дуброўнай (Dobrowna), якія знаходзяцца адзін ад аднаго на чатыры нямецкіх мілі, ёсць рака па імі Крапіўна (Cropiwna); 
+		аддаўшыся ўцёкам па яе небяспечным і крутым берагам, маскавіты патанулі ў такой колькасці, што загацілі плынь ракі. 
+		У гэтай бітве былі ўзяты ў палон усе ваеначальнікі."
 		</p>
 		</i>
 		<p>
-		<small>Герберштейн "Записки о Московии"</small>
+		<small>Герберштэйн "Нататкі пра Масковію"</small>
 		</p>
 		<p>
 		
@@ -186,32 +184,32 @@
 		<div class="col-md-12">
 		
 		<p>
-		И еще о доспехах рыцарей ВКЛ — участников битвы Константина Острожского и Юрия Радзивилла,  и племянника "Геркулеса" — Радзивилла Черного.
+		І яшчэ пра даспехі рыцараў ВКЛ — удзельнікаў бітвы Канстанціна Астрожскага і Юрыя Радзівіла, і пляменніка "Геркулеса" — Радзівіла Чорнага.
 		</p>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/ostrogski_headstoun.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/ostrogski_headstoun_thumb.jpg" height="100"> 
-		</br><small>Надгробие К. Острожского
-		</br>Киево-Печерская Лавра</small>	
+		<img alt="бітва пад Воршай" src="../../images/img-events/orsha_battle/ostrogski_headstoun_thumb.jpg" height="100"> 
+		</br><small>Надмагілле К. Астрожскага
+		</br>Кіева-Пячэрская Лаўра</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/Radziwil_Herkules.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/Radziwil_Herkules_thumb.jpg" height="100"> 
-		</br><small>Портрет Радзивилла 
-		</br>Юрия Геркулеса</small>	
+		<img alt="бітва пад Воршай" src="../../images/img-events/orsha_battle/Radziwil_Herkules_thumb.jpg" height="100"> 
+		</br><small>Партрэт Радзівіла
+		</br>Юрыя Геркулеса</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/1520_Krell_Battle_of_Orsha.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/1520_Krell_Battle_of_Orsha_thumb.jpg" height="100"> 
-		</br><small>"Битва под Оршей", фрагмент
+		<img alt="бітва пад Воршай" src="../../images/img-events/orsha_battle/1520_Krell_Battle_of_Orsha_thumb.jpg" height="100"> 
+		</br><small>"Бітва пад Воршай", фрагмент
 		</br>Hans Krell, 1520 год</small>	
 		</a>
 		</div>
@@ -219,9 +217,9 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/husaria/dospech_radziwill.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-terms/husaria/dospech_radziwill_thumb.jpg" height="100">
-		</br><small>Турнирный доспех
-		</br>Радзивилла Черного, 1550 г.</small>	
+		<img alt="бітва пад Воршай" src="../../images/img-terms/husaria/dospech_radziwill_thumb.jpg" height="100">
+		</br><small>Турнірны даспех
+		</br>Радзівіла Чорнага, 1550 г.</small>	
 		</a>
 		</div>
 		
@@ -229,49 +227,49 @@
 		
 		
 		<p>
-		Победа под Оршей изменила ход войны — из активной, она стала вялотекущей: дальнейшее наступление на ВКЛ прекратилось. 
-		До конца войны не было крупных сражений. 
-		В 1516 боевые действия вообще не велись.		
+		Перамога пад Воршай змяніла ход вайны — з актыўнай, яна стала вялай: далейшае наступленне на ВКЛ спынілася. 
+		Да канца вайны не было буйных бітваў. 
+		У 1516 баявыя дзеянні наогул не вяліся.		
 		<p>		
 		<p>
-		Московская экспансия на земли ВКЛ была остановлена на 250 лет.
-		</br>Битва стала весомым аргументом силы в династическом европейском противостоянии Ягеллонов (королей Восточной Европы) 
-		и Габсбургов (императоров Священной Римской империи). 
-		</br>[ <small>Даже после пресечения династии Ягеллонов, при системе выборности королей, ни одному из Габсбургов не удалось занять 
-		трона Речи Посполитой</small> ].
+		Маскоўская экспансія на землі ВКЛ была спынена на 250 год.
+		</br>Бітва стала важкім аргументам у дынастычным еўрапейскім супрацьстаянні Ягелонаў (каралёў Усходняй Еўропы) 
+		і Габсбургаў (імператараў Свяшчэннай Рымскай імперыі). 
+		</br>[ <small>Нават пасля спынення дынастыі Ягелонаў, пры сістэме выбарнасці каралёў, ніводнаму з Габсбургаў не ўдалося заняць 
+		трон Рэчы Паспалітай</small> ].
 		</p>
 		
 		<div class="col-md-12">
 		
 		<p>
-		Крапивенское поле. Память.		
+		Крапівенскае поле. Памяць.		
 		<p>	
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/memory_1.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/memory_1_thumb.jpg" height="100"> 	
+		<img alt="бітва пад Воршай" src="../../images/img-events/orsha_battle/memory_1_thumb.jpg" height="100"> 	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/victory_day_near_orsha.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/victory_day_near_orsha_thumb.jpg" height="100"> 	
+		<img alt="бітва пад Воршай" src="../../images/img-events/orsha_battle/victory_day_near_orsha_thumb.jpg" height="100"> 	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/memory_31.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/memory_31_thumb.jpg" height="100"> 	
+		<img alt="бітва пад Воршай" src="../../images/img-events/orsha_battle/memory_31_thumb.jpg" height="100"> 	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/orsha_battle/memory_23.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-events/orsha_battle/memory_23_thumb.jpg" height="100"> 	
+		<img alt="бітва пад Воршай" src="../../images/img-events/orsha_battle/memory_23_thumb.jpg" height="100"> 	
 		</a>
 		</div>
 		

@@ -1,14 +1,14 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="be">
   <head>
   <!-- ***Title*** -->
-    <title>Гродненская уния. История Беларуси</title>
+    <title>Гарадзенская унія. Гісторыя Беларусі</title>
 <!-- ***Meta*** -->  
-    <meta name="description" content="Уния, заключенная в условиях гражданской войны, после свержения Свидригайло. Фактически возвращает условия Виленско-Радомской унии
+    <meta name="description" content="Унія, складзеная ва ўмовах грамадзянскай вайны, пасля зрыну Свідрыгайлы. Фактычна вяртае ўмовы Віленска-Радамскай уніі
 	" />
-	<meta name="keywords" itemprop="keywords" content="Гродненская уния, 
-	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
+	<meta name="keywords" itemprop="keywords" content="Гарадзенская унія, 
+	гісторыя Беларусі коратка ў датах, асноўныя падзеі ў гісторыі Беларусі, гісторыя ВКЛ, ВКЛ, гісторыя Беларусі, Кароткая гісторыя Беларусі, гісторыя Беларусі коратка" />
 	<meta property="og:image" content="http://history-belarus.by/images/img-events/unia_krewo/unia_title.jpg" />
 
 <!-- ***Include Header*** -->
@@ -28,75 +28,83 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h3>1432 Гродненская Уния</h3>
+		<h1>1432 Гарадзенская Унія</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/unia_krewo/unia_krewo.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Гродненская уния" src="../../images/img-events/unia_krewo/unia_krewo_thumb.jpg" height="140">
+		<img alt="Гарадзенская унія" src="../../images/img-events/unia_krewo/unia_krewo_thumb.jpg" height="140">
 		</a>
 		</p>
 		
 		<p class="img-float-right">
 		<a href="../../images/img-events/unia_grodno/grodno.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Гродненская уния" src="../../images/img-events/unia_grodno/grodno.jpg" height="140">
-		</br><small>Гродно</small>
+		<img alt="Гарадзенская унія" src="../../images/img-events/unia_grodno/grodno.jpg" height="140">
+		</br><small>Гародня</small>
 		</a>
 		</p>		
 		<p>
-		Гродненская уния 15 октября 1432 года — союз между Королевством Польским и Великим княжеством Литовским, заключённый в Гродно. 
-		Высокими сторонами соглашения выступили король польский <a href="../figures/jagiello.php">Владислав II Ягайло</a> и 
-		великий князь литовский <a href="../terms/dukes_wkl.php">Жигимонт</a> (Сигизмунд) Кейстутович. 
+		Гарадзенская унія 15 кастрычніка 1432 года — звяз паміж Каралеўствам Польскім і Вялікім княствам Літоўскім, заключаны ў Гародні. 
+		Высокімі старанамі пагаднення выступілі кароль польскі <a href="../figures/jagiello.php">Уладзіслаў II Ягайла</a> і 
+		вялікі князь літоўскі <a href="../terms/dukes_wkl.php">Жыгімонт</a> (Сігізмунд) Кейстутавіч. 
 		</p>		
 		<p>
-		Уния была заключена в условиях гражданской войны, после того как Жигимонту с помощью Польши удалось свергнуть Свидригайло. 
-		Фактически возвращает условия <a href="../events/unia_vilno.php">Виленско-Радомской унии</a>: после смерти Сигизмунда ВКЛ  должно было перейти под непосредственное правление Ягайло или его потомков. Все союзы и соглашения, ранее заключённые Свидригайло "во вред королевству", разрывались.
+		Унія была складзена ва ўмовах грамадзянскай вайны, пасля таго, як Жыгімонту з дапамогай Польшчы атрымалася зрынуць Свідрыгайлу. 
+		Фактычна вяртае ўмовы <a href="../events/unia_vilno.php">Віленска-Радамскай уніі</a>: пасля смерці Сігізмунда ВКЛ павінна было перайсці пад непасрэднае кіраванне ягайлы ці яго нашчадкаў. Усе звязы і пагадненні, раней заключаныя Свідрыгайлам "у шкоду каралеўству", касаваліся.
 		</p>		
 		<p>
-		1430 После смерти <a href="../figures/vitovt.php">Витовта</a> в. князем Литовским становится <a href="../figures/svidrigailo.php">Свидригайло</a>. 
-		Он разрывает союз с Польшей и отказывается присягать Ягайло. 
-		<i>"Я не с его ласки, но с Божьей и по праву природного моего великий князь; 
-		имею теперь время отомстить ему за давние обиды, пускай будет благодарен, 
-		что я до этого почитаю и уважаю его просто, как старшего брата и короля польского"
+		1430 Пасля смерці <a href="../figures/vitovt.php">Вітаўта</a> вялікім князем Літоўскім становіцца <a href="../figures/svidrigailo.php">Свідрыгайла</a>. 
+		Ён касуе звяз з Польшчай і адмаўляецца прысягацца Ягайле. 
+		<i>"Я не з яго ласкі, але з Боскай і па праву прыроднага майго вялікі князь; 
+		маю зараз час адпомсціць яму за даўнія крыўды, няхай будзе ўдзячны, 
+		што я да гэтага шаную і паважаю яго проста, як старэйшага брата і караля польскага"
 		</i>
 		</p>		
 		<p>
-		1431 года между Польшей и Литвой началась Луцкая война
-		</br>1432 году Свидригайло был свергнут с трона Жигимонтом
-		</br>1432-38 <a href="../events/war_civil_1432.php">Гражданская война</a> в ВКЛ (Свидригайло vs Жигимонт) — вооруженный конфликт, развилась на фоне противоречий между элитами Королевства Польского и ВКЛ. Противниками широко использовалось конфессиональное противостояние католиков и православных. В начавшийся вскоре вооружённый конфликт были втянут Тевтонский Орден, выступивший на стороне Свидригайло и объявивший Польше войну.
-		</br>1432 Гродненская уния
-		</br>1434 <a href="../events/unia_gorodlo.php">Трокский привилей</a>, уравнявший католиков и православных в правах.
+		1431 года паміж Польшчай і Літвой пачынаецца Луцкая вайна
+		</br>1432 год Свідрыгайла быў зрынуты з трона Жыгімонтам
+		</br>1432-38 <a href="../events/war_civil_1432.php">Грамадзянская вайна</a> ў ВКЛ (Свідрыгайла vs Жыгімонт) — узброены канфлікт, развіўся на фоне супярэчнасцяў паміж элітамі Каралеўства Польскага і ВКЛ. Супернікамі шырока выкарыстоўвалася канфесійнае супрацьстаянне каталікоў і праваслаўных. У распачаты неўзабаве ўзброены канфлікт быў уцягнуты Тэўтонскі Ордэн, які выступіў на боку Свідрыгайлы і абвясціў Польшчы вайну.
+		</br>1432 Гарадзенская унія
+		</br>1434 <a href="../events/unia_gorodlo.php">Трокскі прывілей</a>, які зраўнаваў каталікоў і праваслаўных у правах.
 		</p>
 		<p>
-		Уния действовала до убийства в 1440 году Сигизмунда и избрания великим князем сына Ягайло — <a href="../terms/dukes_wkl.php">Казимира Ягеллончика</a>
+		Унія дзейнічала да забойства ў 1440 годзе Сігізмунда і абрання вялікім князем сына Ягайлы — <a href="../terms/dukes_wkl.php">Казіміра Ягелончыка</a>
 		</p>
 		
 		<div class="col-md-12">
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/unia_vilno/wkl_polska_1386_1434.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Гродненская уния" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="160">
+		<img alt="Гарадзенская унія" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="100">
 		</br><small>ВКЛ 1386-1434</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-events/war_civil_1432/1432_wkl_swidrigajlo.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Гражданская война в ВКЛ" src="../../images/img-events/war_civil_1432/1432_wkl_swidrigajlo_thumb.jpg" height="100">
+		</br><small>Грамадзянская вайна 1432-36</small> 
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/unia_liublin/unia_table.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Гродненская уния" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" height="160">
-		</br><small>Хронология уний
-		</br>ВКЛ-Польша</small>
+		<img alt="Гарадзенская унія" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" height="100">
+		</br><small>Храналогія уній
+		</br>ВКЛ-Польшча</small>
 		</a>
 		</div>
 		
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/unia_krewo/ordensgebiete.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Гродненская уния" src="../../images/img-events/unia_krewo/ordensgebiete_thumb.jpg" height="160">
-		</br><small>XIV-XV в. Земли Deutschen Ordens</small>
+		<img alt="Гарадзенская унія" src="../../images/img-events/unia_krewo/ordensgebiete_thumb.jpg" height="100">
+		</br><small>XIV-XV ст. Землі Deutschen Ordens</small>
 		</a>
 		</div>
 		

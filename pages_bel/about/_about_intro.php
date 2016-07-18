@@ -250,9 +250,11 @@
         </div>
 
 		<div class="col-md-4 img-float-center">
+		<!--
         	<a target="_blank" href="http://www.istoriia.ru">
 			<img src="http://www.istoriia.ru/images/rus.jpg" alt="Всемирная История" width="88" height="31" border="1"></br>
 			<small>История в деталях — проект, посвященный Всемирной Истории</small></a>
+		-->
         </div>
         
     </div>

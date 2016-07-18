@@ -33,7 +33,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_places.php"); ?>
  
-		<h2>Вильня, Wilna, Vilna, Вильнюс</h2>		
+		<h1>Вильня, Wilna, Vilna, Вильнюс</h1>		
 		<p>
 		Вильно — древний город, основанный <a href="../figures/gedimin.php">Гедымином</a> на земле <a href="../terms/blr_etnos.php">кривичей</a>, 
 		на месте старого поселения 
@@ -95,7 +95,16 @@
 	</p>
 	
 	<div class="col-md-12" >
-		<div class="col-md-6 img-float-center">
+	
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-places/wilno/wilno_blr.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-places/wilno/wilno_blr_thumb.jpg" height="120">
+		</br><small>"Wilno. Первые поселенцы", 1829</small> 	
+		</a>
+		</div>	
+		
+		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-places/wilno/wilno_reestr.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-places/wilno/wilno_reestr_thumb.jpg" height="120">
@@ -103,7 +112,7 @@
 		</a>
 		</div>		
 		
-		<div class="col-md-6 img-float-center">
+		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-places/wilno/wilno_streets.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-places/wilno/wilno_streets_thumb.jpg" height="120">
@@ -119,7 +128,7 @@
 	
 	<div class="col-md-12">
 		
-		<div class="col-md-6 img-float-center">
+		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-places/wilno/slovnik.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-places/wilno/slovnik_thumb.jpg" height="120">
@@ -127,7 +136,15 @@
 		</a>
 		</div>
 		
-		<div class="col-md-6 img-float-center">
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-articles/holywar/1923_june_foreign_affairs_mag_boundary_disputes.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="история ВКЛ" src="../../images/img-articles/holywar/1923_june_foreign_affairs_mag_boundary_disputes_thumb.jpg" height="120"/>
+		</br><small>1923 Ethnography of the Vilna region</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-download/LIETUVAS_KALBA.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Этнография белорусов" src="../../images/img-download/LIETUVAS_KALBA_thumb.jpg" height="120">

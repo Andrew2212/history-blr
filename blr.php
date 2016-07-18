@@ -59,7 +59,7 @@
 		</a>
 		</br>
 		<small>
-		* Герб <a href="pages/terms/blr_gerb.php">Пагоня</a> ўключаны ў "Дзяржаўны спіс гісторыка-культурных каштоўнасьцяў" Рэспублікі Беларусь
+		* Герб <a href="pages_bel/terms/blr_gerb.php">Пагоня</a> ўключаны ў "Дзяржаўны спіс гісторыка-культурных каштоўнасьцяў" Рэспублікі Беларусь
 		</small>
 		</p>
 
@@ -72,7 +72,7 @@
 		<small>
 		<p>
 			Адказвае 
-			<a href="pages/articles/patria_propria.php">Барыс  Гройс</a>
+			<a href="pages_bel/articles/patria_propria.php">Барыс  Гройс</a>
 			 — савецкі і нямецкі мастацтвазнаўца, філосаф, пісьменнік, публіцыст. Прафесар філасофіі, тэорыі мастацтва, медыя-вядзення ў Дзяржаўнай вышэйшай школе дызайну ў Карлсруэ, 
 			прафесар славістыкі ў Нью-Ёркскім універсітэце:
 		</p>
@@ -104,13 +104,13 @@
 		<div class="col-md-12">
 			<div  style="margin-left: 0px">
 				<h4>
-					<a href="/pages/download/_download_intro.php" class="btn btn-large btn-danger"
+					<a href="/pages_bel/download/_download_intro.php" class="btn btn-large btn-danger"
 						data-toggle="modal"> <i class="glyphicon glyphicon-heart"></i> Я хачу пазнаць больш </a>
 				</h4>
 			</div>
 			<div  style="margin-left: 0px">
 				<h4>
-					<a href="/pages/articles/step_away.html" class="btn btn-large btn-info"
+					<a href="/pages_bel/articles/step_away.html" class="btn btn-large btn-info"
 						data-toggle="modal"> <i class="glyphicon glyphicon-volume-up"></i> Я веру ў Рускі Свет Uber Alles</a>
 				</h4>
 			</div>
@@ -128,8 +128,8 @@
 
 	<h1>Гісторыя Беларусі. Карты і дакументы.
 		<small>
-		</br>Старыя <a href="pages/download/map_wkl.php">карты ВКЛ-Беларусі</a>		
-		</br><a href="pages/download/_download_intro.php">Дакументы</a> (хронікі, акадэмічныя выданні) па гісторыі Беларусі
+		</br>Старыя <a href="pages_bel/download/map_wkl.php">карты ВКЛ-Беларусі</a>		
+		</br><a href="pages_bel/download/_download_intro.php">Дакументы</a> (хронікі, акадэмічныя выданні) па гісторыі Беларусі
 		</small>
 	</h1>
 
@@ -137,17 +137,17 @@
 	<h1>
 	Гісторыя Беларусі.
 		<small>
-		</br><a href="pages/terms/belarus.php">Беларусь</a> — гісторыя дзяржавы
-		</br><a href="pages/terms/blr_etnos.php">Этнас Беларусі</a> і <a href="pages/download/blr_people.php">этнаграфічныя карты</a> беларускага племені
+		</br><a href="pages_bel/terms/belarus.php">Беларусь</a> — гісторыя дзяржавы
+		</br><a href="pages_bel/terms/blr_etnos.php">Этнас Беларусі</a> і <a href="pages/download/blr_people.php">этнаграфічныя карты</a> беларускага племені
 		</br>Нацыянальныя <a href="pages/terms/blr_mova.php">мова</a>, <a href="pages/terms/blr_gerb.php">герб</a> і <a href="pages/terms/blr_flag.php">сцяг</a> Беларусі
-		</br><a href="pages/terms/religion_blr.php">Рэлігія</a> на беларускіх землях
+		</br><a href="pages_bel/terms/religion_blr.php">Рэлігія</a> на беларускіх землях
 		</small>
 	</h1>
 	
 	
 	<h3>Кароткі лікбез па гісторыі Беларусі</h3>
 		<p> 		
-		Для тых, хто з урыўкавых ведаў, невыразных свят, сімволікі і <a href="pages/places/_places_intro.php">тапанімікі</a> спрабуе, але не можа скласці выразную карціну гісторыі сваёй краіны і свайго народа.
+		Для тых, хто з урыўкавых ведаў, невыразных свят, сімволікі і <a href="pages_bel/places/_places_intro.php">тапанімікі</a> спрабуе, але не можа скласці выразную карціну гісторыі сваёй краіны і свайго народа.
 		</p>
 		<p>
 		Для тых, у каго няма часу і вялікага жадання купляць і чытаць тоўстыя кнігі і прарывацца праз лацінскія і стараславянскія выняткі на форумах знаўцаў.
@@ -159,9 +159,9 @@
 		Сайт не прэтэндуе на статус энцыклапедыі - ён дае звязаную карціну часоў, падзей, імёнаў і дат. І знаёміт з крыніцай больш поўнай інфармацыі.
 		</p>
 		<p>
-		Артыкулы ў раздзелах <a href="pages/times/_times_intro.php">Час</a>, <a href="pages/events/_events_intro.php">Падзеі</a>, 
-		<a href="pages/figures/_figures_intro.php">Людзі</a>, <a href="pages/terms/_terms_intro.php">Тэрміны</a> ілюстраваны гістарычнымі картамі 
-		і дакументамі (іх можна спампаваць у раздзеле <a href="pages/download/_download_intro.php">Download</a>).		
+		Артыкулы ў раздзелах <a href="pages_bel/times/_times_intro.php">Час</a>, <a href="pages_bel/events/_events_intro.php">Падзеі</a>, 
+		<a href="pages_bel/figures/_figures_intro.php">Людзі</a>, <a href="pages_bel/terms/_terms_intro.php">Тэрміны</a> ілюстраваны гістарычнымі картамі 
+		і дакументамі (іх можна спампаваць у раздзеле <a href="pages_bel/download/_download_intro.php">Download</a>).		
 		</p>
 		
 	<div class="col-md-12"  style="height:20px;">
@@ -169,7 +169,7 @@
 	
 	<div class="col-md-12">
 		
-		<h4><a href="pages/times/10_vek.php">X век</a></h4>
+		<h4><a href="pages_bel/times/10_vek.php">X век</a></h4>
 			
 		<p class="img-float-left">
 		<a href="images/_img-index/blr_10ce_etno_variag_way.jpg" class="highslide"
@@ -179,21 +179,21 @@
 		</p>		
 		
 		<p>
-			 Закладзены асновы дзяржаўнасці на <a href="pages/download/blr_people.php">беларускіх землях</a>. 
+			 Закладзены асновы дзяржаўнасці на <a href="pages_bel/download/blr_people.php">беларускіх землях</a>. 
 		</p>
 		<p>
 		 На шляху з "варагаў у грэкі" створана дзяржава крывічоў —
-			  <a href="pages/terms/polotsk_principality.php">Полацкае княства</a>. 
+			  <a href="pages_bel/terms/polotsk_principality.php">Полацкае княства</a>. 
 			  Першыя летапісныя звесткі пра яго звязаны са скандынаўскімі варагамі. 
 			  Хроніка "Дзеі данаў" (Gesta Danorum) 
 			  <a target="_blank" href="images/img-terms/belarus/polotsk_libre_saga.pdf">распавядае аб паходзе на Полацк (Palteskja)</a> 
 			  легендарнага караля Фродзі I (V-VI в. н.э.)	
 		</p>
 		<p>
-			Першым згаданым у летапісах князем Полацкім быў <a href="pages/figures/rogvolod_rogneda.php">Рагвалод</a>. 
+			Першым згаданым у летапісах князем Полацкім быў <a href="pages_bel/figures/rogvolod_rogneda.php">Рагвалод</a>. 
 			І наступныя князі Полацкія называліся ў хроніках "Рагваложымі ўнукамі" ці 
-			Ізяслававічы (ад імя сына <a href="pages/figures/rogvolod_rogneda.php">Рагнеды</a> і ўнука Рагвалода — 
-			<a href="pages/figures/rogvolod_rogneda.php">Ізяслава</a>)
+			Ізяслававічы (ад імя сына <a href="pages_bel/figures/rogvolod_rogneda.php">Рагнеды</a> і ўнука Рагвалода — 
+			<a href="pages_bel/figures/rogvolod_rogneda.php">Ізяслава</a>)
 		</p>
 		<p>	
 			У канцы стагоддзя адбылося хрышчэнне Полацка легендарным хрысціянскім місіянерам і падарожнікам <a href="pages/figures/torwald.php">Торвальдам Кадрансанам</a>.
@@ -202,7 +202,7 @@
 		
 	<div class="col-md-12">	
 	
-		<h4><a href="pages/times/11_vek.php">XI стагоддзе</a></h4>
+		<h4><a href="pages_bel/times/11_vek.php">XI стагоддзе</a></h4>
 			
 		<p class="img-float-left">
 		<a href="images/_img-index/blr_10ce_country_variag_way.jpg" class="highslide"
@@ -214,11 +214,11 @@
 		<p>
 		
 			Стагоддзе росквіту княства (займала трэць сучаснай Беларусі).
-			</br>Княжанне двух князёў — Брачаслава (1003-1044) і <a href="pages/figures/charadzej.php">Усяслава "Чарадзея"</a> (1044-1101). 
+			</br>Княжанне двух князёў — Брачаслава (1003-1044) і <a href="pages_bel/figures/charadzej.php">Усяслава "Чарадзея"</a> (1044-1101). 
 		</p>
 		
 		<p>
-			Паходы на Ноўгарад, супрацьстаянне з Рюрыкавічамі-Яраславічамі і <a href="pages/events/battle_nemiga.php">бітва на Нямізе</a>. 
+			Паходы на Ноўгарад, супрацьстаянне з Рюрыкавічамі-Яраславічамі і <a href="pages_bel/events/battle_nemiga.php">бітва на Нямізе</a>. 
 		</p>
 		<p>	
 			Цесныя сувязі са Скандынавіяй. Аб супрацьстаянні Брачаслава з Яраславічамі складзена "Сага аб Эймундзе", 
@@ -345,19 +345,19 @@
 		<a href="pages/terms/weliki_kancler.php">канцлеры</a>, <a href="pages/terms/weliki_hetman.php">гетманы</a> і г.д.).
 		</p>
 		<p>
-		 Першае міжканфесійнае супрацьстаянне — <a href="pages/events/war_civil_1432.php">Грамадзянская вайна</a> 1432-1435 гадоў.
+		 Першае міжканфесійнае супрацьстаянне — <a href="pages_bel/events/war_civil_1432.php">Грамадзянская вайна</a> 1432-1435 гадоў.
 		</p>			 
 		<p>
-		<a href="pages/events/grunwald.php">Бітва пад Грунвальдам</a> — канчатак войнаў з Тэўтонскім Ордэнам і 
-		 далучэнне <a href="pages/places/samogitia.php">Самагітыі</a>.
+		<a href="pages_bel/events/grunwald.php">Бітва пад Грунвальдам</a> — канчатак войнаў з Тэўтонскім Ордэнам і 
+		 далучэнне <a href="pages_bel/places/samogitia.php">Самагітыі</a>.
 		 </p>
 		 <p>
 		 Наступіла "Залатое стагоддзе" (1410-1569) — час беларускага Рэнесансу.
-		 </br>Выдадзены <a href="pages/terms/statut.php">Статут ВКЛ</a>, 
+		 </br>Выдадзены <a href="pages_bel/terms/statut.php">Статут ВКЛ</a>, 
 		 выдаюцца працы гуманістаў і асветнікаў - залатая спадчына Беларусі.
 		 </p>
 		 <p>
-		 Скончваецца фармаванне <a href="pages/terms/blr_etnos.php">беларускага этнасу</a>.
+		 Скончваецца фармаванне <a href="pages_bel/terms/blr_etnos.php">беларускага этнасу</a>.
 		</p>
 	</div>		 	 
 		
@@ -445,7 +445,7 @@
 		
 	<div class="col-md-12">	
 	
-		<h4><a href="pages/times/20_vek.php">XX стагоддзе</a></h4>
+		<h4><a href="pages_bel/times/20_vek.php">XX стагоддзе</a></h4>
 			
 		<p class="img-float-left">
 		<a href="images/_img-index/blr_20ce_country.jpg" class="highslide"
@@ -456,7 +456,7 @@
 		
 		<p>
 		Першая Сусветная Вайна. Крушэнне Расійскай Імперыі. 
-		</br><a href="pages/terms/bnr.php">Беларуская Народная Рэспубліка</a> — пераемнік ВКЛ, папярэднік сучаснай Беларусі.
+		</br><a href="pages_bel/terms/bnr.php">Беларуская Народная Рэспубліка</a> — пераемнік ВКЛ, папярэднік сучаснай Беларусі.
 		</br>БССР у складзе СССР. Другая Сусветная вайна. Крушэнне Савецкага Саюза. 
 		</br>Рэспубліка Беларусь.
 		</p>
@@ -477,4 +477,4 @@
 </div>
 
 <!-- ***Include Footer*** -->
-<? include ("pages/_include/footer.php"); ?>
+<? include ("pages_bel/_include/footer.php"); ?>

@@ -29,7 +29,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h3>1413 Городельская уния</h3>
+		<h1>1413 Городельская уния</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/unia_krewo/unia_krewo.jpg" class="highslide"
@@ -72,7 +72,7 @@
 		 В ВКЛ также вводилось одинаковое с Польшей административное деление на воеводства.
 		</p>
 	
-		<h4>Гражданская война и Трокский привилей </h4>
+		<h3>Гражданская война и Трокский привилей </h3>
 		<p>
 		Однако право на эти должности и все привилегии, гарантированные Городельской унией, касались только католиков. Одной из причин открыто 
 		католического характера Городельской унии было стремление Витовта приобрести симпатии на Западе, лишить западной поддержки Орден. 
@@ -98,7 +98,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/unia_vilno/wkl_polska_1386_1434.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Городельская уния" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="160">
+		<img alt="Городельская уния" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="100">
 		</br><small>ВКЛ 1386-1434</small>
 		</a>
 		</a>
@@ -107,7 +107,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/unia_liublin/unia_table.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Городельская уния" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" height="160">
+		<img alt="Городельская уния" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" height="100">
 		</br><small>Хронология уний
 		</br>ВКЛ-Польша</small>
 		</a>
@@ -117,7 +117,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/unia_krewo/ordensgebiete.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Городельская уния" src="../../images/img-events/unia_krewo/ordensgebiete_thumb.jpg" height="160">
+		<img alt="Городельская уния" src="../../images/img-events/unia_krewo/ordensgebiete_thumb.jpg" height="100">
 		</br><small>XIV-XV в. Земли Deutschen Ordens</small>
 		</a>
 		</div>

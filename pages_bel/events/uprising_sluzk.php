@@ -1,16 +1,16 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="be">
   <head>
   <!-- ***Title*** -->
-    <title>Слуцки збройны чын</title>
+    <title>Слуцкі збройны чын</title>
 <!-- ***Meta*** -->  
     <meta name="description" content="Чаму да азначэння Слуцкага збройнага чыну ўжываецца не канкрэтнае слова — паўстанне, а абстрактнае — чын? 
-	Бо паўстанне — унутраня справа. А там людзі баранілі сваю дзяржаву, то бок адбівалі інтэрвенцыю звонку.
+	Бо паўстанне — унутраная справа. А там людзі баранілі сваю дзяржаву, то бок адбівалі інтэрвенцыю звонку.
 		Проста, у канцы 1980-х навукоўцы не наважыліся даць канкрэтнае азначэнне — беларуска-расейская вайна 1920 году
 	" />
-	<meta name="keywords" itemprop="keywords" content="слуцкое восстание, слуцки збройны чын, 
-	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
+	<meta name="keywords" itemprop="keywords" content="Слуцкае паўстанне, Слуцкі збройны чын, 
+	гісторыя Беларусі коратка ў датах, асноўныя падзеі ў гісторыі Беларусі, гісторыя ВКЛ, ВКЛ, гісторыя Беларусі, Кароткая гісторыя Беларусі, гісторыя Беларусі коратка" />
 	<meta property="og:image" content="http://history-belarus.by/images/img-events/uprising_sluzk/title.jpg" />
 
 <!-- ***Include Header*** -->
@@ -30,12 +30,12 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h1>Слуцки збройны чын
-		</br><small>27 ноября — День героев</small>
+		<h1>Слуцкі збройны чын
+		</br><small>27 лістапада — Дзень герояў</small>
 		</h1>
 		
 		<p>
-		<i>"Чаму да азначэння Слуцкага збройнага чыну ўжываецца не канкрэтнае слова "паўстанне", а абстрактнае "чын"? Бо паўстанне — унутраня справа. 
+		<i>"Чаму да азначэння Слуцкага збройнага чыну ўжываецца не канкрэтнае слова "паўстанне", а абстрактнае "чын"? Бо паўстанне — унутраная справа. 
 		А там людзі баранілі сваю дзяржаву, то бок адбівалі інтэрвенцыю звонку.
 		Проста, у канцы 1980-х навукоўцы не наважыліся даць канкрэтнае азначэнне — "беларуска-расейская вайна 1920 году".
 		</i>
@@ -45,42 +45,42 @@
 		<p class="img-float-left">
 		<a href="../../images/img-events/uprising_sluzk/pershy_polk_sluck.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Слуцки збройны чын" src="../../images/img-events/uprising_sluzk/pershy_polk_sluck_thumb.jpg" height="120" >
+			<img alt="Слуцкі збройны чын" src="../../images/img-events/uprising_sluzk/pershy_polk_sluck_thumb.jpg" height="120" >
 			</a>
 		</p>
 		<p class="img-float-right">
 		<a href="../../images/img-events/uprising_sluzk/stamp_Rada.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img lt="Слуцки Збройны чын 1920" src="../../images/img-events/uprising_sluzk/stamp_Rada_thumb.jpg" height="120" >
-			</br><small>Печать Слуцкой Рады</small>
+			<img lt="Слуцкі збройны чын 1920" src="../../images/img-events/uprising_sluzk/stamp_Rada_thumb.jpg" height="120" >
+			</br><small>Пячатка Слуцкай Рады</small>
 			</a>
 		</p>
 		
 		<p>
-		Слуцки збройны чын (27 ноября 1920 года) — вооруженная борьба против Советской власти в районе города Слуцка. 
-		Целью восстания была объявлена защита независимости Беларусиы. 
-		Слуцки збройны чын считают эпизодом истории <a href="../terms/bnr.php">Белорусской Народной Республики</a>.	
+		Слуцкі збройны чын (27 лістапада 1920 года) — узброенае змаганне супраць Савецкай улады ў раёне горада Слуцка. 
+		Мэтай паўстання была абвешчана абарона незалежнасці Беларусі. 
+		Слуцкі збройны чын лічаць эпізодам гісторыі <a href="../terms/bnr.php">Беларускай Народнай Рэспублікі</a>.	
 		</p>
 		<p>
-		Это было время, когда на руинах <a href="../terms/sewero_zapadny_kraj.php">Северо-Западного края</a> 
-		идею <a href="../terms/kraj_tut.php">тутэйшай краевасьци</a> и самоуправления 
-		— в различных его вариантах: от унии с Польшей до полной независимости — 
-		поддерживали все слои населения, от крестьян до польскоязычной <a href="../terms/shliahta.php">шляхты</a>. 
+		Гэта быў час, калі на спарудах <a href="../terms/sewero_zapadny_kraj.php">Паўночна-Заходняга краю</a> 
+		ідэю <a href="../terms/kraj_tut.php">тутэйшай краевасьці</a> і самакіравання 
+		— у розных яго варыянтах: ад уніі з Польшчай да поўнай незалежнасці — 
+		падтрымлівалі ўсе пласты насельніцтва, ад сялян да польскамоўнай <a href="../terms/shliahta.php">шляхты</a>. 
 		</p>
 		<p>
-		Еще действовала Белорусская Народная армия <a href="../figures/bulak.php">Булак-Балаховича</a>,
-		про которого газеты писали, что <i>"он хочет создать Белорусскую Речь Посполитую"</i> с временным правительством, в которое входили 
-		<a href="../figures/skirmunt.php">Роман Скирмунт</a> и <a href="../figures/woinillovicz.php">Эдвард Войнилович</a> 
-		(см. <a href="../download/blr_nationalists_1957.php">"Воспоминания 1917-1928"</a> Э. Войниловича)
+		Яшчэ дзейнічала Беларускае Народнае войска <a href="../figures/bulak.php">Булак-Булаховіча</a>,
+		пра якога газеты пісалі, што <i>"ён хоча стварыць Беларускую Рэч Паспалітую"</i> з часовым урадам, у які ўваходзілі 
+		<a href="../figures/skirmunt.php">Раман Скірмунт</a> і <a href="../figures/woinillovicz.php">Эдвард Вайніловіч</a> 
+		(см. <a href="../download/blr_nationalists_1957.php">"Успаміны 1917-1928"</a> Э. Вайніловіча)
 		</p>
 		<p>
-		Литовско-Белорусский корпус генерала Желиговского (куда входили Виленский, Минский, Новогрудский, Гродненский стрелковые полки 
-		и Литовско-Белорусский полк артилерии), заняв Вильню, учредил Срединную Литву.   
+		Літоўска-Беларускі корпус генерала Жалігоўскага (куды ўваходзілі Віленскі, Мінскі, Наваградскі, Гарадзенскі стралковыя палкі 
+		і Літоўска-Беларускі полк артылерыі), заняўшы Вільню, заснаваў Сярэднюю Літву.   
 		</p>
 		<p>
 		[ <small>
 		У 1917-1922 на Случчыне была створана "Папараць-Кветка" — беларускае культурна-асьветнае таварыства. 
-		У сваім складзе мела 3 сэкцыі: краязнаўчую, літаратурную і драматычна-харавую. 
+		У сваім складзе мела 3 секцыі: краязнаўчую, літаратурную і драматычна-харавую. 
 		Подле свайго статуту ставіла за мэту прапаганду беларускае мовы, культуры й мастацтва. 
 		Улетку 1920 году ў складзе таварыства налічвалася больш за 300 чалавек.
 		</p>
@@ -91,8 +91,8 @@
 		</small> ]
 		</p>
 		<p>
-		Основной движущей силой Слуцкого восстания было крестьянство, которое сопротивлялось советской политике военного коммунизма 
-		и поддерживало идею независимости Белоруссии, провозглашённой 25 марта 1918 года Радой БНР. 
+		Асноўнай рухальнай сілай Слуцкага паўстання было сялянства, якое супрацівілася савецкай палітыцы вайсковага камунізму 
+		і падтрымвала ідэю незалежнасці Беларусі, абвешчанай 25 сакавіка 1918 года Радай БНР. 
 		</p>
 		
 	<div class="col-md-12">
@@ -100,23 +100,23 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_sluzk/wojnilowicz_book.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img lt="Слуцки Збройны чын 1920" src="../../images/img-events/uprising_sluzk/wojnilowicz_book_thumb.jpg" height="100" >
-			</br><small>Из "Воспоминаний" Э. Войниловича</small>
+			<img lt="Слуцкі збройны чын 1920" src="../../images/img-events/uprising_sluzk/wojnilowicz_book_thumb.jpg" height="100" >
+			</br><small>З "Успамінаў" Э. Вайніловіча</small>
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_sluzk/Karta-na-nachalo-vosstaniya.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Слуцки Збройны чын 1920" src="../../images/img-events/uprising_sluzk/Karta-na-nachalo-vosstaniya_thumb.jpg" height="100" >
-			</br><small>Слуцки Збройны чын</small>
+			<img alt="Слуцкі збройны чын 1920" src="../../images/img-events/uprising_sluzk/Karta-na-nachalo-vosstaniya_thumb.jpg" height="100" >
+			</br><small>Слуцкі збройны чын</small>
 			</a>
 		</div>		
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_sluzk/Tavarystva_Paparac-Kvietka.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img lt="Слуцки Збройны чын 1920" src="../../images/img-events/uprising_sluzk/Tavarystva_Paparac-Kvietka_thumb.jpg" height="100" >
+			<img lt="Слуцкі збройны чын 1920" src="../../images/img-events/uprising_sluzk/Tavarystva_Paparac-Kvietka_thumb.jpg" height="100" >
 			</br><small>Таварыства "Папараць-Кветка"</small>
 			</a>
 		</div>
@@ -124,36 +124,36 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/sewero_zapadny_kraj/seljane.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Северо-Западный край" src="../../images/img-terms/sewero_zapadny_kraj/seljane_thumb.jpg" height="100" >
-			</br><small>Белорусские крестьяне.</small>
+			<img alt="Паўночна-Заходні край" src="../../images/img-terms/sewero_zapadny_kraj/seljane_thumb.jpg" height="100" >
+			</br><small>Беларускія сяляне.</small>
 			</a>
 		</div>
 		
 	</div>
 			
 		<p>
-		В ходе советско-польской войны, 
-		на территориях, которые покидали польские войска, но куда еще не вступили большевики, формировались местные органы власти. 
-		В ноябре 1920 года была создана Часовая Рада Случчыны. Она провозгласила восстановление власти 
-		<a href="../terms/bnr.php">Белорусской Народной Республики</a> на территориии повета.
+		Падчас савецка-польскай вайны, 
+		на тэрыторыях, якія пакідалі польскія войскі, але куды яшчэ не ўступілі бальшавікі, фармаваліся мясцовыя органы ўлады. 
+		У лістападзе 1920 года была створана Часовая Рада Случчыны. Яна абвясціла аднаўленне ўлады
+		<a href="../terms/bnr.php">Беларускай Народнай Рэспублікі</a> на тэрыторыі павета.
 		</p>
 		<p>
-		 По решению Рады было начато формирование военных подразделений из местных жителей. Были созданы два полка — Слуцкий и Грозовский, 
-		 позднее объединенные в Слуцкую бригаду.
+		 Па вырашэнні Рады было пачата фармаванне вайсковых падраздзяленняў з мясцовых жыхароў. Былі створаны два палка — Слуцкі і Гразоўскі, 
+		 пазней з'яднаныя ў Слуцкую брыгаду.
 		</p>
 		
 		<p>
 		<i>
-		 Из доклада Военревкома БССР от 15 ноября 1920 г.: 
-		 <i>«Население некоторых волостей, узнав о самоопределении Белоруссии, не хочет признавать никакой власти, 
-		 кроме несуществующего правительства „незалежнай Беларусі“ и относится очень враждебно к организуемым волостным ревкомам, 
-		 заявляясь, что власть нужно выбирать, а не назначать из Москвы»</i>
+		 З даклада Ваенрэўкама БССР ад 15 лістапада 1920 г.: 
+		 <i>«Насельніцтва некаторых воласцяў, даведаўшыся пра самавызначэнне Беларусі, не хоча прызнаваць ніякай улады, 
+		 апроч няіснага ўрада "незалежнай Беларусі" і ставіцца вельмі варожа да арганізаваных валасных рэўкамаў, 
+		 заяўляючыся, што ўладу трэба абіраць, а не прызначаць з Масквы»</i>
 		</i>
 		</p>
 		<p>
-		Слуцки збройны чын имел огромную поддержку населения — за месяц пад зброю стало более 4000 человек. Это в краю, где последние шесть лет 
-		шли беспрерывные войны и постоянные мобилизации, страшно сократившие мужское население. И при этом практически без шансов на успех — 
-		они шли вовать с армией России, огромным наследием империи, высвобождавшимся с затухающего польского фронта. 
+		Слуцкі збройны чын меў велізарную падтрымку насельніцтва — за месяц пад зброю стала больш за 4000 чалавек. Гэта ў краі, дзе апошні шэсць гадоў 
+		ішлі бесперапынныя войны і шторазовыя мабілізацыі, што страшна скарацілі мужчынскае насельніцтва. І пры гэтым практычна без шанцаў на поспех — 
+		яны ішлі ваяваць з арміяй Расіі, велізарнай спадчынай імперыі, што вызвалялася з загасальнага польскага фронту. 
 		</p>
 		
 		<div class="col-md-12">
@@ -161,25 +161,25 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_sluzk/sluzc_doc1.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Слуцки Збройны чын 1920" src="../../images/img-events/uprising_sluzk/sluzc_doc1_thumb.jpg" height="100" >
+			<img alt="Слуцкі збройны чын 1920" src="../../images/img-events/uprising_sluzk/sluzc_doc1_thumb.jpg" height="100" >
 			</br><small>"Думкі аб Слуцкім паўстаньні"
-			</br>Василь Русак</small>
+			</br>Васіль Русак</small>
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_sluzk/paswedczanne.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img lt="Слуцки Збройны чын 1920" src="../../images/img-events/uprising_sluzk/paswedczanne_thumb.jpg" height="100" >
+			<img lt="Слуцкі збройны чын 1920" src="../../images/img-events/uprising_sluzk/paswedczanne_thumb.jpg" height="100" >
 			</br><small>Пасведчаньне Беларускага Войска
-			</br>Василь Русак</small>
+			</br>Васіль Русак</small>
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_sluzk/sluzc_doc2.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Слуцки Збройны чын 1920" src="../../images/img-events/uprising_sluzk/sluzc_doc2_thumb.jpg" height="100" >
+			<img alt="Слуцкі збройны чын 1920" src="../../images/img-events/uprising_sluzk/sluzc_doc2_thumb.jpg" height="100" >
 			</br><small>"Ухвала Беларускага зьезду Случчыны"</small>
 			</a>
 		</div>
@@ -187,7 +187,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_sluzk/sluzc_doc_versz.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Слуцки Збройны чын 1920" src="../../images/img-events/uprising_sluzk/sluzc_doc_versz_thumb.jpg" height="100" >
+			<img alt="Слуцкі збройны чын 1920" src="../../images/img-events/uprising_sluzk/sluzc_doc_versz_thumb.jpg" height="100" >
 			</br><small>Верш «На сьмерць Піліпа Валоцькі»,  
 			</br>газета «Наша Думка» 1921</small>
 			</a>
@@ -196,8 +196,8 @@
 	</div>
 		
 		<p>
-		В конце декабря повстанцы уже не имели боеприпасов, а 28 декабря после отступления за реку Морочь, 
-		которая стала польско-советской границей, Слуцкая бригада была разоружена польскими властями.
+		У канцы снежня паўстанцы ўжо не мелі боепрыпасаў, а 28 снежня пасля адыходу за раку Морач, 
+		якая стала польска-савецкай мяжой, Слуцкая брыгада была раззброена польскімі ўладамі.
 		Афіцэраў і стральцоў інтэрніравалі ў Беласток, дзе яны сядзелі да красавіка 1921, а потым ў Дарагуск пад Бугам, дзе ўтрымлівалі да канца траўня 1921 году.
 		</p>
 		
@@ -208,23 +208,23 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_sluzk/grozawa1.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img lt="Слуцки Збройны чын 1920" src="../../images/img-events/uprising_sluzk/grozawa1_thumb.jpg" height="100" >
-			</br><small>Памятник в Грозово, РБ</small>
+			<img lt="Слуцкі збройны чын 1920" src="../../images/img-events/uprising_sluzk/grozawa1_thumb.jpg" height="100" >
+			</br><small>Помнік ў Грозава, РБ</small>
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_sluzk/Myzei_starye_dorogi.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img lt="Слуцки Збройны чын 1920" src="../../images/img-events/uprising_sluzk/Myzei_starye_dorogi_thumb.jpg" height="100" >
-			</br><small>Музей в Старых Дорогах, РБ</small>
+			<img lt="Слуцкі збройны чын 1920" src="../../images/img-events/uprising_sluzk/Myzei_starye_dorogi_thumb.jpg" height="100" >
+			</br><small>Музей у Старых Дарогах, РБ</small>
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_sluzk/sluzk_2015.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img lt="Слуцки Збройны чын 1920" src="../../images/img-events/uprising_sluzk/sluzk_2015_thumb.jpg" height="100" >
+			<img lt="Слуцкі збройны чын 1920" src="../../images/img-events/uprising_sluzk/sluzk_2015_thumb.jpg" height="100" >
 			</br><small>Слуцк, 27.11.2015</small>
 			</a>
 		</div>
@@ -232,8 +232,8 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_sluzk/Mittenwald_memory.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img lt="Слуцки Збройны чын 1920" src="../../images/img-events/uprising_sluzk/Mittenwald_memory_thumb.jpg" height="100" >
-			</br><small>Памятник в Миттенвальде, Бавария</small>
+			<img lt="Слуцкі збройны чын 1920" src="../../images/img-events/uprising_sluzk/Mittenwald_memory_thumb.jpg" height="100" >
+			</br><small>Помнік у Міценвальдзе, Баварыя</small>
 			</a>
 		</div>
 		
@@ -243,25 +243,25 @@
 		
 		<div class="col-md-6">		
 		<p>
-		Подробная хронология и анализ событий Слуцкого збройнага чына с использованием архивных материалов приведены в работе 
+		Падрабязная храналогія і аналіз падзей Слуцкага збройнага чына з выкарыстаннем архіўных матэрыялаў прыведзены ў працы 
 		"Беларусь мяцежная: з гісторыі ўзброенага антысавецкага супраціву: 20-я гг. XX ст.", Н. І. Стужынская. - Вільня: 2000 г.
 		</p>
 		<p>
 			Файл PDF, 450 кБ</br>
 			<a target="_blank" href="../../images/img-events/uprising_sluzk/slutskae_paustanne_N-Stuzinskaja.pdf" class="btn btn-info img-float-centr"
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Паглядзець і спампаваць</a>
 		</p>
 		</div>
 		
 		<div class="col-md-6">		
 		<p>
-		Документы того времени, воспоминания очевидцев и участников, архивные материалы собраны в работе 
+		Дакументы таго часу, успаміны сведкаў і ўдзельнікаў, архіўныя матэрыялы сабраны ў працы 
 		"Слуцкі збройны чын 1920 г. у дакумэнтах і ўспамінах" / Бібліятэка часопісу "Беларускі Гістарычны Агляд" 
 		</p>
 		<p>
 			Файл PDF, 9,5 Мб</br>
 			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DNnpxVHlYRVRZUkk/view?usp=sharing" class="btn btn-info img-float-centr"
-						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
+						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Паглядзець і спампаваць</a>
 		</p>
 		</div>
 		

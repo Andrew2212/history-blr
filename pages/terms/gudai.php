@@ -4,7 +4,7 @@
   <head>
      
 <!-- ***Title*** -->
- 	<title>Гуды и Белая Русь. История Беларуси</title>
+ 	<title>Гуды и Белая Русь</title>
 
 <!-- ***Meta*** -->
     <meta name="description" content="На белорусских землях встретились и закрепились два географически мигрирующих этно-культурных термина — Гуды и Белая Русь. 
@@ -12,7 +12,7 @@
     <meta name="keywords" itemprop="keywords" content="гуды, Белая русь, 
 	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, 
 	 История беларуси кратко в датах" />
-	 <meta property="og:image" content="http://history-belarus.by/images/img-terms/gudai/1539_Carta_Marina.jpg" />
+	 <meta property="og:image" content="http://history-belarus.by/images/img-terms/gudai/title.jpg" />
 	 
 
 
@@ -77,24 +77,45 @@
 		Миграцию термина гуды рассматривал профессор А. Н. Веселовский в своей работе 
 		"<a target="_blank" href="../../images/img-terms/polotsk_principality/Veselovskij_Rus_in_Wilkinasaga.djvu">Русские и вильтины в саге о Тидреке Бернском</a> (Wilkinasaga)".
 		</p>
+		<p>
+		На карте <a href="../download/map_wkl.php">"Polonia, Litvaniae" Мюнстера 1550 года</a> 
+		земли севернее Пинска обозначены, как Godinia.
+		</p>
 		
 	<div class="col-md-12">
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/gudai/1550_muenster-poland-littaw-Godinia.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Гуды белорусы" src="../../images/img-terms/gudai/1550_muenster-poland-littaw-Godinia_thumb.jpg" height="100">
+		</br><small>1550 "Litvania-Godinia", Sebastian Munster</small>
+		</a>
+		</div>
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/gudai/1906_gudai_saga.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Гуды белорусы" src="../../images/img-terms/gudai/1906_gudai_saga_thumb.jpg" height="100">
+		</br><small>Гуды в "Саге о Тильдрике"</small>
+		</a>
+		</div>
 		
-		<div class="col-md-6 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/gudai/gudija.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/gudai/gudija_thumb.jpg" height="100">
+		<img alt="Гуды белорусы" src="../../images/img-terms/gudai/gudija_thumb.jpg" height="100">
 		</br><small>1941, Gudija — земля гудов</small>
 		</a>
 		</div>
 		
-		<div class="col-md-6 img-float-center">
-		<a href="../../images/img-terms/gudai/1906_gudai_saga.jpg" class="highslide"
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/gudai/lietuva_gudai.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/gudai/1906_gudai_saga_thumb.jpg" height="100">
-		</br><small>Гуды в "Саге о Тильдрике"</small>
+		<img alt="Гуды белорусы" src="../../images/img-terms/gudai/lietuva_gudai_thumb.jpg" height="100">
+		</br><small>Литовский этноним <i>Gudas</i></small>
 		</a>
 		</div>
+		
 		
 	</div>
 		
@@ -134,7 +155,7 @@
 		
 	<div class="col-md-12">
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/gudai/1539_Carta_Marina.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/gudai/1539_Carta_Marina_thumb.jpg" height="100">
@@ -144,7 +165,7 @@
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/gudai/pologne1700.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/gudai/pologne1700_thumb.jpg" height="100">
@@ -154,7 +175,16 @@
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center" >
+		<div class="col-md-3 img-float-center" >
+		<a href="../../images/img-terms/gudai/1730_WKL_Seutteri.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="литвины-белорусы" src="../../images/img-terms/gudai/1730_WKL_Seutteri_thumb.jpg" width="120" height="100">
+		</br><small>1730 Lithuaniae, M. Seutteri 
+		</br>Russia Alba</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center" >
 		<a href="../../images/img-terms/litwiny/smolensk_blr.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/smolensk_blr.jpg" width="120" height="100">

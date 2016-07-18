@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
   <!-- ***Title*** -->
-    <title>Гражданская война XV в. История Беларуси</title>
+    <title>Гражданская война 1432—1438</title>
 <!-- ***Meta*** -->  
     <meta name="description" content="Гражданская война в ВКЛ 1432-38 — борьба за престол, развернувшаяся после смерти Витовта 
 		между Свидригайло и Сигизмундом. Война фактически происходила между западными и восточными частями ВКЛ.
@@ -29,8 +29,8 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h3>Гражданская война в ВКЛ 1432—1438
-		</br><small>последняя война <a href="../figures/svidrigailo.php">мятежного князя</a></small></h3>
+		<h1>1432—1438 Гражданская война
+		</br><small>последняя война мятежного князя Свидригайло</small></h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/war_civil_1432/swidrigailo.jpg" class="highslide"

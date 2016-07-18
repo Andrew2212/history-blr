@@ -31,7 +31,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_places.php"); ?>
  
-		<h3>Литва (Litvaniae, Lithuania)</h3>
+		<h1>Литва (Lithuania Propria)</h1>
 		<p>
 			Статья в разработке
 		</p>

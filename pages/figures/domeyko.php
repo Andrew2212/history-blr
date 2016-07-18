@@ -91,9 +91,9 @@
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-figures/domeyko/medviadka_memory.jpg" class="highslide"
+		<a href="../../images/img-figures/domeyko/domeyko_home.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Домейко Игнаци" src="../../images/img-figures/domeyko/medviadka_memory_thumb.jpg" height="100">
+		<img alt="Домейко Игнаци" src="../../images/img-figures/domeyko/domeyko_home_thumb.jpg" height="100">
 		</br><small>м. Медвядка</small>
 		</a>
 		</div>
@@ -134,7 +134,15 @@
 		
 		<div class="col-md-12">
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/domeyko/medviadka_memory.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Домейко Игнаци" src="../../images/img-figures/domeyko/medviadka_memory_thumb.jpg" height="100">
+		</br><small>мест. Медвядка</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-figures/domeyko/chili_monet.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Домейко Игнаци" src="../../images/img-figures/domeyko/chili_monet_thumb.jpg" height="100">
@@ -142,7 +150,7 @@
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-figures/domeyko/Ignaciy_Domeyko_monet.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Домейко Игнаци" src="../../images/img-figures/domeyko/Ignaciy_Domeyko_monet_thumb.jpg" height="100">
@@ -150,7 +158,7 @@
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-figures/domeyko/monet_pl.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Домейко Игнаци" src="../../images/img-figures/domeyko/monet_pl_thumb.jpg" height="100">

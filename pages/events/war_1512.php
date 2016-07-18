@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
   <!-- ***Title*** -->
-    <title>Война с Московией 1512-1522. История Беларуси</title>
+    <title>Война с Московией 1512-1522</title>
 <!-- ***Meta*** -->  
     <meta name="description" content="Война с Московией 1512-1522. Потеря Смоленска и битва под Оршей.
 	" />
@@ -28,9 +28,9 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h2>Война с Московией 1512-1522
+		<h1>1512-1522 Война с Московией
 		</br><small>потеря Смоленска и битва под Оршей</small>
-		</h2>
+		</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/war_1512/zigimont_stary.jpg" class="highslide"
@@ -85,13 +85,33 @@
 		<a target="_blank" href="http://www.vostlit.info/haupt-Dateien/index-Dateien/G.phtml?id=2044">"Записки о Московии"</a> 1549</small>
 		</p>
 		
-		<p class="img-float-center">
+		<div class="col-md-12">
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-events/wars_1487-1537/wkl_15ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Война с Московией 1512-1522" src="../../images/img-events/wars_1487-1537/wkl_15ce_thumb.jpg" height="100"> 
+		</br><small>ВКЛ 1487-1537 </small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/war_1512/war_1512-22.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Война с Московией 1512-1522" src="../../images/img-events/war_1512/war_1512-22_thumb.jpg" height="120"> 
+		<img alt="Война с Московией 1512-1522" src="../../images/img-events/war_1512/war_1512-22_thumb.jpg" height="100"> 
 		</br><small>Война 1512-1522 года</small>
 		</a>	
-		</p>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-events/wars_1487-1537/rus16.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Войны с Московией 1487-1537" src="../../images/img-events/wars_1487-1537/rus16_thumb.jpg" height="100"> 
+		</br><small>Московия 1460-1537 </small>
+		</a>
+		</div>
+		
+		</div>
 		
 		<p>
 		1512 год. Московскими войсками были атакованы Витебск, Полоцк, Смоленск, Киев.

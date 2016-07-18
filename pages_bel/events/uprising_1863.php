@@ -1,14 +1,14 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="be">
   <head>
   <!-- ***Title*** -->
-    <title>Восстание Калиновского. История Беларуси</title>
+    <title>Паўстанне Каліноўскага</title>
 <!-- ***Meta*** -->  
-    <meta name="description" content="С сегодняшнего дня все крестьяне и другие жители любой веры свободны, как потомственная шляхта (Манифест от 20 января 1863 года)
+    <meta name="description" content="З сённяшняга дня ўсе сяляне і іншыя жыхары ўсякай веры свабодны, як нашчадная шляхта (Маніфест ад 20 студзеня 1863 года)
 	" />
-	<meta name="keywords" itemprop="keywords" content="восстание Калиновского, 1863, восстание 1863 года в Беларуси, 
-	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
+	<meta name="keywords" itemprop="keywords" content="паўстанне Каліноўскага, 1863, паўстанне 1863 года ў Беларусі, 
+	гісторыя Беларусі коратка ў датах, асноўныя падзеі ў гісторыі Беларусі, гісторыя ВКЛ, ВКЛ, гісторыя Беларусі, Кароткая гісторыя Беларусі, гісторыя Беларусі коратка" />
 	<meta property="og:image" content="http://history-belarus.by/images/img-events/uprising_1863/title.jpg" />
 
 <!-- ***Include Header*** -->
@@ -28,40 +28,40 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h2>Восстание 1863-1864 года 
-		</br><small>восстание <a href="../figures/kalinowski.php">Калиновского</a>, Январское восстание</small>
-		</h2>
+		<h1>1863 Студзенскае паўстанне
+		</br><small>паўстанне <a href="../figures/kalinowski.php">Каліноўскага</a></small>
+		</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/uprising_1863/Kostus_Kalinowski.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Восстание 1863-1864 года (Восстание Калиновского)" src="../../images/img-events/uprising_1863/Kostus_Kalinowski_thumb.jpg" height="140" >
-			</br><small>К. Калиновский</small>
+			<img alt="Паўстанне 1863-1864 года (Паўстанне Каліноўскага)" src="../../images/img-events/uprising_1863/Kostus_Kalinowski_thumb.jpg" height="140" >
+			</br><small>К. Каліноўскі</small>
 			</a>
 		</p>
 		
 		<p class="img-float-right">
 		<a href="../../images/img-events/uprising_1863/jaska_haspadar.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Восстание 1863-1864 года (Восстание Калиновского)" src="../../images/img-events/uprising_1863/jaska_haspadar_thumb.jpg" height="140" >
+			<img alt="Паўстанне 1863-1864 года (Паўстанне Каліноўскага)" src="../../images/img-events/uprising_1863/jaska_haspadar_thumb.jpg" height="140" >
 			</br><small>Jaska-Haspadar s pad Wilni</small>
 			</a>
 		</p>
 		<p>
-		<i>"С сегодняшнего дня все крестьяне и другие жители любой веры свободны, как потомственная шляхта"</i>
-		</br><small>Манифест от 20 января 1863 года</small>
+		<i>"З сённяшняга дня ўсе сяляне і іншыя жыхары ўсякай веры свабодны, як нашчадная шляхта"</i>
+		</br><small>Маніфест ад 20 студзеня 1863 года</small>
 		</p>
 		<p>
-		<i>"Братья белорусы, настало доброе время. Пробудитесь и вы и ,призвав бога в помощь, защищайте свободу, землю и веру вашу и бог вам поможет."</i>
-		</br><small>Манифест от 3 мая 1863 года</small>
+		<i>"Браты беларусы, надышоў добры час. Абудзіцеся і вы і, заклікаўшы Бога ў дапамогу, бараніце волю, землю і веру вашу, і Бог вам дапаможа."</i>
+		</br><small>Маніфест ад 3 траўня 1863 года</small>
 		</p>
 		<p>
-		Восстание 1863 года — восстание на территории Царства Польского, Северо-Западного края (Беларусь и Летува) и Волыни. 
-		Началось 22 января 1863 года и продолжалось до осени 1864 года, окончившись поражением повстанцев.
+		Паўстанне 1863 года — паўстанне на тэрыторыі Царства Польскага, Паўночна-Заходняга краю (Беларусь і Летува) і Валыні. 
+		Пачалося 22 студзеня 1863 года і працягвалася да восені 1864 года, скончыўшыся паразай паўстанцаў.
 		</p>
 		<p>
-		Массовое участие в восстании приняла <a href="../terms/shliahta.php">шляхта</a>, которая добивалась возрождения Речи Посполитой в границах 1772г. 
-		Она состаляла свыше 10% от населения и была сильно поражена в правах после восстания 1830 года. 
+		Масавы ўдзел ў паўстанні прыняла <a href="../terms/shliahta.php">шляхта</a>, якая дамагалася адраджэння Рэчы Паспалітай у межах 1772г. 
+		Яна складала звыш за 10% ад насельніцтва і была моцна ўшчэмленая ў правах пасля паўстання 1830 года. 
 		</p>
 		
 		<div class="col-md-12">	
@@ -69,49 +69,49 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_1863/doc_21.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Восстание 1863-1864 года (Восстание Калиновского)" src="../../images/img-events/uprising_1863/doc_21_thumb.jpg" height="100" >
-			</br><small>Инструкция для повстанческих комиссаров</small>
+			<img alt="Паўстанне 1863-1864 года (Паўстанне Каліноўскага)" src="../../images/img-events/uprising_1863/doc_21_thumb.jpg" height="100" >
+			</br><small>Інструкцыя для паўстанцкіх камісараў</small>
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_1863/doc_31.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Восстание 1863-1864 года (Восстание Калиновского)" src="../../images/img-events/uprising_1863/doc_31_thumb.jpg" height="100" >
-			</br><small>Воззвание с призывом к восстанию</small>
+			<img alt="Паўстанне 1863-1864 года (Паўстанне Каліноўскага)" src="../../images/img-events/uprising_1863/doc_31_thumb.jpg" height="100" >
+			</br><small>Заклік з прызывам да паўстання</small>
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_1863/doc_41.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Восстание 1863-1864 года (Восстание Калиновского)" src="../../images/img-events/uprising_1863/doc_41_thumb.jpg" height="100" >
-			</br><small>Манифест о наделении крестьян землей</small>
+			<img alt="Паўстанне 1863-1864 года (Паўстанне Каліноўскага)" src="../../images/img-events/uprising_1863/doc_41_thumb.jpg" height="100" >
+			</br><small>Маніфест пра надаванне сялян зямлёй</small>
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_1863/doc_51.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Восстание 1863-1864 года (Восстание Калиновского)" src="../../images/img-events/uprising_1863/doc_51_thumb.jpg" height="100" >
-			</br><small>Руководство восстанием</small>
+			<img alt="Паўстанне 1863-1864 года (Паўстанне Каліноўскага)" src="../../images/img-events/uprising_1863/doc_51_thumb.jpg" height="100" >
+			</br><small>Кіраўніцтва паўстаннем</small>
 			</a>
 		</div>
 		
 		</div>
 		
 		<p>
-		Представители национально-освободительного движения делились на два крыла:  
-		</br>"Белые" — в основном средние и крупные землевладельцы, 
-		представители крупной буржуазии, надеялись добиться успеха путем переговоров с царским правительством 
-		и с помощью дипломатической поддержки западных держав. 
-		</br>"Красные" — в основном представленные безземельной и малоземельной шляхтой, мелкими чиновниками, 
+		Прадстаўнікі нацыянальна-вызваленчага руху падзяліліся на два крыла:  
+		</br>"Белыя" — галоўным чынам сярэднія і буйныя землеўласнікі, 
+		прадстаўнікі буйной буржуазіі, спадзяваліся дамагчыся поспеху шляхам перамоў з царскім урадам 
+		і з дапамогай дыпламатычнай падтрымцы заходніх дзяржаў. 
+		</br>"Чырвоныя" — галоўным чынам, беззямельная і малазямельная шляхта, дробныя ўрадоўцы, 
 		</p>
 		<p>
-		В отличие от Польши, ведущая роль в подготовке восстания на территории Беларуси и Летувы принадлежала «красным», 
-		в рядах которых были преимущественно шляхетская студенческая и школьная молодежь, а также горожане. 
-		Активную пропагандистскую работу вели студенты Горы-Горецкого земледельческого института 
-		(одним из немногих городов, занятых повстанцами, были Горки).	 
+		У адрозненне ад Польшчы, вядучая роля ў падрыхтоўцы паўстання на тэрыторыі Беларусі і Летувы належыла "чырвоным", 
+		у шэрагах якіх былі пераважна шляхецкая студэнцкая і школьная моладзь, а таксама гараджане. 
+		Актыўную прапагандысцкую працу вялі студэнты Горы-Горацкага земляробчага інстытута 
+		(адным з нешматлікіх гарадоў, занятых паўстанцамі, былі Горкі).	 
 		</p>
 		
 		<div class="col-md-12">	
@@ -119,8 +119,8 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_1863/pawstanie1863.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Восстание 1863-1864 года (Восстание Калиновского)" src="../../images/img-events/uprising_1863/pawstanie1863_thumb.jpg" height="100" >
-			</br><small>Общая карта восстания</small>
+			<img alt="Паўстанне 1863-1864 года (Паўстанне Каліноўскага)" src="../../images/img-events/uprising_1863/pawstanie1863_thumb.jpg" height="100" >
+			</br><small>Агульная мапа паўстання</small>
 			</a>
 		</div>
 			
@@ -128,7 +128,7 @@
 		<a href="../../images/img-events/uprising_1863/blr_1863.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img src="../../images/img-events/uprising_1863/blr_1863_thumb.jpg" height="100" />
-		</br><small>Карта восстания Калиновского</small>
+		</br><small>Мапа паўстання Каліноўскага</small>
 		</a>
 		</div>
 		
@@ -136,7 +136,7 @@
 		<a href="../../images/img-events/uprising_1863/gory.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img src="../../images/img-events/uprising_1863/gory_thumb.jpg" height="100" />
-		</br><small>Горы-Горецкий институт</small>
+		</br><small>Горы-Горацкі інстытут</small>
 		</a>
 		</div>
 		
@@ -144,28 +144,28 @@
 		<a href="../../images/img-events/uprising_1863/insurgents.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img src="../../images/img-events/uprising_1863/insurgents_thumb.jpg" height="100" />
-		</br><small>Повстанцы</small>
+		</br><small>Паўстанцы</small>
 		</a>
 		</div>
 						
 		</div>
 		
 		<p>
-		Согласно данным официального расследования, количество участников восстания на территории Польши, Литвы, Беларуси и на Волыни составило 
-		77 тысяч человек. 
+		Паводле дадзеных афіцыйнага расследвання, колькасць удзельнікаў паўстання на тэрыторыі Польшчы, Літвы, Беларусі і на Валыні склала 
+		77 тысяч чалавек. 
 		</p>
 		<p>
-		Повстанцы были вооружены старыми охотничьими ружьями, самодельными пиками (часто из крестьянских кос). 
-		Из показаний О. Авейде: <i>«…Литва не получила во все время ни одного карабина»</i>. 
-		</br>В борьбе с российскими регулярными войсками (200 тысяч человек — 318 рот солдат, 48 эскадронов кавалерии, 
-		18 казацких сотен, 120 полевых орудий) шансов на победу было не много.	
+		Паўстанцы былі ўзброены старымі паляўнічымі стрэльбамі, самаробнымі пікамі (часта з сялянскіх кос). 
+		Са сведчанняў О.Авейдэ: <i>«…Літва не атрымала за ўвесь час ніводнага карабіна»</i>. 
+		</br>У барацьбе з расійскімі рэгулярнымі войскамі (200 тысяч чалавек — 318 рот салдатаў, 48 эскадронаў кавалерыі, 
+		18 казацкіх сотняў, 120 палявых гармат) шанцаў на перамогу было не шмат.	
 		</p>
 		<p>
-		<i>«Далеко деятельнее, энергичнее и способнее всех воеводских комиссаров для революционного дела оказался 
-		<a href="../figures/kalinowski.php">Калиновский</a>».</i> Восстание поддерживали 
-		такие знаковые для Беларуси фигуры, как <a href="../figures/bogushewicz.php">Ф. Богушевич</a>, 
-		<a href="../figures/dunin-marzinkewicz.php">В. Дунин-Марцинкевич</a>, 
-		<a href="../figures/orda.php">Н. Орда</a>, <a href="../figures/mineyko.php">З. Минейко</a>. 
+		<i>«Далёка дзейней, энэргічней і здольней за ўсіх ваяводскіх камісараў для рэвалюцыйнай справы апынуўся 
+		<a href="../figures/kalinowski.php">Каліноўскі</a>».</i> Паўстанне падтрымлівалі 
+		такія знакавыя для Беларусі фігуры, як <a href="../figures/bogushewicz.php">Ф. Багушэвіч</a>, 
+		<a href="../figures/dunin-marzinkewicz.php">В. Дунін-Марцінкевіч</a>, 
+		<a href="../figures/orda.php">Н. Орда</a>, <a href="../figures/mineyko.php">З. Мінейка</a>. 
 		</p>
 		
 		<div class="col-md-12">	
@@ -173,46 +173,46 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_1863/bogushewicz.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Восстание 1863-1864 года (Восстание Калиновского)" src="../../images/img-events/uprising_1863/bogushewicz.jpg" height="100" >
-			</br><small>Франтишек Богушевич</small>
+			<img alt="Паўстанне 1863-1864 года (Паўстанне Каліноўскага)" src="../../images/img-events/uprising_1863/bogushewicz.jpg" height="100" >
+			</br><small>Францішак Багушэвіч</small>
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_1863/dunin_marzinkewicz.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Восстание 1863-1864 года (Восстание Калиновского)" src="../../images/img-events/uprising_1863/dunin_marzinkewicz.jpg" height="100" >
-			</br><small>Винцент Дунин-Марцинкевич</small>
+			<img alt="Паўстанне 1863-1864 года (Паўстанне Каліноўскага)" src="../../images/img-events/uprising_1863/dunin_marzinkewicz.jpg" height="100" >
+			</br><small>Вінцэнт Дунін-Марцінкевіч</small>
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_1863/orda.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Восстание 1863-1864 года (Восстание Калиновского)" src="../../images/img-events/uprising_1863/orda.jpg" height="100" >
-			</br><small>Наполеон Орда</small>
+			<img alt="Паўстанне 1863-1864 года (Паўстанне Каліноўскага)" src="../../images/img-events/uprising_1863/orda.jpg" height="100" >
+			</br><small>Напалеон Орда</small>
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/uprising_1863/minejko.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Восстание 1863-1864 года (Восстание Калиновского)" src="../../images/img-events/uprising_1863/minejko.jpg" height="100" >
-			</br><small>Зигмунт Минейко</small>
+			<img alt="Паўстанне 1863-1864 года (Паўстанне Каліноўскага)" src="../../images/img-events/uprising_1863/minejko.jpg" height="100" >
+			</br><small>Зігмунт Мінейка</small>
 			</a>
 		</div>
 		
 		</div>
 		
 		<p>
-		В Государственном Архиве РБ сохранился 
-		<i><a target="_blank" href="http://archives.gov.by/index.php?id=166384">"Алфавитный список лиц</a>, осужденных за участие в восстании 1863-1864 гг."</i> 
-		— Адамович, Борткевич, Балахович, Волович... — список 
-		<a href="../articles/blr_family_names.php">белорусских фамилий</a>, в котором каждый найдет знакомую.
+		У Дзяржаўным Архіве РБ захаваўся 
+		<i><a target="_blank" href="http://archives.gov.by/index.php?id=166384">"Алфавітны спіс асоб</a>, асуджаных за ўдзел у паўстанні 1863-1864 гг."</i> 
+		— Адамовіч, Барткевіч, Балаховіч, Валовіч... — спіс 
+		<a href="../articles/blr_family_names.php">беларускіх прозвішчаў</a>, у якім кожны знойдзе знаёмую.
 		</p>
 		<p>
-		Собирательным образом повстанца стал портрет Витебского хорунжего <a href="../figures/szydlowski_mirskie.php">Сымона Шидловского</a>
-		— шляхтич и блестящий офицер в крестьянской сермяге с хоругвой Витебской — как символ соединения традиций простого народа и аристократии.
+		Зборнай выявай паўстанца стаў партрэт Віцебскага харунжага <a href="../figures/szydlowski_mirskie.php">Сымона Шыдлоўскага</a>
+		— шляхціч і выбітны афіцэр у сялянскай сярмязе з харугвай Віцебскай — як сімвал злучэння традыцый простага народа і арыстакратыі.
 		</p>
 		
 	<div class="col-md-12">	
@@ -221,22 +221,22 @@
 		<a href="../../images/img-download/spis_1863/spis_1863.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-download/spis_1863/spis_1863_thumb.jpg"height="100" />
-		</br><small>"Алфавитный список лиц" стр. 1</small>
+		</br><small>"Алфавітны спіс асоб" с. 1</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-figures/szydlowski_mirskie/symon_szydlowski.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Сымон Шидловский и Святополк-Мирские" src="../../images/img-figures/szydlowski_mirskie/symon_szydlowski_thumb.jpg" height="100" >
-		</br><small>Сымон Визунас Шидловский</small>
+		<img alt="Сымон Шыдлоўскі і Святаполк-Мірскія" src="../../images/img-figures/szydlowski_mirskie/symon_szydlowski_thumb.jpg" height="100" >
+		</br><small>Сымон Візанус Шыдлоўскі</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/rzeczpospolita_treh_narodov/1569-1869.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Речь Посполитая Трех Народов" src="../../images/img-terms/rzeczpospolita_treh_narodov/1569-1869_thumb.jpg" height="100">
+		<img alt="Рэч Паспалітая Трох Народаў" src="../../images/img-terms/rzeczpospolita_treh_narodov/1569-1869_thumb.jpg" height="100">
 		</br><small>"Wolni z wolnymi"</small>	
 		</a>
 		</div>
@@ -244,8 +244,8 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-figures/szydlowski_mirskie/horugva_1863.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Сымон Шидловский и Святополк-Мирские" src="../../images/img-figures/szydlowski_mirskie/horugva_1863_thumb.jpg" height="100" >
-		</br><small>Хоругва 1863</small>
+		<img alt="Сымон Шыдлоўскі і Святаполк-Мірскія" src="../../images/img-figures/szydlowski_mirskie/horugva_1863_thumb.jpg" height="100" >
+		</br><small>Харугва 1863</small>
 		</a>
 		</div>
 		
@@ -253,13 +253,13 @@
 		
 		
 		<p>
-		Статья составлена на основе материалов из <a target="_blank" href="http://archives.gov.by/index.php?id=552774">Государственного Архива</a> 
-		Республики Беларусь.
+		Артыкул складзены на аснове матэрыялаў з <a target="_blank" href="http://archives.gov.by/index.php?id=552774">Дзяржаўнага Архіва</a> 
+		Рэспублікі Беларусь.
 		</p>
 		<p>
-		<h4>PS</h4>
-		Вообще, забавно трактуется история. Мятеж русского дворянства — Восстание декабристов — длился один день в одном городе. И стал "героической страницей". Восстание 
-		шляхты — длилось год и охватило все земли и социальные слои Речи Посполитой — ну... как-то так. Не на слуху как-то. 
+		<h3>PS.</h3>
+		Увогуле, цікава трактуецца гісторыя. Мяцеж рускага дваранства — Паўстанне дзекабрыстаў — доўжыўся адзін дзень у адным горадзе. І стаў "гераічнай старонкай". Паўстанне 
+		шляхты — доўжылася год і ахапіла ўсе землі і сацыяльныя пласты Рэчы Паспалітай — ну... неяк так. Не на слыху неяк. 
 		</p>
 		
 		<p class="img-float-center">
@@ -267,7 +267,7 @@
         onclick="return hs.expand(this)">
 		<img src="../../images/img-events/uprising_1863//memory_blr.jpg"height="140" />
 		</br><small>"Каго любіш? — Люблю Беларусь. — То ўзаемна!"
-		</br>м. Слободка, Островецкий р-н</small>
+		</br>М. Слабодка, Астравецкі р-н</small>
 		</a>
 		</p>
 		

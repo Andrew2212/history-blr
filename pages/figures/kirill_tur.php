@@ -16,7 +16,7 @@
 	" />
   	<meta name="keywords" itemprop="keywords" content="Кирилл Туровский,
 	  история беларуси, история белоруссии, история беларуси кратко в датах, известные люди беларуси, знаменитые люди беларуси"/>
-	<meta property="og:image" content="http://history-belarus.by/images/img-figures/litwa_rb.jpg" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-figures/kirill_tur/kirill_memory.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_figures.php"); ?>
@@ -35,13 +35,20 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Кирилл Туровский</h3>
+		<h1>Кирилл Туровский</h1>
 		<p class="img-float-left">
-			<img src="../../images/img-figures/kirill_tur/Stamp_of_Belarus_1996.jpg" height="180" >
+		<a href="../../images/img-figures/kirill_tur/Stamp_of_Belarus_1996.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/kirill_tur/Stamp_of_Belarus_1996.jpg" height="160" >
+			</br><small>Почтовая марка, РБ</small>
+		</a>
 		</p>
 		<p class="img-float-right">
-			<img src="../../images/img-figures/kirill_tur/turow.jpg" height="160" >
-			</br><small>г. Туров, Беларусь</small>
+		<a href="../../images/img-figures/kirill_tur/turow.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/kirill_tur/turow_thumb.jpg" height="160" >
+			</br><small>г. Туров</small>
+		</a>
 		</p>
 		
 		<p>
@@ -51,7 +58,8 @@
 		</p>
 		<p>
 		Жил и творил в XII  веке — веке феодальной раздробленности белорусских земель. Туровское княжество распалось на два удела. 
-		Полоцкое княжество после смерти Всеслава Чародея поделено между его сыновьями. В смутное время родился и жил св. Кирилл. 
+		<a href="../terms/polotsk_principality.php">Полоцкое княжество</a> после смерти 
+		<a href="../figures/charadzej.php">Всеслава Чародея</a> поделено между его сыновьями. В смутное время родился и жил св. Кирилл. 
 		</p>
 		<p>
 		Произведения Кирилла Туровского будут издаваться на протяжении 7 веков. 
@@ -75,7 +83,8 @@
 		</p>
 		
 		<p class="img-float-center">
-		   <a target="_blank" href="../../images/img-figures/kirill_tur/kirill_memory.jpg">
+		   <a href="../../images/img-figures/kirill_tur/kirill_memory.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
 			<img src="../../images/img-figures/kirill_tur/kirill_memory_thumb.jpg" height="160" >
 			</br><small>Памятники Кириллу Туровскому 
 			в Гомеле, Турове, Минске</small>

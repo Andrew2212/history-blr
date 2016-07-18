@@ -6,9 +6,9 @@
 <div class="spoil">
 
 	<div class="smallfont">
-	<h3>
+	<h2>
 	Топонимы. <small>Список [ А - Я ]</small>
-	</h3>
+	</h2>
 	<input type="button" class="btn btn-info btn-sm" value="Оглавление показать / скрыть" class="input-button" 
 	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Свернуть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Текст спойлера'; }">
 	</div>
@@ -47,7 +47,7 @@
           <a href="samogitia.php" >Летува (Lietuva). Самогития (Samogitia). Жмудь</a>
         </li>
         <li>
-          <a href="litwa.php" class="item-edit">Литва (Litvaniae, Lithuania)</a>
+          <a href="litwa.php" class="item-edit">Литва (Lithuania Propria)</a>
         </li>
         <li>
           <a href="oginski_channel.php">Канал Огинский</a> (1763) — обновление пути "из варяг в греки"

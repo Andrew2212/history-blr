@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
   <!-- ***Title*** -->
-    <title>Восстание Костюшко. История Беларуси</title>
+    <title>Восстание Костюшко</title>
 <!-- ***Meta*** -->  
     <meta name="description" content="В. Ленин: Никто не повинен в том, если он родился рабом; но раб, который чуждается стремлений к своей свободе
 	есть холуй и хам" />
@@ -28,9 +28,9 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h2>Восстание Костюшко, 1794
+		<h1>1794 Восстание Костюшко
 		</br><small>и Третий раздел Речи Посполитой 1795</small>
-		</h2>
+		</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/uprising_1794/kostiuszko.jpg" class="highslide"

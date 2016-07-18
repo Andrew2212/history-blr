@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
   <!-- ***Title*** -->
-    <title>Войны с Московией 1487-1537. История Беларуси</title>
+    <title>Войны с Московией 1487-1537</title>
 <!-- ***Meta*** -->  
     <meta name="description" content="Войны, определившие современную восточную границу Беларуси
 	" />
@@ -28,11 +28,11 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h2>1487-1537 Войны с Московским царством,
+		<h1>1487-1537 Войны с Московским царством,
 		</br><small>
 		определившие современную восточную 
 		границу Беларуси
-		</small></h2>
+		</small></h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/wars_1487-1537/wkl_15ce.jpg" class="highslide"

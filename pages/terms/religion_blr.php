@@ -4,7 +4,7 @@
   <head>
      
 <!-- ***Title*** -->
- 	<title>Религия в Беларуси. История Беларуси</title>
+ 	<title>Религия в Беларуси</title>
 
 <!-- ***Meta*** -->
     <meta name="description" content="От крещения Торвальдом до Брестской унии и разделов Речи Посполитой. 
@@ -182,8 +182,14 @@
 		<h2>Христианство Византийского (греческого) обряда
 		</br><small>"ортодоксия" или "истинная вера"</small>
 		</h2>
-		
 		<p class="img-float-left">
+		<a href="../../images/img-terms/tur_evangelie/holy_people.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Туровское евангелие" src="../../images/img-terms/tur_evangelie/holy_people_thumb.jpg" height="120" >
+			</br><small>Святые XI века</small>
+		</a>
+		</p>
+		<p class="img-float-right">
 		<a href="../../images/img-figures/torwald/varyag_blr.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Путь из варяг в греки" src="../../images/img-figures/torwald/varyag_blr_thumb.jpg" height="120">

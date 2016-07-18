@@ -4,16 +4,14 @@
   <head>
      
 <!-- ***Title*** -->
- 	<title>Крест Ефросинии. История Беларуси</title>
+ 	<title>Крест Ефросинии</title>
 
 <!-- ***Meta*** -->
-    <meta name="description" content="Крест Ефросинии Полоцкой. 
-    История Беларуси. Любая сущность описывается словами (терминами-аксиомами). 
-	Шляхта, литвины, гуды, Погоня — исторические термины нашей истории.
+    <meta name="description" content="Крест Ефросинии Полоцкой.
 	" />
     <meta name="keywords" itemprop="keywords" content="крест ефросинии полоцкой, крест ефросинии, 
 	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
-
+	<meta property="og:image" content="http://history-belarus.by/images/img-terms/dwina_stouns/title.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>
@@ -32,7 +30,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
     
-		<h3>Крест Ефросинии Полоцкой</h3>
+		<h1>Крест Ефросинии Полоцкой</h1>
 		<p>
 			Статья в разработке
 		</p>

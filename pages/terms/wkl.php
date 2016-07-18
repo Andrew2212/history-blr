@@ -29,14 +29,14 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
     
-		<h3>Великое княжество Литовское, Русское, Жемайтийское и иных
+		<h1>Великое княжество Литовское, Русское, Жемайтийское и иных
 		</br><small>
 		ВКЛ — <a href="blr_mova.php">государственный язык</a>,  
 		<a href="religion_blr.php">религия</a>,
 		<a href="../download/map_wkl.php">карты</a>, 
 		<a href="../download/_download_intro.php">документы</a>
 		</small>
-		</h3>
+		</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-terms/blr_gerb/rzecz_pred_razborom.jpg" class="highslide"
@@ -110,7 +110,41 @@
 		</a>
 		</div>			
 						
-		</div>	
+		</div>
+		
+<!--Spoiler-->
+<!--http://forwebmaster.net/prostoy-spoyler-dlya-sayta-v-html/-->
+<div class="spoil">
+	
+	<p>
+	<div class="smallfont">
+	<h3>Гербы воеводств ВКЛ</h3>
+	
+	<input type="button" class="btn btn-info btn-sm" value="Показать / Скрыть" class="input-button" 
+	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Показать / Скрыть'; }">
+	</p>
+
+</div>
+
+<div class="alt2">
+<div style="display: none;">
+
+<div class="col-md-12 top-list">
+<!--It's just line-->
+</div>
+
+	<!-- ***HerbyWKL *** -->
+  	<? include ("../_include/include_HerbyWKL.php"); ?>
+
+
+<div class="col-md-12 top-list">
+<!--It's just line-->
+</div>    
+      
+</div>
+</div>
+</div>	
+<!--/Spoiler-->		
 		
 		<h4><a href="../times/13_vek.php">XIII век</a></h4>
 		<p>
@@ -554,17 +588,48 @@
 			</div>															
 		</div>
 		
+		<h4><a href="../times/19_vek.php">XIX век</a></h4>
 		<p>
 		К началу XIX века история ВКЛ завершилась. Великое княжество Литовское становится <a href="../terms/sewero_zapadny_kraj.php">Северо-Западным краем</a> 
 		Российской империи.
 		</p>
-		<p class="img-float-center">
+
+		
+	<div class="col-md-12">
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-download/map_mercator/1595_Mercator_Lithuania_blr_etno.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="ВКЛ Меркатор" src="../../images/img-download/map_mercator/1595_Mercator_Lithuania_blr_etno_thumb.jpg" height="100">
+		</br><small>1595 Lithuania</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-download/blr_people_now/1690_Hondius_Valk_Lithvaniae.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="ВКЛ карта" src="../../images/img-download/blr_people_now/1690_Hondius_Valk_Lithvaniae_thumb.jpg" height="100">
+		</br><small>1690 Lithuania</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-download/blr_people_now/map_Lotter_litwa_1770.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="ВКЛ карта Lotter" src="../../images/img-download/blr_people_now/map_Lotter_litwa_1770_thumb.jpg" height="100">
+		</br><small>1778 Lithuania</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/kraj_tut/Mapa_6_gubernij_Litwy_i_Bialej_Rusi.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Великое княжество Литовское, ВКЛ" src="../../images/img-terms/kraj_tut/Mapa_6_gubernij_Litwy_i_Bialej_Rusi_thumb.jpg" height="140" >
-			</br><small>Северо-Западный край</small>
-			</a>
-		</p>
+			<img alt="Тутэйшая краевасьць" src="../../images/img-terms/kraj_tut/Mapa_6_gubernij_Litwy_i_Bialej_Rusi_thumb.jpg" height="100" >
+		</br><small>Северо-Западный край</small>
+		</a>
+		</div>
+		
+	</div>
 		
 		</br></br></br>
 		<p><small>

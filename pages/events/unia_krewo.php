@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
   <!-- ***Title*** -->
-    <title>Кревская уния. История Беларуси</title>
+    <title>Кревская уния</title>
 <!-- ***Meta*** -->  
     <meta name="description" content="Соглашение о династическом союзе между ВКЛ и Польшей, по которому литовский великий князь Ягайло, 
 	вступив в брак с польской королевой Ядвигой, провозглашался польским королём.
@@ -29,7 +29,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h3>1385 Кревская Уния</h3>
+		<h1>1385 Кревская Уния</h1>
 				
 		<p class="img-float-left">
 		<a href="../../images/img-events/unia_krewo/unia_krewo.jpg" class="highslide"
@@ -77,28 +77,36 @@
 		
 		<div class="col-md-12">
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/unia_vilno/wkl_polska_1386_1434.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Кревская уния" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="160">
+		<img alt="Кревская уния" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="100">
 		</br><small>ВКЛ 1386-1434</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/jagellony/jagellony_kings.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Ягеллоны" src="../../images/img-figures/jagellony/jagellony_kings_thumb.jpg" height="100">
+		</br><small>Короли Ягеллоны</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/unia_liublin/unia_table.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Кревская уния" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" height="160">
+		<img alt="Кревская уния" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" height="100">
 		</br><small>Хронология уний
 		</br>ВКЛ-Польша</small>
 		</a>
 		</div>
 		
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/unia_krewo/ordensgebiete.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Кревская уния" src="../../images/img-events/unia_krewo/ordensgebiete_thumb.jpg" height="160">
+		<img alt="Кревская уния" src="../../images/img-events/unia_krewo/ordensgebiete_thumb.jpg" height="100">
 		</br><small>XIV-XV в. Земли Deutschen Ordens</small>
 		</a>
 		</div>
@@ -109,6 +117,10 @@
 		Подписание Кревской унии, хотя и вызвало волну недовольства части знати ВКЛ, 
 		стало этапом к прекращению борьбы между двумя государствами за юго-западные <a href="../download/zemie_ruskie.php">Русские земли</a> 
 		(Галицию, Волынь, Холмщину) и способствовало расширению их границ до побережья Чёрного моря.
+		</p>
+		<p>
+		После смерти Ядвиги, брак Ягайло с княгиней Софией Гольшанской (Друцкой) положил начало династии
+		<a href="../figures/jagellony.php">Ягелонаў</a> — королей Восточной Европы. 
 		</p>
 		
 		

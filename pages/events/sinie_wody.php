@@ -29,8 +29,8 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h3>1362 Битва на Синих Водах
-		</br><small>присоединение Земель Русских</small></h3>
+		<h1>1362 Битва на Синих Водах
+		</br><small>присоединение Земель Русских</small></h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-figures/olgerd/olgerd.jpg" class="highslide"

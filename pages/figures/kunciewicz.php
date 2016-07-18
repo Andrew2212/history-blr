@@ -4,7 +4,7 @@
   <head>
     
 <!-- ***Title*** -->
- 	<title>Иософат Кунцевич. История Беларуси</title>
+ 	<title>Иософат Кунцевич</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Апостол единения, Флорентийская и Брестская Унии, школы базилиан и Православная инквизиция. Ренессанс в Беларуси. 
@@ -30,9 +30,9 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h2>Иософат Кунцевич
+		<h1>Иософат Кунцевич
 		</br><small>архиепископ Полоцкий, св. апостол единения</small>
-		</h2>
+		</h1>
 		<p class="img-float-left">
 		<a href="../../images/img-figures/kunciewicz/iosaphat.jpg" class="highslide"
         onclick="return hs.expand(this)">
@@ -207,9 +207,14 @@
 <div class="spoil">
 
 	<div class="smallfont">
-	<h4>* Православная инквизиция</h4>
+	<h3>* Православная инквизиция</h3>
+	<p>
+	О католической инквизиции и Торквемаде знают все. Менее известна инквизиция православная. Монография Ефима Грекулова, 
+	много лет руководившего научно-исследовательской группой Московского архивного управления, дает возможность восполнить этот пробел. 
+	Выдержки из монографии.
+	</p>
 	
-	<input type="button" class="btn btn-default btn-sm" value="Показать / Скрыть" class="input-button" 
+	<input type="button" class="btn btn-info btn-sm" value="Показать / Скрыть" class="input-button" 
 	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Свернуть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Текст спойлера'; }">
 	</div>
 
@@ -223,10 +228,6 @@
     	</ul>
    		 </div>
 
-<p>
-[ <small>О католической инквизиции и Торквемаде знают все. Менее известна инквизиция православная. Монография Ефима Грекулова, 
-много лет руководившего научно-исследовательской группой Московского архивного управления, дает возможность восполнить этот пробел. Выдержки из монографии.</small> ]
-</p>
 
 <p class="img-float-left">
 		<a href="../../images/img-figures/kunciewicz/grekulow.jpg" class="highslide"
@@ -267,6 +268,9 @@
 Кровавый террор по отношению к еретикам и другим противникам церкви получил широкое распространение и нашел отражение в народном творчестве. 
 В былине о Добрыне Никитиче рассказывается, например, как он "учил" жену свою Марию Игнатьевну — еретичку, безбожницу: 
 </br><i>Сперва отсек руки и ноги, а затем голову. И этот язык не надобен, Знал он дела еретические.</i>
+</p>
+<p>
+Полный текст монографии посмотреть / скачать можно <a href="../download/inkvizicija.php">ТУТ</a>
 </p>
 
 <div class="col-md-12">

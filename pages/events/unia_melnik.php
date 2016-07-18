@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
   <!-- ***Title*** -->
-    <title>Мельницкая Уния. История Беларуси</title>
+    <title>Мельницкая Уния</title>
 <!-- ***Meta*** -->  
     <meta name="description" content="Союз между Королевством Польским и ВКЛ. Акт унии подписан при избрании королём Польши в. князя 
 	Литовского Александра, после смерти его брата - короля Яна Ольбрахта. 
@@ -29,7 +29,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h3>1501 Мельницкая Уния</h3>
+		<h1>1501 Мельницкая Уния</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/unia_krewo/unia_krewo.jpg" class="highslide"
@@ -75,7 +75,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-download/16_vek/wkl_06.jpg" class="highslide"
         onclick="return hs.expand(this)">
-    	<img  alt="Мельницкая Уния" src="../../images/img-download/16_vek/wkl_06_thumb.jpg" height="160"/>
+    	<img  alt="Мельницкая Уния" src="../../images/img-download/16_vek/wkl_06_thumb.jpg" height="100"/>
 		</br><small>ВКЛ 1430-1548</small>
 		</a>
 		</div>
@@ -83,7 +83,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/unia_liublin/unia_table.jpg" class="highslide"
         onclick="return hs.expand(this)">
-    	<img  alt="Мельницкая Уния" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" height="160"/>
+    	<img  alt="Мельницкая Уния" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" height="100"/>
 		</br><small>Хронология уний
 		</br>ВКЛ-Польша</small>
 		</a>
@@ -92,7 +92,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/unia_krakov/Carta_Marina_1539.jpg" class="highslide"
         onclick="return hs.expand(this)">
-    	<img  alt="Мельницкая Уния" src="../../images/img-events/unia_krakov/Carta_Marina_1539_thumb.jpg" height="160"/>
+    	<img  alt="Мельницкая Уния" src="../../images/img-events/unia_krakov/Carta_Marina_1539_thumb.jpg" height="100"/>
 		</br><small>1539 Carta Marina</small>
 		</a>
 		</div>

@@ -74,8 +74,8 @@
 		1918-20 — председатель Совета Министров (Старшыня Рады Міністраў Найвышэйшай Рады БНР) и министр иностранных дел БНР.  Последовательно отстаивал права белорусского народа на самоопределение.
 		</p>
 		<p class="img-float-center">
-			<a target="_blank" href="../../images/img-terms/bnr/gramata_bnr.gif">
-			<img src="../../images/img-terms/bnr/gramata_bnr.gif" height="200" class="img-float-center">
+			<a target="_blank" href="../../images/img-terms/bnr/BNR_Third_charter.jpg">
+			<img src="../../images/img-terms/bnr/BNR_Third_charter_thumb.jpg" height="200" class="img-float-center">
 			</br><small>Уставная Грамота Рады БНР </small>
 			</a>
 		</p>

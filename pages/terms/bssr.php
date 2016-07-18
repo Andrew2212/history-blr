@@ -7,12 +7,11 @@
  	<title>БССР</title>
 
 <!-- ***Meta*** -->
-    <meta name="description" content="БССР.
-    История Беларуси — термины и понятия, карты и документы. Любая сущность описывается словами (терминами-аксиомами). 
+    <meta name="description" content="БССР 
 	" />
-    <meta name="keywords" itemprop="keywords" content="БССР, 
+    <meta name="keywords" itemprop="keywords" content="БССР, Белорусская Советская Социалистическая Республика,
 	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
-
+	<meta property="og:image" content="http://history-belarus.by/images/img-terms/dwina_stouns/title.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>

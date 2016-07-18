@@ -32,7 +32,7 @@
     <? include ("../_include/top_list_terms.php"); ?>
     
 		<h1>Князь Рогволод-Борис и Двинские камни</h1>
-		
+		<h3>Рогволод-Борис</h3>
 		<p class="img-float-left">
 		<a href="../../images/img-terms/polotsk_principality/borisow.jpg" class="highslide"
         onclick="return hs.expand(this)">
@@ -121,7 +121,13 @@
 	</div>
  		
  		<h3>Двинские камни</h3>
-		
+		<p class="img-float-left">
+		<a href="../../images/img-terms/dwina_stouns/stouns_RB.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Князь Рогволод-Борис и Двинские камни" src="../../images/img-terms/dwina_stouns/stouns_RB_thumb.jpg" height="120">
+		</br><small>Культовые камни</small>
+		</a>
+		</p>
 		<p>
 		Двинские камни — памятник эпиграфики XII века, огромные (до 4 метров) валуны с выбитым на них крестами и надписями. 
 		Часть из них носит название "Борисовы камни".
@@ -147,7 +153,7 @@
 		
 		<div class="col-md-12">		
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/polotsk_principality/dvina_stouns.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Князь Рогволод-Борис и Двинские камни" src="../../images/img-terms/polotsk_principality/dvina_stouns_thumb.jpg" height="100">
@@ -155,7 +161,7 @@
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/dwina_stouns/dvina_stoun.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Князь Рогволод-Борис и Двинские камни" src="../../images/img-terms/dwina_stouns/dvina_stoun_thumb.jpg" height="100">
@@ -163,11 +169,19 @@
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/religion_blr/blr_pogan.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Князь Рогволод-Борис и Двинские камни"src="../../images/img-terms/religion_blr/blr_pogan_thumb.jpg" height="100">
 		</br><small>"Языческое наследие"</small> 	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/tur_evangelie/holy_people.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Туровское евангелие" src="../../images/img-terms/tur_evangelie/holy_people_thumb.jpg" height="100" >
+			</br><small>Святые XI века</small>
 		</a>
 		</div>
 		

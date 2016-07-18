@@ -6,9 +6,10 @@
 <div class="spoil">
 
 	<div class="smallfont">
-	<h3>
-	Время. <small>Список [ X - XXI век ]</small>
-	</h3>
+	<h2>
+	Час. <small>Сьпіс [ X - XXI ст. ]</small>
+	</br><small>Артыкулы ў стане перакладу</small>
+	</h2>
 	<input type="button" class="btn btn-info btn-sm" value="Оглавление показать / скрыть" class="input-button" 
 	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Свернуть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Текст спойлера'; }">
 	</div>

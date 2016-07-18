@@ -6,9 +6,9 @@
 <div class="spoil">
 
 	<div class="smallfont">
-	<h3>
-	Статьи. <small></small>
-	</h3>
+	<h2>
+	Статьи <small></small>
+	</h2>
 	<input type="button" class="btn btn-info btn-sm" value="Список статей показать / скрыть" class="input-button" 
 	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Свернуть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Текст спойлера'; }">
 	</div>
@@ -126,6 +126,15 @@
         </br>
         <li>
           <a href="../terms/kraj_tut.php">Тутэйшая краёвасьць</a> — истоки белорусского национализма
+        </li>
+        </br>
+        <li>
+          <a href="holywar.php">Ave Holywar</a><small></small>
+          </br><small><i>
+          "Рыцарям холивара с глубоким уважением посвящается. Благодаря вам, знакомство с историей своего края превратилось из скучного чтения толстых книжек в захватывающий процесс.
+			"Болеем за наших". Реально круче, чем хоккей. Реально познавательней, чем школьный учебник. ...
+		  "
+		</i></small>
         </li>
         </br>
         <li>

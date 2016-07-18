@@ -41,6 +41,10 @@
 		  </br><small>глава дипмиссии БНР в Прибалтике</small>  
         </li>
         <li>
+          <a href="geniusz.php">Гениюш Лариса</a>
+		  </br><small>"птица без гнезда" — поэтесса, хранительница архива БНР</small>
+        </li>
+        <li>
           <a href="duz_duszewski.php">Дуж-Душевский Клавдий</a>
 		  </br><small>автор эскиза национального флага</small> 
         </li>
@@ -61,7 +65,7 @@
 		  </br><small>культуртрегер Беларуси</small>
         </li>
         <li>
-          <a href="lesik.php" class="item-edit">Лёсик Язеп</a>
+          <a href="lesik.php">Лёсик Язеп</a>
 		  </br><small>Председатель Рады БНР, академик АН БССР</small>
         </li>
         <li>
@@ -145,10 +149,6 @@
         <li>
           <a href="woinillovicz.php">Войниловичи</a>
 		  </br><small>шляхта тутэйшая и фундаторы Красного костела в Минске</small>.
-        </li>
-        <li>
-          <a href="#" class="item-unable">Гениюш Лариса</a>
-		  </br><small>"птица без гнезда"</small>
         </li>
         <li>
           <a href="godlewski.php">Годлевский Винцент</a>
@@ -392,6 +392,10 @@
         <li>
           <a href="simienowicz.php" >Семенович Казимир</a>
 		  </br><small>основопложник ракетостроения</small>
+        </li>
+        <li>
+          <a href="../download/blr_types.php" >Сербов Исаак</a>
+		  </br><small>археолог и фотограф ("Беларусы ў фотаздфмках" 1911)</small>
         </li>
         <li>
           <a href="simeon.php" class="item-edit">Симеон Полоцкий</a>

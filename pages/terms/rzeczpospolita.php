@@ -2,6 +2,16 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+  
+  <!-- ***Title*** -->
+ 	<title>Речь Посполитая Обоих Народов</title>
+
+<!-- ***Meta*** -->
+    <meta name="description" content="Речь Посполитая Обоих Народов.
+	 " />
+    <meta name="keywords" itemprop="keywords" content="Речь Посполитая Обоих Народов, Речь Посполитая,
+	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко" />
+	 <meta property="og:image" content="http://history-belarus.by/images/###.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>
@@ -20,7 +30,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
     
-		<h3>Речь Посполитая Обоих Народов<small>— "общее дело" (польск.)</small></h3>
+		<h1>Речь Посполитая Обоих Народов<small>— "общее дело" (польск.)</small></h1>
 		<p>Девиз Речи Посполитой: Si Deus Nobiscum, quis contra nos (лат.)
 			(Если с нами Бог, то кто против нас?)			
 		</p>

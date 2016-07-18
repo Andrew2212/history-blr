@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
   <!-- ***Title*** -->
-    <title>Виленско-Радомская уния. История Беларуси</title>
+    <title>Виленско-Радомская уния</title>
 <!-- ***Meta*** -->  
     <meta name="description" content="Договор между в. князем Литовским Витовтом и королем Польши Ягайло. 
 	Ягайло признавал Витовта великим князем Литовским. Витовт подписал акт о своей присяге Ягайло. 
@@ -29,7 +29,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h3>1401 Виленско-Радомская уния</h3>
+		<h1>1401 Виленско-Радомская уния</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/unia_krewo/unia_krewo.jpg" class="highslide"
@@ -40,7 +40,7 @@
 		<p class="img-float-right">
 		<a href="../../images/img-events/unia_vilno/ostrovo.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Виленско-Радомская уния" src="../../images/img-events/unia_vilno/ostrovo.jpg" height="160">
+		<img alt="Виленско-Радомская уния" src="../../images/img-events/unia_vilno/ostrovo.jpg" height="140">
 		</br><small>Мест. Острово</small>
 		</a>
 		</p>
@@ -63,9 +63,9 @@
 		</br>1399 Тяжелое поражение в битве на Ворскле сильно ослабило позиции в. князя.
 		</br>1401 Виленско-Радомская уния.
 		</p>
-		<h4>
+		<h3>
 		Островское соглашение. Окончание Гражданской войны.
-		</h4>
+		</h3>
 		<p>
 		Островское соглашение — договор между королём польским Ягайло и князем городненским и трокским Витовтом, подписанный 
 		4 июля 1392 года в имении Острово близ города Лиды. 
@@ -79,7 +79,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/unia_vilno/wkl_polska_1386_1434.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Виленско-Радомская уния" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="160">
+		<img alt="Виленско-Радомская уния" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="100">
 		</br><small>ВКЛ 1386-1434</small>
 		</a>
 		</a>
@@ -88,7 +88,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/unia_liublin/unia_table.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Виленско-Радомская уния" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" height="160">
+		<img alt="Виленско-Радомская уния" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" height="100">
 		</br><small>Хронология уний
 		</br>ВКЛ-Польша</small>
 		</a>
@@ -98,7 +98,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/unia_krewo/ordensgebiete.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Виленско-Радомская уния" src="../../images/img-events/unia_krewo/ordensgebiete_thumb.jpg" height="160">
+		<img alt="Виленско-Радомская уния" src="../../images/img-events/unia_krewo/ordensgebiete_thumb.jpg" height="100">
 		</br><small>XIV-XV в. Земли Deutschen Ordens</small>
 		</a>
 		</div>

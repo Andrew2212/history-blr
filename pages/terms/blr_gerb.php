@@ -4,14 +4,14 @@
   <head>
    
 <!-- ***Title*** -->
- 	<title>Национальный герб. История Беларуси</title>
+ 	<title>Национальный герб</title>
 
 <!-- ***Meta*** -->
     <meta name="description" content="Погоня — национальный герб Беларуси. Со времен формирования белорусского этноса и до раздела Речи Посполитой 
 	Погоня была символом белорусских земель (воеводств). Даже в литинском описании Ягайло этот герб назван pogonia — так, как он назывался на языке литвинов." />
     <meta name="keywords" itemprop="keywords" content="Погоня, герб Беларуси, герб беларусi, 
 	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
-	<meta property="og:image" content="http://history-belarus.by/images/img-terms/blr_gerb/1697_polska.jpg" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-terms/blr_gerb/title.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>
@@ -30,7 +30,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
     
-		<h3>Погоня. Национальный герб Беларуси</h3>
+		<h1>Погоня. Национальный герб Беларуси</h1>
 	<div class="col-md-12">
 		<p class="img-float-left">	
 		<a href="../../images/img-terms/blr_gerb/Pagonia_BelArt.jpg" class="highslide"
@@ -258,6 +258,19 @@
 	11 августа — День национального герба и флага. 
 	</br>Первое официальное описание герба и флага Беларуси — БНР, газета "Вольная Беларусь", 1918
 	</p>
+	
+	<h3>PS.</h3>
+	<p>
+	Герб Республики Беларусь "Погоня" был утвержден в 1991 году. Герб Литовской Республики "Витис" был утвержден в 1992 году. 
+	Совместные консультации представителей обеих стран позволили избежать геральдических конфликтов и противоречий. 
+	</p>
+	
+<div class="col-md-12 top-list">
+<!--It's just line-->
+</div>
+
+	<!-- ***HerbyWKL *** -->
+  	<? include ("../_include/include_HerbyWKL.php"); ?>
 		
 		
 				</br></br></br>

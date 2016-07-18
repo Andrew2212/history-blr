@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
   <!-- ***Title*** -->
-    <title>Ливонская война. История Беларуси</title>
+    <title>Ливонская война</title>
 <!-- ***Meta*** -->  
     <meta name="description" content="Война ВКЛ с Московским царством, вторгшимся в Ливонию и захватившим Полоцк. Создание Речи Посполитой.
 	" />
@@ -28,7 +28,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h1>Ливонская война 1558-1583</h1>
+		<h1>1558-1583 Ливонская война</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-download/map_sweden/1573-78_Livoniae.jpg" class="highslide"

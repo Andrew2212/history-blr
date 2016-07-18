@@ -1,14 +1,14 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="be">
   <head>
     
 <!-- ***Title*** -->
-    <title>Битва на Немиге. Немига.</title>
+    <title>Бітва на Нямізе. Няміга.</title>
 <!-- ***Meta*** -->  
-    <meta name="description" content="Немига — древнейший топоним и сердце Минска, место с темной и своеобычной историей" />
-	<meta name="keywords" itemprop="keywords" content="Битва на Немиге, 
-	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
+    <meta name="description" content="Няміга — найстаражытнейшы тапонім і сэрца Мінска, месца з цёмнай і своеасаблівай гісторыяй" />
+	<meta name="keywords" itemprop="keywords" content="Бітва на Нямізе, 
+	гісторыя Беларусі коратка ў датах, асноўныя падзеі ў гісторыі Беларусі, гісторыя ВКЛ, ВКЛ, гісторыя Беларусі, Кароткая гісторыя Беларусі, Гісторыя Беларусі коратка" />
 	<meta property="og:image" content="http://history-belarus.by/images/img-events/battle_nemiga/Nemiga_old.jpg" />
 
 <!-- ***Include Header*** -->
@@ -29,43 +29,43 @@
     <? include ("../_include/top_list_events.php"); ?>
   
 
-		<h2>Битва на Немиге</h2>
+		<h1>Бітва на Нямізе</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/battle_nemiga/tale_of_igor.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-events/battle_nemiga/tale_of_igor_thumb.jpg" height="140">
-		</br><small>"Слово о полку Игореве",
-		</br>Битва на Немиге</small>
+		</br><small>"Слова пра паход Ігаравы",
+		</br>Бітва на Нямізе</small>
 		</a>
 		</p>
 		<p class="img-float-right">
 		<a href="../../images/img-events/battle_nemiga/battle_Nemiga_memory.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-events/battle_nemiga/battle_Nemiga_memory_thumb.jpg" height="140">
-		</br><small>Памятник битве на Немиге</small>
+		</br><small>Помнік бітве на Нямізе</small>
 		</a>
 		</p>
 		
 		<p>
-		Битва на Немиге 3 марта 1067 года — сражение между войсками полоцкого князя <a href="../figures/charadzej.php">Всеслава Чародея</a> из династии 
-		<a href="../figures/rogvolod_rogneda.php">Рогволодовичей</a> 
-		с войсками Ярославовичей (киевким, черниговским и переяславским князьями).
+		Бітва на Нямізе 3 сакавіка 1067 года — бітва паміж войскамі полацкага князя <a href="../figures/charadzej.php">Усяслава Чарадзея</a> з дынастыі 
+		<a href="../figures/rogvolod_rogneda.php">Рагвалодавічаў</a> 
+		з войскамі Яраславічаў (кіеўскім, чарнігаўскім і пераяслаўскім князямі).
 		</p>
 		<p>
-		Князь Всеслав Чародей в 1065 году держал в осаде Псков и разграбил Новгород, продолжив тем самым войну против Ярославичей 
-		(сыновей Ярослава Мудрого). Ярославичи вторглись в Полоцкое княжество, взяли Минск и вышли на реку Немигу, где их встретил Всеслав.
+		Князь Усяслаў Чарадзей у 1065 годзе трымаў у аблозе Пскоў і разрабаваў Ноўгарад, працягнуўшы тым самым вайну супраць Яраславічаў 
+		(сыноў Яраслава Мудрага). Яраславічы ўварваліся ў Полацкае княства, узялі Менск і выйшлі на раку Нямігу, дзе іх сустрэў Усяслаў.
 		<p>
-		Войска сошлись на берегах реки Немиги и 7 дней стояли друг против друга в глубоком снегу. 
-		Наконец Всеслав Полоцкий начал атаку, и много воинов пало с обеих сторон.
+		Войскі сышліся на берагах ракі Нямігі і 7 дзён стаялі адзін супраць аднаго ў глыбокім снезе. 
+		Нарэшце, Усяслаў Полацкі пачаў атаку, і шмат ваяроў загінула з абодвух бакоў.
 		</p>
 		<p>
-		В описании этой битвы встречаем первое летописное упоминание Минска и Немиги.
-		Так же там впервые упомянуты Дудутки: <i>"Всеслав... с Дудуток пустился как волк до Немиги" </i>
+		У апісанні гэтай бітвы сустракаем першую летапісную згадку пра Мінск і Нямігу.
+		Гэтак жа там упершыню згаданыя Дудуткі: <i>"Усяслаў... з Дудутак пусціўся як воўк да Нямігі" </i>
 		</p>
 		
 		<p>
-		<i>"В вековой распре Ярославичей и Изяславичей есть что-то расовое"</i> — отмечал Веселовский (историк литературы, профессор Петербургского университета, академик). 
+		<i>"У старажытнай спрэчцы Яраславічаў і Ізяславічаў ёсць нешта расавае"</i> — адзначаў Весялоўскі (гісторык літаратуры, прафесар Пецярбургскага ўніверсітэту, акадэмік). 
 		</p>
 		
 	<div class="col-md-12">
@@ -73,8 +73,8 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/_img-index/blr_10ce_country_variag_way.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Полоцкое княжество" src="../../images/_img-index/blr_10ce_country_variag_way_thumb.jpg" height="100">
-		</br><small>Полоцкое княжество X-XI вв</small>
+		<img alt="Полацкае княства" src="../../images/_img-index/blr_10ce_country_variag_way_thumb.jpg" height="100">
+		</br><small>Полацкае княства X-XI стагоддзі</small>
 		</a>
 		</div>
 				
@@ -82,7 +82,7 @@
 		<a href="../../images/img-terms/polotsk_principality/saga_ditrek.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/polotsk_principality/saga_ditrek_thumb.jpg" height="100">
-		</br><small>А. Н. Веселовский о Полоцке</small>	
+		</br><small>А. М. Весялоўскі пра Полацк</small>	
 		</a>
 		</div>
 		
@@ -90,58 +90,58 @@
 		<a href="../../images/img-terms/polotsk_principality/about_Polotsk_duces.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/polotsk_principality/about_Polotsk_duces_thumb.jpg" height="100">
-		</br><small>Рогволодовичи vs Ярославичи</small>	
+		</br><small>Рагвалодавічы супраць Яраславічаў</small>	
 		</a>
 		</div>
 		
 	</div>
 		
 		<p>
-		По итогам битвы Всеслав Чародей был приглашен на переговоры, пленен, освобожден киевским вече и избран киевским князем.
+		Па выніках бітвы Усяслаў Чарадзей быў запрошаны на перамовы, узяты ў палон, вызвалены кіеўскім вечам і абраны кіеўскім князем.
 		</p>
 		<p>
-		Про результаты этой битвы Полоцкая (считается утраченной) и Киевская летописи рассказывают по-разному. 
-		Так, Киевская летопись говорит о поражении Всеслава и его бегстве, тогда как Полоцкая предлагала другую версию: 
-		о больших потерях с обеих сторон и отступлении Ярославовичей, которые спустя несколько месяцев встретились с Всеславом и просили о мире.
+		Пра вынікі гэтай бітвы Полацкі (лічыцца, што страчаны) і Кіеўскі летапісы распавядаюць па-рознаму. 
+		Так, Кіеўскі летапіс кажа пра паразу Усяслава і яго ўцёкі, а Полацкі прапаноўваў іншую версію: 
+		пра вялікія страты з абодвух бакоў і адступленні Яраславічаў, якія праз некалькі месяцаў сустрэліся з Усяславам і прасілі яго пра мір.
 		</p>
 		<p class="img-float-center">
 		<a href="../../images/img-events/battle_nemiga/radziwill_nemiga.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-events/battle_nemiga/radziwill_nemiga_thumb.jpg" height="120">
-		</br><small>Битва на Немиге</small>
+		</br><small>Бітва на Нямізе</small>
 		</a>
-		</br><a href="../download/letopis_radziwil.php">Радзивиловская летопись (смотреть / скачать)</a>
+		</br><a href="../download/letopis_radziwil.php">Радзівілаўскі летапіс (глядзець / спампаваць)</a>
 		<p>
 		<i>
-		"Во-первых, после битвы киевляне не пытались захватить беззащитный и богатый Полоцк, а «помирились» с Всеславом. 
-		С побежденными в те времена не мирились — их превращали в вассалов, плативших дань.
+		"Па-першае, пасля бітвы кіеўляне не спрабавалі захапіць безабаронны і багаты Полацк, а "памірыліся" з Усяславам. 
+		З пераможанымі ў тыя часы не мірыліся — іх пераўтваралі ў васалаў, якія плацілі даніну.
 		</i>
 		</p>
 		<p>
 		<i>
-		Во-вторых, летом киевляне пригласили его на переговоры в Оршу, гарантировав неприкосновенность (киевский князь Изяслав «крест целовал: "Приди к нам, не сотворим тебе зла"» ).  
-		Опять-таки, переговоров с побежденными не ведут — не о чем договариваться и, тем более, клятв им не дают.  
+		Па-другое, улетку кіеўляне запрасілі яго на перамовы ў Воршу, гарантаваўшы недатыкальнасць (кіеўскі князь Ізяслаў «крыж цалаваў: "Прыйдзі да нас, не створым табе ліха"» ).  
+		Зноў-такі, перамоваў з пераможанымі не вядуць — няма пра што дамаўляцца і, тым больш, клятваў ім не даюць.  
 		 </i>
 		 </p>
 		<p>
 		<i>
-		Изяслав нарушил клятву, захватил в плен Всеслава и двоих его сыновей.
-		 В результате восстания киевлян Всеслав был освобожден, и избран на великокняжеский киевский престол. 
-		 Он правил в Киеве всего лишь 7 месяцев, потом внезапно вернулся в Полоцк. 
-		 Причины неизвестны, существуют разные версии историков. Лично мне кажется убедительной та, по которой Всеслав вернулся домой, 
-		 чтобы не воевать с поляками за чужой ему Киев."
+		Ізяслаў парушыў клятву, захапіў у палон Усяслава і двух ягоных сыноў.
+		 У выніку паўстання кіеўлянаў Усяслаў быў вызвалены, і абраны на вялікакняскі кіеўскі пасад. 
+		 Ён валадарыў у Кіеве ўсяго толькі 7 месяцаў, потым нечакана вярнуўся ў Полацк. 
+		 Прычыны невядомыя, існуюць розныя версіі гісторыкаў. Асабіста мне падаецца пераканаўчай тая, згодна з якой Усяслаў вярнуўся дадому, 
+		 каб не ваяваць з палякамі за чужы яму Кіеў."
 		 </i>
-		 </br><small>А. Е. Тарас. Краткий курс истории Беларуси IX-XXI веков</small>
+		 </br><small>А. Я. Тарас. Кароткі курс гісторыі Беларусі IX-XXI стагоддзяў</small>
 		</p>
 		
 		<h2>
-		Немига
+		Няміга
 		</h2>
 		<p>
-		Немига — правый приток реки Свислочь, древнейший топоним Минска. 
-		</br>К XIX веку сильно обмелела и была убрана под дощатую мостовую одноименной улицы. 
-		После ливневых дождей, а также весной и осенью разливалась, затоплял улицу и близлежащую площадь. В XX веке была заключена в коллектор, однако и сегодня 
-		случаются напоминания о былых разливах. 
+		Няміга — правы прыток ракі Свіслач, найстаражытнейшы тапонім Мінска. 
+		</br>Да XIX стагоддзя моцна змялела і была прыбраная пад дашчаны брук аднайменнай вуліцы. 
+		Пасля ліўневых дажджэй, а таксама ўвесну і ўвосень разлівалася, затапляла вуліцу і вакольную плошчу. У XX стагоддзі была заключана ў калектар, аднак і сёння 
+		здараюцца нагадванні пра былыя разлівы. 
 		</p>
 		
 		<div class="col-md-12">
@@ -149,32 +149,32 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/battle_nemiga/Nemiga_old.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Немига" src="../../images/img-events/battle_nemiga/Nemiga_old_thumb.jpg" height="100">
-		</br><small>Устье Немиги и Минское замчище</small>
+		<img alt="Няміга" src="../../images/img-events/battle_nemiga/Nemiga_old_thumb.jpg" height="100">
+		</br><small>Вусце Нямігі і Мінскае замчышча</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/battle_nemiga/nemiga_1924.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Немига" src="../../images/img-events/battle_nemiga/nemiga_1924_thumb.jpg" height="100">
-		</br><small>Немига, 1924</small>
+		<img alt="Няміга" src="../../images/img-events/battle_nemiga/nemiga_1924_thumb.jpg" height="100">
+		</br><small>Няміга, 1924</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/battle_nemiga/nemiga_1958.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Немига" src="../../images/img-events/battle_nemiga/nemiga_1958_thumb.jpg" height="100">
-		</br><small>Немига, 1958</small>
+		<img alt="Няміга" src="../../images/img-events/battle_nemiga/nemiga_1958_thumb.jpg" height="100">
+		</br><small>Няміга, 1958</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/battle_nemiga/nemiga_1965.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Немига" src="../../images/img-events/battle_nemiga/nemiga_1965_thumb.jpg" height="100">
-		</br><small>Немига, 1965</small>
+		<img alt="Няміга" src="../../images/img-events/battle_nemiga/nemiga_1965_thumb.jpg" height="100">
+		</br><small>Няміга, 1965</small>
 		</a>
 		</div>
 		
@@ -185,28 +185,59 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/battle_nemiga/nemiga_1966.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Немига" src="../../images/img-events/battle_nemiga/nemiga_1966_thumb.jpg" height="100">
-		</br><small>Немига, 1966</small>
+		<img alt="Няміга" src="../../images/img-events/battle_nemiga/nemiga_1966_thumb.jpg" height="100">
+		</br><small>Няміга, 1966</small>
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/battle_nemiga/nemiga_now.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Немига" src="../../images/img-events/battle_nemiga/nemiga_now_thumb.jpg" height="100">
-		</br><small>Немига сегодня</small>
+		<img alt="Няміга" src="../../images/img-events/battle_nemiga/nemiga_now_thumb.jpg" height="100">
+		</br><small>Няміга сёння</small>
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/battle_nemiga/nemiga_2010.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Немига" src="../../images/img-events/battle_nemiga/nemiga_2010_thumb.jpg" height="100">
-		</br><small>"Немигу затопило", 2010</small>
+		<img alt="Няміга" src="../../images/img-events/battle_nemiga/nemiga_2010_thumb.jpg" height="100">
+		</br><small>"Нямігу затапіла", 2010</small>
 		</a>
 		</div>
 		
 		</div>
+		
+		<h2>Solidarity
+		</br><small><i>"Мы выйдзем шчыльнымі радамі..."</i></small>
+		</h2>
+		
+		<p class="img-float-left" >
+		<a href="../../images/img-terms/vajacki_marsz/solidarity.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Ваяцкі марш Нацыянальны гімн Беларусі" src="../../images/img-terms/vajacki_marsz/solidarity_thumb.jpg" height="100" >
+		</a>
+		</p>
+		<p>
+		На Нямізе, на фасадзе Цэнтра Моды, размешчаны барэльеф Solidarity ("Салідарнасць"). Даволі нечаканы дэкор над месцам модных паказаў.
+		Паводле задумы, "барэльеф павінен ўвасабляць ідэі касмапалітызму".
+		</p>
+		<p>
+		Аднак, гледзячы на яго, самі сабою ўсплываюць радкі <a href="../terms/vajacki_marsz.php">Ваяцкага марша</a>: "Мы выйдзем шчыльнымі радамі..." 
+		Суровыя людзі, відавочна грамадзянскага выгляду, бязродныя касмапаліты з вінтоўкамі, яны плячо ў плячо выступаюць з невядомых глыбінь 
+		пад цяжкім штандарам неба. Што характэрна — нешматлікая збоя прыхавана ў натоўпе і ў складках нябеснага сцяга. 
+		І два абрэза з чатырох хаваюць за спінамі жанчыны.
+		</p>
+		<p>
+		Адразу прыгадваецца <a href="../events/war_green_oak.php">рух "Зялёнага дуба"</a> і конь бледны з "Успамінаў тэрарыста" Барыса Савінкова, :
+		 <i>"Тэрмінаў ведаць не дазволена... Так, не мы вымяраем наш грэх. Але і не мы вымяраем нашую малую ахвяру. І калі Ён зняў трэцюю пячатку,
+		 я чуў трэцюю жывую істоту, якая казала: ідзі і глядзі. Я глянуў, і вось, конь вараны, і на ім вершнік, які меў меру ў руцэ сваёй".
+		 </i>
+		 </p>
+		<p>
+		 Барыс Савінкоў быў ідыёлагам "зялёнага руху" у гады Грамадзянскай вайны, падтрымкай яго "Народнага звяза абароны Радзімы і свабоды" 
+		 карыстаўся генерал <a href="../figures/bulak.php">Булак-Булаховіч</a>. Дзеянне другой частцы "Успамінаў тэрарыста" адбываецца на фоне пахода Булаховіча на Мазыр.
+		</p>
 		
 		
 		</br></br></br>

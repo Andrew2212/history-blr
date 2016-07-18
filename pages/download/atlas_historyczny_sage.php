@@ -79,23 +79,38 @@
 			<a href="../terms/blr_gerb.php">Погоня</a>.
 			</p>
 			
-			<div class="col-md-12">
+			<div class="col-md-12 img-float-center">
 			
-			<div class="col-md-6 img-float-center">
+			<div class="col-md-3">
 			<a href="../../images/img-events/grunwald/dligosz.jpg" class="highslide"
-       	 onclick="return hs.expand(this)">
+      	 	 onclick="return hs.expand(this)">
 			<img alt="Грюнвальд, битва под Грюнвальдом"  src="../../images/img-events/grunwald/dligosz_thumb.jpg" height="100">
 			</br><small>"Хоругви Литовские"
 			</br>Ян Длугош, XV в</small>	
 			</a>
 			</div>
 			
-			<div class="col-md-6 img-float-center">
-		<a href="../../images/img-download/atlas_historyczny_sage/1844_herby.jpg" class="highslide"
+			<div class="col-md-3">
+			<a href="../../images/img-download/atlas_historyczny_sage/1844_herby.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="гербы воеводств Реви Посполитой, гербы воеводств ВКЛ" src="../../images/img-download/atlas_historyczny_sage/1844_herby_thumb.jpg" height="100"/>
-			</br><small>Гербы воеводств
-			</br>большая читаемая таблица из атласа</small>
+			<img alt="гербы воеводств Речи Посполитой, гербы воеводств ВКЛ" src="../../images/img-download/atlas_historyczny_sage/1844_herby_thumb.jpg" height="100"/>
+			</br><small>Гербы воеводств Речи Посполитой</small>
+			</a>
+			</div>
+			
+			<div class=" col-md-3">
+			<a href="../../images/img-terms/kalumny/1799_LeSageHerby.jpg" class="highslide"
+      	 	 onclick="return hs.expand(this)">
+			<img alt="Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1799_LeSageHerby_thumb.jpg" height="100" >
+			</br><small>Гербы воеводств ВКЛ</small>
+			</a>
+			</div>
+			
+			<div class=" col-md-3">
+			<a href="../../images/img-terms/kalumny/1799_LeSageMap.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1799_LeSageMap_thumb.jpg" height="100" >
+			</br><small>Карта ВКЛ</small>
 			</a>
 			</div>
 			

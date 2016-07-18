@@ -43,12 +43,10 @@
 		</p>
 		
 		<p class="img-float-right">
-		<a href="../../images/img-figures/kmicic/orsha.jpg" class="highslide"
+		<a href="../../images/img-events/wars_1487-1537/wkl_15ce.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="битва под Оршей" src="../../images/img-figures/kmicic/orsha.jpg" height="120">
-		</br><small>Орша,
-		</br>Крапивенское поле</small> 	
-		</a>
+		<img alt="Война с Московией 1512-1522" src="../../images/img-events/wars_1487-1537/wkl_15ce_thumb.jpg" height="120"> 
+		</br><small>ВКЛ 1487-1537 </small>
 		</p>
 		
 		<p>

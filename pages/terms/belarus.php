@@ -4,10 +4,10 @@
   <head>
      
 <!-- ***Title*** -->
- 	<title>Беларусь. История Беларуси</title>
+ 	<title>Беларусь</title>
 
 <!-- ***Meta*** -->
-    <meta name="description" content="Ликбез по истории белорусского государства — тысяча лет в 10 абзацах." />
+    <meta name="description" content="Короткий ликбез по истории белорусского государства — тысяча лет в 10 абзацах." />
     <meta name="keywords" itemprop="keywords" content="
 	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
 	 <meta property="og:image" content="http://history-belarus.by/images/img-terms/belarus/blr_title.jpg" />

@@ -30,7 +30,9 @@
     <? include ("../_include/top_list_events.php"); ?>
   
 
-		<h1>1610 Битва при Клушино</h1>
+		<h1>1610 Битва при Клушино
+		</br><small>4 июля</small>
+		</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/battle_klushyn/klushyno_battle.jpg" class="highslide"

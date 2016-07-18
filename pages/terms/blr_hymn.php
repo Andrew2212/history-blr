@@ -31,10 +31,10 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
     
-		<h2>
+		<h1>
 		Национальный гимн Беларуси
 		</br><small>Максим Богданович, <a href="blr_gerb.php">"Погоня"</a>, 1916 г.</small>
-		</h2>
+		</h1>
 		
 	<div class="col-md-12">
 		

@@ -1,6 +1,6 @@
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     
-   				<!-- *** Blr border 1914-1946 *** -->
+<!-- *** Blr border 1914-1946 *** -->
 		
 <div class="col-md-12 top-list">
 <!--It's just line-->
@@ -156,11 +156,11 @@
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-events/uprising_sluzk/Caricature_for_Riga_Peace_1921.jpg" class="highslide"
+		<a href="../../images/img-articles/holywar/1923_june_foreign_affairs_mag_boundary_disputes.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Советско-польская война 1919-1921" src="../../images/img-events/uprising_sluzk/Caricature_for_Riga_Peace_1921_thumb.jpg" height="100" >
-			</br><small>Карикатура на Рижский мир</small>
-			</a>
+		<img alt="история ВКЛ" src="../../images/img-articles/holywar/1923_june_foreign_affairs_mag_boundary_disputes_thumb.jpg" height="100"/>
+		</br><small>1923 Ethnography of the Vilna region</small>
+		</a>
 		</div>
 		
 	</div>

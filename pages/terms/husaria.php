@@ -4,11 +4,11 @@
   <head>
     
 <!-- ***Title*** -->
- 	<title>Крылатые гусары ВКЛ. История Беларуси</title>
+ 	<title>Крылатые гусары ВКЛ</title>
 
 <!-- ***Meta*** -->
-    <meta name="description" content="Гусария, или крылатые гусары - элитная кавалерия Речи Посполитой, 
-	действовавшая на полях сражений с середины XVI века до середины XVIII века.
+    <meta name="description" content="Легендарная конница Речи Посполитой, вернувшая на поле боя классический таранный удар, 
+	применявшийся рыцарской кавалерией. Действовала на полях сражений с середины XVI века до середины XVIII века.
 	Гусария была подразделением народного ауторамента (наёмного войска местной военной традиции, набирали по принципу товариществ). 
 	Товарищ приводил с собой почт (драб - пеший, пехотинец, пахол(и)к - слуга, оруженосец), коней и челядь.
 	" />
@@ -35,16 +35,18 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
     
-		<h3>Крылатые гусары ВКЛ</h3>
+		<h1>Крылатые гусары ВКЛ</h1>
 		
 		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-terms/husaria/mir_castle_husaria.jpg">
+		<a href="../../images/img-terms/husaria/mir_castle_husaria.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/husaria/mir_castle_husaria_thumb.jpg" height="160">
 		</br><small>Доспехи, Мирский замок</small>
 		</a>
 		</p>
 		<p class="img-float-right">
-		<a target="_blank" href="../../images/img-terms/husaria/dospech_radziwill.jpg">
+		<a href="../../images/img-terms/husaria/dospech_radziwill.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/husaria/dospech_radziwill_thumb.jpg" height="160">
 		</br><small>Рыцарский доспех 
 		</br>Радзивилла Черного, 1550</small>
@@ -81,30 +83,34 @@
 	<div class="col-md-12" >
 	
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-terms/husaria/turkish-deli.jpg">
-		<img src="../../images/img-terms/husaria/turkish-deli_thumb.jpg" height="120">
+		<a href="../../images/img-terms/husaria/turkish-deli.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/husaria/turkish-deli_thumb.jpg" height="100">
 		</br><small>Турецкие "дели", XVI</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-terms/husaria/autorament.jpg">
-		<img src="../../images/img-terms/husaria/autorament_thumb.jpg" height="120">
+		<a href="../../images/img-terms/husaria/autorament.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/husaria/autorament_thumb.jpg" height="100">
 		</br><small>Народный ауторамент</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-terms/husaria/nesviz_1930_radziwill_palac.jpg">
-		<img src="../../images/img-terms/husaria/nesviz_1930_radziwill_palac_thumb.jpg" height="120">
+		<a href="../../images/img-terms/husaria/nesviz_1930_radziwill_palac.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/husaria/nesviz_1930_radziwill_palac_thumb.jpg" height="100">
 		</br><small>Оружейная Радзивиллов
 		</br>Несвиж, 1930</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-terms/husaria/kluszyn_1610.jpg">
-		<img src="../../images/img-terms/husaria/kluszyn_1610_thumb.jpg" height="120">
+		<a href="../../images/img-terms/husaria/kluszyn_1610.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/husaria/kluszyn_1610_thumb.jpg" height="100">
 		</br><small>Гусарская хоругвь 
 		</br>в битве при Клушине</small>	
 		</a>
@@ -114,15 +120,24 @@
 			
 		<p>
 		150 лет гусария была грозной силой. XVII век стал "золотым" веком крылатых гусар. 
-		</br>Гусарские хоругви сыграли решающую роль в ряде крупных сражений: под Кирхольмом (1605) и Клушиным (1610), Хотином (1621 и 1773) и Веной (1683).
+		Гусарские хоругви сыграли решающую роль в ряде крупных сражений: под Кирхольмом (1605) и 
+		<a href="../events/battle_klushyn.php">Клушиным</a> (1610), <a href="../events/battle_hotin.php">Хотином</a> (1621 и 1773).
 		Наибольшей численности в своей истории гусария достигла в 1621 г. (8000 всадников). 
-		 </br>Секрет боевой эффективности гусар был достаточно прост — они вернули на поле боя классический таранный удар, 
-		 применявшийся рыцарской кавалерией. 
-		 </br>Но к XVIII веку огнестрельное оружие вытеснило тяжелую кавлерию. В 1775 году сейм упразднил формирования крылатых гусар.
+		 </p>
+		 <p>
+		 Легендарным полководцем эпохи крылатых гусар был <a href="../figures/hodkewich.php">Ян Кароль Ходкевич</a> — граф на Мыши и Быхове, 
+		 герой эпоса <a href="../download/carolomachia.php">"Кароломахия"</a>, 
+		 сложенного минским воеводой <a href="../figures/zawisza.php">Христофором Завишей</a> в 1605 году.
+		 </p>
+		<p>
+		Секрет боевой эффективности гусар был достаточно прост — они вернули на поле боя классический таранный удар, 
+		 применявшийся рыцарской кавалерией. Но к XVIII веку огнестрельное оружие вытеснило тяжелую кавлерию. 
+		 В 1775 году сейм упразднил формирования крылатых гусар.
 		</p>
 		<p class="img-float-center">
-		<a target="_blank" href="../../images/img-terms/blr_gerb/gusaria_signs.jpg">
-		<img src="../../images/img-terms/blr_gerb/gusaria_signs.jpg" height="120">
+		<a href="../../images/img-terms/blr_gerb/gusaria_signs.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/blr_gerb/gusaria_signs.jpg" height="100">
 		</br><small>Белоруский и Гродненский 
 		</br>гусарские полки, XIX</small>	
 		</a>
