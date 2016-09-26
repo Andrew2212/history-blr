@@ -30,7 +30,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h2>Ягайло</h2>
+		<h1>Ягайло</h1>
 		
 	<div class="col-md-12">	
 		
@@ -138,10 +138,10 @@
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-figures/jagiello/Jagiellonowie_drzewo.jpg" class="highslide"
+		<a href="../../images/img-figures/jagellony/jagellony_kings.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ягайло" src="../../images/img-figures/jagiello/Jagiellonowie_drzewo_thumb.jpg" height="100">
-		</br><small>Древо Ягеллонов</small>	
+		<img alt="Ягеллоны" src="../../images/img-figures/jagellony/jagellony_kings_thumb.jpg" height="100">
+		</br><small>Короли Ягеллоны</small>	
 		</a>
 		</div>
 		

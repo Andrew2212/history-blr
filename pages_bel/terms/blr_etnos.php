@@ -1,17 +1,18 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="be">
   <head>
      
 <!-- ***Title*** -->
- 	<title>Белорусский этнос. История Беларуси</title>
+ 	<title>Беларускі этнас</title>
 
 <!-- ***Meta*** -->
-    <meta name="description" content="Белорусы — балтский народ, принявший восточно-славянскую культуру. Белорусский этнос сформировался во времена ВКЛ (XIII-XV вв.)
-	 Подробные этнографические карты белорусских земель составлялись по поручению Императорского Русского Географического общества на протяжении 44 лет (1875-1919 гг)." />
+    <meta name="description" content="Кароткі агляд — ад археалагічных культур і гаплагруп ДНК да тутэйшай краевасьці і беларускай ідэі. 
+	Матэрыялы этнаграфічных экспедыцый, мапы, дакументы, інфаграфіка.
+	 " />
     <meta name="keywords" itemprop="keywords" content="
-	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко" />
-	 <meta property="og:image" content="http://history-belarus.by/images/img-terms/blr_etnos/blr_info.jpg" />
+	 Беларусь, беларускі этнас, рэлігія ў Беларусі, беларусы, кароткая гісторыя Беларусі, гісторыя Беларусі, гісторыя Беларусі коратка" />
+	 <meta property="og:image" content="http://history-belarus.by/images/img-terms/blr_etnos/title.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>
@@ -30,266 +31,476 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
     
-		<h3>Белорусский этнос</h3>
-		<p>
-			Белорусы — балтский народ, принявший восточно-славянскую культуру. Подробные 
-			<a href="../download/blr_people.php">этнографические карты</a> белорусских земель составлялись 
-			по поручению Императорского Русского Географического общества на протяжении 44 лет (1875-1919 гг).
-		</p>
-		<p>	
-			Для начала стоит посмотреть, что есть "<a href="slavs.php">славяне</a>".
-		</p>
-		<p>
-		А так же вспомнить, что большинство современных европейских наций сформировалось в XIX в. 
-		</br>Как справедливо заметил известный польский социолог Флориан Знанецкий, 
-		</br><i>"в конце восемнадцатого века большинство жителей разных регионов Италии от Пьемонта до Сицилии не осознавали того факта, 
-		что все они являются итальянцами. 
-		Подобно тому люди, которые жили на территории от Пруссии до Рейнской области и южной Баварии, 
-		не считали себя немцами. Даже в двадцатом веке крестьяне некоторых европейских регионов не имели понятия, 
-		что они принадлежат к какому-либо этническому сообществу, большему, нежели их локальное сообщество."</i>
-		</p>
-		<p>
-		Только в XIX веке понятие "нация" сместилось от <a href="shliahta.php">аристократии</a> к 
-		<a href="../download/kirkor.php">крестьянам</a> и мещанам. 
-		Забавно, что при этом аристократию из понятия "нация" вычеркнули. 
-		</br><small>По крайней мере в <a href="../download/kirkor.php">трудах</a>
-		Императорского Русского Географического Общества по этнографии Беларуси.</small>
-		</p>
-		<p>
-		Так, в академическом издании <a href="../download/russia_blr.php">"Россия. Полное географическое описание"</a> описывается облик
-		 и характер беларусов. При этом <a href="../terms/shliahta.php">белорусскую шляхту</a>
-		выносят в "отдельную этнографическую группу" местного происхождения.
-		</p>
+		<h1>Беларускі этнас</h1>
 		
-	<div class="col-md-12">	
-		<div class="col-md-4 img-float-center">
-		<a href="../../images/img-terms/blr_etnos/blr_faceview.jpg" class="highslide"
+		<p class="img-float-left">
+		<a href="../../images/img-terms/slavs/blr_etnos.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/blr_etnos/blr_faceview_thumb.jpg" height="100"/>
-			</br><small>"Облик белорусского племени"</small>
-		</a>				
-		</div>
-		
-		<div class="col-md-4 img-float-center">
-		<a href="../../images/img-terms/blr_etnos/blr_character.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/blr_etnos/blr_character_thumb.jpg" height="100"/>
-			</br><small>"О характере белоруссов"</small>
-		</a>				
-		</div>
-		
-		<div class="col-md-4 img-float-center">
-		<a href="../../images/img-terms/shliahta/blr_shliahta1.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/shliahta/blr_shliahta1_thumb1.jpg" height="100">
-		</br><small>"Белорусская шляхта и панцирные бояре"</small>
-		</a>				
-		</div>				
-	</div>
-		
-		<p>
-			Историк Леонид Алексеев в книге «Полоцкая земля в IX - ХІІІ вв.» (1966 г.) отметил:
-			</br>«Современные данные археологии и топонимики показывают, что в эпоху раннего железа Восточную Европу населяли три крупные группы племён.
-			</br>Первая, ираноязычная, занимала Крымский полуостров, Кубань, Нижний Дон, Нижний Днепр и доходила на севере до водораздела Сейма, Десны и Оки.
-			</br>Другая, финноязычная группа, охватывала всё Верхнее Поволжье, бассейн Средней и Нижней Оки, на западе доходила до озера Эзель…
-			</br>Третья, балтоязычная, охватывала всё Верхнее Поднепровье (включая Киев, правобережье Сейма, верхнюю Оку) и уходила на запад в Прибалтику».
-		</p>
-		<p>
-			Эти три разные этнические группы, соответственно, являлись предками современных украинцев, русских и беларусов. 
-			При переходе на славянский язык они сохранили свою антропологию, генофонд и древние традиции.
-		</p>
-		<p>
-			Почему племена предков беларусов были балтскими? Потому, что вся древняя местная гидронимика и топонимика — балтская. 
-			Женские этноопределяюшие украшения — тоже. И обычаи захоронения. <a href="gudai.php">Память</a> об этом осталась у соседей-летувисов. 
-			</br>Славянская топонимика, славянские украшения, славянские погребальные обряды добавились к ним гораздо позже.
-		</p>
-		
-	<div class="col-md-12">	
-		<div class="col-md-4 img-float-center">
-		<a href="../../images/img-terms/slavs/brothers.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/slavs/brothers_thumb.jpg" height="100"/>
-			</br><small>Балтская археология</small>
-		</a>				
-		</div>
-		
-		<div class="col-md-4 img-float-center">
-		<a href="../../images/_img-index/blr_10ce_etno_variag_way.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/_img-index/blr_10ce_etno_variag_way_thumb.jpg" height="100">
-		</br><small>Племенные союзы</small>
+			<img alt="Этнаграфічная мапа беларускага племені" src="../../images/img-terms/slavs/blr_etnos_thumb.jpg" height="100"/>
 		</a>
-		</div>
-		
-		<div class="col-md-4 img-float-center">
-		<a href="../../images/img-terms/blr_etnos/slavic_shafarik.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/blr_etnos/slavic_shafarik_thumb.jpg" height="100"/>
-			</br><small>Й. Шафарик о "славянах"</small>
-		</a>				
-		</div>				
-	</div>
-		
-		<p>
-		В середине 1-го тысячелетия нашей эры (рубеж V-VI веков) общая картина племен, сложившихся в белорусский этнос, была такова:
-		</br>1) В бассейне Вилии - Нёмана - Западного Буга (ареал археологической культуры штрихованной керамики) жили племена дайнова, судова, полексена, 
-			злинцы и другие. Всех их можно назвать <a href="yotving.php"><i>ятвягами</i></a> — на основании сходства захоронений, гидронимики и топонимики.
-		</br>2) В бассейне Днепра - Западной Двины (ареал археологической днепро-двинской культуры) обитали племена <i>кривичей</i>.
-		</br>3) Бассейны Припяти и Березины (ареал милоградской и зарубинецкой культур) были регионом племен <i>дреговичей</i>.
-		</br>4) На земли бассейна Сожа - Ипути в III веке н. э. пришли с запада радимичи. Они поселились между Днепром и Десной, по Сожу и его притокам. Часть их пошла дальше и вошла в историю под названием «вятичи».
-		</br>5) По правому берегу Припяти, в бассейне ее притоков Тетерев, Уж, Уборть, Ствига обитали <i>древляне</i>.
 		</p>
-		<p>
-			В классическом труде Й. Шафарика <a href="../download/shafarik.php">"Славянские древности"</a> подробно описана этнографическая картина Европы X-XI вв. Описывая народы, 
-			составившие впоследствии белорусский этнос, он отмечает, что всю западную Беларусь (между Минском /восток/, Подляшьем /запад/, 
-			Полесьем (<a href="../places/sea_herodotus.php">морем Геродота</a>) /юг/ и <a href="../places/samogitia.php">Жмудью</a> /север/) 
-			населяли "мелкие литовские народки", <a href="../places/litwa.php">Литва</a> и <a href="yotving.php">Ятвяги</a>.
-			</br><small>[Там же, далее по тексту он долго спорит со своими оппонентами — "относить ли Кривичей к Славянам?"]</small>
-			</br>И если кого-то напрягает упоминание им Сербов на Буге — напрягитесь <a target="_blank" href="../../images/img-terms/blr_etnos/kaliada.jpg">еще раз</a>.			
-		</p>
-		
-	<div class="col-md-12">	
-		<div class="col-md-4 img-float-center">
+		<p class="img-float-right">	
 		<a href="../../images/img-terms/blr_etnos/shafarik_blr_people.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img src="../../images/img-terms/blr_etnos/shafarik_blr_people_thumb.jpg" height="100"/>
-			</br><small>Й. Шафарик, "Славянские древности", 1847</small>
+		</a>				
+		</p>
+		
+		<p>
+			Беларускі этнас склаўся да XV стагоддзя на грунце тэрытарыяльных культурна-этнічных супольнасцяў у часы <a href="wkl.php">Вялікага Княства Літоўскага</a>.
+			Падрабязныя <a href="../download/blr_people.php">этнаграфічныя мапы беларускага племені</a> складаліся 
+			Імператарскім Рускім Геаграфічным таварыствам на працягу 44 гадоў (1875-1919 гг). 			
+		</p>
+		<p>
+			Назвы «крывічы», «дрыгавічы», «яцвягі», пазначаюць тэрытарыяльныя культурна-этнічныя супольнасці. 
+			Прыкладна за 1000 гадоў іх зблізіла паміж сабой славянізацыя. 
+			Менавіта за гэты тысячагадовы перыяд паўстала традыцыйная беларуская ментальнасць, увасобленая ў архетыпах.
+		</p>
+		<p>
+		Аўтахтоннае насельніцтва тэрыторыі <a href="../terms/belarus.php">Беларусі</a> да XIX стагоддзя не ведала ні прыгнёту заваёўнікаў, ні масавых плыняў іміграцыі. Спадчыннікі балцкай 
+		археалагічнай культуры, якія прынялі славянскую культурную парадыгму, мову і рэлігію — крывічы, дрыгавічы, яцвягі — склаліся ў адзіны беларускі этнас. 
+		Нешматлікія плыні мігрантаў — варагі часоў 
+		<a href="../terms/polotsk_principality.php">Полацкага княства</a>, <a href="../terms/lutizy.php">вільцы-люцічы</a>
+		 і <a href="../terms/yotving.php">прусы</a> караля <a href="../figures/mindowg.php">Міндоўга</a>, 
+		 <a href="../events/battle_worskla.php">татары Тахтамыша</a>, запрошаныя <a href="../figures/vitovt.php">Вітаўтам</a> — рассыціліся 
+		 ў шматплямённым катле на скрыжаванні Еўропы.
+		</p>
+		
+		
+		<h3>III-VIII ст</h3>
+		<p>
+		Археалагічныя культуры III-VIII стагоддзяў на тэрыторыі Беларусі завуць "балцкімі". Пра гэта кажуць археолагі і лінгвісты — найстарыя тапонімы 
+		(гідронімы — назвы рэк і азёр) у большасці маюць балцкае паходжанне.
+		</p>
+		<p>
+		З агменяў пра-славянскай культуры — Пражскай у цэнтральнай Еўропе і Пянькоўскай (Чарняхоўскай) на поўдні — славянская культура трапляе на тэрыторыю 
+		Беларусі. У Летуве беларусаў і сёння завуць <a href="gudai.php">Gudai (гуды)</a>, г. зн. готамі. 
+		На <a href="../download/map_16century.php">знакамітай мапе Мюнстэра</a> 
+		Вялікае княства Літоўскае пазначана, як <i>Litvania-Godinia</i>. 
+		</p>
+		
+		<div class="col-md-12">
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/_img-index/blr_10ce_etno_variag_way.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Гісторыя Беларусі" src="../../images/_img-index/blr_10ce_etno_variag_way_thumb.jpg" height="100">
+		</br><small>Пляменныя звязы</small>
 		</a>
-		</a>
-			</br><a href="../download/shafarik.php">Смотреть / Скачать
+		</div>
+			
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/slavs/brothers.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-terms/slavs/brothers_thumb.jpg" height="100"/>
+			</br><small>Археалагічныя культуры III-IV ст.</small>
 		</a>				
 		</div>
-
 		
-		<div class="col-md-4 img-float-center">
-		<a href="../../images/img-terms/blr_etnos/blr_etnos15ce.jpg" class="highslide"
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/slavs/East_europe_5-6cc.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/blr_etnos/blr_etnos15ce_thumb.jpg" height="100"/>
-			</br><small>"Россия. Полное географическое описание", 1905</small>
-		</a>
-			</br><a href="../download/russia_blr.php">Смотреть / Скачать
+			<img src="../../images/img-terms/slavs/East_europe_5-6cc_thumb.jpg" height="100"/>
+			</br><small>Археалагічныя культуры V-VI ст</small>
+		</a>				
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/slavs/Slavic_peoples_6ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-terms/slavs/Slavic_peoples_6ce_thumb.jpg" height="100"/>
+			</br><small>Славяне VI ст</small>
+		</a>				
+		</div>	
+		
+		</div>
+		
+		<h3>IX-XII ст</h3>
+		
+		<p>
+		У гэты перыяд на <a href="../figures/torwald.php">шляху з вараг у грэкі</a> паўстае 
+		<a href="../terms/polotsk_principality.php">Полацкае княства</a> — цэнтр славянскай культуры на "балцкіх" землях. 
+		Не міграцыя і не заваёва. Проста змена культурнай парадыгмы.  
+		</p>
+		<p>
+		На ўсходзе — Полацкае княства, на поўдні — Валынскае (пазней Турава-Пінскае) княства, на захадзе — яцвяжскія землі. Пацешная дэталь 
+		— дзікія <a href="../terms/yotving.php">яцвягі</a> рассыціліся ў агульным славянскім этнасе бясследна, а Турава-Пінскае <a href="../places/sea_herodotus.php">Палессе</a> 
+		(былое <a href="../places/sea_herodotus.php">мора Герадота)</a> дагэтуль захоўвае культурную самабытнасць. 
+		</p>
+		
+		<div class="col-md-12">
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/_img-index/blr_10ce_variag_vay.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Гісторыя Беларусі" src="../../images/_img-index/blr_10ce_variag_vay_thumb.jpg" height="100">
+		</br><small>Шлях з вараг у грэкі</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
-		<a href="../../images/img-terms/blr_etnos/kirkor_blr_people.jpg" class="highslide"
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/_img-index/blr_10ce_country_variag_way.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/blr_etnos/kirkor_blr_people_thumb.jpg" height="100" width="140"/>
-			</br><small>А. Киркор, "Живописная Россия", 1882</small>
+		<img alt="Гісторыя Беларусі" src="../../images/_img-index/blr_10ce_country_variag_way_thumb.jpg" height="100">
+		</br><small>Полацкае княства</small>
 		</a>
-			</br><a href="../download/kirkor.php">Смотреть / Скачать
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/yotving/jazwingi.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Яцвягі" src="../../images/img-terms/yotving/jazwingi_thumb.jpg" height="100"/>
+			</br><small>"Яцвягі" Ё. К. Цойс, 1837</small>
 		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/yotving/jotving_tell.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Яцвягі" src="../../images/img-terms/yotving/jotving_tell_thumb.jpg" height="100"/>
+			</br><small>Яцвяжскія курганы</small>
+		</a>
+		</div>
+		
+		</div>
+		
+		
+		<h3>XIII-XVIII ст</h3>
+		
+		<p>
+		Да XIII стагоддзя Святая Рымская Імперыя канчаткова выцесніла палабскіх славянаў з заходняй Балтыкі. Новыя перасяленцы на беларускіх землях 
+		— <a href="../terms/lutizy.php">люцічы-велеты</a> і прусы <a href="../figures/mindowg.php">Міндоўга</a>, — як калісці варагі, 
+		паклалі пачатак новай дзяржаве — <a href="../terms/wkl.php">Вялікаму княству Літоўскаму</a>. 
+		</p>
+		<p>
+		<i>1248 год "132. У гэтым жа годзе ахрышчаныя прусы са сваім каралём Мендальфам з-за шматлікіх нягод, прычыненых ім крыжакамі, 
+		пакінуўшы хрысціянскую веру, якую прынялі раней, пайшлі з некаторымі братамі Ордэна крыжакоў да літвінаў, адважна да іх далучыўшыся..."
+		</i> <small>Monumenta Poloniae Historica</small>
+		</p>
+		<p>
+		У XIV стагоддзі ўсе беларускія землі былі аб'яднаныя ў адзіную дзяржаву. Да XV стагоддзя ўтварыўся адзіны беларускі этнас,
+		што прыняў эндаэтнонім <a href="litwiny.php">літвіны</a>, які ў XIX-XX ст. быў заменены на <a href="../download/blr_types.php">беларусы</a>.
+		</p>
+		<p>
+		Адзінай дзяржаўнай мовай на беларускіх землях да канца XVII стагоддзя была <a href="../terms/blr_mova.php">беларуская мова</a>.
+		</p>
+		
+		
+		<div class="col-md-12">
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/_img-index/blr_13ce_country.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Гісторыя Беларусі" src="../../images/_img-index/blr_13ce_country_thumb.jpg" height="100">
+		</br><small>Беларусь XIII стагоддзе</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/lutizy/Frankish_Empire_481-814.jpg" class="highslide"
+       	 onclick="return hs.expand(this)">
+			<img alt="люцічы, велеты" src="../../images/img-terms/lutizy/Frankish_Empire_481-814_thumb.jpg" height="100"/>
+			</br><small>Вільцы-люцічы ІX ст</small>
+			</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/gedimin/wkl_13-14ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Вітаўт" src="../../images/img-figures/gedimin/wkl_13-14ce_thumb.jpg" height="100">
+		</br><small>ВКЛ-Беларусь XIII-XV ст</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-download/blr_people_now/map_Lotter_litwa_1770.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="ВКЛ Меркатар" src="../../images/img-download/blr_people_now/map_Lotter_litwa_1770_thumb.jpg" height="100">
+		</br><small>1778 Lithuaniae, T. Lotter</small>
+		</a>
+		</div>
+		
+		</div>
+		
+
+		<p>					
+			<i>«Асноўным вынікам дзеяння комплексу сацыяльна-эканамічных, палітычных, этнічных працэсаў ХIV-ХVI стагоддзяў на Беларусі з'явілася складанне 
+			самастойнай усходне-славянскай этнасацыяльнай супольнасці — беларускай народнасці і яе асноўных этнічных прыкмет — мовы, культуры, самасвядомасці.»
+			</i><small>Ігар Чаквін, Павал Церашковіч</small>
+		</p>
+		<p>
+		Традыцыйныя <a href="../articles/blr_family_names.php">беларускія прозвішчы</a> складаюць абсалютную большасць у <a href="../download/spis_voiska.php">Попісу войска Літоўскага</a> 1528-65 гг, 
+		спісах Вялікіх літоўскіх <a href="../terms/weliki_kancler.php">канцлераў</a>, <a href="../terms/weliki_hetman.php">гетманаў</a>
+		 і <a href="../terms/weliki_marshalok.php">маршалкаў</a> — эліце ВКЛ. 
+		</p>
+		
+		<h3>XIX ст</h3>
+		<p>
+		Беларусь — <a href="../terms/sewero_zapadny_kraj.php">Паўночна-Заходні край</a> Імперыі. Імкліва змяняецца тэрміналогія. Тэрмін "літвіны" 
+		счыходзіць з афіцыйнага звароту, застаючыся прэрагатывай "сьвядомых змагароў" — будучых 
+		<a href="../terms/filomaty.php">філаматаў</a> і <a href="../events/uprising_1830.php">інсургентаў 1830 года</a>.
+		<i>"Натуральна, перарадзіцца я ніколі не здолею і спадзяюся на Бога, што я — ці ў Кардыльерах, ці ў Панарах (Вільня) — усё адно памру літвінам..."</i>, 
+		— <a href="../figures/domeyko.php">Ігнат Дамейка</a>.
+		</p>
+		<p>
+		У першым <a href="../download/all_peoples_RI.php">"Апісанні ўсіх народаў Расіі"</a>, якое было складзена пасля 
+		Другога <a href="../events/razbor_rechi.php">падзела Рэчы Паспалітай</a>, насельніцтва ўсходніх беларускіх губерній завецца "палякамі".
+		Пазней, ва ўжытак увойдзе тэрмін "беларусы", які раней пазначаў канфесійную (<a href="../events/unia_religion_brest.php">уніяцкую</a>) прыналежнасць.
+		</p>
+		<p>
+		Варта ўзгадаць, што большасць сучасных еўрапейскій нацый сфармавался ў XIX ст. 
+		</br><i>"Пад канец васямнаццатага стагоддзя... людзі, якія жылі на тэрыторыі ад Прусіі да Рэйнскай вобласці і паўднёвай Беларусі, 
+		не лічылі сябе немцамі. Нават ў дваццатым стагоддзі сяляне некаторых еўрапейскіх рэгіёнаў не мелі ўяўлення, 
+		што яны прыналежаць да якой-небудзь этнічнай супольнасці, большай, чым іх лакальная супольнасць."</i>
+		<small>Ф. Знанецкі, польскі сацыёлаг</small>
+		</p>
+		
+		<div class="col-md-12">
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/kraj_tut/Mapa_6_gubernij_Litwy_i_Bialej_Rusi.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Паўночна-Заходні край" src="../../images/img-terms/kraj_tut/Mapa_6_gubernij_Litwy_i_Bialej_Rusi_thumb.jpg" height="100" >
+			</br><small>Паўночна-Заходні край</small>
+			</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center" >
+		<a href="../../images/img-terms/litwiny/litvin_religion.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="літвіны-беларусы" src="../../images/img-terms/litwiny/litvin_religion_thumb.jpg" height="100" >
+		</br><small>Літвіны — "беларусы" і "каталікі"</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+			<a href="../../images/img-download/all_peoples_RI/p2_polen.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="1799 Апісанне народаў дзяржавы Расійскай" src="../../images/img-download/all_peoples_RI/p2_polen_thumb.jpg" height="100"/>
+			</br><small><i>"Народ Польскі"</i></small>
+			</a>
+		</div>
+			
+			
+		<div class="col-md-3 img-float-center" >
+		<a href="../../images/img-terms/litwiny/litvin_blr.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="літвіны-беларусы" src="../../images/img-terms/litwiny/litvin_blr_thumb.jpg" height="100" >
+		</br><small><i>"Polka z Litwy"</i></small>
+		</a>
+		</div>
+		
+		</div>
+		
+		<p>
+		Толькі ў XIX стагоддзі панятак "нацыя" зрушылася ад <a href="shliahta.php">арыстакратыі</a> да 
+		<a href="../download/kirkor.php">сялянаў</a> і мяшчанам. 
+		Пацешна, што, пры гэтым, арыстакратыю з панятку "нацыя" выкраслілі — так, <a href="../terms/shliahta.php">беларускую шляхту</a>
+		вынасілі ў "асобную этнаграфічную групу" мясцовага паходжання.
+		</p>
+		
+		<p>
+		Некалькі выняткаў з працы Імператарскага Рускага Геаграфічнага таварыства 
+		<a href="../download/russia_blr.php">"Расія. Поўнае геаграфічнае апісанне"</a>, 1905
+		</p>
+		
+	<div class="col-md-12">
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/blr_etnos/blr_etnos15ce.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="беларусы" src="../../images/img-terms/blr_etnos/blr_etnos15ce_thumb.jpg" height="100"/>
+			</br><small>"Пра беларускую народнасць", 1905</small>
+		</a>
+		</div>
+			
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/blr_etnos/blr_faceview.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="беларусы" src="../../images/img-terms/blr_etnos/blr_faceview_thumb.jpg" height="100"/>
+			</br><small>"Аблічча беларускага племені"</small>
+		</a>				
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/blr_etnos/blr_character.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="беларусы" src="../../images/img-terms/blr_etnos/blr_character_thumb.jpg" height="100"/>
+			</br><small>"Пра характар беларусаў"</small>
+		</a>				
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/shliahta/blr_shliahta1.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="беларусы" src="../../images/img-terms/shliahta/blr_shliahta1_thumb1.jpg" height="100">
+		</br><small>"Беларуская шляхта і панцырныя баяры"</small>
+		</a>				
 		</div>				
 	</div>
 		
+		<h3>XX-XXI ст</h3>
 		<p>
-		<a href="slavs.php">Славянство</a> возникло в результате длительного мирного взаимодействия конгломерата разных этносов: 
-		<a href="yotving.php">германских</a> (готских), <a href="lutizy.php">балтских</a> и иранских (скифо-сарматских) на определенной территории. 
-		В процессе такого взаимодействия выработался общий язык, сложились общие черты духовной и материальной культуры. 
-		Сходство языков, элементов духовной и материальной культуры — это и есть суть славянства.
-		</br>Соответственно, славянизация соседей происходила путем передачи языка, элементов духовной и, 
-		отчасти, материальной культуры по мере проникновения на их земли групп пришельцев.
-		</br> Как показали беларуские исследователи Алексей Дермант и Сергей Санько, на наших землях пришельцы селились в «градах», 
-		 которые сами же и строили. Оттуда новая культура (в форме языка, религии, ремесел, приемов военного дела и т. д.) 
-		 распространялась по окрестностям в процессе экономических взаимоотношений.
+		Край, што ляжыць на скрыжаванні еўрапейскіх шляхоў "з захада на ўсход" і "з вараг у грэкі", прыняў і пераплавіў мноства плямён 
+		— <a href="../articles/dnk.php">даследванні генетыкаў</a> РАМН РФ і НАН РБ паказалі высокую генетычную аднастайнасць беларускага этнасу.
+		</p>
+		<p>
+		Свой адбітак наклала <a href="../terms/religion_blr.php">стракатая рэлігійная палітра</a> на працяну стагоддзяў. Край - не глухі анклаў, "што захоўвае чысціню крыві". 
+		</p>
+		<p>
+		І не выпадкова "беларуская ідэя", праз стварэнне <a href="../terms/bnr.php">БНР</a>, якая не дазваліла Краю рассыціцца ў новай імперыі, 
+		выйшла з <a href="../terms/kraj_tut.php">тутэйшай краевасьці</a>.
+		</p>
+		
+		<p>
+		<i>
+			"Краёвасць не звязаная з ніводнай нацыянальнасцю. Краёўцам можа быць як тутэйшы паляк, так і літовец, беларус, нават габрэй, 
+			калі ён разумее і адчувае дязржаўныя традыцыі Вялікага Княства Літоўскага." 
+		</i>
+		</br><small>
+		<a target="_blank" href="../../images/img-terms/kraj_tut/Dryhwicz-Toloczka_O_krajowosci.pdf">
+		"O krajowosci"
+		</a>
+		 Toloczka (Dryhwicz) Wladyslaw, 1927</small>		
+		</p>
+		<p>
+		<i>
+			"Краёвая ідэя ўзыходзіць да гісторыі так далёка, наколькі даўно існавала Вялікае Княства Літоўскае. 
+			Рэальныя формы ёй надаў Вітаўт Вялікі, аб'яднаўшы ў адно цэлае Літву і Русь ды стварыўшы з 
+			іх асобны дзяржаўны арганізм паміж Польшчай і Масквой. 
+		</p>
+		<p>	
+			Гэтая ідэя свяціла на працягу стагоддзяў шматлікім выдатным асобам з вяльможных родаў Літвы: Гаштольдаў, 
+			<a href="../figures/radziwilly.php">Радзівілаў<a>, 
+			<a href="../figures/sapegi.php">Сапегаў</a>, <a href="../figures/pacy.php">Пацаў</a>, 
+			<a href="../figures/oginskie.php">Агінскіх</a>, у пэўныя моманты захоплівала таксама шляхецкія масы, 
+			а пасля заняпаду Рэчы Паспалітай знаходзіла прыхільнікаў і паслядоўнікаў у шэрагах дэмакратычных змагароў за свабоду. 
+			Гарачым і перакананым яе прыхільнікам быў "дыктатар Літвы" <a href="../figures/kalinowski.php">Канстанцін Каліноўскі</a>.".
+		</i>
+		</br><small>
+		<a target="_blank" href="../../images/img-terms/kraj_tut/Abramovich_Trzydziestolecie-ideologji-krajowej.pdf">
+		"Trzydziestolecie ideologji krajowej"
+		</a> Abramowicz Ludwik, 1936</small>		
 		</p>
 				
-		<p>
-			Названия «кривичи», «дреговичи», «ятвяги», «радимичи» обозначают территориальные культурно-этнические сообщества. 
-			Примерно за 1000 лет их сблизила между собой славянизация. 
-			Именно за этот тысячелетний период возникла традиционная беларуская ментальность, воплощенная в архетипах.
-		</p>
-	
+		
 	<div class="col-md-12">
 	
 		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-terms/slavs/baltic_tribes.jpg" class="highslide"
+		<a href="../../images/img-terms/religion_blr/1596-unia.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/slavs/baltic_tribes_thumb.jpg" height="100"/>
+		<img src="../../images/img-terms/religion_blr/1596-unia_thumb.jpg" height="100">
+		</br><small>рэлігіі Беларусі XVII ст</small> 	
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-terms/slavs/etno_slavs_7-9vek.jpg" class="highslide"
+		<div class=" col-md-3 img-float-center">
+		<a href="../../images/img-terms/bnr/BNR_Third_charter.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/slavs/etno_slavs_7-9vek_thumb.jpg" height="100"/>
+		<img alt="Беларуская Народная Рэспубліка БНР" src="../../images/img-terms/bnr/BNR_Third_charter_thumb.jpg" height="100">
+		</br><small>Статутная Грамата Рады (БНР)</small>
 		</a>
-		</div>		
-		
-			
+		</div>
+	
 		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-terms/slavs/blr_etnos.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/slavs/blr_etnos_thumb.jpg" height="100"/>
-		</a>
-		</div>	
-		
-		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-terms/slavs/map_Lotter_litwa_1778_etno.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/slavs/map_Lotter_litwa_1778_etno_thumb.jpg" height="100"/>
-		</a>
-		</div>	
-
-	</div>
-		
-		<p>
-			Беларуский народ сложился на основе территориальных культурно-этнических сообществ во времена <a href="wkl.php">Великого Княжества Литовского</a>.
-			
-		</p>
-		<p>
-			Некоторые исследователи (Г. В. Штыхов, М. А. Ткачёв) считают, что белорусский этнос существовал уже в <a  href="../times/13_vek.php">XIII</a> веке, 
-			а процесс формирования белорусской народности начался в <a  href="../times/16_vek.php">XVI</a> - <a  href="../times/17_vek.php">XVII</a>  веках. 
-			Археолог В. В. Седов считал, что белорусское этническое сообщество сложилось в <a  href="../times/13_vek.php">XIII</a> - <a  href="../times/14_vek.php">XIV</a> веках, 
-			М. Я. Гринблат - в период с <a  href="../times/14_vek.php">XIV</a> по <a  href="../times/16_vek.php">XVI</a> век.
-		</p>
-		
-		<p>	
-			Тогда же он принял эндоэтноним "<a href="litwiny.php">литвины</a>", который в XIX-XX вв. был заменен на "белорусы". 			
-		</p>
-
-	<div class="col-md-12">
-		<div class="col-md-6 img-float-center">
 		<a href="../../images/img-terms/blr_etnos/blr_ua.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/blr_etnos/blr_ua_thumb.jpg" height="100"/>
-			</br><small>Белорусы глазами соседей, 2015</small>
+		<img alt="беларусы" src="../../images/img-terms/blr_etnos/blr_ua_thumb.jpg" height="100"/>
+		</br><small>Беларусы вачымі суседзяў, 2015</small>
 		</a>
 		</div>
 		
-		<div class="col-md-6 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/blr_etnos/blr_info.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/blr_etnos/blr_info_thumb.jpg" height="100"/>
-			</br><small>Белорусы в ифографике 2008</small>
+			<img alt="беларусы" src="../../images/img-terms/blr_etnos/blr_info_thumb.jpg" height="100"/>
+			</br><small>Беларусы ў інфаграфіцы 2008</small>
 		</a>
-		</br><small>Больше инфографики <a href="#">тут</a></small>				
+		</br><small>Больш інфаграфікі <a target="_blank" href="http://udf.by/news/multi/99077-belorusy-kak-slavyanskie-nemcy-infografika.html">ТУТ</a></small>				
 		</div>		
 	</div>
-		
-		<p>					
-			<i>«Основным результатом действия комплекса социально-экономических, политических, этнических процессов ХIV-ХVI веков на Беларуси явилось сложение 
-			самостоятельной восточно-славянской этносоциальной общности — беларуской народности и ее основных этнических признаков — языка, культуры, самосознания.»
-			</i><small>Игорь Чаквин, Павел Терешкович</small>
+	
+		<p>
+		<i>
+		"Сапраўдны беларус — гэта не кроў, а база ведаў і каштоўнасцяў... 
+		адзінае, што мы можам дакладна сцвярджаць пра нацыяналіста, — гэта тое, што ён — чалавек, у жыцці ягога істотнымі кампанентамі з'яўляюцца
+		беларуская мова, культура, гісторыя і палітыка, і гэтыя кампаненты ён гатовы захоўваць і бараніць"
+		</i>
+		</br><small><a href="../articles/blr_nationalist.php">"Адкрыцці нацыяналіста"</a> С. Карпаў, 2014</small>
 		</p>
 		
+<!--Spoiler-->
+<!--http://forwebmaster.net/prostoy-spoyler-dlya-sayta-v-html/-->
+<div class="spoil">
+	
+	<p>
+	<div class="smallfont">
+	<h3>Славяне і балты</h3>
+	
+	<input type="button" class="btn btn-info btn-sm" value="Паказаць / Схаваць" class="input-button" 
+	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') 
+	{ this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; 
+	this.value = 'Схаваць'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; 
+	this.innerText = ''; this.value = 'Паказаць / Схаваць'; }">
+	</p>
+
+</div>
+
+<div class="alt2">
+<div style="display: none;">
+
+<div class="col-md-12 top-list">
+<!--It's just line-->
+</div>
+
+	<!-- ***blr_entire *** -->
+  	<? include ("../_include/include_SlavsBalts.php"); ?>
+
+
+<div class="col-md-12 top-list">
+<!--It's just line-->
+</div>    
+      
+</div>
+</div>
+</div>	
+<!--/Spoiler-->
+		
+		<h3>PS.</h3>
 		<p>
-		PS. Кстати, продвигаемый <a href="ross_empire.php">Россией</a> миф о "триедином русском народе" надоел не только "младшим братьям". 
-		</br>Для фино-угорского этноса этот миф столь же нелеп, как и для нас:
-		</br><i>"Славяне не ассимилировали финские племена. Это финно-угры адаптировались под новый язык и приняли часть византийской духовной культуры.
-		 Поэтому, у русских есть возможность выбора. Осознать свою укорененность на этой земле, разглядеть в предках не только и не столько славян, 
-		 ощутить, что культура русского народа базируется на финно-угорской основе."
+			Гісторык Леанід Аляксееў у кнізе «Полацкая зямля ў IX - ХІІІ ст.» (1966 г.) адзначыў:
+			<i>
+			</br>"Сучасныя дадзеныя археалогіі і тапанімікі паказваюць, што ў эпоху ранняга жалеза Усходнюю Еўропу нясялілі тры буйныя групы плямён:
+			</br>— першая, іранамоўная, займала Крымскі паўвостраў, Кубань, Ніжні Дон, Ніжняе Дняпро і даходзіла на поўначы да водападзелу Сойма, Дзясны і Акі.
+			</br>— другая, фінамоўная, ахапляла ўсё Верхняе Паволжа, басейн Сярэдняй і Ніжняй Акі, на захадзе даходзіла да вострава Эзель…
+			</br>— трэцяя, балтамоўная, ахапляла ўсё Верхняя Падняпроўе, улучаючы верхнюю Аку і сыходзіла на захад у Прыбалтыку».
+			</i>
+		</p>
+		<p>
+			<i>
+			Гэтыя тры розныя этнічныя групы, адпаведна, з'яўляліся продкамі сучасных украінцаў, рускіх і беларусаў. 
+			Пры пераходзе на славянскую мову яны захавалі сваю антрапалогію, генафонд і старажытныя традыцыі."
+			</i>
+		</p>
+		<p>
+		Дарэчы, прасоўваны <a href="ross_empire.php">Расіяй</a> міф пра "трыадзіны рускі народ" надакучыў не толькі "малодшым братам". 
+		</p>
+		<p>
+		Для фіна-угорскага этнасу гэты міф гэтак ж недарэчны, як і для нас:
+		</br><i>"Славяне не асімілявалі фінскія плямёны. Гэты фіна-угры адаптаваліся пад новую мову і прынялі частку візантыйскай духоўнай культуры.
+		 Таму, у рускіх ёсць магчымасць выбару. Усвядоміць сваю ўкарэненасць на гэтай зямле, разглядзець у продках не толькі і не гэтулькі славянаў, 
+		 адчуць, што культура рускага народа грунтуецца на фіна-угорскай аснове."
 		</i>
-		</br><small><a target="_blank" href="http://www.kominarod.ru/gazeta/papers/paper_1671.html">kominarod.ru</a> (независимый финно-угорский портал)</small>
+		</br><small><a target="_blank" href="http://www.kominarod.ru/gazeta/papers/paper_1671.html">kominarod.ru</a> (незалежны фіна-угорскі партал)</small>
 		</p>
 
 		
 		
 		</br></br></br>
 		<p><small>
-		<a target="_blank" href="http://erzan.ru/node/307?kalend=12.2013">Генофонд белорусов</a>
+		<a target="_blank" href="http://erzan.ru/node/307?kalend=12.2013">Генафонд беларусаў</a>
 		http://udf.by/news/multi/99077-belorusy-kak-slavyanskie-nemcy-infografika.html</br>
-		<a target="_blank" href="http://coollib.com/b/277966/read"> Краткий курс истории Беларуси IX-XXI веков</a></br>
+		<a target="_blank" href="http://coollib.com/b/277966/read"> Кароткі курс гісторыі Беларусі IX-XXI стагоддзяў</a></br>
 		http://hvylya.net/analytics/geopolitics/chto-ukraine-delat-s-belarusyu-i-lukashenko.html</br>
 		be-x-old.wikipedia.org</br>
 		be.wikipedia.org</br>

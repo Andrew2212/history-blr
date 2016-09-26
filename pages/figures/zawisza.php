@@ -4,7 +4,7 @@
   <head>
   
 <!-- ***Title*** -->
- 	<title>Завиши. История Беларуси</title>
+ 	<title>Завиши, старосты Минские</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Завиши — старосты и воеводы минские. 
@@ -31,22 +31,25 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Завиши, шляхетский род
-		</br><small>старосты минские</small></h3>
+		<h1>Завиши, шляхетский род
+		</br><small>старосты и воеводы минские</small>
+		</h1>
 		
 	<div class="col-md-12">
 	
 		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-figures/zawisza/Andrej_Kazimier_Zawisza.jpg">
-		<img src="../../images/img-figures/zawisza/Andrej_Kazimier_Zawisza_thumb.jpg" height="160">
+		<a href="../../images/img-figures/zawisza/Andrej_Kazimier_Zawisza.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-figures/zawisza/Andrej_Kazimier_Zawisza_thumb.jpg" height="140">
 		</br><small>Анджей Казимир Завиша</small>
 		</a>
 		</p>
 		
 		<p class="img-float-right">
-		<a target="_blank" href="../../images/img-figures/zawisza/gerb.jpg">
-		<img src="../../images/img-figures/zawisza/gerb.jpg" height="160">
-		</br><small>Герб Завишей "Лебедь"</small>
+		<a href="../../images/img-figures/zawisza/gerb.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-figures/zawisza/gerb.jpg" height="140">
+		</br><small>Герб "Лебедь"</small>
 		</a>
 		</p>
 		
@@ -79,31 +82,35 @@
 		<div class="col-md-12" >
 		
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-figures/zawisza/bernar_church_st_Joseph.jpg">
-		<img alt="Минск, Завиши" src="../../images/img-figures/zawisza/bernar_church_st_Joseph_thumb.jpg" height="120">
+		<a href="../../images/img-figures/zawisza/bernar_church_st_Joseph.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Минск, Завиши" src="../../images/img-figures/zawisza/bernar_church_st_Joseph_thumb.jpg" height="100">
 		</br><small>Бернардинский костел св. Иосифа</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-figures/zawisza/sobor_st_Roha.jpg">
-		<img src="../../images/img-figures/zawisza/sobor_st_Roha_thumb.jpg" height="120">
+		<a href="../../images/img-figures/zawisza/sobor_st_Roha.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-figures/zawisza/sobor_st_Roha_thumb.jpg" height="100">
 		</br><small>Монастырь бернардинок,
 		</br>ныне главный храм экзархата РПЦ</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-figures/zawisza/Minsk_cathedral.jpg">
-		<img alt="Минск, Завиши" src="../../images/img-figures/zawisza/Minsk_cathedral_thumb.jpg" height="120">
+		<a href="../../images/img-figures/zawisza/Minsk_cathedral.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Минск, Завиши" src="../../images/img-figures/zawisza/Minsk_cathedral_thumb.jpg" height="100">
 		</br><small>Костел иезуитов,
 		</br>ныне кафедральный собор Пресвятой Девы Марии</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-figures/zawisza/basilian_church.jpg">
-		<img alt="Минск, Завиши" src="../../images/img-figures/zawisza/basilian_church_thumb.jpg" height="120">
+		<a href="../../images/img-figures/zawisza/basilian_church.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Минск, Завиши" src="../../images/img-figures/zawisza/basilian_church_thumb.jpg" height="100">
 		</br><small>Базилианский монастырь.
 		</br>Церковь св. Духа</small>	
 		</a>
@@ -112,16 +119,16 @@
 		</div>
 		
 		<p>
-		Кшиштоф Завиша (1577-1670) — ловчий великий литовский (1629-37), писарь великий литовский (1637-49), маршалок надворный литовский (1649-54) 
+		Кшиштоф Завиша (1578 - 23.01.1670) — ловчий великий литовский (1629-37), писарь великий литовский (1637-49), маршалок надворный литовский (1649-54) 
 		и маршалок великий литовский (1654-69), каштелян виленский (1669-70), староста минский и браславский.
 		</br>Автор "<a href="../download/carolomachia.php">Караломахии</a>" — эпоса в честь Кароля <a href="hodkewich.php">Ходкевича</a>
 		</p>
 		
 		<p>
-		Анджей Казимир Завиша (1614-1678) — писарь великий литовский (1650-78). Староста минский, чечерский и слонимский.
+		Анджей Казимир Завиша (1614 - 1678) — писарь великий литовский (1650-78). Староста минский, чечерский и слонимский.
 		</p>
 		<p>		
-		Кшиштоф Станислав Завиша (1660 -1721) — воевода минский (1720-21). Староста минский и  чечерский.
+		Кшиштоф Станислав Завиша (1660 - 15.08.1721) — воевода минский (1720-21). Староста минский и  чечерский.
 		</br>Основной фундатор часовни Святого Фелициана в Архикафедральном соборе Святого Имени Пресвятой Девы Марии при иезуитском коллегиуме в Минске 
 		("костёл иезуитов", пл. Свободы 9). Он лично привез из Италии мощи святого Фелициана для специальной часовни собора, в которой же и сам впоследствии был похоронен. 
 		</p>
@@ -134,16 +141,18 @@
 		<div class="col-md-12" >
 		
 		<div class="col-md-6 img-float-center">
-		<a target="_blank" href="../../images/img-figures/zawisza/1800_Minsk.jpg">
-		<img src="../../images/img-figures/zawisza/1800_Minsk_thumb.jpg" height="120">
+		<a href="../../images/img-figures/zawisza/1800_Minsk.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-figures/zawisza/1800_Minsk_thumb.jpg" height="100">
 		</br><small>Менск, Высокі Рынак, 
 		</br>J. Pieska, 1800</small>
 		</a>
 		</div>		
 		
 		<div class="col-md-6 img-float-center">
-		<a target="_blank" href="../../images/img-figures/zawisza/carolomachia.jpg">
-		<img alt="Минск, Завиши" src="../../images/img-figures/zawisza/carolomachia_thumb.jpg" height="120">
+		<a href="../../images/img-figures/zawisza/carolomachia.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Минск, Завиши" src="../../images/img-figures/zawisza/carolomachia_thumb.jpg" height="100">
 		</br><small>Кароломахия</small>	
 		</a>
 		</div>

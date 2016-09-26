@@ -36,7 +36,10 @@
     <? include ("../_include/top_list_terms.php"); ?>
     
 		<h1>Крылатые гусары ВКЛ</h1>
-		
+		<p><i>
+		"Нават калі рухне неба, то падтрымаем яго сваімі пікамі"
+		</i>
+		</p>
 		<p class="img-float-left">
 		<a href="../../images/img-terms/husaria/mir_castle_husaria.jpg" class="highslide"
         onclick="return hs.expand(this)">

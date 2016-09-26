@@ -174,6 +174,15 @@
 		</i></small>
         </li>
         </br>
+        </br>
+        <li>
+          <a href="taler_blr.php">Беларуский талер с Погоней</a>
+		</br><small><i>
+          "####################################
+		  "
+		</i></small>
+        </li>
+        </br>
 		<li>
           <a href="#" class="item-unable">Нация — элита vs крестьяство</a>
         </li>

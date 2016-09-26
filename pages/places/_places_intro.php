@@ -4,7 +4,7 @@
   <head>
   
 <!-- ***Title*** -->
- 	<title>Топонимика. История Беларуси</title>
+ 	<title>Топонимика Беларуси</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="

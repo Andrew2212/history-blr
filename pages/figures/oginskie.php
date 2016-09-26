@@ -4,7 +4,7 @@
   <head>
      
 <!-- ***Title*** -->
- 	<title>Огинские, магнатский род. История Беларуси</title>
+ 	<title>Огинские, магнатский род.</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Magnacki rod ksiazecy pochodzenia ruskiego. Великие канцлеры, гетманы, маршалки, поэты и повстанцы.
@@ -30,7 +30,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Огинские, магнатский род</h3>
+		<h1>Огинские, магнатский род</h1>
 
 	<div class="col-md-12">
 		<p>
@@ -92,8 +92,9 @@
 			</br>Инициатор строительства <a href="../places/oginski_channel.php">Огинского канала</a> — обновления <a href="../figures/torwald.php">пути из варяг в греки</a>.
 		</p>
 		<p>
-			Михаил Клеофас Огинский(1765- 1833) — композитор, дипломат, политический деятель Речи Посполитой, 
-			один из лидеров <a href="../events/uprising_1794.php">восстания Костюшко</a>, почетный член Виленского университета, автор знаменитого "Полонеза Огинского".
+			Михаил Клеофас Огинский (1765- 1833) — композитор, дипломат, политический деятель Речи Посполитой, 
+			один из лидеров <a href="../events/uprising_1794.php">восстания Костюшко</a>, почетный член Виленского университета, 
+			автор знаменитого "Полонеза Огинского", сторонник возрождения ВКЛ.
 		</p>
 		
 		<div class="col-md-12" >
@@ -101,7 +102,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-figures/oginskie/zalesie.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Огинские, магнатский род" src="../../images/img-figures/oginskie/zalesie_thumb.jpg" height="120">
+		<img alt="Огинские, магнатский род" src="../../images/img-figures/oginskie/zalesie_thumb.jpg" height="100">
 		</br><small>Усадьба Огинских, Залесье
 		</br>рис. Наполеона Орды</small> 	
 		</a>
@@ -110,7 +111,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-figures/oginskie/stoun.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Огинские, магнатский род" src="../../images/img-figures/oginskie/stoun_thumb.jpg" height="120">
+		<img alt="Огинские, магнатский род" src="../../images/img-figures/oginskie/stoun_thumb.jpg" height="100">
 		</br><small>Усадьба Огинских, Залесье</small> 	
 		</a>
 		</div>
@@ -118,7 +119,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-figures/oginskie/rb_monet.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Огинские, магнатский род" src="../../images/img-figures/oginskie/rb_monet_thumb.jpg" height="120">
+		<img alt="Огинские, магнатский род" src="../../images/img-figures/oginskie/rb_monet_thumb.jpg" height="100">
 		</br><small>Памятная золотая монета, 
 		</br>РБ</small> 	
 		</a>
@@ -127,12 +128,21 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-figures/oginskie/kanal_oginski.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Огинские, магнатский род" src="../../images/img-figures/oginskie/kanal_oginski_thumb.jpg" height="120">
+		<img alt="Огинские, магнатский род" src="../../images/img-figures/oginskie/kanal_oginski_thumb.jpg" height="100">
 		</br><small>Огинский канал</small> 	
 		</a>
 		</div>
 		
-		</div>		
+		</div>
+		
+		<p class="img-float-center">
+		<a href="../../images/img-events/war_1812/oginsky.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Война 1812 года, Беларусь" src="../../images/img-events/war_1812/oginsky_thumb.jpg" height="100"> 
+		</br><small>О возрождении ВКЛ,
+		</br>М. Огинский к Александру I </small>	
+		</a>
+		</p>		
 		
 		</br></br></br>
 		<p><small>

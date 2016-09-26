@@ -4,10 +4,10 @@
   <head>
     
 <!-- ***Title*** -->
- 	<title>Калиновский. История Беларуси</title>
+ 	<title>Кастусь (Винцент Константин) Калиновский</title>
 
 <!-- ***Meta*** -->
-	<meta name="description" content="Нямаш, браткі, большага шчасця на гэтым свеце, як калі чалавек у галаве мае розум і науку.
+	<meta name="description" content="Нямаш, браткі, большага шчасця на гэтым свеце, як калі чалавек у галаве мае розум і навуку.
 	" />
   	<meta name="keywords" itemprop="keywords" content="Калиновский,
 	  история беларуси, история белоруссии, история беларуси кратко в датах, известные люди беларуси, знаменитые люди беларуси"/>
@@ -30,7 +30,8 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h2>Кастусь (Винцент Константин) Калиновский</h2>
+		<h1>Кастусь (Винцент Константин) Калиновский</h1>
+		
 		<p class="img-float-left">
 		<a href="../../images/img-events/uprising_1863/Kostus_Kalinowski.jpg" class="highslide"
         onclick="return hs.expand(this)">

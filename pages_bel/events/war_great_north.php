@@ -1,14 +1,14 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="be">
   <head>
   <!-- ***Title*** -->
-    <title>Великая Северная война. История Беларуси</title>
+    <title>Вялікая Паўночная вайна</title>
 <!-- ***Meta*** -->  
-    <meta name="description" content="20 лет Северной войны для ВКЛ — анархия внутри и агрессия снаружи
+    <meta name="description" content="20 гадоў Паўночнай вайны для ВКЛ — анархія ўнутры і агрэсія звонку
 	" />
-	<meta name="keywords" itemprop="keywords" content="Великая Сверная война, 
-	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
+	<meta name="keywords" itemprop="keywords" content="Вялікая Паўночная вайна, 
+	гісторыя Беларусі коратка ў датах, асноўныя падзеі ў гісторыі Беларусі, гісторыя ВКЛ, ВКЛ, гісторыя Беларусі, Кароткая гісторыя Беларусі, Гісторыя Беларусі коратка" />
 	<meta property="og:image" content="http://history-belarus.by/images/img-events/war_great_north/title.jpg" />
 
 <!-- ***Include Header*** -->
@@ -28,53 +28,53 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h2>Великая Северная война 1700-1721</h2>
+		<h1>1700-1721 Вялікая Паўночная вайна</h1>
 
 		<p class="img-float-left">
 		<a href="../../images/img-download/map_sweden/war_1700-21.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Великая Северная война 1700-1721" src="../../images/img-download/map_sweden/war_1700-21_thumb.jpg" height="160">
-		</br><small>Великая Северная война</small>
+		<img alt="Вялікая Паўночная вайна 1700-1721" src="../../images/img-download/map_sweden/war_1700-21_thumb.jpg" height="160">
+		</br><small>Вялікая Паўночная вайна</small>
 		</a>
 		</p>
 		
 		<p class="img-float-right">
 		<a href="../../images/img-download/map_sweden/1662_Livonia_Joan_Blaeu.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Великая Северная война 1700-1721" src="../../images/img-download/map_sweden/1662_Livonia_Joan_Blaeu_thumb.jpg" height="160">
-		</br><small>Livonia, Джон Блау 1662</small>
+		<img alt="Вялікая Паўночная вайна 1700-1721" src="../../images/img-download/map_sweden/1662_Livonia_Joan_Blaeu_thumb.jpg" height="160">
+		</br><small>Livonia, Джон Блаў 1662</small>
 		</a>
 		</p>
 
 		<p>
-		Северная война (Великая Северная война, Двадцатилетняя война) — война, длившаяся с 1700 по 1721 год между Шведской империей под руководством Карла XII  
-		и коалицией северо-европейских государств за обладание прибалтийскими землями. 
+		Паўночная вайна (Вялікая Паўночная вайна, Дваццацігадовая вайна) — вайна, якая доўжылася з 1700 па 1721 год паміж Шведскай імперыяй пад кіраўніцтвам Карла XII  
+		і кааліцыяй паўночна-еўрапейскіх дзяржаў за ўладанне прыбалтыйскімі землямі. 
 		</p>
 		<p>
-		Первоначально войну Швеции объявил Северный союз, созданный по инициативе курфюрста Саксонии и короля польского 
-		<a href="../terms/dukes_wkl.php">Августа II</a>. 
-		В Северный союз вошли также Датско-норвежское королевство, возглавляемое королём Кристианом V, и Россия, возглавляемая Петром I. 
+		Першапачаткова вайну Швецыі абвясціў Паўночны звяз, створаны па ініцыятыве курфюрста Саксоніі і караля польскага 
+		<a href="../terms/dukes_wkl.php">Аўгуста II</a>. 
+		У Паўночны звяз увайшлі таксама Дацка-нарвежскае каралеўства, на чале з каралём Крысціянам V, і Расія, на чале з Пятром I. 
 		</p>
 		<p>
-		И <a href="../terms/rzeczpospolita.php">Речь Посполитая</a> в целом, и <a href="../terms/wkl.php">Великое княжество Литовское</a>
-		 к моменту вступления в войну переживали кризис государственности. 
-		В ВКЛ шла <a href="../events/war_civil_1696.php">Гражданская война</a> между <a href="../figures/sapegi.php">Сапегами</a> и магнатской конфедерацией. 
-		Между королем и магнатами велась постоянная борьба, 
-		в 1715-16 годах вылившаяся в <a href="../events/confederacyi_18vek.php">Тарногородскую и Виленскую</a> конфедерации шляхты. 
+		І <a href="../terms/rzeczpospolita.php">Рэч Паспалітая</a> ў цэлым, і <a href="../terms/wkl.php">Вялікае княства Літоўскае</a>
+		 да моманту ўступу ў вайну перажывалі крызіс дзяржаўнасці. 
+		У ВКЛ ішла <a href="../events/war_civil_1696.php">Грамадзянская вайна</a> паміж <a href="../figures/sapegi.php">Сапегамі</a> і магнацкай канфедэрацыяй. 
+		Паміж каралём і магнатамі вялося сталае змаганне, 
+		якое ў 1715-16 гадах вылілася ў <a href="../events/confederacyi_18vek.php">Тарнаградскую і Віленскую</a> канфедэрацыі шляхты. 
 		</p>
 		<p>
-		Польско-литвинская <a href="../terms/shliahta.php">шляхта</a> разделилась на пророссийскую и прошведскую партии. Ставленник шведов <a href="../terms/dukes_wkl.php">Станислав Лещинский</a>
-		 занимал трон с 1704 по 1709 год, но победа русской армии под Полтавой заставила Речь Посполитую вернуться к союзу 
-		с царем Петром I и низложенным Августом II «Сильным».
+		Польска-літвінская <a href="../terms/shliahta.php">шляхта</a> падзяліліся на прарасійскую і прашведскую партыі. Стаўленнік шведаў <a href="../terms/dukes_wkl.php">Станіслаў Ляшчынскі</a>
+		 займаў трон з 1704 па 1709 год, але перамога рускай арміі пад Палтавай прымусіла Рэч Паспалітую вярнуцца да звязу 
+		з царом Пятром I і зрынутым Аўгустам II «Моцным».
 		</p>
 		<p>
-		В силу множества нерешенных внутренних проблем и конфликтов, Речь Посполитая и ВКЛ стали ареной борьбы двух иноземных армий. 
+		З-за мноства нявырашаных унутраных праблемаў і канфліктаў, Рэч Паспалітая і ВКЛ сталі арэнай змагання двух іншаземных войскаў. 
 		</p>
 		<p>
-		<i>"То, что произошло с Речью Посполитой, в том числе с Великим Княжеством Литовским в период Северной войны, не укладывается 
-		в обычный ход исторических процессов. Огромное государство потерпело демографическую 
-		и экономическую катастрофу только потому, что занявший трон саксонский курфюрст Август втянул его в конфликт, 
-		преследовавший интересы совсем иного государства — Саксонии."</i> <small><a target="_blank" href="http://coollib.com/b/277966/read">А. Тарас</a></small>
+		<i>"Тое, што адбылося з Рэччу Паспалітай, у тым ліку з Вялікім Княствам Літоўскім у перыяд Паўночнай вайны, не ўкладваецца 
+		ў звычайны ход гістарычных працэсаў. Вялізарная дзяржава патрывала дэмаграфічную 
+		і эканамічную катастрофу толькі таму, што саконскі курфюрст Аўгуст, які займаў трон, уцягнуў дзяржаву ў канфлікт, што
+		пераследваў інтарэсы зусім іншай дзяржавы — Саксоніі."</i> <small><a target="_blank" href="http://coollib.com/b/277966/read">А. Тарас</a></small>
 		</p>
 		
 		<div class="col-md-12" >
@@ -82,23 +82,23 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/war_great_north/August_II_the_Strong.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Великая Северная война 1700-1721" src="../../images/img-events/war_great_north/August_II_the_Strong_thumb.jpg" height="120">
-		</br><small>Август II Сильный</small> 	
+		<img alt="Вялікая Паўночная вайна 1700-1721" src="../../images/img-events/war_great_north/August_II_the_Strong_thumb.jpg" height="120">
+		</br><small>Аўгуст II Моцны</small> 	
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/war_great_north/Peter_I.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Великая Северная война 1700-1721" src="../../images/img-events/war_great_north/Peter_I_thumb.jpg" height="120">
-		</br><small>Петр I</small> 	
+		<img alt="Вялікая Паўночная вайна 1700-1721" src="../../images/img-events/war_great_north/Peter_I_thumb.jpg" height="120">
+		</br><small>Пётр I</small> 	
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/war_great_north/Karl_XII_of_Sweden.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Великая Северная война 1700-1721" src="../../images/img-events/war_great_north/Karl_XII_of_Sweden_thumb.jpg" height="120">
+		<img alt="Вялікая Паўночная вайна 1700-1721" src="../../images/img-events/war_great_north/Karl_XII_of_Sweden_thumb.jpg" height="120">
 		</br><small>Карл XII</small> 	
 		</a>
 		</div>
@@ -106,24 +106,24 @@
 		</div>
 		
 		<p>
-		В период Северной войны земли ВКЛ разоряли реквизиции, грабежи и боевые действия войск и Швеции, и России.
-		</br>От шведов наиболее пострадали Вильня, Клецк, Ляховичи, Минск, Мир, Несвиж, Новогрудок, Пинск, Радошковичи, Слоним, Сморгонь, Шклов.
-		</br>От русских — Бешенковичи, Борисов, Брест, Витебск, Гомель, Горки, Гродно, Дисна, Дубровна, Логойск, Могилёв, Мстиславль, Орша, Полоцк, Слуцк, Чашники.
+		У перыяд Паўночнай вайны землі ВКЛ руйнавалі рэквізіцыі, рабаванні і баявыя дзеянні войскаў і Швецыі і Расіі.
+		</br>Ад шведаў найбольш пацярпелі Вільня, Клецк, Ляхавічы, Мінск, Мір, Нясвіж, Наваградак, Пінск, Радашковічы, Слонім, Смаргонь, Шкоў.
+		</br>Ад рускіх — Бешанковічы, Барысаў, Бярэсце, Віцебск, Гомель, Горкі, Гародня, Дзісна, Дуброўна, Лагойск, Магілёў, Амсціслаў, Орша, Полацк, Слуцк, Чашнікі.
 		</p>
 		<p>
-		Окончательный погром Могилева (по числу жителей и их богатству на втором месте в ВКЛ после Вильни) в 
-		<a href="../download/kirkor.php">«Живописной России»</a> описан так:
-		</br><i>«Петр I заметил зажиточность жителей Могилева и, опасаясь, чтоб Карл XII не избрал его пунктом опоры в военных 
-		движениях, повелел двум полкам — калмыцкому и «татарскому» сжечь город. И это ужасное повеление 8 сентября 
-		1708 года в точности было исполнено. Весь город был обращен в развалины и пепелище».
+		Даканцовы пагром Магілёва (па колькасці жыхароў і іх багацці на другім месцы ў ВКЛ пасля Вільні) у 
+		<a href="../download/kirkor.php">«Маляўнічай Расіі»</a> апісаны так:
+		</br><i>«Пётр I заўважыў заможнасць жыхароў Магілёва і асцерагаючыся, каб Карл XII не абраў яго пунктам апоры ў вайсковых 
+		рухах, загадаў двум палкам — калмыцкаму і «татарскаму» спаліць горад. І гэты жудасны наказ 8 верасня 
+		1708 года ў дакладнасці быў выкананы. Увесь горад быў ператвораны ў разваліны і папялішча».
 		</i>
 		</p>
 		<p>
-		11 июля 1705 года русскими войсками Петра I был закрыт Полоцкий Софийский собор и убиты его служители.
+		11 ліпеня 1705 года рускімі войскамі Пятра I быў зачынены Полацкі Сафійскі сабор і забіты яго служэбнікі.
 		</br><i>"Roku 1705. Car przyplynol do Lukiszek y czwartym dniem poplynol do Polocka. Eodem anno, mense Iulli 11 die in ecclesia 
 		S. Sofiae ipse occidit 4 basilianos in Polocia y wsadzil w Polocku komendanta. Iak to bylo, tak y ja przepisalem tu."</i>
-		 <small> <a target="_blank" href="http://litopys.org.ua/sborlet/sborlet07.htm"> Витебская ЛЂтопись</a></small>
-		</br>1 мая 1710 года <a href="../places/sophia_sobor.php">Софийский собор</a> был взорван уходящей русской армией.
+		 <small> <a target="_blank" href="http://litopys.org.ua/sborlet/sborlet07.htm"> Віцебскі летапіс</a></small>
+		</br>1 тарўня 1710 года <a href="../places/sophia_sobor.php">Сафійскі сабор</a> быў узарваны адыходзячым рускім войскам.
 		</p>
 		
 		<div class="col-md-12" >
@@ -131,23 +131,23 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/war_great_north/war_timeline.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Великая Северная война 1700-1721" src="../../images/img-events/war_great_north/war_timeline_thumb.jpg" height="120">
-		</br><small>Участники Северной войны</small> 	
+		<img alt="Вялікая Паўночная вайна 1700-1721" src="../../images/img-events/war_great_north/war_timeline_thumb.jpg" height="120">
+		</br><small>Удзельнікі Паўночнай вайны</small> 	
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/war_great_north//kirkor_mohilew.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Великая Северная война 1700-1721" src="../../images/img-events/war_great_north//kirkor_mohilew_thumb.jpg" height="120">
-		</br><small>Погром Могилева</small>
+		<img alt="Вялікая Паўночная вайна 1700-1721" src="../../images/img-events/war_great_north//kirkor_mohilew_thumb.jpg" height="120">
+		</br><small>Пагром Магілёва</small>
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/war_great_north//belarus-u-gady-paunochnaj-vajny-1700-21.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Великая Северная война 1700-1721" src="../../images/img-events/war_great_north//belarus-u-gady-paunochnaj-vajny-1700-21_thumb.jpg" height="120">
+		<img alt="Вялікая Паўночная вайна 1700-1721" src="../../images/img-events/war_great_north//belarus-u-gady-paunochnaj-vajny-1700-21_thumb.jpg" height="120">
 		</br><small>Беларусь 1700-1721</small>
 		</a>
 		</div>		
@@ -155,7 +155,7 @@
 		</div>
 		
 		<p>
-		По итогам войны Швеция утратила своё былое могущество, Россия получила выход к Балтийскому морю. ВКЛ и Речь Посполитая попадают под протекторат России.
+		Па выніках вайны Швецыя страціла сваю былую магутнасць, Расія атрымала выйсце да Балтыйскага мора. ВКЛ і Рэч Паспалітая трапляюць пад пратэктарат Расіі.
 		</p>
 		
 		

@@ -4,7 +4,7 @@
   <head>
     
 <!-- ***Title*** -->
- 	<title>Кезгайло. История Беларуси</title>
+ 	<title>Кезгайло</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Кезгайлы герба Задора были одним из богатейших магнатских родов ВКЛ. Происходили из Вилькомирского повета. 
@@ -31,8 +31,9 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Кезгайлы, магнатский род
-		</br><small>старосты жемайтские</small></h3>
+		<h1>Кезгайлы, магнатский род
+		</br><small>старосты жемайтские</small>
+		</h1>
 		
 		<p class="img-float-left">
 			<img src="../../images/img-figures/kesgajla/zadora.jpg" height="160" >
@@ -74,22 +75,45 @@
 		 (Вилькомир — земля вильцов, Вилькостан). Ниже приведен фрагмент <a href="../download/wkl_equal_etno.php">карты Лоттера</a> 1770 года и 
 		 цитата из академического труда <a href="../download/shafarik.php">Й. Шафарика</a> 1847 года.
 		</p>
+		<p>
+		1837 <a href="../download/deutschen_und_dachbarstamme.php">"Die Deutschen und die Nachbarstamme"</a> Йон Каспер Цойсса 
+		— источник часто встречающихся в сети цитат о <a href="../terms/yotving.php">Пруссах</a>, 
+		<a href="../terms/yotving.php">Ятвягах</a>, <a href="../terms/yotving.php">Венедах</a>, 
+		<a href="../terms/lutizy.php">Вильцах-Лютичах</a>. 
+		Обобщая труды немецких и польских хронистов, он подробно описывает расселение и этимологии названий народов.
+		</p>
 		
 	<div class="col-md-12" >
 		
-		<div class="col-md-6 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-figures/kesgajla/map_Lotter_litwa_1770.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Вилькомир на реке Святая" src="../../images/img-figures/kesgajla/map_Lotter_litwa_1770_thumb.jpg" height="120">
+		<img alt="Вилькомир на реке Святая" src="../../images/img-figures/kesgajla/map_Lotter_litwa_1770_thumb.jpg" height="100">
 		</br><small>Вилькомир на реке Святая
 		</br>карта ВКЛ 1770 г.</small>	
 		</a>
 		</div>
 		
-		<div class="col-md-6 img-float-center">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-download/deutschen_und_dachbarstamme/Litwani_Zeufs.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Litwini" src="../../images/img-download/deutschen_und_dachbarstamme/Litwani_Zeufs_thumb.jpg" height="100"/>
+		</br><small>Litwani</small>
+		</a>				
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-download/map_wkl/matrica_28.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Карты ВКЛ" src="../../images/img-download/map_wkl/matrica_28_thumb.jpg" height="100" >
+			</br><small>Бояре и подданные земли Жомойтской</small>
+			</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-figures/kesgajla/velety.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Вилькомир на реке Святая" src="../../images/img-figures/kesgajla/velety_thumb.jpg" height="120">
+		<img alt="Вилькомир на реке Святая" src="../../images/img-figures/kesgajla/velety_thumb.jpg" height="100">
 		</br><small>Velety z krajiny Vilenske
 		</br>Й. Шафарик 1847</small>	
 		</a>

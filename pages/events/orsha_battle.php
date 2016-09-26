@@ -46,7 +46,8 @@
 		<a href="../../images/img-events/wars_1487-1537/wkl_15ce.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Война с Московией 1512-1522" src="../../images/img-events/wars_1487-1537/wkl_15ce_thumb.jpg" height="120"> 
-		</br><small>ВКЛ 1487-1537 </small>
+		</br><small>Войны 1487-1537 </small>
+		</a>
 		</p>
 		
 		<p>
@@ -89,10 +90,10 @@
 		<div class="col-md-12">
 		
 		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-events/wars_1487-1537/wkl_15ce.jpg" class="highslide"
+		<a href="../../images/img-events/war_1512/war_1512-22.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Война с Московией 1512-1522" src="../../images/img-events/wars_1487-1537/wkl_15ce_thumb.jpg" height="100"> 
-		</br><small>Войны 1487-1537 </small>
+		<img alt="Война с Московией 1512-1522" src="../../images/img-events/war_1512/war_1512-22_thumb.jpg" height="100"> 
+		</br><small>Война 1512-1522 </small>
 		</a>
 		</div>
 		

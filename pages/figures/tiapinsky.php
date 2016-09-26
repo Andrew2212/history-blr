@@ -4,14 +4,11 @@
   <head>
    
 <!-- ***Title*** -->
- 	<title>Василий Тяпинский. История Беларуси</title>
+ 	<title>Василий Тяпинский</title>
 
 <!-- ***Meta*** -->
-	<meta name="description" content="Василий Тяпинский.
-	Выдающиеся люди в истории Беларуси. Эти люди рождались, жили, творили, сражались и умирали на этой земле и за эту землю. 
-	Они достойны того, чтобы их помнили. Среди них были воины и поэты, художники и скульпторы, ученые и путешественники, 
-	авантюристы и интеллектуалы-романтики, первый Президент Гавайев и основоположник ракетостроения, первый исследователь древнего Вавилона и 
-	святой апостол церковного единения.
+	<meta name="description" content="Василий Тяпинский (1530-1600) — гуманист-просветитель и еретик, писатель, книгопечатник и переводчик, 
+	шляхтич господарского полоцкого повета.
 	" />
   	<meta name="keywords" itemprop="keywords" content="Василий Тяпинский, 
 	  история беларуси, история белоруссии, история беларуси кратко в датах, известные люди беларуси, знаменитые люди беларуси"/>
@@ -34,19 +31,21 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Василий Тяпинский 
-		</br><small>гуманист и еретик</small></h3>
+		<h1>Василий Тяпинский 
+		</br><small>гуманист и еретик</small></h1>
 		
 		<p class="img-float-left">
-			<a target="_blank" href="../../images/img-figures/tiapinsky/Vasil_Tiapinskiy.jpg">
-			<img src="../../images/img-figures/tiapinsky/Vasil_Tiapinskiy.jpg" height="160" >
+			<a href="../../images/img-figures/tiapinsky/Vasil_Tiapinskiy.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/tiapinsky/Vasil_Tiapinskiy.jpg" height="140" >
 			</br><small>В. Тяпинский</small>
 			</a>
 		</p>
 		
 		<p class="img-float-right">
-			<a target="_blank" href="../../images/img-figures/tiapinsky/tiapino.jpg">
-			<img src="../../images/img-figures/tiapinsky/tiapino.jpg" height="160" >
+			<a href="../../images/img-figures/tiapinsky/tiapino.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/tiapinsky/tiapino.jpg" height="140" >
 			</br><small>Тяпино</small>
 			</a>
 		</p>
@@ -64,7 +63,9 @@
 		<p>
 		По своим взглядам Тяпинский был близок к <a href="budny.php">Сымону Будному</a>. Вместе с ним он принимал участие в протестантских съездах. 
 		Воевал, путешествовал, сблизился с радикально настроенными протестантами — социниами (антитринитариями).		
-		</br><small>[ Антитринитарии  - приверженцы унитарианской системы верований в христианстве, не принимающие догмат о Троице. 
+		</p>		
+		<p>
+		<small>[ Антитринитарии  - приверженцы унитарианской системы верований в христианстве, не принимающие догмат о Троице. 
 		Антитринитарная идеология была объявлена ересью на Никейском соборе в 325 году. ]
 		</small>
 		</p>		
@@ -90,23 +91,26 @@
 		<div class="col-md-12">
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-figures/tiapinsky/razmova.jpg" >
-			<img src="../../images/img-figures/tiapinsky/razmova.jpg"  height="160"/>
+			<a href="#../../images/img-figures/tiapinsky/razmova.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/tiapinsky/razmova.jpg"  height="100"/>
 			</br><small>"Размаўляючы пра Катэхізіс"
 			</br>Памятник С. Будному и В. Тяпинскому в Минске</small>
 			</a>
 			</div>
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-figures/tiapinsky/evangelie_tap.jpg" >
-			<img src="../../images/img-figures/tiapinsky/evangelie_tap_thumb.jpg"  height="160"/>
+			<a href="../../images/img-figures/tiapinsky/evangelie_tap.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/tiapinsky/evangelie_tap_thumb.jpg"  height="100"/>
 			</br><small>Евангелие Тяпинского</small>
 			</a>
 			</div>
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-figures/tiapinsky/Ostoia_minsk.jpg" >
-			<img src="../../images/img-figures/tiapinsky/Ostoia_minsk_thumb.jpg"  height="160"/>
+			<a href="#../../images/img-figures/tiapinsky/Ostoia_minsk.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/tiapinsky/Ostoia_minsk_thumb.jpg"  height="100"/>
 			</br><small>Герб "Остоя"
 			</br>Минск, пр. Скорины</small>
 			</a>

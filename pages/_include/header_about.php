@@ -69,13 +69,17 @@
 		  <li>
             <a href="../places/_places_intro.php">Топонимы</a>
           </li>
+          
+          <li>
+            <a href="../legacy/_legacy_intro.php">Arch-Спадчына</a>
+          </li>
 		  
 		  <li>
             <a href="../articles/_articles_intro.php">Статьи</a>
           </li>
 		  		  
           <li>
-            <a href="_about_intro.php" style="color:red">About</a>
+            <a href="../about/_about_intro.php" style="color:red">About</a>
           </li>
 		  
 		  <li>

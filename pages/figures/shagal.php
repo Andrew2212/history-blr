@@ -4,7 +4,7 @@
   <head>
   
 <!-- ***Title*** -->
- 	<title>Марк Шагал. История Беларуси</title>
+ 	<title>Марк Шагал</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Марк Шагал. 
@@ -34,7 +34,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Марк Шагал</h3>
+		<h1>Марк Шагал</h1>
 		<p>
 			Статья в разработке
 		</p>

@@ -4,10 +4,10 @@
   <head>
     
 <!-- ***Title*** -->
- 	<title>Зигмунд Минейко. История Беларуси</title>
+ 	<title>Зигмунд Минейко</title>
 
 <!-- ***Meta*** -->
-	<meta name="description" content="Шляхтич из Ошмян, командир повстанцев 1863, выпускник школы Гарибальди, археолог, инженер, спортивный журналист. 
+	<meta name="description" content="Зигмунд Минейко — шляхтич из Ошмян, командир повстанцев 1863, выпускник школы Гарибальди, археолог, инженер, спортивный журналист. 
 	Почетный гражданин Греции, забытый на Родине
 	" />
   	<meta name="keywords" itemprop="keywords" content="Зигмунд Минейко,
@@ -31,9 +31,10 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Зигмунд Минейко
+		<h1>Зигмунд Минейко
 		</br><small>шляхтич из Ошмян, почетный гражданин Греции</small>
-		</h3>
+		</h1>
+		
 		<p class="img-float-left">
 		<a href="../../images/img-figures/mineyko/m_old.jpg" class="highslide"
         onclick="return hs.expand(this)">

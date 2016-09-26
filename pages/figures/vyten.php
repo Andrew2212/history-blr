@@ -44,13 +44,6 @@
 		</a> 		
 		</p>
 		</p>
-		<p class="img-float-right">
-		<a href="../../images/img-figures/vyten/viten_pogonia.jpg" class="highslide"
-       		 onclick="return hs.expand(this)">
-		<img src="../../images/img-figures/vyten/viten_pogonia_thumb.jpg" height="140">
-		</br><small>Витень и "Погоня"</small>
-		</a> 		
-		</p>
 		
 	
 		<p>
@@ -81,6 +74,29 @@
 		По сообщению Густынской летописи, именно Витень установил герб ВКЛ — <a href="../terms/blr_gerb.php">Погоня</a>: 
 		</br><i>«Витен нача княжити над Литвою, измысли себе герб и всему князству Литовскому: рыцер збройны на коне з мечем, еже ныне наричут Погоня».</i>
 		</p>
+		<p>
+		С именем Витеня связывают и Калюмны — "ужывал знак рыцерски... трех слупов на поле червоным белых". 
+		</p>
+		
+		<div class="col-md-12">
+		
+			<div class="col-md-6 img-float-center">
+			<a href="../../images/img-figures/vyten/viten_pogonia.jpg" class="highslide"
+       		 onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/vyten/viten_pogonia_thumb.jpg" height="100">
+			</br><small> Витень и "Погоня"</small>
+			</a> 
+			</div>
+			
+			<div class="col-md-6 img-float-center">
+			<a href="../../images/img-terms/kalumny/1584_herbKalumny.jpg" class="highslide"
+      		  onclick="return hs.expand(this)">
+			<img alt="Калюмны, столпы Геимина" src="../../images/img-terms/kalumny/1584_herbKalumny_thumb.jpg" height="100" >
+			</br><small>1584 Витень и Калюмны</small>
+			</a> 
+			</div>
+			
+		</div>
 		
 
 		

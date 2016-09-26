@@ -4,7 +4,7 @@
   <head>
     
 <!-- ***Title*** -->
- 	<title>Самуил Кмитич. История Беларуси</title>
+ 	<title>Самуил Кмитич</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Легендарный шляхтич, прообраз главного героя романа Г. Сенкевича <Потоп> — 
@@ -31,8 +31,10 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Самуил Кмитич
-		</br><small>оршанский хорунжий, герой "Трилогии"</small></h3>
+		<h1>Самуил Кмитич
+		</br><small>оршанский хорунжий, герой "Трилогии"</small>
+		</h1>
+		
 		<p class="img-float-left">
 		<a href="../../images/img-figures/kmicic/olbrychski_kmicic.jpg" class="highslide"
         onclick="return hs.expand(this)">

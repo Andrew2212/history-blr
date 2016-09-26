@@ -1,17 +1,17 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="be">
   <head>
    
 <!-- ***Title*** -->
- 	<title>Национальный гимн. История Беларуси</title>
+ 	<title>Нацыянальны гімн</title>
 
 <!-- ***Meta*** -->
-    <meta name="description" content="В исполнении а капелла Muzcynski Chor Vunija. Старое, но, пожалуй, лучшее исполнение Погони." 
+    <meta name="description" content="У выкананні а капэла Muzcynski Chor Vunija. Старое, але, мабыць, лепшае выкананне Пагоні." 
 	/>
-    <meta name="keywords" itemprop="keywords" content="гимн беларуси, гiмн беларусi, Богданович Погоня, 
-	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, 
-	 история Белоруссии, История беларуси кратко в датах" />
+    <meta name="keywords" itemprop="keywords" content="гімн Беларусі,Багдановіч Пагоня, 
+	 Беларусь, беларускі этнас, рэлігія ў Беларусі, беларусы, кароткая гісторыя Беларусі, гісторыя Беларусі, 
+	 гісторыя Беларусі коратка ў датах" />
 	 <meta property="og:image" content="http://history-belarus.by/images/img-terms/blr_hymn/title.jpg" />
 
 <!-- ***Include Header*** -->
@@ -31,42 +31,42 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
     
-		<h2>
-		Национальный гимн Беларуси
-		</br><small>Максим Богданович, <a href="blr_gerb.php">"Погоня"</a>, 1916 г.</small>
-		</h2>
+		<h1>
+		Нацыянальны гімн Беларусі
+		</br><small>Максім Багдановіч, <a href="blr_gerb.php">"Пагоня"</a>, 1916 г.</small>
+		</h1>
 		
 	<div class="col-md-12">
 		
 		<p class="img-float-left" >
 		<a href="../../images/img-terms/blr_hymn/bogdanovich.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Погоня Национальный гимн Беларуси" src="../../images/img-terms/blr_hymn/bogdanovich_thumb.jpg" height="140" >
-		</br><small>М. Богданович</small>
+		<img alt="Пагоня Нацыянальны гімн Беларусі" src="../../images/img-terms/blr_hymn/bogdanovich_thumb.jpg" height="140" >
+		</br><small>М. Багдановіч</small>
 		</a>
 		</p>
 		
 		<p class="img-float-right" >
 		<a href="../../images/img-terms/blr_hymn/print.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Погоня Национальный гимн Беларуси" src="../../images/img-terms/blr_hymn/print_thumb.jpg" height="140">
-		</br><small>Первое издание, 1919</small>
+		<img alt="Пагоня Нацыянальны гімн Беларусі" src="../../images/img-terms/blr_hymn/print_thumb.jpg" height="140">
+		</br><small>Першае выданне, 1919</small>
 		</a>
 		</p>
 		
 		<p>
 		<small> 
-		<i>В 1991 году имя <a href="../figures/bogdanowich.php">Максима Богдановича</a> внесено в календарный список ЮНЕСКО «Годовщины выдающихся лиц и событий»</i>
+		<i>У 1991 годзе імя <a href="../figures/bogdanowich.php">Максіма Багдановіча</a> занесена ў каляндарны спіс ЮНЭСКА «Ўгодкі выбітных асоб і падзей»</i>
 		</small>
 		</p>
 		
 		<p>
-		Стихотворение Максима Богдановича, известное по школьной программе. Исполняется в многочисленных вариантах на музыку 
-		композиторов Щеглова-Куликовича, Туренкова, Равенского, Мулявина.
+		Верш Максіма Багдановіча, вядомы па школьнай праграме. Выконваецца ў шматлікіх варыянтаў на музыку 
+		кампазітараў Шчаглова-Кулінковіча, Туранкова, Равенскага, Мулявіна.
 		</p>
 		
 		<p>
-		  "Погоня" в исполнении а капелла Muzcynski Chor "Vunija". Старое, но, пожалуй, лучшее исполнение.
+		  "Пагоня" у выкананні а капэла Muzcynski Chor "Vunija". Старое, але, мабыць, лепшае выкананне.
 		</p>
 		
 		<p>
@@ -78,8 +78,8 @@
   		
   		<p>
 		  <a target="_blank" href="../../images/img-terms/blr_hymn/blr_hymn_pogonia.zip" >
-		  Скачать гимн
-		  </a> в формате .mp3 (архив .zip, 3 Мб)
+		  Спампаваць гімн
+		  </a> в формате .mp3 (архіў .zip, 3 Мб)
 		</p>
 		
 	</div>	 
@@ -139,8 +139,8 @@
 	<div class="col-md-12">
 	<p>
 	</br>
-	*<a href="../places/wostra_brama.php">Вострая Брама</a> — единственные сохранившиеся ворота старой городской стены и часовня с образом Матери Божией Остробрамской в 
-	<a href="../places/wilno.php">Вильно</a>
+	*<a href="../places/wostra_brama.php">Вострая Брама</a> — адзіныя захаваныя вароты старой гарадской сцяны і капліца з выявай Маткі Боскай Вастрабрамскай у 
+	<a href="../places/wilno.php">Вільні</a>
 	</p>
 	</div>	
 	

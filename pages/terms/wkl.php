@@ -152,8 +152,44 @@
 		На момент создания, княжество Литовское было зажато между Полоцким (восток), Турово-Пинским и 
 		Галицко-Волынским княжествами (юг) и Мазовией (запад). 
 		</p>
-		В период правления первых князей (<a href="../figures/mindowg.php">Миндовг</a>, <a href="../figures/mindowg.php">Войшелк</a>, <a href="../figures/shwarn.php">Шварн</a> и др) — до конца XIII века — расширялось на север, в сторону "ничейной" 
-		Жмуди-<a href="../places/samogitia.php">Самогитии</a>. На эти же земли, только с другой стороны — от побережья, претендовал Тевтонский Орден. Борьба за Жмудские земли описана в
+		<p>
+		С севера между ВКЛ и Самогитией лежали вассальные Литве <a href="../places/nalsen.php">Нальшаны и Дяволтва</a>. 
+		После смерти Миндовга, его сын Войшалк присоединил их к ВКЛ и более они как самостоятельные княжества не упоминались.
+		</p>
+		
+		<div class="col-md-12">
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-places/nalsen/nalsen_country.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Нальшаны, Дяволтва" src="../../images/img-places/nalsen/nalsen_country_thumb.jpg" height="100">
+		</br><small>Нальшаны и Дяволтва, XIII в</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-places/nalsen/mendog_voiszalk.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Нальшаны, Дяволтва" src="../../images/img-places/nalsen/mendog_voiszalk_thumb.jpg" height="100">
+		</br><small>1262-64 Присоединение Нальшан и Дяволтвы</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 img-float-center">
+		<a href="../../images/img-places/nalsen/litva_novgorodok.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Нальшаны, Дяволтва" src="../../images/img-places/nalsen/litva_novgorodok_thumb.jpg" height="100">
+		</br><small>1255 <i>"На Литву на Новгородок"</i></small>
+		</a>
+		</div>
+		
+		</div>
+		
+		<p>
+		В период правления первых князей (<a href="../figures/mindowg.php">Миндовг</a>, 
+		<a href="../figures/mindowg.php">Войшелк</a>, <a href="../figures/shwarn.php">Шварн</a> и др) — до конца XIII века — Литва расширялась на север, 
+		в сторону "ничейной" Жмуди-<a href="../places/samogitia.php">Самогитии</a>. 
+		На эти же земли, только с другой стороны — от побережья, претендовал Тевтонский Орден. Борьба за Жмудские земли описана в
 		<a href="../download/chronicles_peter.php">ChroniconTerraePrussiae</a>, Peter von Duisburg, 1326.
 		</p>
 		

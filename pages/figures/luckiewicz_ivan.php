@@ -4,7 +4,7 @@
   <head>
     
 <!-- ***Title*** -->
- 	<title>Иван Луцкевич. История Беларуси</title>
+ 	<title>Иван Луцкевич</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Иван Луцкевич — культуртрегер Беларуси. 
@@ -32,18 +32,20 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Иван Луцкевич
+		<h1>Иван Луцкевич
 		</br><small>культуртрегер Беларуси</small>
-		</h3>
+		</h1>
+		
 		<p class="img-float-left">
-			<a target="_blank" href="../../images/img-figures/luckiewicz_ivan/Ivan_Lutskevich.jpg">
-			<img alt="Иван Луцкевич" src="../../images/img-figures/luckiewicz_ivan/Ivan_Lutskevich.jpg" height="180" >
+			<a href="../../images/img-figures/luckiewicz_ivan/Ivan_Lutskevich.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Иван Луцкевич" src="../../images/img-figures/luckiewicz_ivan/Ivan_Lutskevich.jpg" height="140" >
 			</a>
 		</p>
 		<p class="img-float-right">
-			<a target="_blank" href="../../images/img-figures/luckiewicz_ivan/Nas_niva.jpg">
-			<img alt="Иван Луцкевич" src="../../images/img-figures/luckiewicz_ivan/Nas_niva_thumb.jpg" height="180" >
-			</br><small>Наша Нива</small>
+			<a href="../../images/img-figures/luckiewicz_ivan/Nas_niva.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Иван Луцкевич" src="../../images/img-figures/luckiewicz_ivan/Nas_niva_thumb.jpg" height="140" >
 			</a>
 		</p>
 		<p>
@@ -81,20 +83,52 @@
 		  Выступаў за аднаўленне на Беларусі <a href="../events/unia_religion_brest.php">царкоўнай уніі</a> дзеля паяднання рэлігійнага і грамадскага руха адраджэньня дзяржаўнасьцi.
  		</p>
 		<p>
- 		Збіральнік і даследчык беларускіх старажытнасцей. Яго асабістая калекцыя стала асновай Беларускага музея ў Вільні.
+ 		Збіральнік і даследчык беларускіх старажытнасцей. Яго асабістая калекцыя стала асновай 
+		 <a href="../terms/blr_museum.php">Беларускага музея</a> ў Вільні.
 		 </p>
-		 <p class="img-float-center">
-			<a target="_blank" href="../../images/img-figures/luckiewicz_ivan/Belaruski_Muzey_Vilno.jpg">
-			<img alt="Иван Луцкевич" src="../../images/img-figures/luckiewicz_ivan/Belaruski_Muzey_Vilno.jpg" height="180" >
-			</br><small>Белорусский музей в Вильно</small>
+		 
+		 <div class="col-md-12">	
+		 
+		 <div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/luckiewicz_ivan/Belaruski_Muzey_Vilno.jpg" class="highslide"
+       		onclick="return hs.expand(this)">
+		<img alt="Иван Луцкевич" src="../../images/img-figures/luckiewicz_ivan/Belaruski_Muzey_Vilno.jpg" height="100" >
+		</br><small>Белорусский музей в Вильно</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/blr_museum/museum_home.jpg" class="highslide"
+       		onclick="return hs.expand(this)">
+			<img alt="Белорусский музей в Вильно" src="../../images/img-terms/blr_museum/museum_home_thumb.jpg" height="100" >
+			</br><small>Дом, где был музей
+			</br>вул. Вастрабрамская, 9</small>
 			</a>
-		</p>
-		 <p>
-		 [ <small>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/blr_mova/kitab.jpg" class="highslide"
+       		onclick="return hs.expand(this)">
+			<img src="../../images/img-terms/blr_mova/kitab_thumb.jpg" height="100"/>
+			</br><small>Китаб, XVI-XVII вв.
+			</br>(белорусский текст арабской вязью)</small>
+		</a>
+		</div>
+			
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/lastowski/INBELKULT.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Язеп Лёсик" src="../../images/img-figures/lastowski/INBELKULT_thumb.jpg" height="100">
+		</br><small>ИнБелКульт</small>
+		</a>
+		</div>
+			  
+		</div>
+		
+		 <p>		 
 		 Коллекция отличалась богатством собрания монет и древних печатей — в том числе Всеслава Чародея и Миндовга. 
 		 В коллекции рукописей и старопечатных книг сберегался Статут ВКЛ, 
 		 «Библия» Скорины, «Мужыцкая прауда» Калиновского. Библиотека насчитывала около 15 тысяч томов. 
-		 </small> ]
 		 </p>
 		 <p> 
  		Беларускае навуковае таварыства надало музэю імя заснавальніка. Першым кiраўнiком музэя быў брат Iвана Луцкевiча — Антон.

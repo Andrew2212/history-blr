@@ -32,7 +32,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h2>Ягеллоны</h2>
+		<h1>Ягеллоны</h1>
 		<p class="img-float-left">
 		<img alt="Ягеллоны" src="../../images/img-figures/jagellony/herb.jpg" height="140">
 		</p>		
@@ -145,7 +145,7 @@
 		</div>
 		
 		
-		<h4>Короли Ягеллоны:</h4>
+		<h3>Короли Ягеллоны:</h3>
 		<p>		
 	<ul>		
 		<li>

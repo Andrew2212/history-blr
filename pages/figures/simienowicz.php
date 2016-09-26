@@ -4,7 +4,7 @@
   <head>
   
 <!-- ***Title*** -->
- 	<title>Казимир Семенович. История Беларуси</title>
+ 	<title>Казимир Семенович</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Казимир Семенович (ок. 1600 — ок. 1651) — военный инженер армии 
@@ -34,7 +34,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Казимир Семенович</h3>
+		<h1>Казимир Семенович</h1>
 		<p>
 		<img src="../../images/img-figures/semenowicz/stamp.jpg" height="160" class="img-float-left">
 		</p>

@@ -29,20 +29,18 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_download.php"); ?>
  
-		<h3>Монеты Беларуси до 1707 года</h3>
-			<p>
+		<h1>Монеты Беларуси до 1707 года</h1>
+			<p class="img-float-left">
 			<img src="../../images/img-download/monet_blr.jpg" class="img-float-left"/>
-			<p>
-	
-			</p>
-
-
-			<p>
-			Файл PDF</br>
-			<a href="https://drive.google.com/file/d/0B_T3PThCY39DMWtyb29QdXpkdEk/view?usp=sharing" class="btn btn-default img-float-left"
+			</br>Файл PDF
+			</br><a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DMWtyb29QdXpkdEk/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать</a>
 			</p>
+			
+			<p>
+			Если данный материал нарушает чьи-то авторские права, и автора это расстраивает — мы уберем эту страничку.
 			</p>
+
 	</div>
 	
 	<!-- ***Sidebar Right*** -->

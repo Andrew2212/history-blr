@@ -4,7 +4,7 @@
   <head>
     
 <!-- ***Title*** -->
- 	<title>Антон Луцкевич. История Беларуси</title>
+ 	<title>Антон Луцкевич</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="А. Луцевич: Мы, белорусы, мысли которых выражаются в Нашей Ниве, должны были придерживаться простой и высокой мечты: 
@@ -31,18 +31,20 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Антон Луцкевич
+		<h1>Антон Луцкевич
 		</br><small>Старшыня Рады Міністраў Найвышэйшай Рады БНР и директор Белорусского музея в Вильне</small>
-		</h3>
+		</h1>
+		
 		<p class="img-float-left">
-			<a target="_blank" href="../../images/img-figures/luckiewicz_anton/Luckewicz.jpg">
-			<img alt="Антон Луцкевич" src="../../images/img-figures/luckiewicz_anton/Luckewicz.jpg" height="180" >
+			<a href="../../images/img-figures/luckiewicz_anton/Luckewicz.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Антон Луцкевич" src="../../images/img-figures/luckiewicz_anton/Luckewicz.jpg" height="140" >
 			</a>
 		</p>
 		<p class="img-float-right">
-			<a target="_blank" href="../../images/img-figures/luckiewicz_ivan/Nas_niva.jpg">
-			<img alt="Антон Луцкевич" src="../../images/img-figures/luckiewicz_ivan/Nas_niva_thumb.jpg" height="180" >
-			</br><small>Наша Нива</small>
+			<a href="../../images/img-figures/luckiewicz_ivan/Nas_niva.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Антон Луцкевич" src="../../images/img-figures/luckiewicz_ivan/Nas_niva_thumb.jpg" height="140" >
 			</a>
 		</p>
 		<p>
@@ -71,14 +73,48 @@
 		<a href="../terms/bnr.php">Белорусской Народной Республики</a>. Инициатор провозглашения независимости <a href="../terms/belarus.php">Беларуси</a>.
 		</p>
 		<p>
-		1918-20 — председатель Совета Министров (Старшыня Рады Міністраў Найвышэйшай Рады БНР) и министр иностранных дел БНР.  Последовательно отстаивал права белорусского народа на самоопределение.
+		1918-20 — председатель Совета Министров (Старшыня Рады Міністраў Найвышэйшай Рады БНР) и министр иностранных дел БНР.  
+		Последовательно отстаивал права белорусского народа на самоопределение.
 		</p>
-		<p class="img-float-center">
-			<a target="_blank" href="../../images/img-terms/bnr/BNR_Third_charter.jpg">
-			<img src="../../images/img-terms/bnr/BNR_Third_charter_thumb.jpg" height="200" class="img-float-center">
+		
+		<div class="col-md-12">	
+		 
+		 <div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/luckiewicz_ivan/Belaruski_Muzey_Vilno.jpg" class="highslide"
+       		onclick="return hs.expand(this)">
+		<img alt="Иван Луцкевич" src="../../images/img-figures/luckiewicz_ivan/Belaruski_Muzey_Vilno.jpg" height="100" >
+		</br><small>Белорусский музей в Вильно</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/blr_museum/museum_home.jpg" class="highslide"
+       		onclick="return hs.expand(this)">
+			<img alt="Белорусский музей в Вильно" src="../../images/img-terms/blr_museum/museum_home_thumb.jpg" height="100" >
+			</br><small>Дом, где был музей
+			</br>вул. Вастрабрамская, 9</small>
+			</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/blr_mova/kitab.jpg" class="highslide"
+       		onclick="return hs.expand(this)">
+			<img src="../../images/img-terms/blr_mova/kitab_thumb.jpg" height="100"/>
+			</br><small>Китаб, XVI-XVII вв.
+			</br>(белорусский текст арабской вязью)</small>
+		</a>
+		</div>
+			
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/bnr/BNR_Third_charter.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-terms/bnr/BNR_Third_charter_thumb.jpg" height="100" >
 			</br><small>Уставная Грамота Рады БНР </small>
 			</a>
-		</p>
+		</div>
+			  
+		</div>
+		
 		<p>
 		1921 года — председатель Белорусского национального комитета в <a href="../places/wilno.php">Вильно</a>. Председатель Белорусского научного товарищества, которое позже слилось с Обществом белорусской школы. 
 		</p>

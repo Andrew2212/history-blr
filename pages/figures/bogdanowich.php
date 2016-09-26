@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
    <!-- ***Title*** -->
- 	<title>Максим Богданович. История Беларуси</title>
+ 	<title>Максим Богданович</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Ў краіне сьветлай, дзе я ўміраю
@@ -32,7 +32,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h2>Максим Богданович</h2>
+		<h1>Максим Богданович</h1>
 
 		<p>
 		<small> 

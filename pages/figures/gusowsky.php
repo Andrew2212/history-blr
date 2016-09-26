@@ -30,15 +30,21 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h2>Николай Гусовский, <small> поэт раннего Ренессанса</small></h2>
-		<h3>"Песня о зубре"<small>, символе Беларуси</small></h3>
+		<h1>Николай Гусовский 
+		</br><small> поэт раннего Ренессанса</small>
+		</h1>
+		
+		<h3>"Песня о зубре" <small>белорусский эпос</small></h3>
 		<p class="img-float-left">
-			<img alt="Николай Гусовский и Песня о Зубре" src="../../images/img-figures/gusowsky/poet.jpg" height="160" >
+		<a href="../../images/img-figures/gusowsky/poet.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="Николай Гусовский и Песня о Зубре" src="../../images/img-figures/gusowsky/poet.jpg" height="140" >
+		</a>
 		</p>
 		<p class="img-float-right">
 			<a href="../../images/img-figures/gusowsky/puscha.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="Николай Гусовский и Песня о Зубре" src="../../images/img-figures/gusowsky/naliboki.jpg" height="160" >
+			<img alt="Николай Гусовский и Песня о Зубре" src="../../images/img-figures/gusowsky/naliboki.jpg" height="140" >
 			</br><small>Налибокская пуща</small>
 			</a>
 		</p>

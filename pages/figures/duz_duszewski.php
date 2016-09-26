@@ -4,7 +4,7 @@
   <head>
   
 <!-- ***Title*** -->
- 	<title>Клавдий Дуж-Душевский. История Беларуси</title>
+ 	<title>Клавдий Дуж-Душевский</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Беларускі палітычны дзеяч, дыпламат, рэдактар, педагог, дацэнт Каўнаскага ўніверсітэта. Лічыцца аўтарам нацыянальнага сцяга.
@@ -30,8 +30,9 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
  
-		<h3>Клавдий Дуж-Душевский
-		</br><small>белорусский националист</small></h3>
+		<h1>Клавдий Дуж-Душевский
+		</br><small>белорусский националист</small>
+		</h1>
 		
 		<p class="img-float-left">
 			<a target="_blank" href="../../images/img-figures/duz_duszewski/duszewski.jpg">

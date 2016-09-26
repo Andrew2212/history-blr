@@ -1,15 +1,15 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="be">
   <head>
   <!-- ***Title*** -->
-    <title>Война 1609-1618. Взятие Москвы</title>
+    <title>Вайна 1609-1618. Узяцце Масквы</title>
 <!-- ***Meta*** -->  
-    <meta name="description" content="Война между Речью Посполитой и Московским царством, в ходе которого наши войска вернули Смоленск и два года занимали Московский Кремль. 
-	Одно из основных событий московского Смутного времени
+    <meta name="description" content="Вайна паміж Рэччу Паспалітай і Маскоўскім царствам, падчас якой нашы войскі вярнулі Смаленск і два гады займалі Маскоўскі Крэмль. 
+	Адно з асноўных падзей маскоўскага Смутнага часу
 	" />
-	<meta name="keywords" itemprop="keywords" content="взятие москвы, 
-	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
+	<meta name="keywords" itemprop="keywords" content="Узяцце Масквы, 
+	гісторыя Беларусі коратка ў датах, асноўныя падзеі ў гісторыі Беларусі, гісторыя ВКЛ, ВКЛ, гісторыя Беларусі, Кароткая гісторыя Беларусі, Гісторыя Беларусі коратка" />
 	<meta property="og:image" content="http://history-belarus.by/images/img-events/war_moscow_1610/title.jpg" />
 
 <!-- ***Include Header*** -->
@@ -29,43 +29,43 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h1>Война с Московией 1609-1618. Взятие Москвы</h1>
+		<h1>1609-1618 Вайна з Масковіяй і ўзяцце Масквы</h1>
 		
 		<p class="img-float-left" >
 		<a href="../../images/img-events/war_moscow_1610/smuta.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Война с Московией 1609-1618" src="../../images/img-events/war_moscow_1610/smuta_thumb.jpg" height="140">
-		</br><small>Война 1609-1618 годов</small>
+		<img alt="Вайна з Масковіяй 1609-1618" src="../../images/img-events/war_moscow_1610/smuta_thumb.jpg" height="140">
+		</br><small>Вайна 1609-18 гадоў</small>
 		</a>
 		</p>
 		<p class="img-float-right" >
 		<a href="../../images/img-events/war_moscow_1610/1614_moskovia.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Война с Московией 1609-1618" src="../../images/img-events/war_moscow_1610/1614_moskovia_thumb.jpg" height="140">
+		<img alt="Вайна з Масковіяй 1609-1618" src="../../images/img-events/war_moscow_1610/1614_moskovia_thumb.jpg" height="140">
 		</br><small>Littaw, Russiae, 1614</small>
 		</a>
 		</p>
 		<p>
-		Война 1609-1618 годов — война между  <a href="../terms/rzeczpospolita.php">Речью Посполитой</a> и Московским царством, 
-		в ходе которого польско-литовские войска на два года (с 1610 по 1612) занимали Московский Кремль. Одно из основных событий 
-		московского "Смутного времени". 
+		Вайна 1609-1618 гадоў — вайна паміж <a href="../terms/rzeczpospolita.php">Рэччу Паспалітай</a> і Маскоўскім царствам, 
+		падчас якой польска-літоўскія войскі на два гады (з 1610 па 1612) займалі Маскоўскі Крэмль. Адно з асноўных падзей 
+		маскоўскага "Смутнага часу". 
 	
 		</p>
 		<p>
-		1600-1611 Речь Посполитая ведет <a href="../events/war_1600.php">войну со Швецией за эстонские земли</a>. Московскй царь Василий Шуйский заключает союз со Швецией.
-		В. князь Литовский и король Польши <a href="../figures/sigismund_waza.php">Сигизмунд III Ваза</a> вступает в войну с Московским царством. 
+		1600-1611 Рэч Паспалітая вядзе <a href="../events/war_1600.php">вайну са Швецыяй за эстонскія землі</a>. Маскоўскі цар Васіль Шуйскі складае звяз са Швецыяй.
+		Вялікі князь Літоўскі і кароль Польшчы <a href="../figures/sigismund_waza.php">Жыгімонт III Ваза</a> ўступае ў вайну з Маскоўскім царствам. 
 		</p>
 		<p>
-		1606-1607 Крестьянское восстание Болотникова в Московском царстве. Закрепощение крестьян и голод собрали в поход на Москву до 30 тысяч человек.
+		1606-1607 Сялянскае паўстанне Балотнікава ў Маскоўскім царстве. Занявольванне сялян і голад сабралі ў паход на Маскву да 30 тысяч чалавек.
 		</p>
 		<p>
-		1610 Царское войско разгромлено армией Речи Посполитой в <a href="../events/battle_klushyn.php">битве при Клушино</a>, 
-		польско-литовское войско овладело Москвой, пленило Шуйского.
+		1610 Царскае войска разгромлена войскам Рэчы Паспалітай у <a href="../events/battle_klushyn.php">бітве пры Клушына</a>, 
+		польска-літоўскае войска авалодала Масквой, паланіла Шуйскага.
 		</p>		
 		<p>
-		После низложения Василия Шуйского летом 1610 года московское правительство (Семибоярщина) признало Владислава, старшего сына Сигизмунда III,  
-		царём и чеканило от имени "Владислава Жигимонтовича" монету. Владислав православия не принял, в Москву не прибыл и венчан на царство не был.
- 		До 1634 года он продолжал пользоваться титулом Великого князя Московского.
+		Пасля зрыньвання Васіля Шуйскага ўлетку 1610 года маскоўскі ўрад (Сямібаяршчына) прызнала Уладзіслава, старэйшага сына Жыгімонта III,  
+		царом і чаканіла ад імя "Уладзіслава Жыгімонтавіча" манету. Уладзіслаў праваслаўя не прыняў, у Маскву не прыбыў і вянчаны на царства не быў.
+ 		Да 1634 года ён працягваў карыстацца тытулам Вялікага князя Маскоўскага.
 		</p>
 		
 		
@@ -74,16 +74,16 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_moscow_1610/1610_getting_moscow.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Война с Московией 1609-1618" src="../../images/img-events/war_moscow_1610/1610_getting_moscow_thumb.jpg" height="100">
-		</br><small>Энциклопедия "Руссика", 1606-1616</small>
+		<img alt="Вайна з Масковіяй 1609-1618" src="../../images/img-events/war_moscow_1610/1610_getting_moscow_thumb.jpg" height="100">
+		</br><small>Энцыклапедыя "Русіка", 1606-1616</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_moscow_1610/krest_uprising_1606.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Война с Московией 1609-1618" src="../../images/img-events/war_moscow_1610/krest_uprising_1606_thumb.jpg" height="100">
-		</br><small>Крестьянские восстания, 1606-1608</small>
+		<img alt="Вайна з Масковіяй 1609-1618" src="../../images/img-events/war_moscow_1610/krest_uprising_1606_thumb.jpg" height="100">
+		</br><small>Сялянскія паўстанні, 1606-1608</small>
 		</a>
 		</div>
 		
@@ -91,7 +91,7 @@
 		<a href="../../images/img-events/battle_klushyn/Battle_of_Klushino_1610.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-events/battle_klushyn/Battle_of_Klushino_1610_thumb.jpg" height="100">
-		</br><small>Битва при Клушино</small>
+		</br><small>Бітва каля Клушына</small>
 		</a>
 		</div>
 		
@@ -99,7 +99,7 @@
 		<a href="../../images/img-terms/blr_gerb/grodno_harugva.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/blr_gerb/grodno_harugva.jpg" height="100">
-		</br><small>Гродненская хоругва XVI-XVII вв.</small>	
+		</br><small>Гарадзенская харугва XVI-XVII ст.</small>	
 		</a>
 		</div>
 		
@@ -107,23 +107,23 @@
 		</div>
 		
 		<p>
-		1611 После долгой осады <a href="../places/smolensk.php">Смоленск</a> возвращен в состав ВКЛ. И до XVIII века <i>"смоленское дворянство именовало себя
-		 <a href="../terms/shliahta.php">шляхетством</a>, 
-		смоленские шляхтичи предпочитали читать польские книги и брать себе жён из Польши. При Анне Иоанновне польские книги на Смоленщине были запрещены, 
-		за владение ими били кнутом и ссылали в Сибирь; запрещены были также браки с польками; 
-		однако смоляне жён из <a href="../terms/ross_empire.php">России</a> по прежнему не брали, предпочитая браки в своей среде."</i> 
-		<small>(Из "Записок" Л. Н. Энгельгардта)</small>
+		1611 Пасля доўгай аблогі <a href="../places/smolensk.php">Смаленск</a> вернуты ў склад ВКЛ. І да XVIII стагоддзя <i>"смаленскае дваранства называла сябе
+		 <a href="../terms/shliahta.php">шляхецтвам</a>, 
+		смаленскія шляхцічы аддвалі перавагу чытаць польскія кнігі і браць сабе жонак з Польшчы. Пры Ганне Іяанаўне польскія кнігі на Смаленшчыне былі забаронены, 
+		за валоданне імі білі пугаю і высылалі ў Сібір; забаронены былі таксама шлюбы з полькамі; 
+		аднак смаляне жонак з <a href="../terms/ross_empire.php">Расіі</a> па ранейшым не бралі, аддаючы перавагу шлюбам у сваім асяроддзі."</i> 
+		<small>(З "Нататак" Л. Н. Энгельгарда)</small>
 		</p>
 		<p>
-		Задержки и невыплаты жалования в войсках Речи Посполитой породили <a href="../figures/lisowsky.php">лисовчиков</a> 
-		— формирований  иррегулярной лёгкой кавалерии, кормившихся только за счёт трофеев. 
-		Первым командиром был  виленский шляхтич <a href="../figures/lisowsky.php">Александр Лисовский</a>, 
-		которому покровительствовал Януш <a href="../figures/radziwilly.php">Радзивилл</a>. 
+		Затрымкі і нявыплаты пенсіёну ў войсках Рэчы Паспаліты спарадзілі <a href="../figures/lisowsky.php">лісоўшчыкаў</a> 
+		— фармаванняў ірэгулярнай лёгкай кавалерыі, што карміліся толькі за кошт трафеяў. 
+		Першым камандзірам быў віленскі шляхціч <a href="../figures/lisowsky.php">Аляксандр Лісоўскі</a>, 
+		за якога заступаўся Януш <a href="../figures/radziwilly.php">Радзівіл</a>. 
 		</p>
 		<p>
-		Лисовчики не получали жалования. Формировались они в основном из добровольцев мелкой шляхты и горожан из ВКЛ. 
-		Относились к лёгкой кавалерии казацко-татарского типа (сабля, сагайдак, пистолеты, минимум доспехов).  
-		Во время войны заняли несколько городов, принимали активное участи е в защите Смоленска от московских войск.
+		Лісоўшчыкі не атрымвалі пенсіёны. Фармаваліся яны ў асноўным з самаахвотнікаў дробнай шляхты і месцічаў з ВКЛ. 
+		Належылі да лёгкай кавалерыі казацка-татарскага тыпу (шабля, сагайдак, пісталеты, мінімум даспехаў).  
+		Падчас вайны занялі некалькі гарадоў, прымалі актыўны ўдзел ў абароне Смаленска ад маскоўскіх войскаў.
 		</p>
 		
 		
@@ -132,50 +132,50 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-figures/sigismund_waza/Capitulation_of_Russian_garrison_of_Smolensk_before_Vladislaus_IV_Vasa_of_Poland_1634.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Жигимонт (Сигизмунд) III Ваза" src="../../images/img-figures/sigismund_waza/Capitulation_of_Russian_garrison_of_Smolensk_before_Vladislaus_IV_Vasa_of_Poland_1634_thumb.jpg" height="100" >
-		</br><small>Капитуляция смоленского гарнизона</small>
+		<img alt="Жыгімонт III Ваза" src="../../images/img-figures/sigismund_waza/Capitulation_of_Russian_garrison_of_Smolensk_before_Vladislaus_IV_Vasa_of_Poland_1634_thumb.jpg" height="100" >
+		</br><small>Капітуляцыя смаленскага гарнізона</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-places/smolensk/engelgard.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Смоленск" src="../../images/img-places/smolensk/engelgard_thumb.jpg" height="100">
-		</br><small>"Записки", Л. Н. Энгельгардт</small>	
+		<img alt="Смаленск" src="../../images/img-places/smolensk/engelgard_thumb.jpg" height="100">
+		</br><small>"Нататкі", Л. Н. Энгельгард</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-figures/sigismund_waza/monet_vladislav.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Жигимонт (Сигизмунд) III Ваза" src="../../images/img-figures/sigismund_waza/monet_vladislav_thumb.jpg" height="100" >
-		</br><small>Монеты Владислава Жигимонтовича</small>
+		<img alt="Жыгімонт III Ваза" src="../../images/img-figures/sigismund_waza/monet_vladislav_thumb.jpg" height="100" >
+		</br><small>Манеты Уладзіслава Жыгімонтавіча</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_moscow_1610/Kossak_Lisowczyk.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Война с Московией 1609-1618" src="../../images/img-events/war_moscow_1610/Kossak_Lisowczyk_thumb.jpg" height="100">
-		</br><small>"Лисовчик", Ю. Коссак </small>
+		<img alt="Вайна з Масковіяй 1609-1618" src="../../images/img-events/war_moscow_1610/Kossak_Lisowczyk_thumb.jpg" height="100">
+		</br><small>"Лісоўшчык", Ю. Касак </small>
 		</a>
 		</div>
 		
 		</div>
 		
 		<p>
-		1612 году Второе народное ополчение освободило Москву, однако война полыхала до 1618 года, 
-		Польские, литовские и казацкие формирования разорили южные области Московского царства.
-		 Война завершилась подписанием Деулинского перемирия 11 декабря 1618 года.
+		У 1612 годзе Другое народнае паўстанне вызваліла Маскву, аднак вайна палымнела да 1618 года, 
+		польскія, літоўскія і казацкія фармаванні спустошылі паўднёвыя вобласці Маскоўскага царства.
+		 Вайна завяршылася падпісаннем Дэўлінскага перамір'я 11 снежня 1618 года.
 		</p>
 		<p>
-		С этой войной связаны многие славные имена. 
-		<a href="../figures/sigismund_waza.php">Сигизмунд III Ваза</a> — король польский, в. князь литовский, король шведов, готов, вендов.
-		<a href="../figures/hodkewich.php">Ян Кароль Ходкевич</a>, герой эпоса <a href="../download/carolomachia.php">"Кароломахия"</a> — великий гетман Литовский, командующий армией ВКЛ. 
-		<a href="../figures/sapega.php">Лев Сапега</a>, фундатор третьего <a href="../terms/statut.php">Статута ВКЛ</a> 
-		— великий канцлер Литовский, принимал Деулинское перемирие. 
-		 <a href="../figures/gonsewsky.php">Александр Гонсевский</a> — великий референдарий литовский, основатель Витебского иезуитского коллегиума, 
-		 комендант московского Кремля и воевода Смоленский.
+		З гэтай вайной злучаны многія хвалебныя імёны. 
+		<a href="../figures/sigismund_waza.php">Жыгімонт III Ваза</a> — кароль польскі, вялікі князь літоўскі, кароль шведаў, готаў, вендаў.
+		<a href="../figures/hodkewich.php">Ян Кароль Хадкевіч</a>, герой эпасу <a href="../download/carolomachia.php">"Караламахія"</a> — вялікі гетман Літоўскі, камандуючы войскам ВКЛ. 
+		<a href="../figures/sapega.php">Леў Сапега</a>, фундатар трэцяга <a href="../terms/statut.php">Статута ВКЛ</a> 
+		— вялікі канцлер Літоўскі, прымаў Дэўлінскае перамір'е. 
+		 <a href="../figures/gonsewsky.php">Аляксандр Гансеўскі</a> — вялікі рэмерэндар літоўскі, заснавальнік Віцебскага езуіцкага калегіума, 
+		 камендант маскоўскага Крэмля і ваявода Смаленскі.
 		</p>
 		
 		
@@ -185,8 +185,8 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-figures/sigismund_waza/Zygmunt_III_Waza.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Жигимонт (Сигизмунд) III Ваза" src="../../images/img-figures/sigismund_waza/Zygmunt_III_Waza.jpg" height="100" >
-		</br><small>Сигизмунд III Ваза</small>
+		<img alt="Жыгімонт III Ваза" src="../../images/img-figures/sigismund_waza/Zygmunt_III_Waza.jpg" height="100" >
+		</br><small>Жыгімонт III Ваза</small>
 		</a>
 		</div>
 		
@@ -194,7 +194,7 @@
 		<a href="../../images/img-figures/hodkewich/duke_on_mysh.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-events/battle_kircholm/hodkiewicz.jpg" height="100">
-		</br><small>Ян Кароль Ходкевич</small>
+		</br><small>Ян Кароль Хадкевіч</small>
 		</a>
 		</div>	
 		
@@ -202,24 +202,24 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_moscow_1610/Lew_Sapieha.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Война с Московией 1609-1618" src="../../images/img-events/war_moscow_1610/Lew_Sapieha_thumb.jpg" height="100">
-		</br><small>Лев Сапега</small>
+		<img alt="Вайна з Масковіяй 1609-1618" src="../../images/img-events/war_moscow_1610/Lew_Sapieha_thumb.jpg" height="100">
+		</br><small>Леў Сапега</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_moscow_1610/Aleksander_Korwin_Gosiewski.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Война с Московией 1609-1618" src="../../images/img-events/war_moscow_1610/Aleksander_Korwin_Gosiewski_thumb.jpg" height="100">
-		</br><small>Александр Гонсевский</small>
+		<img alt="Вайна з Масковіяй 1609-1618" src="../../images/img-events/war_moscow_1610/Aleksander_Korwin_Gosiewski_thumb.jpg" height="100">
+		</br><small>Аляксандр Гансеўскі</small>
 		</a>
 		</div>
 		
 		</div>
 		
 		<p>
-		В память о короле Жигимонте III и о войсках Ходкевича в Москве, в России утвержден праздник "День национального единства" (4 ноября) — 
-		в этот день войска Жигимонта покинули Московский Кремль после двухлетней оккупации.
+		У памяць пра караля Жыгімонта III і пра войскі Хадкевіча ў Маскве, у Расіі зацверджана свята "Дзень нацыянальнага адзінства" (4 лістапада) — 
+		у гэты дзень войска Жыгімонта пакінулі Маскоўскі Крэмль пасля двухгадовай акупацыі.
 		</p>
 		
 		<div class="col-md-12">
@@ -227,24 +227,24 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-figures/sigismund_waza/Carowie_Szujscy_na_sejmie_warszawskim_Jan_Matejko_18_century.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Жигимонт (Сигизмунд) III Ваза" src="../../images/img-figures/sigismund_waza/Carowie_Szujscy_na_sejmie_warszawskim_Jan_Matejko_18_century_thumb.jpg" height="100" >
-		</br><small>"Царь Шуйский в Варшаве"</small>
+		<img alt="Жыгімонт III Ваза" src="../../images/img-figures/sigismund_waza/Carowie_Szujscy_na_sejmie_warszawskim_Jan_Matejko_18_century_thumb.jpg" height="100" >
+		</br><small>"Цар Шуйскі ў Варшаве"</small>
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-figures/sigismund_waza/minin.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Жигимонт (Сигизмунд) III Ваза" src="../../images/img-figures/sigismund_waza/minin.jpg" height="100" >
-		</br><small>Память о войсках Жигимонта III Вазы в Москве</small>
+		<img alt="Жыгімонт III Ваза" src="../../images/img-figures/sigismund_waza/minin.jpg" height="100" >
+		</br><small>Памяць пра войскі Жыгімонта III Вазы ў Маскве</small>
 		</a>
 		</div>		
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-events/war_moscow_1610/Truce_of_Deulino_1618-1619.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Война с Московией 1609-1618" src="../../images/img-events/war_moscow_1610/Truce_of_Deulino_1618-1619_thumb.jpg" height="100">
-		</br><small>Итог войны, Деулинское перемирие</small>
+		<img alt="Вайна з Масковіяй 1609-1618" src="../../images/img-events/war_moscow_1610/Truce_of_Deulino_1618-1619_thumb.jpg" height="100">
+		</br><small>Вынік вайны, Дэўлінскае перамір'е</small>
 		</a>
 		</div>
 		

@@ -37,10 +37,10 @@
 		<p class="img-float-left">
 		<a href="../../images/img-figures/lesik/Jazep_Liosik.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Язеп Лёсик" src="../../images/img-figures/lesik/Jazep_Liosik_thumb.jpg" height="160">
-		
+		<img alt="Язеп Лёсик" src="../../images/img-figures/lesik/Jazep_Liosik_thumb.jpg" height="160">		
 		</a>
-		</p>		
+		</p>
+				
 		<p>
 		Иосиф (Язеп) Юрьевич Лёсик (18 ноября 1883 - 1 апреля 1940) — белорусский общественный и политический деятель, 
 		писатель, публицист, языковед, педагог. Председатель Рады БНР. Академик АН БССР (1928). Родной дядя Якуба Коласа

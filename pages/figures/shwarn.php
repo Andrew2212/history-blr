@@ -11,7 +11,7 @@
   	<meta property="og:image" content="http://history-belarus.by/images/img-figures/swarn/swarn.jpg" />
 
 	<!-- ***Title*** -->
- 	<title>Шварн. История Беларуси</title>
+ 	<title>В. князь Шварн</title>
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_figures.php"); ?>
@@ -30,17 +30,20 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Шварн 
+		<h3>В. князь Шварн 
 		</br><small>король Руси, В. кн. Литовский</small></h3>
 		<p>
-		Шварн(1230-1269) — Великий князь Литовский (1267-1269), зять <a href="mindowg.php">Миндовга</a>.
+		Шварн (1230-1269) — Великий князь Литовский (1267-1269), зять <a href="mindowg.php">Миндовга</a>.
 		</p>
 		<p class="img-float-left">
-			<img src="../../images/img-figures/swarn/swarn.jpg" height="180" >
+		<a href="../../images/img-figures/swarn/swarn.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/swarn/swarn.jpg" height="140" >
 		</p>
 		<p class="img-float-right">
-			<a target="_blank" href="../../images/img-figures/mindowg/volyn_big.jpg">
-			<img src="../../images/img-figures/mindowg/volyn_big_thumb.jpg" height="160"/>
+			<a href="../../images/img-figures/mindowg/volyn_big.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/mindowg/volyn_big_thumb.jpg" height="140"/>
 			</br><small>1260-е г. Новогородское 
 			</br>и Волынское княжества</small>
 			</a>
@@ -64,6 +67,13 @@
 		Но уже в 1264 году вместе с пинским войском возвратился в Новогородок, где соединился с дружинами новогородских бояр и пошёл устанавливать свою власть в Литве.
 		</br>Княжил вместе со Шварном, с помощью которого завоевал Нальшаны и Дзяволтву. 
 		В 1267 году оставил власть Шварну и ушёл в монастырь на Волыни.
+		</p>
+		<p class="img-float-center">
+		<a href="../../images/img-places/nalsen/mendog_voiszalk.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Нальшаны, Дяволтва" src="../../images/img-places/nalsen/mendog_voiszalk_thumb.jpg" height="140">
+		</br><small>1262-64 Войшелк, Шварн и смерть Миндовга</small>
+		</a>
 		</p>
 		<p>
 		После того, как Войшелк был убит братом Шварна, Львом Даниловичем, положение Шварна в Литве стало шатким. 

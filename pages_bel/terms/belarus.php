@@ -1,16 +1,16 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="be">
   <head>
      
 <!-- ***Title*** -->
- 	<title>Беларусь. История Беларуси</title>
+ 	<title>Беларусь</title>
 
 <!-- ***Meta*** -->
-    <meta name="description" content="Ликбез по истории белорусского государства — тысяча лет в 10 абзацах." />
+    <meta name="description" content="Кароткі лікбез па гісторыі беларускай дзяржавы — тысяча гадоў у 10 абзацах." />
     <meta name="keywords" itemprop="keywords" content="
-	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
-	 <meta property="og:image" content="http://history-belarus.by/images/img-terms/belarus/blr_title.jpg" />
+	 Беларусь, беларускі этнас, рэлігія ў Беларусі, беларусы, кароткая гісторыя Беларусі, гісторыя Беларусі, гісторыя Беларусі коратка ў датах" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-terms/belarus/blr_title.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>
@@ -32,58 +32,58 @@
     
 		<h1>Беларусь
 		</br><small>
-		<a href="blr_etnos.php">этнос</a>,
-		<a href="blr_mova.php">язык</a>,  
-		<a href="religion_blr.php">религия</a>, 
-		<a href="../download/_download_intro.php">карты и документы</a></small>
+		<a href="blr_etnos.php">этнас</a>,
+		<a href="blr_mova.php">мова</a>,  
+		<a href="religion_blr.php">рэлігія</a>, 
+		<a href="../download/_download_intro.php">мапы і дакументы</a></small>
 		</h1>
 		
 		<div class="col-md-12 img-float-center" >
 			
 			<div class=" col-md-4 ">
 			<a href="blr_flag.php">
-			Национальный флаг</br>
+			Нацыянальны сцяг</br>
 			<img src="../../images/img-terms/belarus/flagBChB.jpg" height="100" class="img-float-center">
 			</a>
 			</div>
 			
 			<div class=" col-md-4 ">
 			<a href="blr_hymn.php">
-			Национальный гимн</br>
+			Нацыянальны гімн</br>
 			<img src="../../images/img-terms/belarus/blr.jpg" height="100" class="img-float-center">
 			</a>
 			</div>
 			
 			<div class=" col-md-4 ">
 			<a href="blr_gerb.php">
-			Национальный герб</br>
+			Нацыянальны герб</br>
 			<img src="../../images/img-terms/belarus/pagonia.jpg" height="100" class="img-float-center">
 			</a>
 			</div>
 			
 		</div>
 		
-		<h2><a href="../times/10_vek.php">X век</a></h2>
+		<h2><a href="../times/10_vek.php">X стагодзьдзе</a></h2>
 		<p>
-			 Заложены основы государственности на <a href="../download/blr_people.php">белорусских землях</a>. 
+			 Закладзены асновы дзяржаўнасці на <a href="../download/blr_people.php">беларускіх землях</a>. 
 		</p>
 		<p>
-		 На пути из "варяг в греки" создано государство кривичей —
-			  <a href="../terms/polotsk_principality.php">Полоцкое княжество</a>. 
-			  Первые летописные сведения о нем связаны со скандинавскими варягами. 
-			  Хроника "Деяния данов" (Gesta Danorum) 
-			  <a target="_blank" href="../../images/img-terms/belarus/polotsk_libre_saga.pdf">рассказывает о походе на Полоцк (Palteskja)</a> 
-			  легендарного короля Фроди I (V-VI в. н.э.)	
+		 На шляху з "вараг у грэкі" створана дзяржава крывічэй —
+			  <a href="../terms/polotsk_principality.php">Полацкае княства</a>. 
+			  Першыя летапісныя звесткі пра яго пазвязаныя са скандынаўскімі варагамі. 
+			  Хроніка "Дзеі данаў" (Gesta Danorum) 
+			  <a target="_blank" href="../../images/img-terms/belarus/polotsk_libre_saga.pdf">расказвае пра паход на Полацк (Palteskja)</a> 
+			  легендарнага караля Фродзі I (V-VI ст. н.э.)	
 		</p>
 		<p>
-			Первым упомянутым в летописях князем Полоцким был <a href="../figures/rogvolod_rogneda.php">Рогволод</a>. 
-			И последующие князья Полоцкие именовались в хрониках "Рогволожи внуки" или 
-			Изяславовичи (по имени сына <a href="../figures/rogvolod_rogneda.php">Рогнеды</a> и внука Рогволода — 
-			<a href="../figures/rogvolod_rogneda.php">Изяслава</a>)
+			Першым узгаданым у летапісах князём Полацкім быў <a href="../figures/rogvolod_rogneda.php">Рагвалод</a>. 
+			І наступныя князі Полацкія менаваліся ў хроніках "Унукі Рагвалода" ці 
+			Ізяслававічы (па імі сына <a href="../figures/rogvolod_rogneda.php">Рагнеды</a> і ўнука Рагвалода — 
+			<a href="../figures/rogvolod_rogneda.php">Ізяслава</a>)
 		</p>
 		<p>	
-			В конце века состоялось крещение Полоцка легендарным христианским миссионером и путешественником 
-			<a href="../figures/torwald.php">Торвальдом Кодранссоном</a>.
+			Напрыканцы стагоддзя адбылося хрышчэнне Полацка легендарным хрысціянскім місіянерам і вандроўнікам 
+			<a href="../figures/torwald.php">Торвальдам Кадрансанам</a>.
 		</p>
 		
 	<div class="col-md-12">
@@ -91,8 +91,8 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/religion_blr/viking expeditions.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Полоцкое княжество" src="../../images/img-terms/religion_blr/viking expeditions_thumb.jpg" height="100">
-		</br><small>Экспедиции викингов </small>	
+		<img alt="Полацкае княства" src="../../images/img-terms/religion_blr/viking expeditions_thumb.jpg" height="100">
+		</br><small>Экспедыцыі вікінгаў </small>	
 		</a>
 		</div>
 		
@@ -100,45 +100,45 @@
 		<a href="../../images/img-terms/polotsk_principality/saga_ditrek.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/polotsk_principality/saga_ditrek_thumb.jpg" height="100">
-		</br><small>А. Н. Веселовский о Полоцке</small>	
+		</br><small>А. М. Весялоўскі пра Полацк</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 			<a href="../../images/img-figures/rogvolod_rogneda/1844_hstorie_lelevel.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="Великое княжество Литовское, ВКЛ" src="../../images/img-figures/rogvolod_rogneda/1844_hstorie_lelevel_thumb.jpg" height="100"/>
-			</br><small>Князья Полоцкие</small>
+			<img alt="Вялікае княства Літоўскае, ВКЛ" src="../../images/img-figures/rogvolod_rogneda/1844_hstorie_lelevel_thumb.jpg" height="100"/>
+			</br><small>Князі Полацкія</small>
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/religion_blr/saga_torwald.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Путь из варяг в греки" src="../../images/img-terms/religion_blr/saga_torwald_thumb.jpg" height="100">
-		</br><small>Сага о крещении</small>
+		<img alt="Шлях з вараг у грэкі" src="../../images/img-terms/religion_blr/saga_torwald_thumb.jpg" height="100">
+		</br><small>Сага пра хрышчэнне</small>
 		</a>
 		</div>
 		
 	</div>
 		
-		<h2><a href="../times/11_vek.php">XI век</a></h2>
+		<h2><a href="../times/11_vek.php">XI стагодзьдзе</a></h2>
 		<p>
 		
-			Век расцвета княжества (занимало почти треть современной Беларуси).
-			</br>Княжение двух князей — <a href="../terms/polotsk_principality.php">Брячеслава</a> (1003-1044) и <a href="../figures/charadzej.php">Всеслава "Чародея"</a> (1044-1101). 
+			Стагоддзе росквіту княства (займала амаль траціну сучаснай Беларусі).
+			</br>Княжанне двух князёў — <a href="../terms/polotsk_principality.php">Брачыслава</a> (1003-1044) і <a href="../figures/charadzej.php">Усяслава "Чарадзея"</a> (1044-1101). 
 		</p>
 		
 		<p>
-			Походы на Новгород, противостояние с Рюриковичами-Ярославичами и <a href="../events/battle_nemiga.php">битва на Немиге</a>. 
+			Паходы на Ноўгарад, супрацьстаянне з Рурыкавічамі-Яраславічамі і <a href="../events/battle_nemiga.php">бітва на Нямізе</a>. 
 		</p>
 		<p>	
-			Тесные связи со Скандинавией. О противостоянии Брячеслава с Ярославичами сложена "Сага об Эймунде", 
-			  в которой конунг Эймунд выступает на стороне Брячеслава. Софья, княжна Минская,
-			  была женой датского короля Вальдемара I Великого и королевой Датской. 			
+			Цесныя сувязі са Скандынавіяй. Пра супрацьстаянне Брачыслава з Яраславічамі складзена "Сага пра Эймунда", 
+			  у якой конунг Эймунд выступае на боку Брачыслава. Соф'я, князёўна Мінская,
+			  была жонкай дацкага караля Вальдэмара I Вялікага і каралевай Дацкай. 			
 		</p>
 		<p>
-			<a href="../terms/religion_blr.php">Язычество и христианство</a>. Строительство Софийского собора в Полоцке и князья, <i>"советующиеся с волхвами и рожденные от волхования"</i>.
+			<a href="../terms/religion_blr.php">Паганства і хрысціянства</a>. Будаўніцтва Сафійскага сабора ў Полацку і князі, <i>"якія раяцца з вешчунамі і народжаныя ад вяшчунства"</i>.
 		</p>
 		
 	<div class="col-md-12">
@@ -146,62 +146,62 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/_img-index/blr_10ce_etno_variag_way.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/_img-index/blr_10ce_etno_variag_way_thumb.jpg" height="100">
-		</br><small>Племенные союзы</small>
+		<img alt="Гісторыя Беларусі" src="../../images/_img-index/blr_10ce_etno_variag_way_thumb.jpg" height="100">
+		</br><small>Племянныя звязы</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/_img-index/blr_10ce_variag_vay.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/_img-index/blr_10ce_variag_vay_thumb.jpg" height="100">
-		</br><small>Путь из варяг в греки</small>
+		<img alt="Гісторыя Беларусі" src="../../images/_img-index/blr_10ce_variag_vay_thumb.jpg" height="100">
+		</br><small>Шлях з вараг у грэкі</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/_img-index/blr_10ce_country_variag_way.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/_img-index/blr_10ce_country_variag_way_thumb.jpg" height="100">
-		</br><small>Полоцкое княжество X-XI вв</small>
+		<img alt="Гісторыя Беларусі" src="../../images/_img-index/blr_10ce_country_variag_way_thumb.jpg" height="100">
+		</br><small>Полацкае княства X-XI ст</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/belarus/polotsk_global.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/img-terms/belarus/polotsk_global_thumb.jpg" height="100">
-		</br><small>Полоцкое княжество на карте Европы</small>
+		<img alt="Гісторыя Беларусі" src="../../images/img-terms/belarus/polotsk_global_thumb.jpg" height="100">
+		</br><small>Полацкае княства на мапе Еўропы</small>
 		</a>
 		</div>
 		
 	</div>
 		
-		<h2><a href="../times/12_vek.php">XII век</a></h2>
+		<h2><a href="../times/12_vek.php">XII стагодзьдзе</a></h2>
 		<p>
-			 Век феодальной раздробленности, наступление на язычество и <i>"свободность полоцкая або Венеция"</i>.
+			 Стагоддзе феадальнай раздробленасці, наступ на паганства і <i>"вольнасць Полацкая або Венецыя"</i>.
 		</p>			 
 		<p>
-			После смерти Всеслава Чародея, Полоцкое княжество (охватывало примерно половину современной Беларуси и 
-			 достигало берегов Рижского залива) было разделено на Минское, Витебское, Друцкое, Изяславское, Логойское, Стрежевское и Городцовское княжества 
-			 между его сыновьями. Гродненское и Туровское княжества распадаются на уделы.
+			Пасля смерці Усяслава Чарадзея, Полацкае княства (ахапляла прыкладна палову сучаснай Беларусі і 
+			 дасягала берагоў Рыжскага заліва) было падзелена на Мінскае, Віцебскае, Друцкае, Ізяслаўскае, Лагойскае, Стражэўскае і Гарадцоўскае княствы 
+			 паміж яго сынамі. Гарадзенскае і Тураўскае княствы распадаюцца на ўдзелы.
 		</p>
 		<p>
-			 Последнее долгое правление Полоцкого князя — <a href="../terms/dwina_stouns.php"> Рогволода-Бориса</a> (1101-1128). 
-			 После него возростает роль городского веча и конец XII века характеризуется, 
-			 как <i>"свободность полоцкая або Венеция"</i>
+			 Апошняе доўгае кіраванне Полацкага князя — <a href="../terms/dwina_stouns.php"> Рагвалода-Барыса</a> (1101-1128). 
+			 Пасля яго ўзрастае роля гарадскога веча і канец XII стагоддзя характарызуецца, 
+			 як <i>"вольнасць Полацкая або Венецыя"</i>
 		</p>			 
 		<p>
-		К середине XII века <a href="../terms/religion_blr.php">христианство</a> стало укореняться на белорусской земле. 
-		С этим периодом связаны имена <a href="../figures/kirill_tur.php">Кирилла Туровского</a> (1130-1182) и 
-		св. <a href="../figures/efrosinia.php">Ефросинии Полоцкой</a> (1101-1167). 
-		<a href="../terms/dwina_stouns.php">Двинские (Борисовы) камни</a> — массовое крещение языческих капищь.
+		Да сярэдзіны XII стагоддзя <a href="../terms/religion_blr.php">хрысціянства</a> стала ўкараняцца на беларускай зямлі. 
+		З гэтым перыядам злучаны імёны <a href="../figures/kirill_tur.php">Кірыла Тураўскага</a> (1130-1182) і 
+		святой <a href="../figures/efrosinia.php">Ефрасінні Полацкай</a> (1101-1167). 
+		<a href="../terms/dwina_stouns.php">Двінскія (Барысавы) камяні</a> — масавае хрышчэнне паганскіх капішчаў.
 		</p>			 
 		<p>
-			На западе и северо-западе Беларуси — на "землях <a href="../terms/yotving.php">ятвягов</a>, <a href="../places/litwa.php">литвы</a>
-			 и мелких литовских народков" <small><a href="../download/shafarik.php">(Й. Шафарик)</a></small> 
-			  собственная государственность только складывается. На эти земли идет миграция <a href="../terms/lutizy.php">полабских славян</a>, 
-			  уходящих от немецкой экспансии в западной балтике.			 				  			
+			На захадзе і паўночным захадзе Беларусі — на "землях <a href="../terms/yotving.php">яцвягаў</a>, <a href="../places/litwa.php">Літвы</a>
+			 і дробных літоўскіх народкаў" <small><a href="../download/shafarik.php">(Ё. Шафарык)</a></small> 
+			  уласная дзяржаўнасць толькі складаецца. На гэтыя землі ідзе міграцыя <a href="../terms/lutizy.php">палабскіх славянаў</a>, 
+			  якія сыходзілі ад нямецкай экспансіі ў заходняй балтыцы.			 				  			
 		</p>
 		
 	<div class="col-md-12">		
@@ -209,64 +209,64 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/polotsk_principality/about_Polotsk_duces.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Князь Рогволод-Борис и Двинские камни" src="../../images/img-terms/polotsk_principality/about_Polotsk_duces_thumb.jpg" height="100">
-		</br><small>О князьях полоцких</small>	
+		<img alt="Князь Рагвалод-Барыс і Двінскія камяні" src="../../images/img-terms/polotsk_principality/about_Polotsk_duces_thumb.jpg" height="100">
+		</br><small>Пра князёў Полацкіх</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/polotsk_principality/cronicle_Litowska.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Князь Рогволод-Борис и Двинские камни" src="../../images/img-terms/polotsk_principality/cronicle_Litowska_thumb.jpg" height="100">
-		</br><small><i>"О полоцкой свободности 
-		</br>або Венеции"</i></small>	
+		<img alt="Князь Рагвалод-Барыс і Двінскія камяні" src="../../images/img-terms/polotsk_principality/cronicle_Litowska_thumb.jpg" height="100">
+		</br><small><i>"Пра полацкую вольнасць 
+		</br>ці Венецыі"</i></small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/polotsk_principality/dvina_stouns.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Князь Рогволод-Борис и Двинские камни" src="../../images/img-terms/polotsk_principality/dvina_stouns_thumb.jpg" height="100">
-		</br><small>Двинские камни</small>
+		<img alt="Князь Рагвалод-Барыс і Двінскія камяні" src="../../images/img-terms/polotsk_principality/dvina_stouns_thumb.jpg" height="100">
+		</br><small>Двінскія камяні</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/religion_blr/blr_pogan.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Князь Рогволод-Борис и Двинские камни"src="../../images/img-terms/religion_blr/blr_pogan_thumb.jpg" height="100">
-		</br><small>"Языческое наследие"</small> 	
+		<img alt="Князь Рагвалод-Барыс і Двінскія камяні"src="../../images/img-terms/religion_blr/blr_pogan_thumb.jpg" height="100">
+		</br><small>"Паганская спадчына"</small> 	
 		</a>
 		</div>	
 		
 	</div>
 		
-		<h2><a href="../times/13_vek.php">XIII век</a></h2>
+		<h2><a href="../times/13_vek.php">XIII стагодзьдзе</a></h2>
 		<p>
-			В Пруссии и Ливонии доминируют Тевтонский и Ливонский Ордена. Снижается роль Полоцка в транзитной торговле по Западной Двине.
+			У Прусіі і Лівоніі дамінуюць Тэўтонскі і Лівонскі Ордэны. Зніжаецца роля Полацка ў транзітным гандлі па Заходняй Дзвіне.
 		</p>			 
 		<p>
-			 Завершается миграция <a href="../terms/lutizy.php">полабских славян</a> на северо-запад белорусских земель
-			<small>[ подробно описана в классическом труде <a href="../download/shafarik.php">Й. Шафарика</a>]</small> 
+			 Завяршаецца міграцыя <a href="../terms/lutizy.php">палабскіх славянаў</a> на паўночны захад беларускіх зямель
+			<small>[ Падрабязна апісана ў класічнай працы <a href="../download/shafarik.php">Ё. Шафарыка</a>]</small> 
 		</p>			 
 		<p>
-			В правление <a href="../figures/mindowg.php">Миндовга</a> формируется 
-			 <a href="../terms/wkl.php">княжество Литовское</a>,
-			  со столицей в <a href="../places/nowogrudok.php">Новогрудке</a> 
-			 (позже перенесенной в <a href="../places/wilno.php">Вильно</a>).
+			Падчас кіравання <a href="../figures/mindowg.php">Міндоўга</a> фармуецца 
+			 <a href="../terms/wkl.php">княства Літоўскае</a>,
+			  са сталіцай у <a href="../places/nowogrudok.php">Навагрудку</a> 
+			 (пазней перанесена ў <a href="../places/wilno.php">Вільню</a>).
 		</p>			 
 		<p>
-			 После смерти его сына Войшалка и зятя <a href="../figures/shwarn.php">Шварна</a>, княжеская (королевская) династия обрывается.
+			 Пасля смерці яго сына Войшалка і зяця <a href="../figures/shwarn.php">Шварна</a>, княская (каралеўская) дынастыя абрываецца.
 	</p>
 	<p>		
-		<i>Anarchie</i>  или <i>sans duc.</i> (<i>анархия, без князя</i>; франц.) — так характеризовали в старых учебниках период с 1223 года 
-		в Полоцком княжестве и с 1267 в княжестве Литовском. 
-		Конец этого периода связывали с княжением детей Лютувера (Lutuver) — в 1307 князя Воина в Полоцке и в 1291 князя 
-		<a href="../figures/vyten.php">Витеня</a> в Литве.
+		<i>Anarchie</i>  ці <i>sans duc.</i> (<i>анархія, без князя</i>; франц.) — так характарызавалі ў старых падручніках перыяд з 1223 года 
+		ў Полацкім княстве і з 1267 у княстве Літоўскім. 
+		Канец гэтага перыяду злучалі з княжаннем дзяцей Лютувера (Lutuver) — у 1307 князя Воіна ў Полацек і ў 1291 князя 
+		<a href="../figures/vyten.php">Віценя</a> ў Літве.
 	</p>
 	<p>
-		<a href="../figures/gedimin.php">Гедимин</a>, принявший правление после Витеня и мирно (без войн)
-		объединивший оба княжества, считался третьим сыном Лютувера. По другой версии — он был наследником Рогволодовичей. 
+		<a href="../figures/gedimin.php">Гедымін</a>, які прыняў кіраванне пасля Віценя і мірна (без войнаў)
+		аб'яднаў абодва княствы, лічыўся трэцім сынам Лютувера. Па іншай версіі — ён быў спадчыннікам Рагвалодавічаў. 
 		<p>
 		
 	<div class="col-md-12">
@@ -274,24 +274,24 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/_img-index/blr_12ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/_img-index/blr_12ce_country_thumb.jpg" height="100">
-		</br><small>XII век</small>
+		<img alt="Гісторыя Беларусі" src="../../images/_img-index/blr_12ce_country_thumb.jpg" height="100">
+		</br><small>XII стагоддзе</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/belarus/polotsk_small.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/img-terms/belarus/polotsk_small_thumb.jpg" height="100">
-		</br><small>Княжества XII век</small>
+		<img alt="Гісторыя Беларусі" src="../../images/img-terms/belarus/polotsk_small_thumb.jpg" height="100">
+		</br><small>Княства XII стагоддзе</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/_img-index/blr_13ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/_img-index/blr_13ce_country_thumb.jpg" height="100">
-		</br><small>XIII век</small>
+		<img alt="Гісторыя Беларусі" src="../../images/_img-index/blr_13ce_country_thumb.jpg" height="100">
+		</br><small>XIII стагоддзе</small>
 		</a>
 		</div>
 		
@@ -299,52 +299,52 @@
 			<a href="../../images/img-figures/gedimin/kirkor_litwa_duces.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img src="../../images/img-figures/gedimin/kirkor_litwa_duces_thumb.jpg" height="100">
-			</br><small>Генеалогия Гедыминовичей</small>
+			</br><small>Генеалогія Гедымінавічаў</small>
 			</a>
 		</div>
 		
 	</div>
 			
-		<h2><a href="../times/14_vek.php">XIV век</a></h2> 
+		<h2><a href="../times/14_vek.php">XIV стагодзьдзе</a></h2> 
 		<p>
-			В правление <a href="../figures/gedimin.php">Гедимина</a> и <a href="../figures/olgerd.php">Ольгерда</a>
-			все белорусские земли собраны в единое государство — Великое княжество Литовское. 
-			</br>Происходит формирование 
-			<a href="../download/wkl_equal_etno.php">единого белорусского этноса</a>.
+			Падчас кіравання <a href="../figures/gedimin.php">Гедыміна</a> і <a href="../figures/olgerd.php">Альгерда</a>
+			Усе беларускія землі былі сабраныя ў адзіную дзяржаву — Вялікае княства Літоўскае. 
+			</br>Адбываецца фармаванне 
+			<a href="../download/wkl_equal_etno.php">адзінага беларускага этнасу</a>.
 			</p>
 			<p>			
-			В. князь <a href="../figures/gedimin.php">Гедимин</a>, стремясь интегрировать страну в европейское культурное пространство,
-			обращается к Папе Римскому Иоанну XXII, и в Великое княжество Литовское приходит котоличество. 
-			Так <a href="../terms/religion_blr.php">религия</a>, а именно разные конфессии христианства восточных и западных земель, 
-			начинает играть заметную роль в истории Беларуси.
+			Вялікі князь <a href="../figures/gedimin.php">Гедымін</a>, імкнучыся інтэграваць краіну ў еўропейскую культурную прастору,
+			звяртаецца да Папы Рымскага Іяана XXII, і ў Вялікае княства Літоўскае прыходзіць каталіцтва. 
+			Так <a href="../terms/religion_blr.php">рэлігія</a>, а менавіта розныя канфесіі хрысціянства ўсходніх і заходніх земляў,
+			пачынае аказваць заўважную ролю ў гісторыі Беларусі.
 			</p>
 			<p>	
-			В. князь Ольгерд, разбив Орду в <a href="../events/sinie_wody.php">битве на Синих Водах</a>, присоединяет Земли Руские.
-			 Великое княжество Литвоское становится крупнейшим государством Европы, страной "от моря до моря".
+			Вялікі князь Альгерд, пабіўшы Арду ў <a href="../events/sinie_wody.php">бітве на Сініх Водах</a>, далучае Землі Рускія.
+			Вялікае княства Літоўскае робіцца найбуйнейшай дзяржавай Еўропы, краінай "ад мора да мора".
 		</p>
 	
 		
-		<h2><a href="../times/15_vek.php">XV век</a></h2>
+		<h2><a href="../times/15_vek.php">XV стагодзьдзе</a></h2>
 		<p>
-		ВКЛ достигло своего расцвета. 		
-		Развитое европейское государство со сложной структурой власти 
-		(Великие <a href="dukes_wkl.php">князья</a>, <a href="weliki_marshalok.php">маршалки</a>, <a href="weliki_kancler.php">канцлеры</a>, 
-		<a href="weliki_hetman.php">гетманы</a> и тд.).
+		ВКЛ дасягнула свайго росквіту. 		
+		Развітая еўрапейская дзяржава са складанай структурай улады 
+		(Вялікія <a href="dukes_wkl.php">князі</a>, <a href="weliki_marshalok.php">маршалкі</a>, <a href="weliki_kancler.php">канцлеры</a>, 
+		<a href="weliki_hetman.php">гетманы</a> і г.д.).
 		</p>
 		<p>
-		 Первое межконфессиональное противостояние — <a href="../events/war_civil_1432.php">Гражданская война</a> 1432-1435 годов.
+		 Першае міжканфесійнае супрацьстаянне — <a href="../events/war_civil_1432.php">Грамадзянская вайна</a> 1432-1435 гадоў.
 		</p>
 		<p>
-			<a href="../events/grunwald.php">Битва под Грюнвальдом</a> — окончание войн с Тевтонским Орденом и 
-		 	присоединение <a href="../places/samogitia.php">Самогитии</a>.
+			<a href="../events/grunwald.php">Бітва пад Грунвальдам</a> — сканчэнне войнаў з Тэўтонскім Ордэнам і 
+		 	далучэнне <a href="../places/samogitia.php">Самагітыі</a>.
 		 </p>		 
 		 <p>
-		 Наступил "Золотой век" (1410-1569) — время белорусского Ренессанса.
-		 </br>Издан <a href="statut.php">Статут ВКЛ</a>, издаются труды белорусских гуманистов и просветителей.
+		 Наступіла "Залатое стагоддзе" (1410-1569) — час беларускага Рэнесансу.
+		 </br>Выданы <a href="statut.php">Статут ВКЛ</a>, выдаюцца працы беларускіх гуманістаў і асветнікаў.
 		</p>
 		<p>
-		На <a href="../download/wkl_equal_etno.php">основе ВКЛ</a>
-		 в XIII-XVI веках складывается <a href="blr_etnos.php">белорусский этнос</a>.
+		На <a href="../download/wkl_equal_etno.php">падставе ВКЛ</a>
+		 у XIII-XVI стагоддзях складаецца <a href="blr_etnos.php">беларускі этнас</a>.
 		</p>
 		
 	<div class="col-md-12">
@@ -352,51 +352,51 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/_img-index/blr_14ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/_img-index/blr_14ce_country_thumb.jpg" height="100">
-		</br><small>XIV век</small>
+		<img alt="Гісторыя Беларусі" src="../../images/_img-index/blr_14ce_country_thumb.jpg" height="100">
+		</br><small>XIV стагоддзе</small>
 		</a>
 		</div> 
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/_img-index/blr_15ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/_img-index/blr_15ce_country_thumb.jpg" height="100">
-		</br><small>XV век</small>
+		<img alt="Гісторыя Беларусі" src="../../images/_img-index/blr_15ce_country_thumb.jpg" height="100">
+		</br><small>XV стагоддзе</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 			<a href="../../images/img-terms/belarus/litwa_14_vek.jpg" class="highslide"
        		onclick="return hs.expand(this)">
-			<img alt="История Беларуси" class="img-float-centr" src="../../images/img-terms/belarus/litwa_14_vek_thumb.jpg" height="100"/>				
-			</br><small>ВКЛ по историческим источникам XIII-XIV вв</small>
+			<img alt="Гісторыя Беларусі" class="img-float-centr" src="../../images/img-terms/belarus/litwa_14_vek_thumb.jpg" height="100"/>				
+			</br><small>ВКЛ па гістарычных крыніцах XIII-XIV ст</small>
 			</a>			
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 			<a href="../../images/img-figures/gedimin/wkl_13-14ce.jpg" class="highslide"
        		onclick="return hs.expand(this)">
-			<img alt="История Беларуси" src="../../images/img-figures/gedimin/wkl_13-14ce_thumb.jpg" height="100">
-			</br><small>Границы ВКЛ XIII-XV вв</small> 	
+			<img alt="Гісторыя Беларусі" src="../../images/img-figures/gedimin/wkl_13-14ce_thumb.jpg" height="100">
+			</br><small>Межы ВКЛ XIII-XV ст</small> 	
 			</a>
 		</div>
 		
 	</div>
 		
-		<h2><a href="../times/16_vek.php">XVI век</a></h2>
+		<h2><a href="../times/16_vek.php">XVI стагодзьдзе</a></h2>
 		<p>
-		ВКЛ объединяется с Королевстовм Польским в 
-		<a href="rzeczpospolita.php">Речь Посполитую Двух Народов</a> для противостояния
-		внешним угрозам — главным образом, Московской экспансии на запад.
-		</br>Подписан акт <a href="../events/confederacia_warshawa.php">Варшавской конфедерации</a>, положивший начало религиозной свободы в Речи Посполитой (на фоне религиозых войн в Европе).
-		</br>Для уменьшения межконфессиональных противоречий и снижения влияния Москвы на внутренние дела государства 
-		принята <a href="../events/unia_religion_brest.php">Брестская уния</a> — переход православных приходов в греко-католические (униатские).
+		ВКЛ яднаецца з Каралеўствам Польскім у 
+		<a href="rzeczpospolita.php">Рэч Паспалітую Двух Народаў</a> для супрацьстаяння
+		вонкавым пагрозам — галоўным чынам, Маскоўскай экспансіі на захад.
+		</br>Падпісаны акт <a href="../events/confederacia_warshawa.php">Варшаўскай канфедэрацыі</a>, які паклаў пачатак рэлігійнай вольнасці ў Рэчы Паспалітай (на фоне рэлігійных войнаў у Еўропе).
+		</br>Для змяншэння міжканфесійных супярэчнасцяў і зніжэння ўплыву Масквы на ўнутраныя справы дзяржвы 
+		прынята <a href="../events/unia_religion_brest.php">Берасцейская унія</a> — пераход праваслаўных прыходаў у грэка-каталіцкія (уніяцкія).
 		</p> 
 	
-		<h2><a href="../times/17_vek.php">XVII век</a></h2> 
+		<h2><a href="../times/17_vek.php">XVII стагодзьдзе</a></h2> 
 		<p>
-		Кровавый век беспрерывных войн — с Московией, Швецией, Османской империей, Войском Запорожским. 
-		Ослабление центральной государственной власти в противостоянии со "<a href="shliahta.php">шляхетской демократией</a>".
+		Крывавае стагоддзе бесперапынных войн — з Масковіяй, Швецыяй, Асманскай імперыяй, Войскам Запарожскім. 
+		Паслабленне цэнтральнай дзяржаўнай улады ў супрацьстаянні са "<a href="shliahta.php">шляхецкай дэмакратыяй</a>".
 		</p>
 		
 	<div class="col-md-12">
@@ -404,44 +404,44 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/_img-index/blr_16ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/_img-index/blr_16ce_country_thumb.jpg" height="100">
-		</br><small>XVI век</small>
+		<img alt="Гісторыя Беларусі" src="../../images/_img-index/blr_16ce_country_thumb.jpg" height="100">
+		</br><small>XVI стагоддзе</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/_img-index/blr_17ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/_img-index/blr_17ce_country_thumb.jpg" height="100">
-		</br><small>XVII век</small>
+		<img alt="Гісторыя Беларусі" src="../../images/_img-index/blr_17ce_country_thumb.jpg" height="100">
+		</br><small>XVII стагоддзе</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/ross_empire/1645_russiae_blaeu.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/img-terms/belarus/1614_moskovia_thumb.jpg" height="100">
-		</br><small>1614 ВКЛ на карте Tabula Russiae</small>
+		<img alt="Гісторыя Беларусі" src="../../images/img-terms/belarus/1614_moskovia_thumb.jpg" height="100">
+		</br><small>1614 ВКЛ на мапе Tabula Russiae</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/belarus/1681_visscher_moscoviae.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" class="img-float-centr" src="../../images/img-terms/belarus/1681_visscher_moscoviae_thumb.jpg" height="100"/>				
-		</br><small>1681 ВКЛ на карте Moscoviae</small>
+		<img alt="Гісторыя Беларусі" class="img-float-centr" src="../../images/img-terms/belarus/1681_visscher_moscoviae_thumb.jpg" height="100"/>				
+		</br><small>1681 ВКЛ на мапе Moscoviae</small>
 		</a>			
 		</div>
 
 		
 	</div>
 		
-		<h2><a href="../times/18_vek.php">XVIII век</a></h2>
+		<h2><a href="../times/18_vek.php">XVIII стагодзьдзе</a></h2>
 		<p>
-		Время магнатской анархии. Попытки найти выход из государственного кризиса. 
-		<a href="../events/war_civil_1696.php">Гражданская война</a> и <a href="../events/confederacyi_18vek.php">шляхетские конфедерации</a>.
-		</br><a href="../events/war_great_north.php">Великая Северная война</a> на территории ВКЛ-Беларуси. 
-		</br>Век завершают <a href="../events/razbor_rechi.php">разделы Речи Посполитой</a> и <a href="../events/uprising_1794.php">восстание Костюшко</a> 1794 г.
+		Час магнацкай анархіі. Спробы знайсці выйсце з дзяржаўнага крызісу. 
+		<a href="../events/war_civil_1696.php">Грамадзянская вайна</a> і <a href="../events/confederacyi_18vek.php">шляхецкія канфедэрацыі</a>.
+		</br><a href="../events/war_great_north.php">Вялікая Паўночная вайна</a> на тэрыторыі ВКЛ-Беларусі. 
+		</br>Стагоддзе завяршаюць <a href="../events/razbor_rechi.php">падзелы Рэчы Паспалітай</a> і <a href="../events/uprising_1794.php">паўстанне Касцюшкі</a> 1794 г.
 		</p>
 		
 	<div class="col-md-12">
@@ -449,15 +449,15 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/_img-index/blr_18ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/_img-index/blr_18ce_country_thumb.jpg" height="100">
-		</br><small>XVIII век</small>
+		<img alt="Гісторыя Беларусі" src="../../images/_img-index/blr_18ce_country_thumb.jpg" height="100">
+		</br><small>XVIII стагоддзе</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/belarus/1740_lituania.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/img-terms/belarus/1740_lituania_thumb.jpg" height="100">
+		<img alt="Гісторыя Беларусі" src="../../images/img-terms/belarus/1740_lituania_thumb.jpg" height="100">
 		</br><small>1740 Lituania, Russia Blanca</small>
 		</a>
 		</div>
@@ -465,18 +465,18 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/belarus/1759_lotter_polska_litwa.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/img-terms/belarus/1759_lotter_polska_litwa_thumb.jpg" height="100">
+		<img alt="Гісторыя Беларусі" src="../../images/img-terms/belarus/1759_lotter_polska_litwa_thumb.jpg" height="100">
 		</br><small>1759 Lithuania-Беларусь 
-		</br>на карте Речи Посполитой</small>
+		</br>на мапе Рэчы Паспалітай</small>
 		</a>
 		</div>	
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/belarus/1770_lotter_litwa.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/img-terms/belarus/1770_lotter_litwa_thumb.jpg" height="100">
+		<img alt="Гісторыя Беларусі" src="../../images/img-terms/belarus/1770_lotter_litwa_thumb.jpg" height="100">
 		</br><small>1770 Lituania-Беларусь 
-		</br>(издана в 1778)</small>
+		</br>(выдана ў в 1778)</small>
 		</a>
 		</div>	
 		
@@ -488,12 +488,12 @@
 	
 	<p>
 	<div class="smallfont">
-	<h3>* <i>"Первое описание народов Российской империи"</i> 1799
-	</br><small>про Литву, поляков и Белую Русь</small>
+	<h3>* <i>"Першае апісанне народаў Расійскай імперыі"</i> 1799
+	</br><small>пра Літву, палякаў і Белую Русь</small>
 	</h3>
 	
-	<input type="button" class="btn btn-info btn-sm" value="Показать / Скрыть" class="input-button" 
-	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Показать / Скрыть'; }">
+	<input type="button" class="btn btn-info btn-sm" value="Паказць / Схаваць" class="input-button" 
+	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Паказаць / Схаваць'; }">
 	</p>
 
 </div>
@@ -516,21 +516,21 @@
 </div>	
 <!--/Spoiler-->	
 
-		<h2><a href="../times/19_vek.php">XIX век</a></h2>
+		<h2><a href="../times/19_vek.php">XIX стагодзьдзе</a></h2>
 		<p>
-		Белорусские земли — <a href="../terms/sewero_zapadny_kraj.php">Северо-Западный край</a> Российской Империи. 
-		</br><a href="../events/war_1812.php">Война 1812</a> года. Для Беларуси почти гражданская 
-		— ополчение последнего <a href="../figures/radziwilly.php">Радзивилла</a> против Гродненского и Белорусского <a href="../terms/husaria.php">гусарских полков</a>.
-		</br>1863 год — <a href="../events/uprising_1863.php">восстание Калиновского</a>
-		</br>Тайные патриотические и просветительские объединения студентов. <a href="filomaty.php">Филоматы и филареты</a>.
+		Беларускія землі — <a href="../terms/sewero_zapadny_kraj.php">Паўночна-Заходні край</a> Расійскай Імперыі. 
+		</br><a href="../events/war_1812.php">Вайна 1812</a> года. Для Беларусі амаль грамадзянская 
+		— ратніцтва апошняга <a href="../figures/radziwilly.php">Радзівіла</a> супраць Гарадзенскага і Беларускага <a href="../terms/husaria.php">гусарскіх палкоў</a>.
+		</br>1863 год — <a href="../events/uprising_1863.php">паўстанне Каліноўскага</a>
+		</br>Таемныя патрыятычныя і асветніцкія аб'яднанні студэнтаў. <a href="filomaty.php">Філаматы і філарэты</a>.
 		</p>
 
-		<h2><a href="../times/20_vek.php">XX век</a></h2>
+		<h2><a href="../times/20_vek.php">XX стагодзьдзе</a></h2>
 		<p>
-		Первая Мировая Война. Крушение Российской Империи. 
-		</br><a href="bnr.php">Белорусская Народная Республика</a>.
-		</br><a href="../terms/bssr.php">БССР</a> в составе СССР. Вторая Мировая война. Крушение Советского Союза. 
-		</br>Республика Беларусь.
+		Першая сусветная вайна. Крушэнне Расійскай імперыі. 
+		</br><a href="bnr.php">Беларуская Народная Рэспубліка</a>.
+		</br><a href="../terms/bssr.php">БССР</a> у складзе СССР. Другая сусветная вайна. Крушэнне Савецкага Саюза. 
+		</br>Рэспубліка Беларусь.
 		</p>
 		
 	<div class="col-md-12">
@@ -538,32 +538,32 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/_img-index/blr_19ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/_img-index/blr_19ce_country_thumb.jpg" height="100">
-		</br><small>XIX век</small>
+		<img alt="Гісторыя Беларусі" src="../../images/_img-index/blr_19ce_country_thumb.jpg" height="100">
+		</br><small>XIX стагоддзе</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/_img-index/blr_20ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/_img-index/blr_20ce_country_thumb.jpg" height="100">
-		</br><small>XX век</small>
+		<img alt="Гісторыя Беларусі" src="../../images/_img-index/blr_20ce_country_thumb.jpg" height="100">
+		</br><small>XX стагоддзе</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/belarus/bssr_20vekstart.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/img-terms/belarus/bssr_20vekstart_thumb.jpg" height="100">
-		</br><small>XIX в. Белорусские земли
-		</br>в Российской Империи</small>
+		<img alt="Гісторыя Беларусі" src="../../images/img-terms/belarus/bssr_20vekstart_thumb.jpg" height="100">
+		</br><small>XIX стагоддзе. Беларускія землі
+		</br>ў складзе Расійскай Імперыі</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/belarus/map_bnr.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/img-terms/belarus/map_bnr_thumb.jpg" height="100">
+		<img alt="Гісторыя Беларусі" src="../../images/img-terms/belarus/map_bnr_thumb.jpg" height="100">
 		</br><small>1919 БНР </small>
 		</a>
 		</div>
@@ -576,10 +576,10 @@
 	
 	<p>
 	<div class="smallfont">
-	<h3>* Границы Беларуси 1914-1946 гг</h3>
+	<h3>* Межы Беларусі 1914-1946 гг</h3>
 	
-	<input type="button" class="btn btn-info btn-sm" value="Показать / Скрыть" class="input-button" 
-	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Показать / Скрыть'; }">
+	<input type="button" class="btn btn-info btn-sm" value="Паказаць / Схаваць" class="input-button" 
+	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Паказаць / Схаваць'; }">
 	</p>
 
 </div>
@@ -603,15 +603,15 @@
 <!--/Spoiler-->	
 	
 	
-	<h3>* Дополнительные материалы</h3>
+	<h3>* Дадатковыя матэрыялы</h3>
 	<p>
-	Карты большого разрешения, летописи и архивные документы можно посмотреть и скачать <a href="../download/_download_intro.php">ТУТ</a>
+	Мапы вялікага дазволу, летапісы і архіўныя дакументы можна паглядзець і спампаваць <a href="../download/_download_intro.php">ТУТ</a>
 	</p>
 	
 	<div class="col-md-16 img-float-center">
 		<a target="_blank" href="https://youtu.be/lvPxN2VZ8gE">
         <img src="../../images/img-films/brothers/film_brothers_thumb.jpg" height="120"/>
-    		</br><small>Короткий ролик (73 сек) о дружбе народов</small>
+    		</br><small>Кароткі ролік (73 сек) пра сяброўства народаў</small>
 		</a>
 		</div>
 					

@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
   <!-- ***Title*** -->
- 	<title>Пацы, магнатский род. История Беларуси</title>
+ 	<title>Пацы, магнатский род</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Pierwszym Pacem, ktorego istnienie potwierdzaja zrodla pisane jest Pac Dowkszewicz, ktory zyl w XV w.
@@ -29,16 +29,23 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Пацы, магнатский род</h3>
+		<h1>Пацы, магнатский род</h1>
 		<p class="img-float-left">
-			<img src="../../images/img-figures/pacy/Gozdawa.jpg" height="160" >
+			<a href="../../images/img-figures/pacy/Gozdawa.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/pacy/Gozdawa.jpg" height="140" >
 			</br><small>Герб Гоздава</small>
+			</a>
 		</p>
 		<p>
 		Pierwszym Pacem, ktorego istnienie potwierdzaja zrodla pisane jest Pac Dowkszewicz, ktory zyl w XV w.
-		</br>Паходзілі ад Паца Даўкшавіча (згадваецца пад 1450), ад імя якога ўтварылся прозьвішча роду.
-		</br><i>"Родовитые, — говорю, — славные, отважные, сильные и древние, во всем мире в доброй славе, мощи и мужестве известные, народа русского дома — …Пацы, …"</i>
-		</br><small>Мелетий Смотрицкий, «Плач»; 1610</small>
+		</p>
+		<p>
+		Паходзілі ад Паца Даўкшавіча (згадваецца пад 1450), ад імя якога ўтварылся прозьвішча роду.
+		</p>
+		<p>
+		<i>"Родовитые, — говорю, — славные, отважные, сильные и древние, во всем мире в доброй славе, мощи и мужестве известные, народа русского дома — …Пацы, …"</i>
+		</br><small><a href="../figures/smotrickij.php">Мелетий Смотрицкий</a>, «Плач»; 1610</small>
 		</p>
 		<p>
 		Род известен с XV века. Основные владения рода располагались в Лидском и Гродненском поветах. Стремились утвердиться в княжестве, для чего искали поддержки в 
@@ -55,18 +62,20 @@
 		</p>
 		
 		<div class="col-md-12">
+		
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-figures/pacy/Church_of_the_St_Teresa_in_Vilno.jpg">
-			<img src="../../images/img-figures/pacy/Church_of_the_St_Teresa_in_Vilno_thumb.jpg" height="140"/>
-			</br><small>Костел Св. Терезы, 
-			</br>Вильно
+			<a href="../../images/img-figures/pacy/Church_of_the_St_Teresa_in_Vilno.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/pacy/Church_of_the_St_Teresa_in_Vilno_thumb.jpg" height="100"/>
+			</br><small>Костел св. Терезы, Вильно
 			</small>
 			</a>
 			</div>
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-figures/pacy/pac_Dowspuda_castle.jpg">
-			<img src="../../images/img-figures/pacy/pac_Dowspuda_castle_thumb.jpg" height="140"/>
+			<a href="../../images/img-figures/pacy/pac_Dowspuda_castle.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/pacy/pac_Dowspuda_castle_thumb.jpg" height="100"/>
 			</br><small>Дворец Пацев,
 			</br> Довспуда (Подляшье)
 			</small>
@@ -74,8 +83,9 @@
 			</div>
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-figures/kishky/polasie.jpg">
-			<img src="../../images/img-figures/kishky/polasie_thumb.jpg" height="160" >
+			<a href="../../images/img-figures/kishky/polasie.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/kishky/polasie_thumb.jpg" height="100" >
 			</br><small>Подляшье</small>
 			</a>
 			</div>

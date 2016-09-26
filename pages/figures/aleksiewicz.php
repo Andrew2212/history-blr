@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
   <!-- ***Title*** -->
- 	<title>Светлана Алексиевич. История Беларуси</title>
+ 	<title>Светлана Алексиевич</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Офицер Почетного Ордена искусств и литературы Французской Республики, Лауреат Нобелевской премии по литературе 2015 года.
@@ -29,7 +29,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h2>Светлана Алексиевич</h2>
+		<h1>Светлана Алексиевич</h1>
 				
 		<p class="img-float-left">
 		<a href="../../images/img-figures/aleksiewicz/Swetlana_Alexijewitsch.jpg" class="highslide"

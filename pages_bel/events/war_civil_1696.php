@@ -1,14 +1,14 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="be">
   <head>
   <!-- ***Title*** -->
-    <title>Гражданская война XVII в. История Беларуси</title>
+    <title>Грамадзянская вайна XVII ст.</title>
 <!-- ***Meta*** -->  
-    <meta name="description" content="Шляхетская конфедерация (Радзивиллы, Пацы, Огинские, Вишневецкие) против Сапег — правителей ВКЛ. 	
+    <meta name="description" content="Шляхецкая канфедэрацыя (Радзівілы, Пацы, Агінскія, Вішнявецкія) супраць Сапегаў — уладцаў ВКЛ. 	
 	" />
-	<meta name="keywords" itemprop="keywords" content="гГражданская война ВКЛ, Сапеги, шляхетская конфедерация, 
-	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
+	<meta name="keywords" itemprop="keywords" content="Грамадзянскай вайна ВКЛ, Сапегі, шляхецкая канфедэрацыя, 
+	гісторыя Беларусі коратка ў датах, асноўныя падзеі ў гісторыі Беларусі, гісторыя ВКЛ, ВКЛ, гісторыя Беларусі, Кароткая гісторыя Беларусі, Гісторыя Беларусі коратка" />
 	<meta property="og:image" content="http://history-belarus.by/images/img-events/war_civil_1696/title.jpg" />
 
 <!-- ***Include Header*** -->
@@ -28,43 +28,43 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_events.php"); ?>
   
-		<h3>Гражданская война в ВКЛ 1696—1702</h3>
+		<h1>1696—1702 Грамадзянская вайна</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/war_civil_1696/gerb_sapieha.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливонская война" src="../../images/img-events/war_civil_1696/gerb_sapieha.jpg" height="160">
-		</br><small>Герб Сапег "Лис"</small>
+		<img alt="Лівонская вайна" src="../../images/img-events/war_civil_1696/gerb_sapieha.jpg" height="160">
+		</br><small>Герб Сапегаў "Ліс"</small>
 		</a>
 		</p>
 		
 		<p class="img-float-right">
 		<a href="../../images/img-events/war_civil_1696/ruzany.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливонская война" src="../../images/img-events/war_civil_1696/ruzany.jpg" height="160">
-		</br><small>Палац Сапег. Ружаны</small>
+		<img alt="Лівонская вайна" src="../../images/img-events/war_civil_1696/ruzany.jpg" height="160">
+		</br><small>Палац Сапегаў. Ружаны</small>
 		</a>
 		</p>
 		
 		<p>
-		Гражданская война 1696-1702 годов в Великом княжестве Литовском (так называемая "Домашняя война") разгорелась во время "бескоролевья" 
-		после смерти Яна ІІІ Собеского. Противоборствующими сторонами выступали чрезмерно усилившиеся <a href="../figures/sapegi.php">Сапеги</a>
-		 и конфедерация шляхты во главе с <a href="../figures/radziwilly.php">Радзивиллами</a>, Вишневецким, 
-		 <a href="../figures/pacy.php">Пацами</a> и <a href="../figures/oginskie.php">Огинскими</a>.
+		Грамадзянская вайна 1696-1702 гадоў у Вялікім княстве Літоўскім (так званая "Хатняя вайна") разгарэлася ў час "бескаралеўя" 
+		пасля смерці Яна ІІІ Сабескага. Супраціўнымі бакамі выступалі празмеру ўзмацнелыя <a href="../figures/sapegi.php">Сапегі</a>
+		 і канфедэрацыя шляхты на чале з <a href="../figures/radziwilly.php">Радзівіламі</a>, Вішнявецкім, 
+		 <a href="../figures/pacy.php">Пацамі</a> і <a href="../figures/oginskie.php">Агінскімі</a>.
 		</p>
 		<p>
-		В 1682-97 годах шляхетский род Сапегов приобрёл наибольшее влияние в <a href="../terms/wkl.php">Великом княжестве Литовском</a>. Иностранные дипломаты считали 
-		Бенедикта Павла Сапегу фактическим правителем ВКЛ. Его старший брат, Ян Казимир Сапега, был 
-		<a href="../terms/weliki_hetman.php">великим гетманом Литовским</a>.
+		У 1682-97 гадах шляхецкі род Сапегаў набыў найвялікі ўплыў у <a href="../terms/wkl.php">Вялікім княстве Літоўскім</a>. Замежныя дыпламаты лічылі 
+		Бенедыкта Паўла Сапегу фактычна ўладцам ВКЛ. Яго старэйшы брат, Ян Казімір Сапега, быў 
+		<a href="../terms/weliki_hetman.php">вялікім гетманам Літоўскім</a>.
 		</p>
 		<p>
-		В резиденции Сапег — Ружанском дворце, построенном еще <a href="../figures/sapega.php">Львом Сапегой</a> — хранилась казна ВКЛ. 
-		Он был значимым центром политической жизни Великого княжества Литовского. Здесь решались многие государственные вопросы, 
-		проходили приемы послов и королей. Дворец по роскоши сравнивали с Версалем.
+		У рэзідэнцыі Сапегаў — Ружанскім палацы, пабудаваным яшчэ <a href="../figures/sapega.php">Ільвом Сапегай</a> — захоўваўся скарб ВКЛ. 
+		Ён быў значным цэнтрам палітычнага жыцця Вялікага княства Літоўскага. Тут вырашаліся многія дзяржаўныя пытанні, 
+		праходзілі прыёмы амбасадараў і каралёў. Палац па раскошы параўноўвалі з Версалем.
 		</p>
 		<p>
-		К концу правления короля <a href="../terms/dukes_wkl.php">Яна III Собеского</a> сформировалась конфедерация шляхты против Сапег 
-		— Радзивиллы, Пацы, Огинские, Вишневецкие.
+		Да канца кіравання караля <a href="../terms/dukes_wkl.php">Яна III Сабескага</a> сфарміравалася канфедэрацыя шляхты супраць Сапегаў 
+		— Радзівілы, Пацы, Агінскія, Вішнявецкія.
 		</p>
 		
 		<div class="col-md-12">
@@ -72,66 +72,66 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_civil_1696/Benedykt_Paval_Sapieha.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливонская война" src="../../images/img-events/war_civil_1696/Benedykt_Paval_Sapieha.jpg" height="120">
-		</br><small>Бенедикт Павел Сапега</small>
+		<img alt="Лівонская вайна" src="../../images/img-events/war_civil_1696/Benedykt_Paval_Sapieha.jpg" height="120">
+		</br><small>Бенедыкт Павал Сапега</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_civil_1696/Kazimer_Sapieha.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливонская война" src="../../images/img-events/war_civil_1696/Kazimer_Sapieha.jpg" height="120">
-		</br><small>Казимир Ян Сапега</small>
+		<img alt="Лівонская вайна" src="../../images/img-events/war_civil_1696/Kazimer_Sapieha.jpg" height="120">
+		</br><small>Казімір Ян Сапега</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_civil_1696/Grzegor_Oginski.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливонская война" src="../../images/img-events/war_civil_1696/Grzegor_Oginski.jpg" height="120">
-		</br><small>Григорий Огинский</small>
+		<img alt="Лівонская вайна" src="../../images/img-events/war_civil_1696/Grzegor_Oginski.jpg" height="120">
+		</br><small>Рыгор Агінскі</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_civil_1696/Michal_Vishniaviecki.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливонская война" src="../../images/img-events/war_civil_1696/Michal_Vishniaviecki.jpg" height="120">
-		</br><small>Михаил Вишневецкий</small>
+		<img alt="Лівонская вайна" src="../../images/img-events/war_civil_1696/Michal_Vishniaviecki.jpg" height="120">
+		</br><small>Міхал Вішнявецкі</small>
 		</a>
 		</div>
 		
 		</div>
 		
 		<p>
-		Выборы нового короля после смерти Яна Собеского раскололи великолитовскую шляхту: 
-		Сапеги приняли сторону французского принца Луи де Конти, их противники поддержали саксонского курфюрста Фридриха Августа, 
-		вскоре избранного королём под именем <a href="../terms/dukes_wkl.php">Августа II</a>.
+		Выбары новага караля пасля смерці Яна Сабескага раскалолі вялікалітоўскую шляхту: 
+		Сапегі прынялі бок французскага прынца Луі дэ Конці, іх супернікі падтрымалі саксонскага курфюрста Фрыдрыха Аўгуста, 
+		неўзабаве абранага каралём пад імем <a href="../terms/dukes_wkl.php">Аўгуста II</a>.
 		</p>
 		<p>
-		Новый король Август II поручил Григорию Огинскому лишить Сапег реальной власти над войсками ВКЛ.
+		Новы кароль Аўгуст II даручыў Рыгору Агінскаму пазбавіць Сапегаў рэальнай улады над войскам ВКЛ.
 		</p>
 		<p>
-		К 1699 году в ВКЛ начало складываться двоевластие. Григорий Огинский объявлен генеральным региментарием армии. 
+		Да 1699 года ў ВКЛ пачало складвацца двоеўладдзе. Рыгор Агінскі абвешчаны генеральным рэгіментарыям арміі. 
 		</p>
 		<p>
-		[ <small>Региментарий — заместитель гетмана или назначенный королём или сеймом командующий отдельной группы войск, который руководит войсками в то время,
-		 когда гетман не может выполнять свои функции. Командир Посполитого рушения.</small> ]
+		[ <small>Рэгіментарый — намеснік гетмана ці прызначаны каралём ці соймам камандуючы асобнай групы войскаў, які кіруе войскамі ў той час,
+		 калі гетман не можа выконваць свае функцыі. Камандзір Паспалітага рушэння.</small> ]
 		</p>
 		<p>
-		В 1700 году Сапеги, используя необходимость поставить Августу II вспомогательный корпус в начавшейся <a href="war_great_north.php">Северной войне</a>
-		 со Швецией, попытались вернуть своё влияние.
+		У 1700 годзе Сапегі, скарыстаючы неабходнасць паставіць Аўгусту II дапаможны корпус ў распачатай <a href="war_great_north.php">Паўночнай вайне</a>
+		 са Швецыяй, паспрабавалі вярнуць свой уплыў.
 		</p>
 		<p>
-		В ответ конфедерация созвала "Посполитое рушение" (ополчение).
+		У адказ канфедэрацыя склікала "Паспалітае рушэнне" (узбраенне).
 		</p>
 		<p>
-		В битве под Олькениками 18 ноября 1700 года численно превосходящее войско конфедератов под командованием Михаила Вишневецкого 
-		и Григория Огинского нанесло решительное поражение армии Сапегов. Сапеги были лишены должностей и поместий.
+		У бітве пад Алькенікамі 18 лістапада 1700 года колькасна перасяжнае войска канфедэратаў пад камандаваннем Міхала Вішнявецкага 
+		і Рыгора Агінскага нанесла наважную паразу арміі Сапегаў. Сапегі былі пазбаўленыя пасад і маёнткаў.
 		</p>
 		<p>
-		1700-1702 Основой сопротивления стали бывшие владения Сапегов: Черею и Дубровно противники Сапегов взяли в 1701 году, 1702 год отмечен продолжительной осадой Быхова , которая завершилась почётной сдачей гарнизона.
-		Разрушен был также Ружанский дворец.
+		1700-1702 Асновай супраціву сталі былыя ўладанні Сапегаў: Чарэю і Дуброўна супраціўнікі Сапегаў узялі ў 1701 годзе, 1702 год адзначаны працяглай аблогай Быхава, якая скончылася ганаровай здачай гарнізона.
+		Разбураны быў таксама Ружанскі палац.
 
 		</p>
 		
@@ -140,43 +140,43 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_civil_1696/Ruzhany_palac.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливонская война" src="../../images/img-events/war_civil_1696/Ruzhany_palac_thumb.jpg" height="120">
-		</br><small>Палац Сапег.</small>
+		<img alt="Лівонская вайна" src="../../images/img-events/war_civil_1696/Ruzhany_palac_thumb.jpg" height="120">
+		</br><small>Палац Сапегаў.</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_civil_1696/Ruzhany_palac_brama.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливонская война" src="../../images/img-events/war_civil_1696/Ruzhany_palac_brama_thumb.jpg" height="120">
-		</br><small>Палац Сапег. Брама</small>
+		<img alt="Лівонская вайна" src="../../images/img-events/war_civil_1696/Ruzhany_palac_brama_thumb.jpg" height="120">
+		</br><small>Палац Сапегаў. Брама</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_civil_1696/ruzany_palac_now.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливонская война" src="../../images/img-events/war_civil_1696/ruzany_palac_now_thumb.jpg" height="120">
-		</br><small>Палац Сапег. Сегодня</small>
+		<img alt="Лівонская вайна" src="../../images/img-events/war_civil_1696/ruzany_palac_now_thumb.jpg" height="120">
+		</br><small>Палац Сапегаў. Сёння</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_civil_1696/rhuzany2.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливонская война" src="../../images/img-events/war_civil_1696/rhuzany2.jpg" height="120">
-		</br><small>Палац Сапег. Герб</small>
+		<img alt="Лівонская вайна" src="../../images/img-events/war_civil_1696/rhuzany2.jpg" height="120">
+		</br><small>Палац Сапегаў. Герб</small>
 		</a>
 		</div>
 		
 		</div>
 		
 		<p>
-		6 марта 1703 года Сапеги приняли сторону шведского короля Карла XII; дальнейшие действия стали частью Северной войны, 
-		где Сапеги сражались на стороне шведов.
+		6 сакавіка 1703 года Сапегі прынялі бок шведскага караля Карла XII; далейшыя дзеянні сталі часткаю Паўночнай вайны, 
+		дзе Сапегі ваявалі на боку шведаў.
 		</p>
 		<p>
-		В 1710 году Сапеги добились частичного возвращения поместий и другого имущества, однако былое влияние было утрачено.		
+		У 1710 годзе Сапегі дамагліся частковага вяртання маёнткаў і іншай маёмасці, аднак былы ўплыў быў згублены.		
 		</p>
 		
 		

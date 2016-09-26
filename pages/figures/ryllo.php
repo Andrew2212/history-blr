@@ -4,7 +4,7 @@
   <head>
      
 <!-- ***Title*** -->
- 	<title>Максимилиан Рылло. История Беларуси</title>
+ 	<title>Максимилиан Рылло</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Максимилиан Рылло — родился в 1802 году под Волковысском в обедневшей шляхетской семье. 
@@ -31,14 +31,19 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Максимилиан Станислав Рылло
+		<h1>Максимилиан Станислав Рылло
 		</br><small>иезуит, иссследователь древнего Вавилона</small>
-		</h3>
+		</h1>
+		
 		<p class="img-float-left">
-			<img alt="Максимилиан Рылло" src="../../images/img-figures/ryllo/ryllo.jpg" height="160" >
+		<a href="../../images/img-figures/ryllo/ryllo.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Максимилиан Рылло" src="../../images/img-figures/ryllo/ryllo.jpg" height="140" >
+		</a>
 		</p>
 		<p class="img-float-right">
-			<a target="_blank" href="../../images/img-figures/ryllo/podorosk.jpg">
+			<a href="../../images/img-figures/ryllo/podorosk.jpg" class="highslide"
+        onclick="return hs.expand(this)">
 			<img alt="Подороск" src="../../images/img-figures/ryllo/podorosk_thumb.jpg" height="140">
 			</br><small>Подороск</small>				
 			</a>
@@ -55,31 +60,38 @@
 		<p>
 		В 1836–1837 годах в Ливане изучал возможности заключения церковной унии и открытия большого коллегиума 
 		и католической академии на Ближнем Востоке. Кроме многочисленных контактов с представителями восточных церквей, выполнял археологические раскопки. 
-		</br>Стал первооткрывателем и первым исследователем руин древнего Вавилона, 
+		</p>
+		<p>
+		Стал первооткрывателем и первым исследователем руин древнего Вавилона, 
 		систематические археологические раскопки которого начались только в конце XIX века.
-		</br>В 1837 году избран в папскую археологическую академию и Ориентологическое товарищество Франции		
+		</p>
+		<p>
+		В 1837 году избран в папскую археологическую академию и Ориентологическое товарищество Франции		
 		</p>
 		
 		<div class="col-md-12">	
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-figures/ryllo/babylon.jpg">
-			<img alt="Вавилон" src="../../images/img-figures/ryllo/babylon_thumb.jpg" height="120">
+			<a href="../../images/img-figures/ryllo/babylon.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Вавилон" src="../../images/img-figures/ryllo/babylon_thumb.jpg" height="100">
 			</br><small>Вавилон</small>				
 			</a>
 			</div>
 		
 				
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-figures/ryllo/babylon_plan.jpg">
-			<img src="../../images/img-figures/ryllo/babylon_plan_thumb.jpg" height="120">
+			<a href="../../images/img-figures/ryllo/babylon_plan.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/ryllo/babylon_plan_thumb.jpg" height="100">
 			</br><small>Вавилон. План города</small>				
 			</a>
 			</div>
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-figures/ryllo/ruin.jpg">
-			<img src="../../images/img-figures/ryllo/ruin_thumb.jpg" height="120">
+			<a href="../../images/img-figures/ryllo/ruin.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/ryllo/ruin_thumb.jpg" height="100">
 			</br><small>Вавилон. Руины города</small>				
 			</a>
 			</div>	

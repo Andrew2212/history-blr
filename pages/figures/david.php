@@ -4,16 +4,12 @@
   <head>
   
     <!-- ***Title*** -->
- 	<title>Давид Городенский. История Беларуси</title>
+ 	<title>Давид Городенский</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Давид Городенский - государственный деятель и полководец Великого княжества Литовского, 
 	один из главных военачальников великого князя литовского Гедимина, каштелян гродненский. 
 	Не потерпел ни одного поражения в битвах с рыцарями Тевтонского Ордена. 
-	Выдающиеся люди в истории Беларуси. Эти люди рождались, жили, творили, сражались и умирали на этой земле и за эту землю. 
-	Они достойны того, чтобы их помнили. Среди них были воины и поэты, художники и скульпторы, ученые и путешественники, 
-	авантюристы и интеллектуалы-романтики, первый Президент Гавайев и основоположник ракетостроения, первый исследователь древнего Вавилона и 
-	святой апостол церковного единения.
 	" />
   	<meta name="keywords" itemprop="keywords" content="Давид Городенский, каштелян Гарты, 
 	  история беларуси, история белоруссии, история беларуси кратко в датах, известные люди беларуси, знаменитые люди беларуси"/>
@@ -36,16 +32,20 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Давид Городенский</h3>
+		<h1>Давид Городенский</h1>
 		<p class="img-float-left">
-			<img src="../../images/img-figures/david/coin_davyd.jpg" height="160" >
+			<a href="../../images/img-figures/david/coin_davyd.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/david/coin_davyd.jpg" height="120" >
 			</br><small>Памятная монета РБ</small>
+			</a>
 		</p>
 		<p class="img-float-right">
-		<a target="_blank" href="../../images/img-figures/david/pomnik_davydu_garadzenskamu_kolozha_grodno.jpg">
-		<img src="../../images/img-figures/david/pomnik_davydu_garadzenskamu_kolozha_grodno.jpg" height="140">
+		<a href="../../images/img-figures/david/pomnik_davydu_garadzenskamu_kolozha_grodno.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-figures/david/pomnik_davydu_garadzenskamu_kolozha_grodno.jpg" height="120">
 		</br><small>Памятник Давиду, 
-		</br>Каложская церковь, Гродно</small>	
+		</br>Каложская церковь</small>	
 		</a>		
 		</p>
 		
@@ -68,8 +68,9 @@
 		</p>
 		<div class="col-md-12">
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-figures/david/davyd_peter.jpg">
-			<img src="../../images/img-figures/david/davyd_peter_thumb.jpg" height="140"/>
+			<a href="../../images/img-figures/david/davyd_peter.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/david/davyd_peter_thumb.jpg" height="100"/>
 			</br><small>Давид, защитник Новогрудка, 1314 г.
 			</br>Chronicon terrae Prussiae, 1326.
 			</small>
@@ -77,19 +78,19 @@
 			</div>
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-terms/wkl/terrae_prussiae.jpg">
-			<img src="../../images/img-terms/wkl/terrae_prussiae_thumb.jpg" height="140">
+			<a href="../../images/img-terms/wkl/terrae_prussiae.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-terms/wkl/terrae_prussiae_thumb.jpg" height="100">
 			</br><small>О разорении Давидом Таллина и Мазовии 
 			</br>Chronicon Terrae Prussiae, 1326.</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-figures/david/circh_Kalozha.jpg">
-			<img src="../../images/img-figures/david/circh_Kalozha.jpg" height="140"/>
-			</br><small>Каложская церковь,
-			</br>Гродно
-			</small>
+			<a href="../../images/img-figures/david/circh_Kalozha.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/david/circh_Kalozha.jpg" height="100"/>
+			</br><small>Каложская церковь, Гродно</small>
 			</a>
 			</div>
 					

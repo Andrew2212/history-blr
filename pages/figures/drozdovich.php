@@ -4,21 +4,16 @@
   <head>
     
 <!-- ***Title*** -->
- 	<title>Язэп Дороздович. История Беларуси</title>
+ 	<title>Язэп Дороздович</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Язеп Дороздович. Удивительный человек — расписывал дываны за еду и видел космические сны. Он мистически умел проникать 
 	в некий иной мир — его Городец на Замковой горе в Минске был написан за 40 лет до раскопок — и воссозданные археологами 
 	крепостные ворота буквально повторили его не опубликованный рисунок.
-	
-	Выдающиеся люди в истории Беларуси. Эти люди рождались, жили, творили, сражались и умирали на этой земле и за эту землю. 
-	Они достойны того, чтобы их помнили. Среди них были воины и поэты, художники и скульпторы, ученые и путешественники, 
-	авантюристы и интеллектуалы-романтики, первый Президент Гавайев и основоположник ракетостроения, первый исследователь древнего Вавилона и 
-	святой апостол церковного единения.
 	" />
   	<meta name="keywords" itemprop="keywords" content="Дроздович Язеп,
 	  история беларуси, история белоруссии, история беларуси кратко в датах, известные люди беларуси, знаменитые люди беларуси"/>
-	<meta property="og:image" content="http://history-belarus.by/images/img-figures/drozdovich/self_portrait.jpg" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-figures/drozdovich/title.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_figures.php"); ?>
@@ -37,19 +32,21 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Язеп Дороздович</h3>
+		<h1>Язеп Дороздович</h1>
 		<p class="img-float-left">
-			<img src="../../images/img-figures/drozdovich/photo.jpg" height="180" >
+		<a href="../../images/img-figures/drozdovich/photo.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/drozdovich/photo.jpg" height="140" >
 		</p>
 		<p class="img-float-right">
-			<a target="_blank" href="../../images/img-figures/drozdovich/self_portrait.jpg">
-			<img src="../../images/img-figures/drozdovich/self_portrait_thumb.jpg" height="160" >
-			</br><small>"Тримурти". Автопортрет</small>
+			<a href="../../images/img-figures/drozdovich/self_portrait.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/drozdovich/self_portrait_thumb.jpg" height="140" >
 			</a>
 		</p>
 		
 		<p>
-		Язеп Нарцизович Дроздович (13.10.1888 - 15.09.1954) - белорусский живописец, график, скульптор, писатель, фольклорист, этнограф и археолог.
+		Язеп Нарцизович Дроздович (13.10.1888 - 15.09.1954) — белорусский живописец, график, скульптор, писатель, фольклорист, этнограф и археолог.
 		</p>
 		
 		<p>
@@ -81,22 +78,25 @@
 		<div class="col-md-12">
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-figures/drozdovich/jazep_pagonia.jpg" >
-			<img src="../../images/img-figures/drozdovich/jazep_pagonia.jpg" height="160"/>
+			<a href="../../images/img-figures/drozdovich/jazep_pagonia.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/drozdovich/jazep_pagonia.jpg" height="100"/>
 			</br><small>Пагоня, 1927</small>
 			</a>
 			</div>
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-figures/drozdovich/gac.jpg">
-			<img src="../../images/img-figures/drozdovich/gac_thumb.jpg" height="160"/>
+			<a href="../../images/img-figures/drozdovich/gac.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/drozdovich/gac_thumb.jpg" height="100"/>
 			</br><small>Гаць штучнага мора, 1932</small>
 			</a>
 			</div>
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-figures/drozdovich/saturn.jpg">
-			<img src="../../images/img-figures/drozdovich/saturn.jpg" height="160"/>
+			<a href="../../images/img-figures/drozdovich/saturn.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/drozdovich/saturn.jpg" height="100"/>
 			</br><small>Сатурн, 1931</small>
 			</a>
 			</div>
@@ -116,22 +116,25 @@
 		<div class="col-md-12">
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-figures/drozdovich/navagrudak.jpg" >
-			<img src="../../images/img-figures/drozdovich/navagrudak_thumb.jpg" height="160"/>
+			<a href="../../images/img-figures/drozdovich/navagrudak.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/drozdovich/navagrudak_thumb.jpg" height="100"/>
 			</br><small>Новогрудок, 1928</small>
 			</a>
 			</div>
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-figures/drozdovich/mensk.jpg">
-			<img src="../../images/img-figures/drozdovich/mensk_thumb.jpg" height="160"/>
+			<a href="../../images/img-figures/drozdovich/mensk.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/drozdovich/mensk_thumb.jpg" height="100"/>
 			</br><small>Минск, 1919</small>
 			</a>
 			</div>
 			
 			<div class="col-md-4 img-float-center">
-			<a target="_blank" href="../../images/img-figures/drozdovich/brama_mensk.jpg">
-			<img src="../../images/img-figures/drozdovich/brama_mensk_thumb.jpg" height="160"/>
+			<a href="../../images/img-figures/drozdovich/brama_mensk.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/drozdovich/brama_mensk_thumb.jpg" height="100"/>
 			</br><small>"Городец", Замковая гора, 1920</small>
 			</a>
 			</div>
@@ -145,15 +148,17 @@
 		<div class="col-md-12">
 			
 			<div class="col-md-6 img-float-center">
-			<a target="_blank" href="../../images/img-figures/drozdovich/drozdovich_memory.jpg">
-			<img src="../../images/img-figures/drozdovich/drozdovich_memory.jpg" height="160" >
+			<a href="../../images/img-figures/drozdovich/drozdovich_memory.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/drozdovich/drozdovich_memory_thumb.jpg" height="100" >
 			</br><small>Памятник Язепу Дроздовичу. Минск</small>
 			</a>
 			</div>
 			
 			<div class="col-md-6 img-float-center">
-			<a target="_blank" href="../../images/img-figures/drozdovich/drazdovich_stamp.jpg">
-			<img src="../../images/img-figures/drozdovich/drazdovich_stamp.jpg" height="140" >
+			<a href="../../images/img-figures/drozdovich/drazdovich_stamp.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/drozdovich/drazdovich_stamp_thumb.jpg" height="100" >
 			</br><small>Марка РБ. 1994</small>
 			</a>
 			</div>

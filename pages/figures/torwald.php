@@ -7,7 +7,7 @@
  	<title>Торвальд Кодранссон, креститель Полоцка</title>
 
 <!-- ***Meta*** -->
-	<meta name="description" content="Христианский миссионер, путешественник, основатель монастыря святого Иоанна Крестителя в Полоцке. 
+	<meta name="description" content="Торвальд Кодранссон — христианский миссионер, путешественник, основатель монастыря святого Иоанна Крестителя в Полоцке. 
 	Там же был похоронен и почитался как святой.
 	" />
   	<meta name="keywords" itemprop="keywords" content="Торвальд Кодранссон, креститель Полоцка, крещение Беларуси, путь из варяг в греки, Торвальд Вандроўнік,
@@ -34,6 +34,7 @@
     
     <div class="col-md-12">
 		<h1>Торвальд Кодранссон и "Путь из варяг в греки"</h1>
+		
 		<h3>Путь из варяг в греки</h3>
 		
 		<p class="img-float-left">
@@ -164,6 +165,7 @@
 		
 		</br></br></br>
 		<p><small>
+		http://nn.by/?c=ar&i=174846&lang=ru</br>
 		http://n-europe.eu/content/p/1301</br>
 		http://notes-on-belarus.blog.tut.by/2014/03/01/torvald-kodransson-pervyiy-belorusskiy-svyatoy/
 		be-x-old.wikipedia.org</br>

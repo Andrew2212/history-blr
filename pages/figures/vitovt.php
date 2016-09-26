@@ -4,10 +4,10 @@
   <head>
    
 <!-- ***Title*** -->
- 	<title>Витовт</title>
+ 	<title>В. князь Витовт</title>
 
 <!-- ***Meta*** -->
-	<meta name="description" content="Герой Песни про Зубра и битвы под Грюнвальдом, перестроивший Гродненский замок, писавший грамоты письмом руским. 
+	<meta name="description" content="Витовт — герой Песни про Зубра и битвы под Грюнвальдом, перестроивший Гродненский замок, писавший грамоты письмом руским. 
 	Один из наиболее известных правителей ВКЛ, ещё при жизни прозванный Великим.
 	" />
   	<meta name="keywords" itemprop="keywords" content="Витовт, 
@@ -31,7 +31,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h2>Витовт</h2>
+		<h1>В. князь Витовт</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-figures/vitovt/vitovt.jpg" class="highslide"

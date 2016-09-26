@@ -1,18 +1,18 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="be">
   <head>
      
 <!-- ***Title*** -->
- 	<title>Inglorious Bastards. История Беларуси</title>
+ 	<title>Inglorious Bastards</title>
 
 <!-- ***Meta*** -->
-    <meta name="description" content="Белорусские казаки — оксюморон, обозначающий длинную историю коллаборационизма и службы восточному соседу. 
-	Самыми яркими их деяниями были участие в захвате Могилева вместе с московскими войсками в 1654 году и еврейские погромы 
-	(в Могилеве еврейское население было полностью уничтожено).  Этих казаков, вместе с московским гарнизоном, в 1661 году истребили горожане..
+    <meta name="description" content="Беларускія казакі — аксюмаран, што пазначае доўгую гісторыю калабарцыянізму і службы ўсходняму суседу. 
+	Найбольш яркімі іх дзеямі былі ўдзел ў захопе Магілёва разам з маскоўскімі войскамі ў 1654 годзе і габрэйскія пагромы.
+	(у Магілёве габрэйскае насельніцтва было цалкам знішчана). Гэтых казакоў, разам з маскоўскім гарнізонам, у 1661 годзе вынішчылі гараджане.
 	" />
-    <meta name="keywords" itemprop="keywords" content="белорусские казаки, 
-	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
+    <meta name="keywords" itemprop="keywords" content="беларускія казакі, 
+	 Беларусь, беларускі этнас, рэлігія ў Беларусі, беларусы, кароткая гісторыя Беларусі, гісторыя Беларусі, гісторыя Беларусі коратка ў датах" />
 	<meta property="og:image" content="http://history-belarus.by/images/img-terms/bastards/kazaki_by_image.jpg" />
 
 <!-- ***Include Header*** -->
@@ -32,49 +32,50 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
     
-		<h3>Inglorious Bastards
-		</br><small>белорусские казаки</small></h3>
+		<h1>Inglorious Bastards
+		</br><small>Беларускія казакі</small></h1>
 		<p>
-			Белорусские казаки — оксюморон, обозначающий длинную историю коллаборационизма и службы восточному соседу.
+			Беларускія казакі — аксюмаран, што пазначае доўгую гісторыю калабарцыянізму і службы ўсходняму суседу.
 		</p>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-terms/bastards/kazaki_by.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/bastards/kazaki_by_thumb.jpg" height="160">
-		</br><small>Белорусские казаки 
-		</br>в интернете (скрин)</small>
+		</br><small>Беларускія казакі 
+		</br>у інтэрнэце (скрын)</small>
 		</a>
 		</p>
 		
 		<p>
-		Самым ярким их деянием было участие в захвате Могилева вместе с московскими войсками в 1654 году и еврейские погромы (в Могилеве еврейское население было полностью уничтожено). 
-		</br>Этих казаков, вместе с московским гарнизоном, в 1661 году истребили горожане.
+		Найбольш яркімі іх дзеямі былі ўдзел ў захопе Магілёва разам з маскоўскімі войскамі ў 1654 годзе 
+		і габрэйскія пагромы (у Магілёве габрэйскае насельніцтва было цалкам знішчана).
+		</br>Гэтых казакоў, разам з маскоўскім гарнізонам, у 1661 годзе вынішчылі гараджане.
 		</p>
 		<p>
 		<i>
-		"Самая страшная трагедия для могилевских евреев произошла во время войны России против Речи Посполитой в 1654 г. 
-		Константин Поклонский, на тот момент царский полковник казаческого полка, решил обогатиться за счет грабежа.
-		 Всех, отказавшихся креститься евреев, под предлогом переселения в Литву он вывел в Печерский лес в нескольких километрах 
-		 от Могилева и приказал всех порубить." <small>www.jewish-mohilev.org</small>
+		"Самая страшная трагедыя для магілёўскіх габрэяў адбылася падчас вайны Расіі супраць Рэчы Паспалітай у 1654 г. 
+		Кастусь Паклонскі, на той момант царскі палкоўнік палка казакоў, вырашыў узбагаціцца за кошт рабавання.
+		 Усіх габрэяў, якія адмовіліся хрысціцца, пад падставай перасялення ў Літву ён вывеў у Пячэрскі лес, у некалькіх кіламетрах 
+		 ад Магілёва, і загадаў усіх пасекчы." <small>www.jewish-mohilev.org</small>
 		</i>
 		</p>
 		<p>
-		В отличии от <a href="husaria.php">гусарии</a>, имевшей славную воинскую историю, казаки на 
-		<a href="../download/blr_people.php">землях белорусских</a> присутствовали только в качестве московских 
-		коллаборационистов или репрессивного аппарата <a href="ross_empire.php">Российской империи</a>, и никогда не имели тут ни своей земли, ни своих традиций (в отличие от вольного 
-		украинского казачества). 
+		У адрозненні ад <a href="husaria.php">гусарыі</a>, якая мела славутую ваярскую гісторыю, казакі на 
+		<a href="../download/blr_people.php">землях беларускіх</a> прысутнічалі толькі ў якасці маскоўскіх 
+		калабарцыяністаў ці рэпрэсіўнага апарата <a href="ross_empire.php">Расійскай імперыі</a>, і ніколі не мелі тут ні сваёй зямлі, ні сваіх традыцый (у адрозненне ад вольнага 
+		ўкраінскага казацтва). 
 		</p>
 		<p>
-		Даже в годы Второй Мировой войны, когда Донское и прочее казачество самоорганизовывалось на службу Третьего Рейха, в <a href="belarus.php">Беларуси</a> этого не произошло — 
-		белорусское казачество существует только под патронажем восточного соседа. Даже сегодня на эмблеме белорусского казачества изображен двуглавый орел — герб чужого государства.
+		Нават у гады Другой Сусветнай вайны, калі Данскія і іншыя казацтвы самаарганізоўваліся на службу Трэцяга Рэйха, у <a href="belarus.php">Беларусі</a> гэтага не адбылося — 
+		беларускае казацтва існуе толькі пад патранажам усходняга суседа. Нават сёння на эмблеме беларускага казацтва наваляваны двухгаловы арол — герб чужой дзяржавы.
 		</p>
 		<p>
-		И во все времена оно служило опорой самым реакционым силам своего времени. "Православие или смерть" и Баклановское знамя, 
-		черносотенцы, погромы и разгон демонстрантов — их следы в нашей истории. 
+		І ва ўсе часы яно служыла апорай самым рэакцыйным сілам свайго часу."Праваслаўе ці смерць" і Бакланаўскі сцяг, 
+		чарнасотнікі, пагромы і разгон дэманстрантаў — іх сляды ў нашай гісторыі. 
 		</p>
 		<p>
-		Inglorious Bastards земли нашей.
+		Inglorious Bastards зямлі нашай.
 		</p>
 		
 <div class="col-md-12" style="height:20px;">
@@ -85,21 +86,21 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-terms/bastards/kazaki_1905.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Казаки" src="../../images/img-terms/bastards/kazaki_1905_thumb.jpg" height="140">
+		<img alt="Казакі" src="../../images/img-terms/bastards/kazaki_1905_thumb.jpg" height="140">
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-terms/bastards/kazaki_1906.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Казаки" src="../../images/img-terms/bastards/kazaki_1906_thumb.jpg" height="140">
+		<img alt="Казакі" src="../../images/img-terms/bastards/kazaki_1906_thumb.jpg" height="140">
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-terms/bastards/kazaki_1909.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Казаки" src="../../images/img-terms/bastards/kazaki_1909_thumb.jpg" height="140">
+		<img alt="Казакі" src="../../images/img-terms/bastards/kazaki_1909_thumb.jpg" height="140">
 		</a>
 		</div>
 		
@@ -113,21 +114,21 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-terms/bastards/kazaki_1944.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Казаки" src="../../images/img-terms/bastards/kazaki_1944_thumb.jpg" height="140">
+		<img alt="Казакі" src="../../images/img-terms/bastards/kazaki_1944_thumb.jpg" height="140">
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-terms/bastards/kazaki_1943.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Казаки" src="../../images/img-terms/bastards/kazaki_1943_thumb.jpg" height="140">
+		<img alt="Казакі" src="../../images/img-terms/bastards/kazaki_1943_thumb.jpg" height="140">
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-terms/bastards/kazaki_1942.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Казаки" src="../../images/img-terms/bastards/kazaki_1942_thumb.jpg" height="140">
+		<img alt="Казакі" src="../../images/img-terms/bastards/kazaki_1942_thumb.jpg" height="140">
 		</a>
 		</div>
 		
@@ -141,40 +142,40 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-terms/bastards/prav2010.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Казаки" src="../../images/img-terms/bastards/prav2010_thumb.jpg" height="140">
+		<img alt="Казакі" src="../../images/img-terms/bastards/prav2010_thumb.jpg" height="140">
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-terms/bastards/kazaki_2015.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Казаки" src="../../images/img-terms/bastards/kazaki_2015_thumb.jpg" height="140">
+		<img alt="Казакі" src="../../images/img-terms/bastards/kazaki_2015_thumb.jpg" height="140">
 		</a>
 		</div>
 		
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-terms/bastards/kazaki_trash.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Казаки" src="../../images/img-terms/bastards/kazaki_trash_thumb.jpg" height="140">
+		<img alt="Казакі" src="../../images/img-terms/bastards/kazaki_trash_thumb.jpg" height="140">
 		</a>
 		</div>
 		
 		</div>
 		
 		<p>
-		Доктор исторических наук Александр Кравцевич в своем <a target="_blank" href="http://charter97.org/ru/news/2016/2/8/190314/">интервью</a>:
+		Доктар гістарычных навук Аляксандр Краўцэвіч у сваім <a target="_blank" href="http://charter97.org/ru/news/2016/2/8/190314/">інтэрв'ю</a>:
 		</p>
 		
 		<p>		
-		<i>«В Беларуси существовали так называемые казацкие хоругви — например, при дворах магнатов. 
-		Королевская гвардейская казачья хоругвь, великокняжеская существовала. Но в той форме, как это представляет шайка Улаховича, 
-		исторических корней это явление в Беларуси не имеет. 
+		<i>«У Беларусі існавалі так званыя казацкія харугвы — напрыклад, пры дварах магнатаў.
+		Каралеўская гвардзейская казачая харугва, вялікакняская існавала. Але ў той форме, як гэта ўяўляе хеўра Улаховіча, 
+		гістарычных каранёў гэтая з'ява ў Беларусі не мае. 
 		</p>
 		<p>
-		В общем исторический стереотип казака в Беларуси очень негативный. 
-		Даже наши украинские братья, украинские казаки, которые боролись за свою независимость в XVII веке, 
-		в Беларуси были оккупантами — эту страницу нашей истории не надо обходить. 
-		Казаки у нас убивали, грабили, жгли города. И само понятие «казак» в белорусском исторического сознания выступает как негативный термин».
+		У агульным, стэрэатып казака ў Беларусі вельмі негатыўны. 
+		Нават нашыя ўкраінскія браты, украінскія казакі, якія змагаліся за сваю незалежнасць у XVII стагоддзі, 
+		у Беларусі былі акупантамі — гэтую старонку нашай гісторыі не трэба абыходзіць. 
+		Казакі ў нас забівалі, рабавалі, палілі гарады. І сам панятак «казак» у беларускай гістарычнай свядомасці выступае як негатыўны тэрмін».
 		</i> 
 		</p>
 		

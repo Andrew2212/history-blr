@@ -159,7 +159,11 @@
         <li>
           1573 <a href="confederacia_warshawa.php">Конфедерация Варшавская</a>
 		  </br><small>равенство всех религий</small> 
-        </li>  
+        </li> 
+		<li>
+          1573 <a href="confederacia_warshawa.php">Генриховы Артикулы</a>
+		  </br><small>клятва выборных королей</small> 
+        </li> 
         <li>
           1596 <a href="unia_religion_brest.php">Уния церковная Брестская</a>
 		  </br><small>единение католиков и православных в Речи Посполитой</small> 

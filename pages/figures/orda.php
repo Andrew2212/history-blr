@@ -4,7 +4,7 @@
   <head>
     
 <!-- ***Title*** -->
- 	<title>Наполеон Орда. История Беларуси</title>
+ 	<title>Наполеон Орда</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Инсургент и художник. Хранитель наследия.
@@ -30,9 +30,9 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h2>Наполеон Орда
+		<h1>Наполеон Орда
 		</br><small>инсургент и художник</small>
-		</h2>
+		</h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-figures/orda/Napoleon_Orda.jpg" class="highslide"

@@ -4,15 +4,12 @@
   <head>
     
 <!-- ***Title*** -->
- 	<title>Александр Гонсевский. История Беларуси</title>
+ 	<title>Александр Гонсевский</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Александр Корвин Гонсевский — комендант Кремля 1610-1612, защитник Смоленска, 
 	основатель коллегиума иезуитов в Витебске и монастыря святой Бригитты в Бресте. 
-	Выдающиеся люди в истории Беларуси. Эти люди рождались, жили, творили, сражались и умирали на этой земле и за эту землю. 
-	Они достойны того, чтобы их помнили. Среди них были воины и поэты, художники и скульпторы, ученые и путешественники, 
-	авантюристы и интеллектуалы-романтики, первый Президент Гавайев и основоположник ракетостроения, первый исследователь древнего Вавилона и 
-	святой апостол церковного единения.
+	
 	" />
   	<meta name="keywords" itemprop="keywords" content="Александр Гонсевский,
 	  история беларуси, история белоруссии, история беларуси кратко в датах, известные люди беларуси, знаменитые люди беларуси"/>
@@ -35,20 +32,22 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h3>Александр Корвин Гонсевский
+		<h1>Александр Корвин Гонсевский
 		</br><small>комендант Кремля 1610-1612, защитник Смоленска</small>
-		</h3>
+		</h1>
 		
 		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-figures/gonsewsky/Gosiewski.jpg">
-		<img alt="Волчин" src="../../images/img-figures/gonsewsky/Gosiewski.jpg" height="160">
+		<a href="../../images/img-figures/gonsewsky/Gosiewski.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Волчин" src="../../images/img-figures/gonsewsky/Gosiewski.jpg" height="140">
 		</br><small>Александр Гонсевский</small>
 		</a>
 		</p>
 		
 		<p class="img-float-right">
-		<a target="_blank" href="../../images/img-places/vowczyn/vowczyn.jpg">
-		<img alt="Волчин" src="../../images/img-places/vowczyn/vowczyn.jpg" height="160">
+		<a href="../../images/img-places/vowczyn/vowczyn.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Волчин" src="../../images/img-places/vowczyn/vowczyn.jpg" height="140">
 		</br><small>Волчин, Беларусь</small>
 		</a>
 		</p>
@@ -88,29 +87,33 @@
 	<div class="col-md-12">
 	
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-figures/gonsewsky/smolensk.jpg">
-		<img src="../../images/img-figures/gonsewsky/smolensk.jpg" height="160">
+		<a href="../../images/img-figures/gonsewsky/smolensk.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-figures/gonsewsky/smolensk.jpg" height="100">
 		</br><small>Смоленск и Велиж</small>
 		</a>
 		</div>
 	
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-figures/gonsewsky/jesuit_collegium_photo_1860.jpg">
-		<img src="../../images/img-figures/gonsewsky/jesuit_collegium_photo_1860_thumb.jpg" height="160">
+		<a href="../../images/img-figures/gonsewsky/jesuit_collegium_photo_1860.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-figures/gonsewsky/jesuit_collegium_photo_1860_thumb.jpg" height="100">
 		</br><small>Коллегиум иезуитов, Витебск</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-figures/gonsewsky/brest_st_brigitta.jpg">
-		<img src="../../images/img-figures/gonsewsky/brest_st_brigitta_thumb.jpg" height="160">
+		<a href="../../images/img-figures/gonsewsky/brest_st_brigitta.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-figures/gonsewsky/brest_st_brigitta_thumb.jpg" height="100">
 		</br><small>Монастырь св. Бригитты, Брест</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a target="_blank" href="../../images/img-figures/gonsewsky/slavic_cycl.jpg">
-		<img src="../../images/img-figures/gonsewsky/slavic_cycl_thumb.jpg" height="160">
+		<a href="../../images/img-figures/gonsewsky/slavic_cycl.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-figures/gonsewsky/slavic_cycl_thumb.jpg" height="100">
 		</br><small>"Гонсевский", Славянская Энциклопедия</small>
 		</a>
 		</div>
@@ -120,10 +123,13 @@
 		<p>
 		В 1639 году воевода смоленский Александр Гонсевский основал витебский иезуитский коллегиум, 
 		даровал ему земли на Смоленщине и пристань на Двине. 
-		</br>В марте 1957 года здание коллегиума было взорвано, вместе с фарным костелом.
+		</p>
+		<p>
+		В марте 1957 года здание коллегиума было взорвано, вместе с фарным костелом.
 		</p>
 		<p> 
-		Также им был основан женский монастырь святой Бригитты в Берестье. После <a href="../events/razbor_rechi.php">раздела Речи Посполитой</a> переделан в военную тюрьму.
+		Также им был основан женский монастырь святой Бригитты в Берестье. 
+		После <a href="../events/razbor_rechi.php">раздела Речи Посполитой</a> переделан в военную тюрьму.
 		</p>
 		
 		

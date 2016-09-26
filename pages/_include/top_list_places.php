@@ -41,6 +41,9 @@
           <a href="../figures/kesgajla.php" >Вилькомир на реке Святая</a> — "на границе Литвы и Жиуди"
         </li>
         <li>
+          <a href="nalsen.php">Дяволтва и Нальшаны</a> — "Литва Завилейская"
+        </li>
+        <li>
           <a href="zyroviczy.php" class="item-edit">Жировичи</a>
         </li>
         <li>
@@ -79,6 +82,9 @@
         </li>
         <li>
           <a href="#" class="item-unable">Мстиславль</a>
+        </li>
+        <li>
+          <a href="nalsen.php">Нальшаны и Дяволтва</a> — "Литва Завилейская"
         </li>
         <li>
           <a href="../events/battle_nemiga.php">Немига</a> — древнейший топоним Минска

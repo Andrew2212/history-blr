@@ -20,7 +20,12 @@
   
 
 	<!-- ***Sidebar Left*** -->
-	<div class="col-md-2 ">
+	<div class="col-md-2 img-float-center">
+	<a target="_blank" href="http://www.talaka.by/projects/1468/overview" style="color:red">
+	Белорусский талер с Погоней
+	</br><img alt="Белорусский талер с Погоней" title="Белорусский талер с Погоней" src="/img/taler_talaka.jpg" height="160">
+	</br>Краудфандинг на Talaka.by
+	</a>
 	</div>
 
 	

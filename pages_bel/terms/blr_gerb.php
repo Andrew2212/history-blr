@@ -1,17 +1,17 @@
 <?PHP  header("Content-Type: text/html; charset=utf-8");?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="be">
   <head>
    
 <!-- ***Title*** -->
- 	<title>Национальный герб. История Беларуси</title>
+ 	<title>Нацыянальны герб</title>
 
 <!-- ***Meta*** -->
-    <meta name="description" content="Погоня — национальный герб Беларуси. Со времен формирования белорусского этноса и до раздела Речи Посполитой 
-	Погоня была символом белорусских земель (воеводств). Даже в литинском описании Ягайло этот герб назван pogonia — так, как он назывался на языке литвинов." />
-    <meta name="keywords" itemprop="keywords" content="Погоня, герб Беларуси, герб беларусi, 
-	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
-	<meta property="og:image" content="http://history-belarus.by/images/img-terms/blr_gerb/1697_polska.jpg" />
+    <meta name="description" content="Пагоня — нацыянальны герб Беларусі. 
+	Пагоня была сімвалам беларускіх зямель (ваяводстваў). Нават ў літвінскім апісанні Ягайлы гэты герб быў названы pogonia — так, як ён зваўся на мове літвінаў." />
+    <meta name="keywords" itemprop="keywords" content="Пагоня, герб Беларусі, 
+	 Беларусь, беларускі этнас, рэлігія ў Беларусі, беларусы, кароткая гісторыя Беларусі, гісторыя Беларусі, гісторыя Беларусі коратка ў датах" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-terms/blr_gerb/title.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_terms.php"); ?>
@@ -30,27 +30,27 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
     
-		<h3>Погоня. Национальный герб Беларуси</h3>
+		<h1>Пагоня. Нацыянальны герб Беларусі</h1>
 	<div class="col-md-12">
 		<p class="img-float-left">	
 		<a href="../../images/img-terms/blr_gerb/Pagonia_BelArt.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/blr_gerb/1991_pogonia.jpg" height="140"/>
-		</br><small>Погоня, Беларусь</small>
+		</br><small>Пагоня, Беларусь</small>
 		</a>
 		</p>
 		<p class="img-float-right">
 		<a href="../../images/img-terms/blr_gerb/1645_POGONIA_Orbis Polonus.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/blr_gerb/1645_POGONIA_Orbis Polonus_thumb.jpg" height="140"/>
-		</br><small>Погоня (POGONIA)</small>
+		</br><small>Пагоня (POGONIA)</small>
 		</a>
 		</p>
 		<p>
-			"... В том же случае, когда придется преследовать врагов, неприятелей наших, 
-			которые убегали бы с нашей  Литовской земли, то для этого рода преследований, 
-			которое по-народному (обыкновенно) называется <i>pogonia</i> (погоня), обязуются отправляться не только рыцари, но и каждый мужчина ...".
-			</br><small>Грамота В.кн. Литовского <a href="../figures/jagiello.php">Ягайло</a>, 1387</small>
+			"... У тым жа выпадку, калі давядзецца пераследаваць ворагаў, непрыяцеляў нашых, 
+			якія ўцякалі б з нашай Літоўскай зямлі, то для гэтага роду пераследаў, 
+			якое па-народнаму (звычайна) завецца <i>pogonia</i> (пагоня), абавязваюцца не толькі рыцары, але і кожны мужчына ...".
+			</br><small>Грамата вялікага князя Літоўскага <a href="../figures/jagiello.php">Ягайлы</a>, 1387</small>
 		</p>
 		<p>[ <small>	
 			"... Quotiescunque etiam hostes et adversarios nostros et ipsius terrae nostrae Lithuanicae fugitivos insequi opportuerit, 
@@ -60,16 +60,16 @@
 	</div>
 	
 	<p>
-	В <a href="../download/blr_heraldic.php">белорусской геральдике</a> Погоня занимает особое место. Ей посвящены работы историка, геральдиста и сфрагиста, сотрудника Белорусского научно-исследовательского 
-	института делопроизводства и архивного дела А. К. Титова.
+	У <a href="../download/blr_heraldic.php">беларускай геральдыцы</a> Пагоня займае адменнае месца. Ёй прысвечаныя працы гісторыка, геральдыста і сфрагіста, супрацоўніка Беларускага навукова-даследніцкага 
+	інстытута справаводства і архіўнай справы А.К. Цітова.
 	</p>
 	<p>
-		Согласно Густынской летописи, герб ВКЛ "Погоня" установил в. князь <a href="../figures/vyten.php">Витень</a> (кн. 1293-1316): 
-		</br><i>«Витен нача княжити над Литвою, измысли себе герб и всему князству Литовскому: рыцер збройны на коне з мечем, еже ныне наричут Погоня».</i>
+		Згодна з Густанскім летапісам, герб ВКЛ "Пагоня" усталяваў вялікі князь <a href="../figures/vyten.php">Віцень</a> (кн. 1293-1316): 
+		</br><i>«Віцен нача княжыці над Літвою, ізмыслі сабе герб і ўсяму князству Літоўскаму: рыцар збройны на кане з мечам, ажэ ныне нарічут Пагоня».</i>
 	</p>
 	<p>
-	Возможно, этот герб пришел вместе с <a href="../terms/lutizy.php">лютичами-велетами</a> (полабскими славянами), уходящих от немецкой экспансии с Эльбы и Одера на берега Немана и Двины. 
-	Им посвящен целый раздел фундаментальноо труда <a href="../download/shafarik.php">"Славянские древности"</a> Й. Шафарика, 1847.
+	Верагодна, гэты герб прыйшоў разам з <a href="../terms/lutizy.php">люцічамі-велетамі</a> (палабскімі славянамі), якія сыходзілі ад нямецкай экспансіі з Эльбы і Одара на берага Нёмана і Дзвіны. 
+	Ім прысвечаны цэлы падзел фундаментальнай працы <a href="../download/shafarik.php">"Славянскія старажытнасці"</a> Ё. Шафарыка, 1847.
 	</p>
 	
 	<div class="col-md-12" >
@@ -78,7 +78,7 @@
 		<a href="../../images/img-figures/vyten/viten_pogonia.jpg" class="highslide"
        		 onclick="return hs.expand(this)">
 		<img src="../../images/img-figures/vyten/viten_pogonia_thumb.jpg" height="100">
-		</br><small>Витень и "Погоня"</small>
+		</br><small>Віцень і "Пагоня"</small>
 		</a> 
 		</div>
 		
@@ -86,7 +86,7 @@
 		<a href="../../images/img-download/shafarik/velety.jpg" class="highslide"
        		 onclick="return hs.expand(this)">
 			<img src="../../images/img-download/shafarik/velety_thumb.jpg" class="img-float-centr" height="100"/>
-			</br><small>"Лютичи и Велеты" Й. Шафарик</small>
+			</br><small>"Люцічы і Велеты" Ё. Шафарык</small>
 		</a>
 		</div>
 		
@@ -94,27 +94,27 @@
 		<a href="../../images/img-terms/blr_gerb/BogislawI_Siegel.jpg" class="highslide"
        		 onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/blr_gerb/BogislawI_Siegel_thumb.jpg" height="100">
-		</br><small>Печать Богуслава I, князя лютичей</small>
+		</br><small>Пячатка Багуслава I, князя люцічаў</small>
 		</a> 
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 			<a href="../../images/img-terms/lutizy/lutizy.jpg" class="highslide"
        		 onclick="return hs.expand(this)">
-			<img alt="лютичи, велеты" src="../../images/img-terms/lutizy/lutizy.jpg" height="100"/>
-			</br><small>Лютичи-велеты в словаре 1854 г.</small>
+			<img alt="люцічы, велеты" src="../../images/img-terms/lutizy/lutizy.jpg" height="100"/>
+			</br><small>Люцічы-велеты ў слоўніку 1854 г.</small>
 			</a>
 		</div>
 		
 	</div>
 	
 	<p>
-	"Погоня" — древний символ <a href="../download/blr_people.php">белорусских земель</a> со времен <a href="../terms/wkl.php">ВКЛ</a>. 
-	Как государственный символ, впервые появляется на печатях <a href="../figures/olgerd.php">Ольгерда</a> (1366), 
-	<a href="../figures/jagiello.php">Ягайлы</a> (1386) и <a href="../figures/vitovt.php">Витовта</a> (1401).
-	 Под этим знаком наши предки строили и защищали <a href="../download/wkl_equal_etno.php">свою страну</a>.
-	</br>"Погоня" стоит на титульном листе <a href="../terms/statut.php">Статута</a> ВКЛ, является гербом большинства белорусских воеводств. 
-	</br>Со времен <a href="../events/grunwald.php">битвы под Грюнвальдом</a> под хоругвами с "Погоней" наши предки защищали эту землю.
+	"Пагоня" — старажытны сімвал <a href="../download/blr_people.php">беларускіх зямель</a> з часоў <a href="../terms/wkl.php">ВКЛ</a>. 
+	Як дзяржаўны сімвал, упершыню з'яўляецца на пячатках <a href="../figures/olgerd.php">Альгерда</a> (1366), 
+	<a href="../figures/jagiello.php">Ягайлы</a> (1386) і <a href="../figures/vitovt.php">Вітаўта</a> (1401).
+	 Пад гэтым знакам нашы продкі будавалі і абаранялі <a href="../download/wkl_equal_etno.php">сваю краіну</a>.
+	</br>"Пагоня" стаіць на тытульным лісце <a href="../terms/statut.php">Статута</a> ВКЛ, з'яўляецца гербам большасці беларускіх ваяводстваў. 
+	</br>З часоў <a href="../events/grunwald.php">бітвы пад Грунвальдам</a> пад харугвамі з "Пагоняй" нашы продкі абаранялі гэту зямлю.
 	</p>
 		
 	<div class="col-md-12" >
@@ -122,17 +122,17 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/grunwald/dligosz.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Грюнвальд, битва под Грюнвальдом"  src="../../images/img-events/grunwald/dligosz_thumb.jpg" height="100">
-		</br><small>"Хоругви Литовские"
-		</br>Ян Длугош, XV в</small>	
+		<img alt="Грунвальд, бітва пад Грунвальдам"  src="../../images/img-events/grunwald/dligosz_thumb.jpg" height="100">
+		</br><small>"Харугвы Літоўскія"
+		</br>Ян Длугаш, XV ст</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-download/atlas_historyczny_sage/1844_herby.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="гербы воеводств Реви Посполитой, гербы воеводств ВКЛ" src="../../images/img-download/atlas_historyczny_sage/1844_herby_thumb.jpg" height="100"/>
-		</br><small>Гербы воеводств  Речи Посполитой</small>
+			<img alt="гербы ваяводстваў Рэчы Паспалітай, гербы ваяводстваў ВКЛ" src="../../images/img-download/atlas_historyczny_sage/1844_herby_thumb.jpg" height="100"/>
+		</br><small>Гербы ваяводстваў Рэчы Паспалітай</small>
 		</a>
 		</div>
 		
@@ -140,7 +140,7 @@
 		<a href="../../images/img-terms/blr_gerb/rzecz_pred_razborom.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/blr_gerb/rzecz_pred_razborom_thumb.jpg" height="100">
-		</br><small>Гербы воеводств Речи Посполитой</small>	
+		</br><small>Гербы ваяводстваў Рэчы Паспалітай</small>	
 		</a>
 		</div>
 		
@@ -148,16 +148,16 @@
 		<a href="../../images/img-terms/blr_gerb/card.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/blr_gerb/card_thumb.jpg" height="100">
-		</br><small>Гербы воеводств ВКЛ</small>	
+		</br><small>Гербы ваяводстваў ВКЛ</small>	
 		</a>
 		</div>					
 	</div>
 	
 	<p>
-	После <a href="../events/razbor_rechi.php">раздела Речи Посполитой</a> и присоединения ВКЛ к 
-	<a href="ross_empire.php">Российской империи</a>, "Погоня" по-прежнему осталась символом белорусов. 
-	</br>Она присутствовала на гербах многократно перекраиваемых 
-	губерний и наместничеств, осталась на гербах городов, в символике гусарских полков и символизировала наши земли на Большом гербе РИ.
+	Пасля <a href="../events/razbor_rechi.php">падзелу Рэчы Паспалітай</a> і далучэння ВКЛ да 
+	<a href="ross_empire.php">Расійскай імперыі</a>, "Пагоня" па-ранейшаму заставалася сімвалам беларусаў. 
+	</br>Яна прысутнічала на гербах шматкроць перакройваемых 
+	губерній і намесніцтваў, засталася на гербах гарадоў, у сімволіцы гусарскіх палкоў і сімвалізавала нашы землі на Вялікім гербе Расійскай Імперыі.
 	</p>
 	<div class="col-md-12" >
 	
@@ -165,7 +165,7 @@
 		<a href="../../images/img-terms/blr_gerb/grodno_harugva.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/blr_gerb/grodno_harugva.jpg" height="100">
-		</br><small>Гродненская хоругва XVII в.</small>	
+		</br><small>Гарадзенская харугва XVII ст.</small>	
 		</a>
 		</div>
 		
@@ -173,7 +173,7 @@
 		<a href="../../images/img-terms/blr_gerb/gerby_blr_ri.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/blr_gerb/gerby_blr_ri_thumb.jpg" height="100">
-		</br><small>Гербы губерний и городов</small>	
+		</br><small>Гербы губерній і гарадоў</small>	
 		</a>
 		</div>
 		
@@ -181,7 +181,7 @@
 		<a href="../../images/img-terms/ross_empire/ross_empire_gerb.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/blr_gerb/gerb_ri_thumb.jpg" height="100">
-		</br><small>"Погоня" на гербе РИ</small>	
+		</br><small>"Пагоня" на гербе РІ</small>	
 		</a>
 		</div>
 		
@@ -189,20 +189,20 @@
 		<a href="../../images/img-terms/blr_gerb/gusaria_signs.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/blr_gerb/gusaria_signs_thumb.jpg" height="100">
-		</br><small>Нагрудные знаки гусарских полков</small>	
+		</br><small>Нагрудныя знакі гусарскіх палкоў</small>	
 		</a>
 		</div>
 							
 	</div>
 	
 	<p>
-	Под знаком "Погони" впервые с 1795 года было объявлено независимое белорусское государство — <a href="bnr.php">БНР</a>.
-	</br>"Погоня" и <a href="blr_flag.php">БЧБ флаг</a> для белорусских диаспор стали символами Бацькаўшчыны.
-	</br>Под "Погоней" <a href="../figures/tarashkevicz.php">Бронислав Тарашкевич</a> возрождал Таварыства Беларускай Школы (1921-36). 
-	</br>"Погоня" была неотъемлемой частью белорусского Космоса у "вечного странника", художника и этнографа 
-	<a href="../figures/drozdovich.php">Язепа Дроздовича</a>.  
-	</br>Под "Погоней" и БЧБ флагом принимал присягу первый Президент РБ, 
-	 эти символы с гордостью носили защитники Отечества и простые граждане.  
+	Пад знакам "Пагоні" упершыню з 1795 года была абвешчана незалежная беларуская дзяржава — <a href="bnr.php">БНР</a>.
+	</br>"Пагоня" і <a href="blr_flag.php">БЧБ сцяг</a> для беларускіх дыяспар сталі сімваламі Бацькаўшчыны.
+	</br>Пад "Пагоняй" <a href="../figures/tarashkevicz.php">Браніслаў Тарашкевіч</a> адраджаў Таварыства Беларускай Школы (1921-36). 
+	</br>"Пагоня" была неадымнай часткай беларускага Космасу "вечнага вандроўніка", мастака і этнографа 
+	<a href="../figures/drozdovich.php">Язэпа Драздовіча</a>.  
+	</br>Пад "Пагоняй" і БЧБ сцягам прымаў прысягу першы Прэзідэнт РБ, 
+	 гэтыя сімвалы з гонарам насілі абаронцы Бацькаўшчыны і простыя грамадзяне.  
 	</p>
 	
 	<div class="col-md-12" >
@@ -210,7 +210,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-figures/tarashkevicz/TBSz_1927.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Бронислав Тарашкевич" src="../../images/img-figures/tarashkevicz/TBSz_1927_thumb.jpg" height="100" >
+			<img alt="Браніслаў Тарашкевіч" src="../../images/img-figures/tarashkevicz/TBSz_1927_thumb.jpg" height="100" >
 			</br><small>Таварыства Беларускай Школы, 1927</small>
 			</a>
 		</div>
@@ -227,7 +227,7 @@
 			<a href="../../images/img-figures/drozdovich/jazep_pagonia.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img src="../../images/img-figures/drozdovich/jazep_pagonia.jpg" height="100"/>
-			</br><small>Я. Дроздович. Пагоня, 1927</small>
+			</br><small>Я. Драздовіч. Пагоня, 1927</small>
 			</a>
 		</div>
 		
@@ -235,29 +235,42 @@
 		<a href="../../images/img-terms/blr_gerb/1970_belarusy_toronto.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/blr_gerb/1970_belarusy_toronto_thumb.jpg" height="100">
-		</br><small>Белорусская диаспора, Торонто, 1970</small>	
+		</br><small>Беларуская дыяспара, Таронта, 1970</small>	
 		</a>
 		</div>
 							
 	</div>
 	
 	<p>
-	Герб "Погоня" включен в "Дзяржаўны спіс гісторыка-культырных каштоўнасьцяў" Ресублики Беларусь. 
-	</br>Сегодня БЧБ флаг, Погоня, национальный орнамент стали символами единения нации, уважения к своей истории.
+	Герб "Пагоня" улучаны ў "Дзяржаўны спіс гісторыка-культырных каштоўнасьцяў" Рэспублікі Беларусь. 
+	</br>Сёння БЧБ сцяг, Пагоня, нацыянальны арнамент сталі сімваламі яднання нацыі, павагі да сваёй гісторыі.
 	</p>
 	
 	<p class="img-float-center">
 		<a href="../../images/img-terms/blr_gerb/blr_1991.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/blr_gerb/blr_1991_thumb.jpg" height="100">
-		</br><small>"Погоня" в символике РБ, 1991</small>	
+		</br><small>"Пагоня" у сімволіцы РБ, 1991</small>	
 		</a>
 	</p>
 	
 	<p>
-	11 августа — День национального герба и флага. 
-	</br>Первое официальное описание герба и флага Беларуси — БНР, газета "Вольная Беларусь", 1918
+	11 жніўня — Дзень нацыянальнага герба і сцяга. 
+	</br>Першае афіцыйнае апісанне герба і сцяга Беларусі — БНР, газета "Вольная Беларусь", 1918
 	</p>
+	
+	<h3>PS.</h3>
+	<p>
+	Герб Рэспублікі Беларусь "Пагоня" быў зацверджаны ў 1991 годзе. Герб Літоўскай Рэспублікі "Віціс" быў зацверджаны ў 1992 годзе. 
+	Супольныя кансультацыі прадстаўнікоў абедзвюх краін дазволілі запабегнуць геральдычных канфліктаў і супярэчнасцяў. 
+	</p>
+	
+<div class="col-md-12 top-list">
+<!--It's just line-->
+</div>
+
+	<!-- ***HerbyWKL *** -->
+  	<? include ("../_include/include_HerbyWKL.php"); ?>
 		
 		
 				</br></br></br>

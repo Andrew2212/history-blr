@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
   <!-- ***Title*** -->
- 	<title>Стефан Баторий. История Беларуси</title>
+ 	<title>Стефан Баторий</title>
 
 <!-- ***Meta*** -->
 	<meta name="description" content="Он освободил Полоцк, завершил победой Ливонскую войну, 
@@ -30,7 +30,7 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_figures.php"); ?>
   
-		<h2>Стефан Баторий</h2>
+		<h1>Стефан Баторий</h1>
 		
 		<div class="col-md-12">
 		
