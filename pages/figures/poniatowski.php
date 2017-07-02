@@ -13,7 +13,7 @@
 	" />
   	<meta name="keywords" itemprop="keywords" content=" Станислав II Август Понятовский,
 	  история беларуси, история белоруссии, история беларуси кратко в датах, известные люди беларуси, знаменитые люди беларуси"/>
-	<meta property="og:image" content="http://history-belarus.by/images/img-figures/poniatowski/kirkor_radziwill_cut.jpg" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-figures/poniatowski/title.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_figures.php"); ?>

@@ -92,6 +92,13 @@
 		</br><small>Языческое наследие</small> 	
 		</a>
 		</p>
+		<p class="img-float-right">
+		<a href="../../images/img-terms/religion_blr/1460_rerumPrussicarum.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/religion_blr/1460_rerumPrussicarum_thumb.jpg" height="120">
+		</br><small>1460 rerum Prussicarum</small> 	
+		</a>
+		</p>
 		<p>
 		До X века на <a href="../download/blr_people.php">белорусских землях</a> единственной религией было язычество. 
 		</br><i>"Гэта не зусім так. Асобныя супольнасці хрысціян і цэрквы ўжо існавалі." </i> — поправил редакцию представитель Рыма-каталіцкага Касцёла ў Беларусі.
@@ -313,7 +320,7 @@
 		</p>
 		
 	<div class="col-md-12">						
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/religion_blr/gedimin_religion.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img src="../../images/img-terms/religion_blr/gedimin_religion_thumb.jpg" height="100"/>
@@ -321,7 +328,7 @@
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/religion_blr/blr_catholic.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img src="../../images/img-terms/religion_blr/blr_catholic_thumb.jpg" height="100"/>
@@ -329,13 +336,22 @@
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_civil_1432/1595_Mercator_Lithuania_swidrigajlo.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Гражданская война в ВКЛ" src="../../images/img-events/war_civil_1432/1595_Mercator_Lithuania_swidrigajlo_thumb.jpg" height="100"> 
 		</br><small>Города Свидригайло (1432) на карте Меркатора 1595 г.</small>
 		</a>
 		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/religion_blr/1760_Francisk_Litva.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-terms/religion_blr/1760_Francisk_Litva_thumb.jpg" height="100"/>
+			</br><small>Монастыри св. Франциска в ВКЛ, 1760</small>
+		</a>
+		</div>
+		
 	</div>
 			
 		<p>
@@ -408,6 +424,7 @@
 		</div>
 		
 		<h4>Иезуиты</h4>
+		
 		<p>
 		В 1563 году (после освобождения Полоцка от войск <a href="../terms/ross_empire.php">Московии</a>, уничтоживших библиотеку 
 		<a href="../places/sophia_sobor.php">Софийского Собора</a>) <a href="../figures/batory.php">Стефан Баторий</a> призвал в страну <a href="jesuity.php">иезуитов</a> — "армию папы". 
@@ -417,6 +434,14 @@
 		<p>
 		Наследие иезуитов — первая аптека (<a href="../places/grodno.php">Гродно</a>), первые башенные часы, типографии (большинство книг XVII века в ВКЛ были напечатаны иезуитами), 
 		  принесли барокко в восточную европу (первое барочное здание — Несвижский фарный костел).		
+		</p>
+		
+		<p class="img-float-center">
+		<a href="../../images/img-terms/religion_blr/1910_Mensk.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/religion_blr/1910_Mensk_thumb.jpg" height="100">
+		</br><small>Колегиум иезуитов, Минск 1910</small>	
+		</a>
 		</p>
 		
 		
@@ -637,6 +662,31 @@
 		Татары, которые имели статус <a href="shliahta.php">шляхты</a>, сохранили его и в ВКЛ. На протяжении целого столетия после переселения, 
 		они имели возможность получить документы от крымских ханов о своих предках. Так в религиозную картину вплетался ислам.
 		</p>
+		<p>
+		Пришедшие татары, сохранив свою веру, приняли литвинские (белорусские) имена и язык. И оставили характерные памятники письменности — китабы.
+		Белорусские тексты, записанные арабским алфавитом. 
+		</p>
+		
+		<div class="col-md-12">
+								
+		<div class="col-md-6 img-float-center">
+		<a href="../../images/img-terms/religion_blr/Mensk_mieczet.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-terms/religion_blr/Mensk_mieczet_thumb.jpg" height="100"/>
+			</br><small>Минск, татарская мечеть</small>
+		</a>
+		</div>
+		
+		<div class="col-md-6 img-float-center">
+		<a href="../../images/img-terms/blr_mova/kitab.jpg" class="highslide"
+        	onclick="return hs.expand(this)">        	
+			<img src="../../images/img-terms/blr_mova/kitab_thumb.jpg" height="100"/>
+			</br><small>Китаб, XVI-XVII вв.
+			</br>— белорусский текст арабской вязью</small>
+		</a>
+		</div>
+		
+		</div>
 		
 		<h2>Московский Патриархат РПЦ</h2>
 		<p>
@@ -691,6 +741,8 @@
 		
 	</br></br></br>
 		<p><small>
+		http://www.wbc.poznan.pl/dlibra/docmetadata?id=21007&from=publication</br>
+		http://www.vostlit.info/Texts/rus4/Pikkolomini/de_lithuania.phtml?id=1108</br>
 		http://lib.pushkinskijdom.ru/Default.aspx?tabid=4990#_edn18</br>
 		https://www.facebook.com/radabolska/posts/701400556652348</br>
 		http://secret-r.net/arkhiv-publikatsij/8-2008/kak-ivan-groznyj-osvobozhdal-polotsk</br>

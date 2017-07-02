@@ -107,10 +107,20 @@
 		<p class="img-float-left">
 		<a href="../../images/_img-index/blr_10ce_etno_variag_way.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/_img-index/blr_10ce_etno_variag_way_thumb.jpg" height="100">
+		<img alt="Ятвяги. История Беларуси" src="../../images/_img-index/blr_10ce_etno_variag_way_thumb.jpg" height="100">
 		</br><small>Племенные союзы</small>
 		</a>
 		</p>
+		
+		<p class="img-float-right">
+		<a href="../../images/img-terms/yotving/jatviagi_blr.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Ятвяги" src="../../images/img-terms/yotving/jatviagi_blr_thumb.jpg" height="100"/>
+			</br><small>Ятвяги на Полесьсе</small>
+		</a>
+		</p>
+		
+		
 		<p>
 		— балтская племенная группа, этнически наиболее близкая к пруссам. Бесписьменный ятвяжский язык принадлежит к западной ветви 
 		балтской группы индоевропейской языковой семьи. Начиная с XII века ятвяги участвовали в этногенезе литовской, латышской, 
@@ -158,10 +168,10 @@
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-terms/yotving/jatviagi_blr.jpg" class="highslide"
+		<a href="../../images/img-terms/yotving/jotwings_podlasia.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Ятвяги" src="../../images/img-terms/yotving/jatviagi_blr_thumb.jpg" height="100"/>
-			</br><small>Ятвяги на Полесьсе</small>
+			<img alt="Ятвяги" src="../../images/img-terms/yotving/jotwings_podlasia_thumb.jpg" height="100"/>
+			</br><small>Ятвяги от Подляшья до Минска</small>
 		</a>
 		</div>
 		

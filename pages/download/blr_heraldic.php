@@ -14,7 +14,7 @@
   	<meta property="og:image" content="http://history-belarus.by/images/img-download/blr_heraldic/title.jpg" />
 
 <!-- ***Include Header*** -->
-<? include ("../_include/header_articles.php"); ?>
+<? include ("../_include/header_download.php"); ?>
   
   <!-- ***Content & Sidebars*** -->
   <div class="container-fluid">

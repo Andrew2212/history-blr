@@ -4,14 +4,14 @@
   <head>
        
 <!-- ***Title*** -->
- 	<title>Белорусский талер</title>
+ 	<title>Талер 2016</title>
 <!-- ***Meta*** -->
-  	<meta name="description" content="Талер. Первая за 220 лет монета с традиционным старым гербом. Качественно, достоверно, пристойно. 
+  	<meta name="description" content="Талер для Крево. Первая за 220 лет монета с тардиционным старым гербом.  
 		 " />
 	<meta name="keywords" itemprop="keywords" content="Беларуский талер с Погоней, монеты Беларуси, монеты с Погоней,
 	История Беларуси, история Белоруссии, краткая история Беларуси, краткая история Беларуси в датах, 
 	 История Беларуси коротко, карты ВКЛ, карты белорусского этноса, метрики ВКЛ, литвины, шляхта Беларуси, белорусы, история Беларуси кратко" />
-  	<meta property="og:image" content="http://history-belarus.by/images/img-articles/taler_blr/talersAll.jpg" />
+  	<meta property="og:image" content="http://history-belarus.by/images/img-articles/taler_blr/title.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_articles.php"); ?>
@@ -30,22 +30,76 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_articles.php"); ?>
  
-		<h1>Taler naszaha Kraju
-		</br><small>
-		<i>"I have a Dream"</i> М. Л. Кинг 	
-		</small>
-		</h1>
-		
-
-		
-		<p class="img-float-left">
+ 
+ 		<h1>Талер для Крево
+		 <br><small>предложение для Фонда Кревского замка</small>
+		 </h1>
+		 
+		 <p><i>
+		 Эта страница написана специально для вас. На нее не ведут никакие ссылки на сайте или в поисковых системах.
+		 </i></p>
+ 		
+ 		<p>
+ 		<h4>Если</h4>
+		  вы сможете
+ 		</br>— либо сформулировать проблему, на которую вам нужна конкретная сумма денег
+ 		</br>— либо организовать, поддерживать и сделать постоянной программу сбора пожертвований на текущие нужды Фонда
+ 		</p>
+ 		<p>
+ 		<h4>То</h4> 
+		 я могу помочь сделать эту кампанию по сбору сердств более привлекательной, предложив в качестве награды для спонсоров талер. 
+		 В принципе, поощрительным призом для жертвователей может быть что угодно 
+ 		— бумажный цветок, желудь столетнего дуба и тп. Но, пожалуй, монета будет симпатичнее.
+ 		</p>
+ 		
+ 		<p class="img-float-left">
 		<a href="../../images/img-articles/taler_blr/talerOneHang.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/talerOneHang_thumb.jpg" height="140">
 		<br><small>Талер 2016</small>
 		</a>
 		</p>
-		<p class="img-float-right">
+ 		
+		<p>
+		Поскольку вы не торговая организация, размер пожертвования (10...20 BYN) и вознаграждение спонсорам вы определяете сами 
+		(вы ведь можете и вообще ничего не давать взамен).
+		</p>
+		<p>
+		Коротко об изделии. Мной был разработан эскиз и заказана технологическая оснастка (штампы). На выпуск первой партии (хотелось посмотреть — надо ли это кому-нибудь)
+		деньги собирались через <a target="_blank" href="http://www.talaka.by/projects/1468/overview">краудфандинг на Талака.by</a>
+		</p>
+		<p> 
+		Проект прошел успешно — при полном отсутствии рекламы в СМИ, за месяц было собрано 1987 BYN. Приняло участие более 150 человек. 
+		Лестные отзывы участников (можно почитать в блоге проекта). Что говорит о хорошем качестве 
+		идеи и самого изделия (талер сделан качественнее монет НацБанка). И если моя кампания была частным делом физического лица, то ваша может стать общенациональным делом. с соответсвующей рекламой.
+		</p>
+		<p>		
+		Если вы сможете организовать целевую компанию по сбору средств, я готов отказаться от предложения сдавать это изделие 
+		в сувенирные лавочки по 6 BYN, поставлять его вам по себестоимости в 4...4,5 BYN и гарантировать, что кроме вас это изделие не поставляется никому. 
+		</br>[ <small>Для сравнения — аналогичные по размеру монеты 
+		проектом <a target="_blank" href="http://www.belmoneta.by/113">БелМонета</a> продаются по 10 руб.</small> ]
+ 		</p>
+ 		<p>
+		"А зачем это ему?" — спростие вы. Нормальный вопрос. Продажа монеток — не есть мой бизнес. Я инженер-проектировщик. 
+		Запуск изделия в серию не дешевое дело. 
+		В себестоимость изделия заложена амортизация штампов (они дорогие и не вечные, на ~3000 копий). Финансово мне все равно, как "отбить" 
+		свои затраты — продав через сувенирные лавочки 300 изделий или поставив вам 900. Но с вами было бы веселее.
+		</p>
+ 		<p>
+ 		Если мой опыт по сбору средств может быть вам полезен — обращайтесь. И да, у вас много проблем на сайте (с точки зрения поисковых систем и тп).
+		</p>
+ 		
+ 		
+		<h1>Беларуский талер с Погоней
+		</br><small>
+		<i>"I have a Dream"</i> М. Л. Кинг		
+		</small>
+		</h1>
+		
+		<div class="col-md-12">
+		
+		
+		<p class="img-float-left">
 		<a href="../../images/img-articles/taler_blr/ruins.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/ruins_thumb.jpg" height="140">
@@ -61,53 +115,11 @@
 		</p>
 		
 		<p>
-		Белорусский талер с Погоней — первая монета, связывающая современную Беларусь с ее историческим гербом и наследием. 
+		Проект осуществлен при поддержке <a target="_blank" href="http://www.talaka.by/projects/1468/overview" style="color:red">Talaka.by</a>
 		</p>
-		<p>
-		Качество его чеканки — выше, чем у современных монет НацБанка РБ. Статус обязывает.
-		</p>
-		<p>
-		Проект задуман и осуществлен в 2016-1017. Первая партия монет отчеканена в рамках проекта на Talaka.by
-		<a target="_blank" href="http://www.talaka.by/projects/1468/overview">"Беларуский талер"</a>, вторая — в рамках проекта с Виталием Гурковым
-		<a target="_blank" href="https://www.talaka.by/projects/1835/overview">"Погоня — это красиво"</a>
-		</p>
-			
-		<div class="col-md-12 img-float-center">
 		
-		<div class="col-md-3">
-		<a href="../../images/img-articles/taler_blr/talersAll.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/talersAll_thumb.jpg" height="100">
-		</a>
-		</div>
-		
-		<div class="col-md-3">
-		<a href="../../images/img-articles/taler_blr/talerSmall.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/talerSmall_thumb.jpg" height="100">
-		</a>
-		</div>
-		
-		<div class="col-md-3">
-		<a href="../../images/img-articles/taler_blr/talerBigSilver.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/talerBigSilver_thumb.jpg" height="100">
-		</a>
-		</div>
-		
-		<div class="col-md-3">
-		<a href="../../images/img-articles/taler_blr/talerBig.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/talerBig_thumb.jpg" height="100">
-		</a>
-		</div>
 		
 		</div>
-				
-		<p>
-		С любыми пожеланиями и предложениями по поводу монет можно писать на скрыню 
-		</br><b>history.msg<img src="../../images/img-about/dog.jpg"/>gmail.com</b>
-		</p>
 
 		<h3>Prehistory</h3>
 
@@ -151,10 +163,10 @@
 		</div>
 		
 		<div class="col-md-3">
-		<a href="../../images/img-articles/taler_blr/talerUsage.jpg" class="highslide"
+		<a href="../../images/img-articles/taler_blr/rubl.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/talerUsage_thumb.jpg" height="100">
-		</br><small>Талер</small>
+		<img alt="Слуцкий рубль" src="../../images/img-articles/taler_blr/rubl_thumb.jpg" height="100">
+		</br><small>"Дзержинский рубль"</small>
 		</a>
 		</div>
 		
@@ -165,10 +177,16 @@
 		<p class="img-float-left">
 		<a href="../../images/img-articles/taler_blr/talerCoins.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/talerCoins_thumb.jpg" height="100">
+		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/talerCoins_thumb.jpg" height="140">
+		<br><small>Талер 2016</small>
 		</a>
 		</p>
-		
+		<p class="img-float-right">
+		<a href="../../images/img-articles/taler_blr/legacy.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/legacy_thumb.jpg" height="140">
+		</a>
+		</p>
 		<p>
 		Это был проект for fun. Талер с <a href="../terms/blr_gerb.php">Погоней</a>. 
 		С гербом, которым гордилась моя страна в 1300-1795 годы. 
@@ -182,59 +200,39 @@
 		</p>
 		<p>
 		После изготовления технологической оснастки (штампы и тп) и получения серийного образца надо было отчеканить первую партию изделий — чтобы талер из единичного 
-		сувенира стал "монетой, выпущенной тиражем №№№ экземпляров". И талер разошелся по республике
-		первым тиражем в 400 штук и вторым в 150 штук. Что будет с ним дальше — время покажет. 
+		сувенира стал "монетой, выпущенной тиражем №№№ экземпляров". Краудфандинг на Талака.бай собрал 150 человек, поддержавших проект. И талер разошелся по республике
+		первым тиражем в 400 штук. Что будет с ним дальше — время покажет. 
 		</p>
-		
-		<div class="col-md-12 img-float-center">
-		
-		<div class="col-md-4">
-		<a href="../../images/img-articles/taler_blr/legacy.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/legacy_thumb.jpg" height="100">
-		<br><small>Хороший контекст</small>
-		</a>
-		</div>
-		
-		<div class="col-md-4">
-		<a href="../../images/img-articles/taler_blr/neswizLenin.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/neswizLenin_thumb.jpg" height="100">
-		<br><small>Несвиж. Площадь у ратуши</small>
-		</a>
-		</div>
-		
-		<div class="col-md-4">
-		<a href="../../images/img-articles/taler_blr/souvenirs.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/souvenirs_thumb.jpg" height="100">
-		<br><small>Шендерович и Минск</small>
-		</a>
-		</div>
-		
-		</div>
 		
 		
 		<h3>Выбор прототипа</h3>
 		
 		<p>
-		Первая монета (талер d=24mm). Это не копия исторического оригинала. Просто "вариации на тему".
-		Прототипом послужили монеты <a href="../terms/dukes_wkl.php">Сигизмунда II Августа</a> 
+		Это не копия исторического оригинала. Просто "вариации на тему".
+		Прототипом талера послужили монеты <a href="../terms/dukes_wkl.php">Сигизмунда II Августа</a> 
 		— последнего в. князя Литовского (1544-1572) из династии <a href="../figures/jagellony.php">Ягеллонов</a>.
 		 Последние монеты, имевшие на аверсе (или реверсе, если угодно) изображение <a href="../terms/blr_gerb.php">Погони</a>. 
 		</p>
 		
 		<div class="col-md-12 img-float-center">
 		
-		<div class="col-md-4">
-		<a href="../../images/img-articles/taler_blr/talerOne.jpg" class="highslide"
+		<div class="col-md-3">
+		<a href="../../images/img-articles/taler_blr/taler_sketch.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/talerOne_thumb.jpg" height="100">
-		</br><small>Талер d=24mm</small>
+		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/taler_sketch_thumb.jpg" height="100">
+		</br><small>Эскиз</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4">
+		<div class="col-md-3">
+		<a href="../../images/img-articles/taler_blr/taler.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/taler_thumb.jpg" height="100">
+		</br><small>Визуализация эскиза</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3">
 		<a href="../../images/img-articles/taler_blr/talertTempStamp.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/talertTempStamp_thumb.jpg" height="100">
@@ -242,11 +240,11 @@
 		</a>
 		</div>
 		
-		<div class="col-md-4">
-		<a href="../../images/img-articles/taler_blr/1559_gross_Sigizmund.jpg" class="highslide"
+		<div class="col-md-3">
+		<a href="../../images/img-articles/taler_blr/talerOne.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/1559_gross_Sigizmund_thumb.jpg" height="100">
-		</br><small>1546-59 Монеты Сигизмунда Августа</small>
+		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/talerOne_thumb.jpg" height="100">
+		</br><small>Готовое изделие</small>
 		</a>
 		</div>
 		
@@ -281,23 +279,31 @@
 		
 		<div class="col-md-12 img-float-center">
 		
-		<div class="col-md-4">
-		<a href="../../images/img-articles/taler_blr/M-D-Litva_1569-1795.jpg" class="highslide"
+		<div class="col-md-3">
+		<a href="../../images/img-articles/taler_blr/1559_gross_Sigizmund.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/M-D-Litva_1569-1795_thumb.jpg" height="100">
-		</br><small>"M. D. Litva"</small>
+		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/1559_gross_Sigizmund_thumb.jpg" height="100">
+		</br><small>1546-59 Монеты Сигизмунда Августа</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4">
-		<a href="../../images/img-articles/taler_blr/M-D-L___Ligatura.jpg" class="highslide"
+		<div class="col-md-3">
+		<a href="../../images/img-articles/taler_blr/1562_gross_Sigizmund.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Стефан Баторий" src="../../images/img-articles/taler_blr/M-D-L___Ligatura_thumb.jpg" height="100" >
-		</br><small>"Magni Ducatus" как лигатура "MD"</small>
+		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/1562_gross_Sigizmund_thumb.jpg" height="100">
+		</br><small>1562 Монеты Сигизмунда Августа</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/batory/1586_taler_Batory.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Стефан Баторий" src="../../images/img-figures/batory/1586_taler_Batory_thumb.jpg" height="100" >
+		</br><small>1586 Монеты Стефана Батория</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3">
 		<a href="../../images/img-articles/taler_blr/1660_boratinki.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/1660_boratinki_thumb.jpg" height="100">
@@ -308,55 +314,9 @@
 		</div>
 		
 		<p>
-		Второй талер (d=38mm). Прототипом эскиза для проекта послужила Погоня из гербовника Эразма Камина, 1575 год.
-		</p>
-		<p>
-		Надпись по периметру. В ней выбрано наиболее привычное и узнаваемое написание слов. Шрифт латинский, поскольку до разделов Речи Посполитой кириллица ни в нумизматике, ни в картографии нашего Края не использовалась. Семиотическая (символьная) связь РБ со своим прошлым настолько слаба, что кириллица еще долго будет чужеродной в таком контексте.
-		</p>
-		<p>
-		<i>Великое княжество Литовское</i> — Magni Ducatus Lithuaniae, MD Litva (латынь). 
-		</p>
-		<p>
-		<i>Беларусь</i> — Belarus (английский)
-		</p>
-		<p>
-		<i>Хэй, литвины...</i> — Hej litviny boh nam radzic (белорусская официальная латинка, без надстрочных знаков), старый воинский поклич войска Радзивиллов (по легенде). 
-		С традицией выкарыстаньня беларускай латинки можно познакомиться <a href="../terms/blr_mova.php">тут</a>
-		</p>
-		<p>
-		<i>1991</i> — поскольку это не монета НацБанка, то уместно было поставить не год выпуска, а знаменательную дату из новейшей истории нашей страны.
-		</p>
-		
-		<div class="col-md-12 img-float-center">
-		
-		<div class="col-md-4">		
-		<a href="../../images/img-articles/taler_blr/vitrina.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/vitrina_thumb.jpg" height="100">
-		<br><small>Витрина</small>
-		</a>
-		</div>
-		
-		<div class="col-md-4">		
-		<a href="../../images/img-articles/taler_blr/herb_four_monet.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/herb_four_monet_thumb.jpg" height="100">
-		<br><small>Талер d=38mm</small>
-		</a>
-		</div>
-		
-		<div class="col-md-4">		
-		<a href="../../images/img-download/blr_people_now/map_Lotter_litwa_1770.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="ВКЛ Меркатор" src="../../images/img-download/blr_people_now/map_Lotter_litwa_1770_thumb.jpg" height="100">
-		</br><small>1778 Magni Ducatus Lithuaniae, T. Lotter</small>
-		</a>
-		</div>
-				
-		</div>
-		
-		<p>
-		И, в общем, да — современные границы РБ точнее совпадают с границами ВКЛ, чем границы РФ с границами Российской империи. 
+		Изделие не копирует существующие или существовавшие денежные знаки. Отличия по материалу и графическому исполнению от монет соответсвующих размеров, 
+		находящихся в обращении на территории РБ, а так же то, что себестоимость изделия выше, чем номинал соотвествующих монет 
+		— не допускает использования изделия (монетовидного жетона) в мошеннических целях.
 		</p>
 		
 		<h3>
@@ -413,10 +373,15 @@
 		
 		</div>
 								
+		<p>
+		<i>«Обращаю ваше внимание, что административной либо иной ответственности по этому символу — гербу „Погоня“ — не существует»
+		</i>, — И. Шуневич, глава МВД РБ.
+		</p>
+		
 		
 		<h3>PS.</h3>
 		<p>
-		При всем многообразии существовавших вариантов дизайна белорусских денег 1993-2011 годов, Погоня на монетах была предложена (но так и не реализована) лишь единожды.
+		При всем многообразии существовавших вариантов дизайна белорусских денег 1993-2011 годов, Погоня на монетах была предложена лишь единожды.
 		</p>
 		
 		<div class="col-md-12 img-float-center">

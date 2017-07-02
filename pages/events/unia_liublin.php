@@ -3,7 +3,7 @@
 <html lang="ru">
   <head>
   <!-- ***Title*** -->
-    <title>Люблинская уния. История Беларуси</title>
+    <title>Люблинская уния 1569</title>
 <!-- ***Meta*** -->  
     <meta name="description" content="Государственный союз между Королевством Польским и Великим княжеством Литовским, 
 	положивший начало единому федеративному государству - Речи Посполитой, которое играло значимую роль 
@@ -11,7 +11,7 @@
 	" />
 	<meta name="keywords" itemprop="keywords" content="Люблинская уния 1569, Речь Посполитая,
 	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
-	<meta property="og:image" content="http://history-belarus.by/images/img-events/unia_liublin/1586_taler_Batory_title.jpg" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-events/unia_liublin/title.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_events.php"); ?>

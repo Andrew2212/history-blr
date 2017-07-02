@@ -241,6 +241,13 @@
 			А другая часть булгар, осевшая в бассейне Волги и Камы, 
 			в X веке приняла ислам и называется «татары». Сейчас это два разных народа.
 		</p>
+		<p class="img-float-center">
+		<a href="../../images/img-terms/slavs/1965-antropology.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-terms/slavs/1965-antropology_thumb.jpg" height="100"/>
+			</br><small>1965_Антропология</small>
+		</a>				
+		</p>
 		
 		</br></br></br>
 		<p><small>

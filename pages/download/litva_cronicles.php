@@ -35,12 +35,8 @@
 		</small>
 		</h2>
 		
-		<p class="img-float-center">
-		<a href="../../images/img-download/litva_cronicles/map_litwa_14_century_by_historic_source.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img  alt="Литва" src="../../images/img-download/litva_cronicles/map_litwa_14_century_by_historic_source.jpg" height="400">
-		</a>
-		</p>
+		<!-- ***Litva *** -->
+  	<? include ("../_include/include_Litva.php"); ?>
 		
 		
 	</div>

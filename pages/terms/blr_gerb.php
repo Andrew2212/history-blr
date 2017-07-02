@@ -271,7 +271,18 @@
 
 	<!-- ***HerbyWKL *** -->
   	<? include ("../_include/include_HerbyWKL.php"); ?>
-		
+
+<div class="col-md-12 top-list">
+<!--It's just line-->
+</div>
+	
+	<h2>Литва. Локализация термина</h2>
+	<p><i>
+	"Княжество Литовское уживает на хоругви по одной стороне Погоню, по другой три слупа белых на поле червоном"
+	</i> 1597
+	</p>
+	<!-- ***Litva *** -->
+  	<? include ("../_include/include_Litva.php"); ?>	
 		
 				</br></br></br>
 		<p><small>

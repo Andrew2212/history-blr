@@ -446,6 +446,10 @@
 		  </br><small>гуманист и еретик</small>
         </li>
         <li>
+          <a href="chodzko.php">Ходзько Леонард</a> 
+		  </br><small>и "Товарищество Литовское и Земель Руских" 1832</small>
+        </li>
+        <li>
           <a href="shagal.php" class="item-edit">Шагал Марк</a>
 		  </br><small>художник</small> 
         </li>

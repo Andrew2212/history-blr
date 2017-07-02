@@ -1,9 +1,9 @@
-#Игнорим все папки и файлы в директории /images кроме README_Images.txt
+﻿#Игнорим все папки и файлы в директории /images кроме README_Images.txt
 /images/*
 !/images/README_Images.txt
 
 #Игнорим архивы
-.zip
-.rar
+*.zip
+*.rar
 
 #Help http://ivan-orlov.com/ru/articles/podrobnee-o-faile-gitignore

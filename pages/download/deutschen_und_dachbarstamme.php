@@ -99,21 +99,29 @@
 	истории западных и северо-западных <a href="../download/blr_people.php">белорусских земель</a>.  
 	</p>
 	<p>
-	"Только сегодня и только у нас!"(с). Карта городов и главных рек Беларуси. Расселение ятвягов, 
+	Карта городов и главных рек Беларуси. Расселение ятвягов, 
 	граница Литвы и Жмуди — хороший фон для проецирования привязок из хроник и летописей.
 	</p>
 	
 	<div class="col-md-12">	
 	
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-download/deutschen_und_dachbarstamme/Berezyna.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Litwini" src="../../images/img-download/deutschen_und_dachbarstamme/Berezyna_thumb.jpg" height="100"/>
-		</br><small>Река Березина</small>
+		</br><small>Река Березина "Граница Литвы и Руси"</small>
 		</a>				
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-download/deutschen_und_dachbarstamme/berezina_border_Litva-Rus.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Litwini" src="../../images/img-download/deutschen_und_dachbarstamme/berezina_border_Litva-Rus_thumb.jpg" height="100"/>
+		</br><small>Река Березина, г. Борисов</small>
+		</a>				
+		</div>
+		
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-download/deutschen_und_dachbarstamme/kriwiczi_littauen.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="кривичи-литвины" src="../../images/img-download/deutschen_und_dachbarstamme/kriwiczi_littauen_thumb.jpg" height="100"/>
@@ -121,7 +129,7 @@
 		</a>				
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-download/deutschen_und_dachbarstamme/Blr_river.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Города и реки Беларуси" src="../../images/img-download/deutschen_und_dachbarstamme/Blr_river_thumb.jpg" height="100"/>

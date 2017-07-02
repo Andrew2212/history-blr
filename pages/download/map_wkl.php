@@ -534,8 +534,9 @@
 			</div>
 		</div>
 		
-		<div class="col-md-12 div-empty">
-		</div>
+<div class="col-md-12 div-empty">
+<!--Jast line-->
+</div>
 
 <div class="col-md-12">
 <h3>1914-1946 Границы Беларуси </h3>		
@@ -556,20 +557,24 @@
 <div class="alt2">
 <div style="display: none;">
 
-
-
 	<!-- ***blr_entire *** -->
-  	<? include ("../_include/include_Blr_border_1914-1946.php"); ?>
-
-
-<div class="col-md-12 top-list">
-<!--It's just line-->
-</div>    
+  	<? include ("../_include/include_Blr_border_1914-1946.php"); ?> 
       
 </div>
 </div>
 </div>	
 <!--/Spoiler-->
+</div>
+
+
+<div class="col-md-12 div-empty">
+<!--Jast line-->
+</div>
+
+<div class="col-md-12">
+<h3>Литва. Локализация термина на картах и в хрониках </h3>	
+	<!-- ***Litva *** -->
+  	<? include ("../_include/include_Litva.php"); ?>
 </div>
 
 

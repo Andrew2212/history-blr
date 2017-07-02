@@ -23,6 +23,14 @@ border-bottom: 1px solid #DDD;
 height: 12px;
 }
 
+/*==========Reclam right side-bar block================================*/
+.reclam-block{
+border: 1px solid #CC9999;
+text-align: center;
+padding-top:8px;
+padding-bottom:8px;
+}
+
 /*==========Top list================================*/
 .top-list{
 border-bottom: 1px solid #666;

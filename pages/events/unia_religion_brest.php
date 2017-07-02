@@ -10,7 +10,7 @@
 	" />
 	<meta name="keywords" itemprop="keywords" content="уния, униатство, брестская уния, униатство в Беларуси, униаты, униатская церковь в Беларуси,  
 	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
-	<meta property="og:image" content="http://history-belarus.by/images/img-terms/religion_blr/kirkor_ortodox.jpg" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-events/unia_religion_brest/Differences.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_events.php"); ?>

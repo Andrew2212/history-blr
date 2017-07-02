@@ -108,10 +108,15 @@
 		 <a href="../terms/litwiny.php">литвинами</a> (Lithwani). 
 		 Эти слова фонетически дословно записаны в <a href="../download/chronicles_dubnica.php">Дубницкой хронике</a> 1351.	 
 		</p>
+		<p>
+		При все чехарде с терминами "руский", "белоруский", "литовский", в штате Посольского приказа Московского царства 1689 года сотоял "переводчик с белоруского языка" 
+		— см. <a target="_blank" href="http://xn--90ax2c.xn--p1ai/catalog/000202_000006_7452%7C6D40BCCA-AC08-4BFF-8C6E-5F756357E836/viewer/?page=138">
+		издания Национальной библиотеки РФ</a>
+		</p>
 		
 		<div class="col-md-12" >
 	
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/blr_etnos/blr_etnos15ce.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img alt="О белорусской народности" src="../../images/img-terms/blr_etnos/blr_etnos15ce_thumb.jpg" height="100"/>
@@ -119,7 +124,16 @@
 		</a>				
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-figures/kejstut/kejstut_oath.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Рогацина — розни наши! Господ з нами! (rogachina rozne nachy gospanany)" 
+		src="../../images/img-figures/kejstut/kejstut_oath_thumb.jpg" height="100">
+		</br><small>1351 "Клятва Кейстута"</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-download/blr_people_now/1690_Hondius_Valk_Lithvaniae.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="ВКЛ 1690 Hondius Valk Lithvaniae" src="../../images/img-download/blr_people_now/1690_Hondius_Valk_Lithvaniae_thumb.jpg" height="100">
@@ -127,14 +141,15 @@
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
-		<a href="../../images/img-figures/kejstut/kejstut_oath.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="Рогацина — розни наши! Господ з нами! (rogachina rozne nachy gospanany)" 
-		src="../../images/img-figures/kejstut/kejstut_oath_thumb.jpg" height="100">
-		</br><small>"Клятва Кейстута", 1351</small>	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/blr_mova/1689_translators.jpg" class="highslide"
+        	onclick="return hs.expand(this)">       	
+			<img src="../../images/img-terms/blr_mova/1689_translators_thumb.jpg" height="100"/>
+			</br><small>1689 "переводчик с латинского и белоруского"</small>
 		</a>
 		</div>
+		
+		
 		
 		</div>
 		
@@ -459,6 +474,33 @@
 		</br>• Товарищ полковник, разрешите обратиться к капитану ... == Спадар палкоўнік, дазвольце звярнуцца да капітана ...
 		</br>• Шагом — марш! == Крокам — руш!
 		</br><a target="_blank" href="http://www.svaboda.org/a/27842089.html">Read more...</a>
+		</p>
+		
+		<h2>Деловая письменность
+		</br><small>в системе старобелорусского литературного языка</small>
+		</h2>
+		<p>
+		...На примере ряда стран И.И. Лаппо показал, что их общий язык вырабатывался не только писателями, но и государственными учреждениями, 
+		судьями и самыми различными должностными лицами, осуществлявшими различные функции общегосударственной власти в законодательстве, 
+		судах, канцеляриях, войске, на всем протяжении территории государства. 
+		</p>
+		<p>
+		Если сопоставить роль старобелорусского литературного языка в области светско-художественной и религиозной литературы 
+		с его значением и функциями в общественно-политической и экономической жизни, то неизбежно приходится делать вывод, 
+		что старинная деловая письменность эпохи ВКЛ как раз и была основной, важнейшей сферой применения старобелорусского письменного языка.
+		</p>
+		<p>
+		Существенным также является вопрос об отношении актового языка к разговорной речи различных социальных слоев старобелорусского населения. 
+		Основу тогдашнего населения составляло крестьянство, поголовно неграмотное, и его диалектная речь, естественно, была далекой 
+		от письменного актового языка с его специфическим синтаксисом, канцелярскими штампами и юридической терминологией. 
+		</p>
+		<p>
+		Что же касается тогдашней интеллигенции и вообще высшего класса, то их повседневная речь в значительной мере носила наддиалектный характер 
+		и была, несомненно, ближе всего к той форме, которая применялась в деловой письменности. На это уже неоднократно и совершенно обоснованно 
+		указывали исследователи в прошлом
+		</p>
+		<p>
+		Read more <a target="_blank" href="http://www.philology.ru/linguistics3/zhuravsky-78.htm">Philology.ru</a>
 		</p>
 
 	

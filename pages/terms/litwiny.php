@@ -78,26 +78,34 @@
 		</p>
 		
 	<div class="col-md-12" >
-		<div class="col-md-4 img-float-center" >
+		<div class="col-md-3 img-float-center" >
 		<a href="../../images/img-terms/litwiny/litviny_david.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litviny_david_thumb.jpg" height="120">		
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litviny_david_thumb.jpg" height="100">		
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center" >
+		<div class="col-md-3 img-float-center" >
 		<a href="../../images/img-figures/david/coin_davyd.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-figures/david/coin_davyd.jpg" height="120">		
+		<img alt="литвины-белорусы" src="../../images/img-figures/david/coin_davyd.jpg" height="100">		
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center" >
+		<div class="col-md-3 img-float-center" >
 		<a href="../../images/img-terms/litwiny/peter_text.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/peter_text_thumb.jpg" height="120">		
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/peter_text_thumb.jpg" height="100">		
 		</a>
 		</div>
+		
+		<div class="col-md-3 img-float-center" >
+		<a href="../../images/img-terms/religion_blr/1460_rerumPrussicarum.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/religion_blr/1460_rerumPrussicarum_thumb.jpg" height="100">
+		</a>
+		</div>
+		
 	</div>
 		
 		<p>
@@ -117,27 +125,37 @@
 		В России к XVIII веку Белоруссией называлась Смоленская губерния, и в архивных документах уточнялась религиозная принадлежность литвинов: 
 		"беларуской" (<a href="../events/unia_religion_brest.php">униаты</a>) или католической веры.
 		</p>
+		
 	<div class="col-md-12" >
-		<div class="col-md-4 img-float-center" >
+	
+		<div class="col-md-3 img-float-center" >
 		<a href="../../images/img-terms/litwiny/smolensk_blr.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/smolensk_blr_thumb.jpg" height="120" >
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/smolensk_blr_thumb.jpg" height="100" >
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center" >
+		<div class="col-md-3 img-float-center" >
 		<a href="../../images/img-terms/litwiny/litvin_1.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_1_thumb.jpg" height="120" >
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_1_thumb.jpg" height="100" >
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center" >
+		<div class="col-md-3 img-float-center" >
 		<a href="../../images/img-terms/litwiny/litvin_religion.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_religion_thumb.jpg" height="120" >
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_religion_thumb.jpg" height="100" >
 		</a>
 		</div>
+		
+		<div class="col-md-3 img-float-center" >
+		<a href="../../images/img-terms/blr_etnos/litva-PolenBlr.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Белорусский этнос" src="../../images/img-terms/blr_etnos/litva-PolenBlr_thumb.jpg" height="100"/>
+		</a>
+		</div>
+		
 	</div>		
 		<p>
 		После <a href="../events/uprising_1830.php">1830 года</a> в изданиях Императорского Русского Географического общества и императорских указах термин "литвины" 
@@ -160,28 +178,28 @@
 		<div class="col-md-3 img-float-center" >
 		<a href="../../images/img-terms/litwiny/1842_litviny.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/1842_litviny_thumb.jpg"  height="120" >
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/1842_litviny_thumb.jpg"  height="100" >
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center" >
 		<a href="../../images/img-terms/litwiny/litvin_2.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_2_thumb.jpg" height="120" >
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_2_thumb.jpg" height="100" >
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center" >
 		<a href="../../images/img-terms/litwiny/litvin_3.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_3_thumb.jpg" height="120" >
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_3_thumb.jpg" height="100" >
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center" >
 		<a href="../../images/img-terms/litwiny/litvin_blr.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_blr_thumb.jpg" height="120" >
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_blr_thumb.jpg" height="100" >
 		</a>
 		</div>
 		
@@ -207,7 +225,7 @@
 		<p class="img-float-center" >
 		<a href="../../images/img-terms/litwiny/litwiny_blr.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litwiny_blr_thumb.jpg" height="120" >
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litwiny_blr_thumb.jpg" height="100" >
 		</br><small>Bialarusini — prawdziwi, historyczni Litwini</small>
 		</a>
 		</p>
@@ -230,6 +248,12 @@
 		<p>
 		<small>"У палескай глушы", Я. Колас</small>
 		</p>
+		
+<div class="col-md-12">
+<h3>Литва. Локализация термина на картах и в хрониках </h3>	
+	<!-- ***Litva *** -->
+  	<? include ("../_include/include_Litva.php"); ?>
+</div>
 		
 		
 		</br></br></br>

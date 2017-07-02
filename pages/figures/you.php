@@ -96,6 +96,11 @@
 		
 		<div class="col-md-12">
 		</br>
+		<a target="_blank" href="http://genealogia.okiem.pl/powstanies/index.php?letter=a">Алфавитный список участников восстания 1863 года</a>
+		</div>
+		
+		<div class="col-md-12">
+		</br>
 		<a target="_blank" href="http://kdkv.narod.ru/1864/Spis-Xron.htm">СПIСОКЪ политическимъ преступникамъ</a>
 		</div>
 		

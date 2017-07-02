@@ -171,6 +171,14 @@
 	<i>"What are you?"</i> — говорил в таких случаях губернатор Калифорнии.
 	</p>
 	
+	<p class="img-float-center">
+		<a href="../../images/img-articles/dnk/blr_phenotype.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-articles/dnk/blr_phenotype_thumb.jpg" height="120">
+		</br><small>О фенотипе белорусов. Комментарий главного гематолога РБ</small>
+		</a>
+		</p>
+	
 	<h3>Тут вам не здесь</h3>
 	<p>
 	Очень хочется пояснить несведущим. Тут не горный анклав, где блюдут "чистоту крови". 

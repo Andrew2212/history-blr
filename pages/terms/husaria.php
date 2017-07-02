@@ -43,14 +43,14 @@
 		<p class="img-float-left">
 		<a href="../../images/img-terms/husaria/mir_castle_husaria.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/husaria/mir_castle_husaria_thumb.jpg" height="160">
+		<img alt="Крылатые гусры, армия ВКЛ" src="../../images/img-terms/husaria/mir_castle_husaria_thumb.jpg" height="160">
 		</br><small>Доспехи, Мирский замок</small>
 		</a>
 		</p>
 		<p class="img-float-right">
 		<a href="../../images/img-terms/husaria/dospech_radziwill.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/husaria/dospech_radziwill_thumb.jpg" height="160">
+		<img alt="Крылатые гусры, армия ВКЛ" src="../../images/img-terms/husaria/dospech_radziwill_thumb.jpg" height="160">
 		</br><small>Рыцарский доспех 
 		</br>Радзивилла Черного, 1550</small>
 		</a>
@@ -88,7 +88,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/husaria/turkish-deli.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/husaria/turkish-deli_thumb.jpg" height="100">
+		<img alt="Крылатые гусры, армия ВКЛ" src="../../images/img-terms/husaria/turkish-deli_thumb.jpg" height="100">
 		</br><small>Турецкие "дели", XVI</small>	
 		</a>
 		</div>
@@ -96,7 +96,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/husaria/autorament.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/husaria/autorament_thumb.jpg" height="100">
+		<img alt="Крылатые гусры, армия ВКЛ" src="../../images/img-terms/husaria/autorament_thumb.jpg" height="100">
 		</br><small>Народный ауторамент</small>	
 		</a>
 		</div>
@@ -104,7 +104,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/husaria/nesviz_1930_radziwill_palac.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/husaria/nesviz_1930_radziwill_palac_thumb.jpg" height="100">
+		<img alt="Крылатые гусры, армия ВКЛ" src="../../images/img-terms/husaria/nesviz_1930_radziwill_palac_thumb.jpg" height="100">
 		</br><small>Оружейная Радзивиллов
 		</br>Несвиж, 1930</small>	
 		</a>
@@ -113,12 +113,56 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/husaria/kluszyn_1610.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/husaria/kluszyn_1610_thumb.jpg" height="100">
+		<img alt="Крылатые гусры, армия ВКЛ" src="../../images/img-terms/husaria/kluszyn_1610_thumb.jpg" height="100">
 		</br><small>Гусарская хоругвь 
 		</br>в битве при Клушине</small>	
 		</a>
 		</div>
 									
+	</div>
+	
+	<p>
+	Коротко о составе армии Польши и ВКЛ 
+	(из <a target="_blank" href="https://books.google.by/books?id=upQQAAAAYAAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false">Opis Starozytnej Polski</a>)
+	<i>— "Армия польская и литовская делилась на народову, в которой шляхта служила, и иноземную, из пехоты драгунов и кавалерии легкой.
+	В армии народовой были бригады гусар, панцерных и пятигорцев; последних больше было в Литве"</i>.
+	
+	</p>
+	
+	<div class="col-md-12" >
+	
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/husaria/1861_armia.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Крылатые гусры, армия ВКЛ" src="../../images/img-terms/husaria/1861_armia_thumb.jpg" height="100">
+		</br><small>Состав армии ВКЛ </small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/husaria/1861_husaria.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Крылатые гусры, армия ВКЛ" src="../../images/img-terms/husaria/1861_husaria_thumb.jpg" height="100">
+		</br><small>Гусария</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/husaria/1861_pancerny.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Крылатые гусры, армия ВКЛ" src="../../images/img-terms/husaria/1861_pancerny_thumb.jpg" height="100">
+		</br><small>Панцерные бригады</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3 img-float-center">
+		<a href="../../images/img-terms/husaria/1861_petyhorcy.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Крылатые гусры, армия ВКЛ" src="../../images/img-terms/husaria/1861_petyhorcy_thumb.jpg" height="100">
+		</br><small>Пятигорцы</small>	
+		</a>
+		</div>
+		
 	</div>
 			
 		<p>
@@ -140,7 +184,7 @@
 		<p class="img-float-center">
 		<a href="../../images/img-terms/blr_gerb/gusaria_signs.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/blr_gerb/gusaria_signs.jpg" height="100">
+		<img alt="Крылатые гусры, армия ВКЛ" src="../../images/img-terms/blr_gerb/gusaria_signs.jpg" height="100">
 		</br><small>Белоруский и Гродненский 
 		</br>гусарские полки, XIX</small>	
 		</a>

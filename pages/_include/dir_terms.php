@@ -1,5 +1,13 @@
 
-      <div class="col-md-2 left-bar-align-center">
+      <div class="col-md-2 ">
+      
+      	<p class="reclam-block">
+		<a href="../articles/taler_blr.php" >
+		Taler naszaha Kraju
+		</br><img alt="Белорусский талер  с Погоней" src="../../img/taler_reclam_Big.jpg" height="120">
+		</a>		
+		</p>
+		
       <!--
        <p>
 			<a href="belarus.php">

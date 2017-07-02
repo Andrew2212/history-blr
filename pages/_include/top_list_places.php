@@ -21,7 +21,10 @@
       <ul>
 
           <h4><small>[А - Я]</small></h4>
-
+		
+		<li>
+          <a href="litwa.php">Аукштайтия</a> — история и миграция
+        </li>
         <li>
           <a href="wilno.php">Вильно</a> — мультикультурная столица
         </li>
@@ -47,10 +50,13 @@
           <a href="zyroviczy.php" class="item-edit">Жировичи</a>
         </li>
         <li>
-          <a href="samogitia.php" >Летува (Lietuva). Самогития (Samogitia). Жмудь</a>
+          <a href="samogitia.php">Жмудь(Жемайтия, Самогития)</a>
         </li>
         <li>
-          <a href="litwa.php" class="item-edit">Литва (Lithuania Propria)</a>
+          <a href="litwa.php">Литва</a> — локализация термина
+        </li>
+        <li>
+          <a href="samogitia.php">Летува (Lietuva)</a> — наследие Samogitia
         </li>
         <li>
           <a href="oginski_channel.php">Канал Огинский</a> (1763) — обновление пути "из варяг в греки"
@@ -103,6 +109,9 @@
         </li>
         <li>
           <a href="polotsk.php" class="item-edit">Полоцк</a>
+        </li>
+        <li>
+          <a href="samogitia.php">Самогития (Samogitia)</a>
         </li>
         <li>
           <a href="sophia_sobor.php" class="item-edit">Софийский Собор</a>

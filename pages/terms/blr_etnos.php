@@ -235,6 +235,11 @@
 		</p>
 		
 		<h3>XIX в</h3>
+		<p class="img-float-left">
+		<a href="../../images/img-terms/blr_etnos/litva-PolenBlr.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Белорусский этнос" src="../../images/img-terms/blr_etnos/litva-PolenBlr_thumb.jpg" height="100"/>
+		</a>
 		<p>
 		Беларусь — <a href="../terms/sewero_zapadny_kraj.php">Северо-Западный край</a> Имерии. Стремительно меняется терминология. Термин "литвины" 
 		уходит из официального обращения, оставаясь прерогативой "сьвядомых змагароў" — будущих 
@@ -467,6 +472,12 @@
 <!--/Spoiler-->
 		
 		<h3>PS.</h3>
+		<p class="img-float-left">
+		<a href="../../images/img-articles/dnk/blr_phenotype.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-articles/dnk/blr_phenotype_thumb.jpg" height="100">	
+		</a>
+		</p>
 		<p>
 			Историк Леонид Алексеев в книге «Полоцкая земля в IX - ХІІІ вв.» (1966 г.) отметил:
 			<i>

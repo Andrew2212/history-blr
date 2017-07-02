@@ -108,8 +108,12 @@
         </li>
         	</ul>
         	
-        	<ul>
-        	<h4>ВКЛ</h4>
+        <ul>
+        <h4>ВКЛ</h4>
+        <li>
+          <a href="../places/litwa.php">Литва</a>
+          </br><small>локализация термина на картах и в хрониках</small>
+        </li>
         <li>
           <a href="weliki_hetman.php">Великие гетманы литовские</a>
           </br><small>список поименно, военачальники ВКЛ</small>
@@ -137,6 +141,10 @@
         <li>
           <a href="../download/map_wkl.php">Карты ВКЛ</a>
           </br><small>старые карты XIII-XVIII вв </small>
+        </li>
+        <li>
+          <a href="policijaWKL.php">Полиция ВКЛ</a>
+          </br><small>since 1791</small>
         </li>
 		<li>
           <a href="statut.php">Статут ВКЛ</a>
@@ -294,6 +302,10 @@
         <li>
           <a href="slavs.php">Славяне</a>
           </br><small>этнос или культурная парадигма</small>
+        </li>
+        <li>
+          <a href="../figures/chodzko.php">Товарищество Литовское и Земель Руских</a>
+          </br><small>объединение эмигрантов после восстания 1830 года</small>
         </li>
         <li>
           <a href="turow_principality.php" class="item-edit">Туров-Пинское княжество</a> 

@@ -5,13 +5,15 @@
     
   
 <!-- ***Title*** -->
- 	<title>Море Геродота. История Беларуси</title>
+ 	<title>Море Геродота. Полесье</title>
 
 <!-- ***Meta*** -->
-	<meta name="description" content="Море Геродота. Еще несколько столетий назад на юге Беларуси, на месте нынешнего Полесья, находилось большое море, о существовании которого говорят древние карты, хроники и археологические находки. Полесье на старых картах Мюнстера (1540), Лафрери (1575) и на иллюстрациях 
+	<meta name="description" content="Море Геродота — легендарное море, располагавшееся от Слонима до Пинска на месте нынешнего Полесья, землях ятвяг и дреговичей. 
+	 Море, о котором говорят старые карты, хроники и археологические находки. 
+	Полесье на старых картах Мюнстера (1540), Лафрери (1575) и на иллюстрациях 
 	Всемирной хроники Шеделя (1493)." />
   	<meta name="keywords" itemprop="keywords" content="Море Геродота, Полесье, история Беларуси, Polesie"/>
-  	<meta property="og:image" content="http://history-belarus.by/images/img-places/sea_herodotus/1493_schedel_littaw.jpg" />
+  	<meta property="og:image" content="http://history-belarus.by/images/img-places/sea_herodotus/title.jpg" />
 
 
 <!-- ***Include Header*** -->
@@ -37,98 +39,163 @@
 		</p>
 
 		<p>
-			Еще несколько столетий назад на юге Беларуси, на месте нынешнего Полесья, находилось большое море, о существовании которого говорят древние карты, хроники и археологические находки.
+			Еще несколько столетий назад на юге Беларуси, на месте нынешнего Полесья — от Слонима до Пинска и от Бреста до Мозыря, находилось большое море, 
+			о существовании которого говорят древние карты, хроники и археологические находки.
 		</p>
+		
+		<div class="col-md-12 img-float-center">
+					
+			<div class="col-md-3">
+			<a href="../../images/img-places/sea_herodotus/Pripjac22.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="Полесье, море Геродота" src="../../images/img-places/sea_herodotus/Pripjac22_thumb.jpg" height="100">
+			<br><small>Полесье, р. Припять</small>				
+			</a>
+			</div>
+			
+			<div class="col-md-3">
+			<a href="../../images/img-places/sea_herodotus/Pripjac23.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="Полесье, море Геродота" src="../../images/img-places/sea_herodotus/Pripjac23_thumb.jpg" height="100">
+			<br><small>Полесье, р. Припять</small>				
+			</a>
+			</div>
+			
+			<div class="col-md-3">
+			<a href="../../images/img-places/sea_herodotus/Pripjac24.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="Полесье, море Геродота" src="../../images/img-places/sea_herodotus/Pripjac24_thumb.jpg" height="100">
+			<br><small>Полесье, р. Припять</small>				
+			</a>
+			</div>
+			
+			<div class="col-md-3">
+			<a href="../../images/img-places/sea_herodotus/Pripjac25.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="Полесье, море Геродота, ВКЛ, Литва" src="../../images/img-places/sea_herodotus/Pripjac25_thumb.jpg" height="100">
+			<br><small>Полесье, р. Припять</small>				
+			</a>
+			</div>
+			
+		</div>
+		
 		<p>
 		Первое упоминание об этом Белорусском море сделал Геродот еще 2500 лет назад. Он писал, что на территории нашего современного Полесья расположено 
-		большое озеро или море. Сегодня историки условно называют это море "морем Геродота".
+		большое озеро или море. Сегодня историки условно называют это море "морем Геродота". Даже на картах XVII века это место отображалаось как цепь огромных озер (болот),
+		где резко (в разы) падала плотность населенных пунктов.
 		</p>
 		<p>
 		Существование огромного озера или моря в районе Брестской области и восточнее подтверждают и средневековые карты 
 		С. Мюнстера (1540 г.), Я. Гастальди (1562), К. Вопеля (1566 г.), <a href="../download/map_mercator.php">Г. Меркатора</a> (1609 г.). 
-		Там оно называется Сарматским. Название, видимо, условное и происходит от общего названия Восточной Европы как Сарматии. 
-		</br>На карте Лафрери водоём называется озером: "lago" (по-итальянски - озеро). 
-		</br>У  Мюнстера  озеро называется "Sarmatica palus" (болото), что  характеризует уже тогда явную тенденцию к заболачиванию и пересыханию , вызванную геологическими процессами, в частности, поднятием Балтийской плиты, вследствие чего понижался уровень воды в водоёмах и речках".
- 		</br>На <a href="../download/map_radziwill.php">Радзивилловской карте</a> ВКЛ (1613 г.) на месте озера мы видим уже подковообразное болото.
+		Там оно называется Сарматским. Название, видимо, условное и происходит от общего названия Восточной Европы как Сарматии.
+		</p>
+		<p> 
+		На карте Лафрери водоём называется озером: "lago" (по-итальянски - озеро). 
+		У  Мюнстера  озеро называется "Sarmatica palus" (болото), что  характеризует уже тогда явную тенденцию к заболачиванию и пересыханию , 
+		вызванную геологическими процессами, в частности, поднятием Балтийской плиты, вследствие чего понижался уровень воды в водоёмах и речках".
+ 		На <a href="../download/map_radziwill.php">Радзивилловской карте</a> ВКЛ (1613 г.) на месте озера мы видим уже подковообразное болото.
 		</p>
 		
-		<div class="col-md-12">			
-			<div class="col-md-4 img-float-center">
+		<div class="col-md-12 img-float-center">	
+				
+			<div class="col-md-3">
 			<a href="../../images/img-places/sea_herodotus/1550_Munster_Poloniae_et_vngariae.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img src="../../images/img-places/sea_herodotus/1550_Munster_Poloniae_et_vngariae_thumb.jpg" height="100">
-			</br><small>Карта Мюнстера, 1550
-			</br>Poloniae et VngariaeNova</small>				
+      		onclick="return hs.expand(this)">
+			<img alt="Полесье, море Геродота, ВКЛ, Литва" src="../../images/img-places/sea_herodotus/1550_Munster_Poloniae_et_vngariae_thumb.jpg" height="100">
+			<br><small>Карта Мюнстера, 1550
+			<br>Poloniae et VngariaeNova</small>				
 			</a>
 			</div>	
 			
-			<div class="col-md-4 img-float-center">
+			<div class="col-md-3">
 			<a href="../../images/img-places/sea_herodotus/1575_Lafreri.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img src="../../images/img-places/sea_herodotus/1575_Lafreri_thumb.jpg" height="100">
-			</br><small>Антуан дю Перак Лафрери
-			</br>"Tavole moderne di geografia", 1575</small>				
+        	onclick="return hs.expand(this)">
+			<img alt="Полесье, море Геродота, ВКЛ, Литва" src="../../images/img-places/sea_herodotus/1575_Lafreri_thumb.jpg" height="100">
+			<br><small>Антуан дю Перак Лафрери
+			<br>"Tavole moderne di geografia", 1575</small>				
 			</a>
 			</div>	
 			
-			<div class="col-md-4 img-float-center">
+			<div class="col-md-3">
 			<a href="../../images/img-places/sea_herodotus/1655_lithuanie_polesie.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img src="../../images/img-places/sea_herodotus/1655_lithuanie_polesie_thumb.jpg" height="100">
-			</br><small>Полесье, 1665
-			</br>Новогродское и Берестейское воеводства ВКЛ</small>				
+       		onclick="return hs.expand(this)">
+			<img alt="Полесье, море Геродота, ВКЛ, Литва" src="../../images/img-places/sea_herodotus/1655_lithuanie_polesie_thumb.jpg" height="100">
+			<br><small>Полесье, 1665
+			<br>Новогродское и Берестейское воеводства ВКЛ</small>				
 			</a>
 			</div>
+			
+			<div class="col-md-3">
+			<a href="../../images/img-terms/yotving/jatviagi_blr.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="Ятвяги, Полесье, море Геродота" src="../../images/img-terms/yotving/jatviagi_blr_thumb.jpg" height="100"/>
+			<br><small>Ятвяги на Полесьсе</small>
+			</a>
+			</div>
+			
 		</div>
 		
 		<p>
-		Историки Западной Европы упрямо указывают, что <a href="../places/litwa.php">Литва</a> была на озере-море,  
+		Историки Западной Европы упрямо указывают, что <a href="../places/litwa.php">Литва</a> была на озере (море),  
 		как, например, на гравюре "Littaw" XV в. из "Всемирной хроники" Г. Шеделя. 
-		Острова с крепостями, а между ними плавает большой парусник. Территориально этот рисунок относится именно к землям ныне 
-		Центральной и Западной Беларуси, ибо в тексте говорится именно о наших городах.
+		Острова с крепостями, а между ними плавает большой парусник. При этом собственно Литва никогда не отображалась на берегу Балтики 
+		(балтийскойе побережье традиционно принадлежало немецким Орденам).
 		</p>
-		<div class="col-md-12">
-			<div class="col-md-4 img-float-center">
-			<a href="../../images/img-places/sea_herodotus/1493_schedel_littav.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img src="../../images/img-places/sea_herodotus/1493_schedel_littav_thumb.jpg" height="100">
-			</br><small>Г. Шедель, карта Европы
-			</br>"Всемирная хроника", 1493</small>					
-			</a>
-			</div>
-			
-			<div class="col-md-4 img-float-center">
-			<a href="../../images/img-places/sea_herodotus/1493_schedel_littaw.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img src="../../images/img-places/sea_herodotus/1493_schedel_littaw_thumb.jpg" height="100">
-			</br><small>Г. Шедель, Littaw
-			 </br>"Всемирная хроника", 1493</small>				
-			</a>
-			</div>	
-			
-			<div class="col-md-4 img-float-center">
-			<a href="../../images/img-places/sea_herodotus/polesie_shishkin.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img src="../../images/img-places/sea_herodotus/polesie_shishkin.jpg" height="100">
-			</br><small>Полесье
-			 </br>И. И. Шишкин</small>				
-			</a>
-			</div>
-		</div>
-		
 		<p>
-		Археологи считают, что <a href="pinsk.php">Пинск</a> — столица Полесья — был основан как портовый город большого озера, которое быстро исчезало 
+		По одной из версий Пинск <a href="pinsk.php">Пинск</a> — столица Полесья, — был основан как портовый город у большого озера, 
+		которое быстро исчезало 
 		и освобождало для жизни большие свободные территории. 
 		</p>
 		<p>
 		Полесье, как своеобычный регион, разделяющий <a href="../terms/belarus.php">Беларусь</a> и Украину, впервые упоминается под 1274 годом в Галицко-Волынской летописи.
 		 В старинных источниках "полешане" напрямую связывалась с <a href="../terms/yotving.php">ятвягами</a>.
 		</p>
+		
+		<div class="col-md-12 img-float-center">
+		
+			<div class="col-md-3">
+			<a href="../../images/img-terms/yotving/jazwingi.jpg" class="highslide"
+       		onclick="return hs.expand(this)">
+			<img alt="Ятвяги, Полесье, море Геродота, ВКЛ, Литва" src="../../images/img-terms/yotving/jazwingi_thumb.jpg" height="100"/>
+			<br><small>"Немцы и их соседи" Й. К. Цойсс, 1837</small>
+			</a>
+			</div>
+		
+			<div class="col-md-3">
+			<a href="../../images/img-terms/yotving/jotwings_podlasia.jpg" class="highslide"
+      		onclick="return hs.expand(this)">
+			<img alt="Ятвяги, Полесье, море Геродота, ВКЛ, Литва" src="../../images/img-terms/yotving/jotwings_podlasia_thumb.jpg" height="100"/>
+			<br><small>Ятвяги от Подляшья до Минска</small>
+			</a>
+			</div>
+		
+			<div class="col-md-3">
+			<a href="../../images/img-places/sea_herodotus/1493_schedel_littav.jpg" class="highslide"
+       		onclick="return hs.expand(this)">
+			<img alt="Полесье, море Геродота, ВКЛ, Литва" src="../../images/img-places/sea_herodotus/1493_schedel_littav_thumb.jpg" height="100">
+			<br><small>Г. Шедель, карта Европы
+			<br>"Всемирная хроника", 1493</small>					
+			</a>
+			</div>
+			
+			<div class="col-md-3 img-float-center">
+			<a href="../../images/img-places/sea_herodotus/1493_schedel_littaw.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="Полесье, море Геродота, ВКЛ, Литва" src="../../images/img-places/sea_herodotus/1493_schedel_littaw_thumb.jpg" height="100">
+			<br><small>Г. Шедель, Littaw
+			<br>"Всемирная хроника", 1493</small>				
+			</a>
+			</div>	
+						
+		</div>
+		
 		<p>
-		Со времен <a href="../figures/olgerd.php">Ольгерда</a> Полесье входило в состав ВКЛ.
-		</br>В составе <a href="../terms/sssr.php">СССР</a> Полесье было  разделено между БССР и УССР по условно  национальному признаку, 
-		однако некоторые исследователи склонны считать "людей на болоте" — полешуков — отдельной этнической группой со своим языком.
-	
+		С 1320-х годов — времен правления <a href="../figures/gedimin.php">Гедимина</a>, — Полесье входило в состав ВКЛ. Через него никогда не ходили армии
+		— противостояние Литвы и Волыни шло западнее, через Брест, а битвы Радзивиллов с Войском Запорожским проходили восточнее, 
+		<a href="../events/battle_loew.php">под Лоевом</a>.
+		</p>
+		<p>В составе <a href="../terms/sssr.php">СССР</a> Полесье было  разделено между БССР и УССР по условно  национальному признаку, 
+		однако некоторые исследователи склонны считать "людей на болоте" — полешуков — отдельной этнической группой со своим языком.	
 		</p>
 		
 		<p>

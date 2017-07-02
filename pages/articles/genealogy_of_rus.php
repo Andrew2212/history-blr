@@ -29,36 +29,72 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_articles.php"); ?>
  
-		<h2>Откуда есть пошла Русская Земля <small>экскурс в историю</small>
-		<h4><a target="_blank" href="https://www.facebook.com/al.e.fad.3">Александр Гальченко</a></h4>
-		</br>
+		<h2>Откуда есть пошла Русская Земля 
+		</br><small>Александр Гальченко, экскурс в историю</small>
+	<!--	<h4><a target="_blank" href="https://www.facebook.com/al.e.fad.3">Александр Гальченко</a></h4> -->
 		</h2>
 		
-	<div class="col-md-12">		
-		<p class="img-float-left">
-		<a target="_blank" href="../../images/img-terms/blr_etnos/slavic_shafarik.jpg">
-			<img src="../../images/img-terms/blr_etnos/slavic_shafarik_thumb.jpg" height="120"/>
-		</a>				
-		</p>
-		<p class="img-float-right">
-		<a target="_blank" href="../../images/img-terms/slavs/brothers.jpg">
-			<img src="../../images/img-terms/slavs/brothers_thumb.jpg" height="120"/>
-		</a>				
-		</p>
+		<h1 style="color:#F00;">Контент страницы удален по требованию РОСКОМНАДЗОРа</h1>
 		
+		<p>
+		Дата:	03.02.2017 22:03
+		</br>От:	Олег Ратников
+		</br>Тема:	РОСКОМНАДЗОР информирует
+		</br>Сообщение:	Доброго времени суток!
+		</p>
+		<p>
+		Направляется уведомление о внесении в «Единый реестр доменных имен, указателей страниц сайтов в сети «Интернет» и сетевых адресов, позволяющих идентифицировать сайты в сети «Интернет», содержащие информацию, распространение которой в Российской Федерации запрещено» следующего(их) указателя (указателей) страницы (страниц) сайта в сети «Интернет»: http://history-belarus.by/pages/articles/genealory_of_rus.php . 
+		</p>
+		<p>
+		В случае непринятия провайдером хостинга и (или) владельцем сайта мер по удалению запрещенной информации и (или) ограничению доступа к сайту в сети «Интернет», будет принято решение о включении в единый реестр сетевого адреса, позволяющего идентифицировать сайт в сети «Интернет», содержащий информацию, распространение которой в Российской Федерации запрещено, а доступ к нему будет ограничен.
+		</p>
+		<p>
+		Сведения о включении доменных имен, указателей страниц сайтов сети «Интернет» и сетевых адресов доступны круглосуточно в сети «Интернет» по адресу http://eais.rkn.gov.ru .
+		</p>
+		<p>
+		С уважением,
+		</br>ФЕДЕРАЛЬНАЯ СЛУЖБА ПО НАДЗОРУ В СФЕРЕ СВЯЗИ, ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ И МАССОВЫХ КОММУНИКАЦИЙ.
+		</p>
+	
+		<!--
 		<p>
 		<small><i>"Think for yourselves and let others enjoy the privilege to do so too"</i> 
 		</br>Вольтер, "Трактат о веротерпимости".
 		</small>
 		</p>
 		<p>
-		<small>
-		От глобализма к национальной самоидентификации. От "триединого надрода" Ключевского к "Славянским древностям" Шафарика. Таков тренд. 
+		От глобализма к национальной самоидентификации. От теории "триединого надрода" к "Славянским древностям" Шафарика и 
+		трудам Императорской Академии наук. Таков тренд. 
 		На сегодня для доказательства постулата уже недостаточно слов церковного либо партийного лидера. Работа А. Гальченко на большом объеме 
 		фактического материала аргументирует иную от полит-РПЦ-корректного взгляда точку зрения.
 		</br>Предисловие редакции
-		</small>
 		</p>
+		
+	<div class="col-md-12  img-float-center">	
+		
+		<div class="col-md-4">
+		<a href="../../images/img-terms/blr_etnos/slavic_shafarik.jpg" class="highslide"
+       		onclick="return hs.expand(this)">
+			<img src="../../images/img-terms/blr_etnos/slavic_shafarik_thumb.jpg" height="100"/>
+			</br><small><i>Й. Шафарик "Славянские древности"</i></small>
+		</a>				
+		</div>
+		
+		<div class="col-md-4">
+		<a href="../../images/img-terms/slavs/brothers.jpg" class="highslide"
+       		onclick="return hs.expand(this)">
+			<img src="../../images/img-terms/slavs/brothers_thumb.jpg" height="100"/>
+		</br><small><i>Археология и топонимика</i></small>
+		</a>				
+		</div>		
+		
+		<div class="col-md-3">
+			<a href="../../images/img-download/all_peoples_RI/p1_rus_people.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p1_rus_people_thumb.jpg" height="100"/>
+			</br><small><i>"Древние обитатели России"</i></small>
+			</a>
+		</div>
 	</div>
 
 		<h3>Трипольцы</h3>
@@ -251,7 +287,7 @@
 		</p>
 		
 		
-		
+		-->
 		
 	</div>
 	
