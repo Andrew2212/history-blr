@@ -10,7 +10,7 @@
 		в ходе которой войска Речи Посполитой на два года (с 1610 по 1612) заняли Московский Кремль." />
 	<meta name="keywords" itemprop="keywords" content="Битва при Клушине, 
 	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
-	<meta property="og:image" content="http://history-belarus.by/images/img-events/16_1.jpg" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-events/battle_klushyn/title.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_events.php"); ?>
@@ -61,7 +61,7 @@
 		</p>		
 		<p> 
 		Мы ободряли друг друга надеждою, которая поддерживала наше мужество."
-		</br><small><a target="_blank" href="http://www.vostlit.info/Texts/rus12/Maskevic/frametext1.htm">Дневник Маскевича</a>, 1524-1621</small>
+		</br><small><a target="_blank" href="http://www.vostlit.info/Texts/rus12/Maskevic/frametext1.htm">Дневник Маскевича</a>, 1594-1621</small>
 		</i>
 		</p>
 			

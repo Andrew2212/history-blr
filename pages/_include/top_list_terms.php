@@ -10,7 +10,7 @@
 	Термины. <small>Список [ А-Я ]</small>
 	</h2>
 	<input type="button" class="btn btn-info btn-sm" value="Оглавление показать / скрыть" class="input-button" 
-	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Свернуть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Текст спойлера'; }">
+	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Оглавление раздела'; }">
 	</div>
 
 <div class="alt2">
@@ -33,6 +33,10 @@
         <li>
           <a href="../download/blr_heraldic.php">Белорусская геральдика</a>
           </br><small>от Городельской Унии до наших дней</small>
+        </li>
+        <li>
+          <a href="efrosinia_rood.php" >Белорусский крест</a>
+          </br><small>семиотика в войне культур</small>
         </li>
         <li>
           <a href="../download/blr_nationalists_1957.php">Белорусский национализм</a>
@@ -231,8 +235,8 @@
 		  </br><small>истоки белорусского национализма</small>
         </li>
         <li>
-          <a href="efrosinia_rood.php" class="item-edit">Крест Ефросинии Полоцкой</a>
-          </br><small>легендарный артефакт</small>
+          <a href="efrosinia_rood.php" >Крест Ефросинии Полоцкой</a>
+          </br><small>семиотика в войне культур</small>
         </li>
         <li>
           <a href="bastards.php" >Казаки в Беларуси</a>

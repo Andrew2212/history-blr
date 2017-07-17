@@ -10,7 +10,7 @@
 	Асобы. <small>Список [ А-Я ]</small>
 	</h2>
 	<input type="button" class="btn btn-info btn-sm" value="Оглавление показать / скрыть" class="input-button" 
-	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Свернуть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Текст спойлера'; }">
+	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Оглавление раздела'; }">
 	</div>
 
 <div class="alt2">
@@ -201,6 +201,10 @@
         <li>
           <a href="zawisza.php">Завиши</a>
 		  </br><small>старосты и воеводы минские, фундаторы застройки исторического центра Минска</small> 
+        </li>
+        <li>
+          <a href="kahaniec.php">Каганец Карусь и Гийом Аполинер</a>
+		  </br><small>Костровицкие гербу Байбуза и Вонж</small>
         </li>
 		<li>
           <a href="kalinowski.php">Калиновский Кастусь</a>

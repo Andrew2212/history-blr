@@ -123,7 +123,7 @@
 		</br><i>"Roku 1705. Car przyplynol do Lukiszek y czwartym dniem poplynol do Polocka. Eodem anno, mense Iulli 11 die in ecclesia 
 		S. Sofiae ipse occidit 4 basilianos in Polocia y wsadzil w Polocku komendanta. Iak to bylo, tak y ja przepisalem tu."</i>
 		 <small> <a target="_blank" href="http://litopys.org.ua/sborlet/sborlet07.htm"> Віцебскі летапіс</a></small>
-		</br>1 тарўня 1710 года <a href="../places/sophia_sobor.php">Сафійскі сабор</a> быў узарваны адыходзячым рускім войскам.
+		</br>1 траўня 1710 года <a href="../places/sophia_sobor.php">Сафійскі сабор</a> быў узарваны адыходзячым рускім войскам.
 		</p>
 		
 		<div class="col-md-12" >

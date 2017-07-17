@@ -2,6 +2,16 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+  
+  <!-- ***Title*** -->
+ 	<title>About. История Беларуси</title>
+
+<!-- ***Meta*** -->
+    <meta name="description" content="Краткая история Беларуси в датах, картах, летописях и академических трудах. Контакты 
+	" />
+    <meta name="keywords" itemprop="keywords" content="Краткая история Беларуси, 
+	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
+	<meta property="og:image" content="http://history-belarus.by/img/Lithvaniae_Blr.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_about.php"); ?>

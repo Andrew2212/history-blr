@@ -108,6 +108,13 @@
 		С любыми пожеланиями и предложениями по поводу монет можно писать на скрыню 
 		</br><b>history.msg<img src="../../images/img-about/dog.jpg"/>gmail.com</b>
 		</p>
+		
+		<div class="col-md-12 img-float-center">
+		<a href="../../images/img-articles/taler_blr/TalerCard.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Беларуский талер с Погоней" src="../../images/img-articles/taler_blr/TalerCard_thumb.jpg" height="100">
+		</a>
+		</div>
 
 		<h3>Prehistory</h3>
 
