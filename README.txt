@@ -4,9 +4,14 @@
 Дизайн и верстка хорошо адаптированы для мобильных устройств.
 
 Картинки, чтобы не грузить ГитХаб, вынесены в архи на Гугль-диск.
+
 Скачать архив images.zip во ссылке
 https://drive.google.com/file/d/0B_T3PThCY39DbEs3bWFBRkxIaU0/view?usp=sharing (2017/июль/17)
 распаковать и заменить пустую папку www/images на полученную
+
+Скачать архив images_legacy.zip во ссылке
+https://drive.google.com/file/d/0B_T3PThCY39DbEs3bWFBRkxIaU0/view?usp=sharing (2017/июль/17)
+распаковать и заменить пустую папку www/images_legacy на полученную
 
 Для работы с файлами по ссылке
 https://drive.google.com/file/d/0B_T3PThCY39DZGhNSUNHQkpjZ1E/view?usp=sharing
