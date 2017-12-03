@@ -1,6 +1,7 @@
 ﻿#Игнорим все папки и файлы в директории /images кроме README_Images.txt
 /images/*
 !/images/README_Images.txt
+/images_legacy/*
 
 #Игнорим архивы
 *.zip
