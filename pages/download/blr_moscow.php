@@ -95,9 +95,9 @@
 		</div>
 		
 		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-download/blr_moscow_17ce/carving.jpg" class="highslide"
+		<a href="../../images_legacy/img_vitebsk/_vitebsk_intro/craft.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Белорусы Москвы" src="../../images/img-download/blr_moscow_17ce/carving_thumb.jpg" height="120">
+		<img alt="Белорусы Москвы" src="../../images_legacy/img_vitebsk/_vitebsk_intro/craft_thumb.jpg" height="120">
 		</br><small>"Белорусская резь"</small>
 		</a>
 		</div>

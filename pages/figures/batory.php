@@ -38,7 +38,7 @@
 		<a href="../../images/img-figures/batory/1576_batory.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Стефан Баторий" src="../../images/img-figures/batory/1576_batory_thumb.jpg" height="120" >
-		</br><small>Стефан Баторий, 1576</small>
+		<br><small>Стефан Баторий, 1576</small>
 		</a>
 		</p>
 		
@@ -46,7 +46,7 @@
 		<a href="../../images/img-figures/batory/Blaeu_1645_Transylvania.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Стефан Баторий" src="../../images/img-figures/batory/Blaeu_1645_Transylvania_thumb.jpg" height="120" >
-		</br><small>Герб Батория, 1645</small>
+		<br><small>Герб Батория, 1645</small>
 		</a>
 		</p>
 
@@ -63,29 +63,38 @@
 		
 		</div>
 		
-		<div class="col-md-12">
+		<div class="col-md-12 img-float-center">
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-figures/batory/1586_taler_Batory.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Стефан Баторий" src="../../images/img-figures/batory/1586_taler_Batory_thumb.jpg" height="100" >
-		</br><small>Талер Батория, 1586</small>
+		<br><small>Талер Батория, 1586</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-figures/batory/taler.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Стефан Баторий" src="../../images/img-figures/batory/taler_thumb.jpg" height="100" >
-		</br><small>Монета Трансильвании, 1593</small>
+		<br><small>Монета Трансильвании, 1593</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3 ">
 		<a href="../../images/img-figures/batory/1674_Sanson.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Стефан Баторий" src="../../images/img-figures/batory/1674_Sanson_thumb.jpg" height="100" >
-		</br><small>Трансильвания, Sanson 1674</small>
+		<br><small>Трансильвания, Sanson 1674</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3">
+		<a href="../../images/img-events/unia_liublin/16vek_Livonia-War_Unia-Liublin.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Ливонская война и Люблинская уния" src="../../images/img-events/unia_liublin/16vek_Livonia-War_Unia-Liublin_thumb.jpg" height="100">
+		<br><small>Ливонская война 1558-1583 
+		<br>и Люблинская уния 1569</small>
 		</a>
 		</div>
 		
@@ -109,7 +118,7 @@
 		<a href="../../images/img-events/war_livonia/livon1558.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Ливонская война" src="../../images/img-events/war_livonia/livon1558_thumb.jpg" height="100">
-		</br><small>Ливонская война</small>
+		<br><small>Ливонская война</small>
 		</a>
 		</div>
 		
@@ -117,7 +126,7 @@
 		<a href="../../images/img-terms/blr_flag/Siege_of_Polotsk_in_1579.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Флаг Беларуси БЧБ" src="../../images/img-terms/blr_flag/Siege_of_Polotsk_in_1579_thumb.jpg" height="100"> 
-		</br><small>Осада Полоцка 1579 года</small>
+		<br><small>Осада Полоцка 1579 года</small>
 		</a>
 		</div>
 		
@@ -125,7 +134,7 @@
 		<a href="../../images/img-events/war_livonia/Jan_Matejko-Batory_pod_Pskowem.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Ливонская война" src="../../images/img-events/war_livonia/Jan_Matejko-Batory_pod_Pskowem_thumb.jpg" height="100">
-		</br><small>Стефан Баторий под Псковом</small>
+		<br><small>Стефан Баторий под Псковом</small>
 		</a>
 		</div>
 		
@@ -133,7 +142,7 @@
 		<a href="../../images/img-terms/blr_mova/1581_gramota_batory.jpg" class="highslide"
         	onclick="return hs.expand(this)">      	
 			<img src="../../images/img-terms/blr_mova/1581_gramota_batory_thumb.jpg" height="100"/>
-			</br><small>1581, грамота Стефана Батория</small>
+			<br><small>1581, грамота Стефана Батория</small>
 		</a>
 		</div>
 		
@@ -155,29 +164,29 @@
 		где перестроил королевский замок, реконструировал <a href="../places/fara_grodno.php">Фару Витовта</a> и провел последние годы жизни. 
 		</p>
 		
-		<div class="col-md-12">
+		<div class="col-md-12 img-float-center">
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-4 ">
 		<a href="../../images/img-places/fara_grodno/1568_Vera Designatio Urbis in Littavia Grodnae.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Фара Витовта Гродно" src="../../images/img-places/fara_grodno/1568_Vera Designatio Urbis in Littavia Grodnae_thumb.jpg" height="100" >
-		</br><small>Гродно, 1568</small>
+		<br><small>Гродно, 1568</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-4">
 		<a href="../../images/img-figures/batory/fara_vitovt.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Стефан Баторий" src="../../images/img-figures/batory/fara_vitovt_thumb.jpg" height="100" >
-		</br><small>Фара Витовта, Гродно</small>
+		<br><small>Фара Витовта, Гродно</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-4">
 		<a href="../../images/img-figures/batory/zamak.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Стефан Баторий" src="../../images/img-figures/batory/zamak_thumb.jpg" height="100" >
-		</br><small>Старый замок, Гродно</small>
+		<br><small>Старый замок, Гродно</small>
 		</a>
 		</div>
 		
@@ -189,16 +198,16 @@
 		оставляя за королем право наделения гетмана знаменем, "булавой" и печатью и утверждения его после принятия присяги на верность. 
 		Желая восстановить не только политический, но и духовный мир в Польше, Баторий старался привести к соглашению с католичеством диссидентов (не католиков),
 		 для чего не прибегал, однако, никогда к насилию, но старался действовать гуманно и мирно."</i>
-		 </br><small>Энциклопедический словарь Брокгауза и Ефрона</small> 		
+		 <br><small>Энциклопедический словарь Брокгауза и Ефрона</small> 		
 		</p>
 		
-		</br></br></br>
+		<br><br><br>
 		<p><small>
-		be-x-old.wikipedia.org</br>
-		be.wikipedia.org</br>
-		pl.wikipedia.org</br>
-		uk.wikipedia.org</br>
-		ru.wikipedia.org</br>
+		be-x-old.wikipedia.org<br>
+		be.wikipedia.org<br>
+		pl.wikipedia.org<br>
+		uk.wikipedia.org<br>
+		ru.wikipedia.org<br>
 		</small></p>
 		
 	</div>

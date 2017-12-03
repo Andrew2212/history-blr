@@ -100,7 +100,13 @@
 					<td>12</td>
 					<td>
 						<ul>
-							<li>1794 Начало <a href="../events/uprising_1794.php">Восстания</a> Тадеуша Костюшко</li>
+							<li>
+							1794 Начало <a href="../events/uprising_1794.php">Восстания</a> Тадеуша Костюшко
+							</li>
+							<li>
+							1957 У Вицебску ўзарваны 
+							<a href="../arch_vitebsk/vitebsk_vitebskJozef.php">Езуіцкі касцёл св. Іосіфа</a>, закладзенага за часам Стэфана Баторыя. 
+							</li>
 						</ul>
 					</td>
 				</tr>

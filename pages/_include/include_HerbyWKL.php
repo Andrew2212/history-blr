@@ -4,18 +4,20 @@
 		
 		
 		<h3>Гербы воеводств ВКЛ</h3>
+		
 		<p class="img-float-left">
-		<a href="../../images/img-terms/kalumny/RP_povety.jpg" class="highslide"
+		<a href="../../images/img-terms/kalumny/1684_Litwa-Rus-Zmudz-Woewodstwa.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Воеводства ВКЛ" src="../../images/img-terms/kalumny/RP_povety_thumb.jpg" height="100" >
-		</br><small>Воеводства ВКЛ</small>
+		<img alt="Воеводства ВКЛ" src="../../images/img-terms/kalumny/1684_Litwa-Rus-Zmudz-Woewodstwa_thumb.jpg" height="120" >
+		</br><small>1684 Воеводства ВКЛ</small>
 		</a>
 		</p>
+		
 		<p class="img-float-right">
-		<a href="../../images/img-terms/kalumny/RP_povety1.jpg" class="highslide"
+		<a href="../../images/img-terms/kalumny/RP_povety.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Воеводства ВКЛ" src="../../images/img-terms/kalumny/RP_povety1_thumb.jpg" height="100" >
-		</br><small>Воеводства ВКЛ</small>
+		<img alt="Воеводства ВКЛ" src="../../images/img-terms/kalumny/RP_povety_thumb.jpg" height="120" >
+		</br><small>1749 Воеводства ВКЛ</small>
 		</a>
 		</p>
 		<p>

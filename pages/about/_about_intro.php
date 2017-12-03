@@ -298,7 +298,7 @@
           <a href="#" class="item-unable">Кристобаль Хозевич</a>
         </li>
         <li>
-          <a target="_blank" href="http://ok.ru/profile/343280015857">Александр Грохотов</a>,
+          <a target="_blank" href="list_for_Alexander.php">Александр Грохотов</a>,
 		  администратор <a target="_blank" href="http://ok.ru/group/53595131412721">ОК-группы</a></a>
         </li>
         <li>

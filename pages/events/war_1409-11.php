@@ -77,6 +77,36 @@
 		<p>
 		В XIV веке орден совершил свыше сотни походов в пределы Литвы.
 		</p>
+		
+		<div class="col-md-12 img-float-center">
+		
+		<div class="col-md-4">
+		<a href="../../images/img-events/unia_vilno/wkl_polska_1386_1434.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="ВКЛ" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="100">
+		<br><small>ВКЛ 1386-1434</small>
+		</a>
+		</a>
+		</div>
+		
+		<div class="col-md-4">
+		<a href="../../images/img-terms/yotving/1649_Prussia.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Пруссия" src="../../images/img-terms/yotving/1649_Prussia_thumb.jpg" height="100"/>
+			<br><small>Пруссия</small>
+		</a>
+		</div>	
+		
+		<div class="col-md-4">
+		<a href="../../images/img-events/war_livonia/1711_Livonie__Curlande_et_Samogitie.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Ливонская война" src="../../images/img-events/war_livonia/1711_Livonie__Curlande_et_Samogitie_thumb.jpg" height="100">
+		<br><small>Ливония</small>
+		</a>
+		</div>	
+		
+		</div>
+		
 		<p>
 		Во время <a href="../events/war_civil_1381-84_1389-92.php">гражданской войны 1381-1384</a> (<a href="../figures/jagiello.php">Ягайло</a> vs <a href="../figures/vitovt.php">Витовт</a>) 
 		Ордену была передена Самогития, как плата за поддержку в конфликте. 
@@ -93,41 +123,41 @@
 		Большинство рыцарей ордена было убито или взято в плен.
 		</p>
 		
-		<div class="col-md-12">
+		<div class="col-md-12 img-float-center">	
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-events/unia_krewo/ordensgebiete.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Тевтонский Орден и ВКЛ" src="../../images/img-events/unia_krewo/ordensgebiete_thumb.jpg" height="100">
-		</br><small>XIV-XV в. Земли Deutschen Ordens</small>
+		<br><small>XIV-XV в. Земли Deutschen Ordens</small>
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-events/war_1409-11/Livland_15ce.jpg" class="highslide"
+		<div class="col-md-3">
+		<a href="../../images/img-events/war_civil_1381-84_1389-92/1260-1414_Deutscher_Orden.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливония" src="../../images/img-events/war_1409-11/Livland_15ce_thumb.jpg" height="100">
-		</br><small>Ливония</small>
-		</a>
+		<img alt="Грюнвальд, битва под Грюнвальдом" src="../../images/img-events/war_civil_1381-84_1389-92/1260-1414_Deutscher_Orden_thumb.jpg" height="100">
+		<br><small>Deutschen Ordens
+		<br> ДО Грюнвальда</small>	
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-events/war_1409-11/1410_Deutscher_Orden.jpg" class="highslide"
+		<div class="col-md-3">
+		<a href="../../images/img-events/grunwald/1466_Deutscher_Orden_1466.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Тевтонский Орден и ВКЛ" src="../../images/img-events/war_1409-11/1410_Deutscher_Orden_thumb.jpg" height="100">
-		</br><small>Земли Deutschen Ordens 1410</small>
+		<img alt="Грюнвальд, битва под Грюнвальдом"  src="../../images/img-events/grunwald/1466_Deutscher_Orden_1466_thumb.jpg" height="100">
+		<br><small>Deutschen Ordens
+		<br>ПОСЛЕ Грюнвальда</small>	
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-events/unia_vilno/wkl_polska_1386_1434.jpg" class="highslide"
+		<div class="col-md-3">
+		<a href="../../images/img-events/war_1409-11/1410Grunvald.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="ВКЛ" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="100">
-		</br><small>ВКЛ 1386-1434</small>
+		<img alt="Грюнвальд, битва под Грюнвальдом, Витовт, Ягайло"  src="../../images/img-events/war_1409-11/1410Grunvald_thumb.jpg" height="100">
+		<br><small>Памятная медаль 1410-1919</small>	
 		</a>
-		</a>
-		</div>		
+		</div>
 		
 		</div>
 		

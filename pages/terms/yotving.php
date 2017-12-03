@@ -124,10 +124,10 @@
 		<p>
 		— балтская племенная группа, этнически наиболее близкая к пруссам. Бесписьменный ятвяжский язык принадлежит к западной ветви 
 		балтской группы индоевропейской языковой семьи. Начиная с XII века ятвяги участвовали в этногенезе литовской, латышской, 
-		белорусской и польской народностей.
+		белорусской и польской народностей. 
 		</p>
 		<p>
-		К XVII веку все или почти все ятвяги были ассимилированы белорусами, литовцами и поляками-мазовшанами.
+		Как отдельная этническая группа упоминаются в переписях XIX века.
 		</p>
 		<p>
 		Еще в 1673 году Феодосий Софонович в своей «Хронике» так писал о ятвягах:
@@ -195,6 +195,23 @@
 	
 		
 		<h3>Пруссы </h3>
+		
+		<p class="img-float-left">
+		<a href="../../images/img-terms/yotving/1649_Prussia.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Пруссия" src="../../images/img-terms/yotving/1649_Prussia_thumb.jpg" height="140"/>
+			<br><small>"Prussia" 1649</small>
+		</a>
+		</p>
+		
+		<p class="img-float-right">
+		<a href="../../images/img-terms/yotving/1654_Pierre_Duval-Carte_de_pologne.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Пруссия" src="../../images/img-terms/yotving/1654_Pierre_Duval-Carte_de_pologne_thumb.jpg" height="140"/>
+			<br><small>"Carte de Pologne" 1654</small>
+		</a>
+		</p>
+		
 		<p>		 
 		<a target="_blank" href="http://www.vostlit.info/Texts/rus/Gelmold/framegel1.htm">Славянская хроника</a> XII века Гельмольда относит пруссов к племенам славян, а прусский язык называет славянским:
 		</br><i>"Много славянских племен живет на берегу Балтийского моря ["море русов и славян" араб. Бируни, XI в.]. Вокруг этого моря сидят многие народы. 
@@ -273,35 +290,44 @@
 		<p>— племенная группа, известная до VI в. и упоминаемая древними историками Геродотом, Помпонием Мелой, Плинием Старшим, 
 		Тацитом, Клавдием Птолемеем, Иорданом, размещаемая ими к востоку от Вислы — от балтийского побережья до северных Карпат и низовьев Дуная.
 		Тацит колебался в суждении: причислять ли их к германцам или сарматам. На основании того, что они «ставят дома», «употребляют щиты» и «охотно передвигаются пешком», 
-		он всё же счёл их отличными от сарматов, «живущих в повозке и на коне».
+		он всё же счёл их отличными от сарматов, «живущих в повозке и на коне». на картах венды локализовались севернее 
+		<a href="../places/sea_herodotus.php">моря Геродота</a> (ныне Полесье)
 		</p>
 		<p>
 		Интересна карта "Germano-Sarmata" 1790, Ch. Delamarche — локализация венедов на ней совпадает 
 		с <a href="../download/blr_people.php">этнографической картой белорусов</a> и границами <a href="../terms/bnr.php">БНР</a>.
 		</p>
 				
-	<div class="col-md-12">		
-		<div class="col-md-4 img-float-center">
+	<div class="col-md-12 img-float-center">		
+		<div class="col-md-3">
 		<a href="../../images/img-terms/yotving/venedy_sanson_XVII.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img src="../../images/img-terms/yotving/venedy_sanson_XVII_thumb.jpg" height="100"/>
-			</br><small>Венеды на карте Сансона, XVII в.</small>
+			<br><small>Венеды на карте Сансона, XVII в.</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
-			<a href="../../images/img-download/map_wkl/1790_Charles_Delamarche_Germano-Sarmatia.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img alt="Карта ВКЛ венеды" src="../../images/img-download/map_wkl/1790_Charles_Delamarche_Germano-Sarmatia_thumb.jpg" height="100" />
-			</br><small>1790 "Germano-Sarmata", Ch. Delamarche</small>
+		<div class="col-md-3">
+			<a href="../../images/img-places/sea_herodotus/Polesie_SeaHeradotus.jpg" class="highslide"
+       		onclick="return hs.expand(this)">
+			<img alt="Полесье, море Геродота, ВКЛ, Литва" src="../../images/img-places/sea_herodotus/Polesie_SeaHeradotus_thumb.jpg" height="100">
+			<br><small>Полесье. Море Геродота</small>					
 			</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">	
+		<div class="col-md-3">
+			<a href="../../images/img-download/map_wkl/1790_Charles_Delamarche_Germano-Sarmatia.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Карта ВКЛ венеды" src="../../images/img-download/map_wkl/1790_Charles_Delamarche_Germano-Sarmatia_thumb.jpg" height="100" />
+			<br><small>1790 "Germano-Sarmata", Ch. Delamarche</small>
+			</a>
+		</div>
+		
+		<div class="col-md-3">	
 		<a href="../../images/img-terms/yotving/venedy_125.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img src="../../images/img-terms/yotving/venedy_125_thumb.jpg" height="100"/>
-			</br><small>Венеды на карте Римской Империи</small>
+			<br><small>Венеды на карте Римской Империи</small>
 		</a>
 		</div>
 	</div>
@@ -323,19 +349,19 @@
 		
 		
 		
-		</br></br></br>
+		<br><br><br>
 		<p><small>
 		http://samlib.ru/e/rogatina/lutizi.shtml
 		http://www.kunstkamera.ru/lib/rubrikator/03/03_05/5-02-026470-9/
-		http://www.vostlit.info/Texts/rus/Gelmold/framegel1.htm</br>
-		http://www.vostlit.info/Texts/rus/Iordan/text1.phtml?id=576</br>
-		http://bibliotekar.ru/bel2/316.htm</br>
+		http://www.vostlit.info/Texts/rus/Gelmold/framegel1.htm<br>
+		http://www.vostlit.info/Texts/rus/Iordan/text1.phtml?id=576<br>
+		http://bibliotekar.ru/bel2/316.htm<br>
 		http://dic.academic.ru/dic.nsf/sie/10053/ЛЮТИЧИ
-		be-x-old.wikipedia.org</br>
-		be.wikipedia.org</br>
-		pl.wikipedia.org</br>
-		uk.wikipedia.org</br>
-		ru.wikipedia.org</br>
+		be-x-old.wikipedia.org<br>
+		be.wikipedia.org<br>
+		pl.wikipedia.org<br>
+		uk.wikipedia.org<br>
+		ru.wikipedia.org<br>
 		</small></p>
 		
 	</div>

@@ -131,6 +131,14 @@
 		
 		<h3>Белая Русь</h3>
 		
+		<p class="img-float-left">
+		<a href="../../images/img-terms/gudai/White_Black_Russia.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-terms/gudai/White_Black_Russia_thumb.jpg" height="120">
+		<br><small>Russia Alba & Nigra</small>
+		</a>
+		</p>
+		
 		<p>
 		<i>Белая Русь</i> (лат. Russia Alba, Ruthenia Alba, итал. Rossia Bianca, нем. Weissreussen, фр. la Russie blanche) — термин, использовавшийся  преимущественно в западноевропейском научной 
 		среде в отношении различных регионов Восточной Европы. См. <a href="../download/alba_ruthenia.php">карты</a>
@@ -159,9 +167,9 @@
 		<a href="../../images/img-terms/gudai/1539_Carta_Marina.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/gudai/1539_Carta_Marina_thumb.jpg" height="100">
-		</br><small>1539, Carta Marina.
-		</br>Russia Alba — земля 
-		</br>Новгородская</small>
+		<br><small>1539, Carta Marina.
+		<br>Russia Alba — земля 
+		<br>Новгородская</small>
 		</a>
 		</div>
 		
@@ -169,9 +177,9 @@
 		<a href="../../images/img-terms/gudai/pologne1700.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/gudai/pologne1700_thumb.jpg" height="100">
-		</br><small>1700, Carte des Estats.
-		</br>Russie Blanche ou Lituanique
-		</br>(Белая Русь или Литва)</small>
+		<br><small>1700, Carte des Estats.
+		<br>Russie Blanche ou Lituanique
+		<br>(Русь Белая или Литовская)</small>
 		</a>
 		</div>
 		
@@ -179,8 +187,8 @@
 		<a href="../../images/img-terms/gudai/1730_WKL_Seutteri.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="литвины-белорусы" src="../../images/img-terms/gudai/1730_WKL_Seutteri_thumb.jpg" width="120" height="100">
-		</br><small>1730 Lithuaniae, M. Seutteri 
-		</br>Russia Alba</small>
+		<br><small>1730 Lithuaniae, M. Seutteri 
+		<br>Russia Alba</small>
 		</a>
 		</div>
 		
@@ -188,7 +196,7 @@
 		<a href="../../images/img-terms/litwiny/smolensk_blr.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/smolensk_blr.jpg" width="120" height="100">
-		</br><small>"Белоруссия" 1768</small>
+		<br><small>"Белоруссия" 1768</small>
 		</a>
 		</div>
 		
@@ -205,15 +213,16 @@
 		</p>
 		
 		
-		</br></br></br>
+		<br><br><br>
 		<p><small>
 		<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DdDUtT2ItdDA2c1k/view?usp=sharing">
-		Материалы конференции</a> "Беларусь і беларусы сярод суседзяў: гістарычныя стэрэатыпы і палітычныя канструктары" Варшава, 2011 г.</br>
-		http://forum.secret-r.net/viewtopic.php?f=1&t=883&sid=c5e0df32de50a029c523b92715e6ec9d</br>
-		translate.google.ru</br>
-		be.wikipedia.org</br>
-		lt.wikipedia.org</br>
-		academia.edu</br>
+		Материалы конференции</a> "Беларусь і беларусы сярод суседзяў: гістарычныя стэрэатыпы і палітычныя канструктары" Варшава, 2011 г.<br>
+		http://pan-dohva.livejournal.com/647016.html<br>
+		http://forum.secret-r.net/viewtopic.php?f=1&t=883&sid=c5e0df32de50a029c523b92715e6ec9d<br>
+		translate.google.ru<br>
+		be.wikipedia.org<br>
+		lt.wikipedia.org<br>
+		academia.edu<br>
 		
 		</small></p>
 	</div>

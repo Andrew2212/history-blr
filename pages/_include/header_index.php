@@ -55,6 +55,10 @@
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
         <ul class="nav navbar-nav navbar-right">
+        
+          <li>
+            <a href="arch-spadczyna.php">Arch-спадчына</a>
+          </li>
            <li>
             <a href="pages/times/_times_intro.php">Время</a>
           </li>

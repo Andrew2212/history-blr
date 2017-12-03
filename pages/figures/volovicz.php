@@ -14,7 +14,7 @@
 	" />
   	<meta name="keywords" itemprop="keywords" content="Остафий Волович, Воловичи, 
 	  история беларуси, история белоруссии, история беларуси кратко в датах, известные люди беларуси, знаменитые люди беларуси"/>
-	  <meta property="og:image" content="http://history-belarus.by/images/img-figures/volovicz/mihal_volovicz.jpg" />
+	  <meta property="og:image" content="http://history-belarus.by/images/img-figures/volovicz/title.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_figures.php"); ?>
@@ -34,31 +34,33 @@
     <? include ("../_include/top_list_figures.php"); ?>
   
 		<h1>Воловичи, шляхетский род
-		</br><small>от канцлера ВКЛ до змагара 1830 г</small>
+		<br><small>от канцлера ВКЛ до змагара 1830 г</small>
 		</h1>
 		
 		<p class="img-float-left">
-			<a target="_blank" href="../../images/img-figures/volovicz/ostafij_volovicz.jpg">
-			<img src="../../images/img-figures/volovicz/ostafij_volovicz.jpg" height="160" >
-			</br><small>Остафий Волович, XVI в</small>
+			<a href="../../images/img-figures/volovicz/ostafij_volovicz.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/volovicz/ostafij_volovicz.jpg" height="140" >
+			<br><small>Остафий Волович, XVI в</small>
 			</a>
 		</p>
 		
 		<p class="img-float-right">
-			<a target="_blank" href="../../images/img-figures/volovicz/mihal_volovicz.jpg">
-			<img src="../../images/img-figures/volovicz/mihal_volovicz_thumb.jpg" height="160" >
-			</br><small>Михаил Волович, XIX в</small>
+			<a href="../../images/img-figures/volovicz/mihal_volovicz.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/volovicz/mihal_volovicz_thumb.jpg" height="140" >
+			<br><small>Михаил Волович, XIX в</small>
 			</a>
 		</p>
 		
 		<p>
 		<i>"Воловичи — русско-польский графский и дворянский род герба Богория.</i> 
-		</br><small>[забавное определение 1890-х годов, учитывая, что Россия и Польша никогда ранее между собой не граничили]</small>
+		<br><small>[забавное определение 1890-х годов, учитывая, что Россия и Польша никогда ранее между собой не граничили]</small>
 		<i> 
-		</br>Род этот в конце XVI века разделился на несколько ветвей, из которых теперь существуют четыре, 
+		<br>Род этот в конце XVI века разделился на несколько ветвей, из которых теперь существуют четыре, 
 		внесенные в родословной книги Минской, Могилевской, Гродненской и Ковенской губерний."
 		</i>
-		</br><small>Энциклопедический словарь Брокгауза и Ефрона</small>
+		<br><small>Энциклопедический словарь Брокгауза и Ефрона</small>
 		</p>
 		
 		<p>
@@ -75,14 +77,15 @@
 		Выступал, вместе с Григорием Ходкевичем, Николаем Радзивиллом Чёрным и другими сторонниками максимального 
 		сохранения державной самостоятельности <a href="../terms/wkl.php">ВКЛ</a>, решительным противником
 		 <a href="../events/unia_liublin.php">Люблинской унии</a>.
-		</br>Был известным сторонником веротерпимости и свободомыслия, одним из тех, кто подписывал 
+		</p>
+		<p>Был известным сторонником веротерпимости и свободомыслия, одним из тех, кто подписывал 
 		Акт <a href="../events/confederacia_warshawa.php">Варшавской конфедерации</a> 1573 года. 
 		Меценат <a href="../terms/religion_blr.php">реформационного движения</a> на землях ВКЛ. 
 		Из православия перешёл в протестантство, был сторонником кальвинизма, позднее — арианства. 
 		На средства Воловича была создана печатня в <a href="../places/nesviz.php">Несвиже</a>. Покровительствовал <a href="budny.php">Симону Будному</a>.
 		</p>
 		<p>
-		Михаил Волович (род. 18.06.1806, Поречье, Слонимский уезд Гродненской губ. - 02.09.1833) — 
+		Михаил Волович (18.06.1806, Поречье, Слонимский уезд Гродненской губ. - 02.09.1833) — 
 		<a href="../terms/filomaty.php">филомат</a> и филарет, дружил с <a href="domeyko.php">Игнацием Домейко</a>, Александром Ходзько и др. 
 		Участник <a href="../events/uprising_1830.php">восстания 1830 года</a> и руководитель партизанского отряда на Слонимщине в 1833 году — <i>"хотел использовать восстание, 
 		чтобы осуществить свои намерения и освободить крестьян"</i>. Казнен в Гродно 2 августа 1833 года.
@@ -91,30 +94,34 @@
 		<div class="col-md-12">
 			
 			<div class="col-md-3 img-float-center">
-			<a target="_blank" href="../../images/img-figures/volovicz/sviatsk_slonim.jpg" >
-			<img src="../../images/img-figures/volovicz/sviatsk_slonim.jpg" height="160"/>
-			</br><small>Святск и Слоним, РБ</small>
+			<a href="../../images/img-figures/volovicz/sviatsk_slonim.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/volovicz/sviatsk_slonim.jpg" height="100"/>
+			<br><small>Святск и Слоним, РБ</small>
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
-			<a target="_blank" href="../../images/img-figures/volovicz/palac_sviatsk.jpg" >
-			<img src="../../images/img-figures/volovicz/palac_sviatsk_thumb.jpg" height="160"/>
-			</br><small>Дворец Воловичей, Святск</small>
+			<a href="../../images/img-figures/volovicz/palac_sviatsk.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/volovicz/palac_sviatsk_thumb.jpg" height="100"/>
+			<br><small>Дворец Воловичей, Святск</small>
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
-			<a target="_blank" href="../../images/img-figures/volovicz/mihal_memory.jpg" >
-			<img src="../../images/img-figures/volovicz/mihal_memory.jpg" height="160"/>
-			</br><small>Могила М. Воловича, Поречье</small>
+			<a href="../../images/img-figures/volovicz/mihal_memory.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/volovicz/mihal_memory.jpg" height="100"/>
+			<br><small>Могила М. Воловича, Поречье</small>
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
-			<a target="_blank" href="../../images/img-figures/volovicz/Bogoria.jpg" >
-			<img src="../../images/img-figures/volovicz/Bogoria.jpg" height="160"/>
-			</br><small>Герб Воловичей "Богория"</small>
+			<a href="../../images/img-figures/volovicz/Bogoria.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img src="../../images/img-figures/volovicz/Bogoria.jpg" height="100"/>
+			<br><small>Герб Воловичей "Богория"</small>
 			</a>
 			</div>
 			
@@ -123,20 +130,20 @@
 		<p> 
 		Дворец Воловичей в Святске строил придворный архитектор короля <a href="poniatowski.php">Станислава II Августа</a> — Джузеппе де Сакко — 
 		один из крупнейших архитекторов развитого барокко и классицизма, работавших на территории современной Беларуси в XVIII веке.
-		</br><small>
+		<br><small>
 		[ Дворец должен был стать родовым гнездом Воловичей, но этого не случилось. 
 		Легенда гласит, что дочь богатого Воловича влюбилась в конюха. Когда отец узнал об этом, 
 		конюха утопили в одном из прудов, а дочь отец приказал замуровать живьем в одну из колонн дворца. ]
 		</small>		
 		
 		
-		</br></br></br>
+		<br><br><br>
 		<p><small>
-		be-x-old.wikipedia.org</br>
-		be.wikipedia.org</br>
-		pl.wikipedia.org</br>
-		uk.wikipedia.org</br>
-		ru.wikipedia.org</br>
+		be-x-old.wikipedia.org<br>
+		be.wikipedia.org<br>
+		pl.wikipedia.org<br>
+		uk.wikipedia.org<br>
+		ru.wikipedia.org<br>
 		</small></p>
 	</div>
 	

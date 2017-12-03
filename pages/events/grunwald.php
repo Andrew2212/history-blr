@@ -32,6 +32,7 @@
 		<h1>Грюнвальдская битва 1410 года
 		</br><small>и первоисточники</small>
 		</h1>
+		
 		<p class="img-float-left">	
 		<a href="../../images/img-events/unia_vilno/wkl_polska_1386_1434.jpg" class="highslide"
         onclick="return hs.expand(this)">
@@ -39,6 +40,15 @@
 		</br><small>ВКЛ, Кревская уния 1385</small>
 		</a>
 		</p>
+		
+		<p class="img-float-right">
+		<a href="../../images/img-terms/yotving/1649_Prussia.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Пруссия" src="../../images/img-terms/yotving/1649_Prussia_thumb.jpg" height="140"/>
+			<br><small>"Prussia" 1649</small>
+		</a>
+		</p>
+		
 		<p>
 		Статья написана по материалам  Р. Б. Гагуа, 
 		</br><small>доцента по специальности "История" (тема диссертации: "Великая война с Тевтонским орденом 1409—1411")</small>	

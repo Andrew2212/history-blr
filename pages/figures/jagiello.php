@@ -38,7 +38,7 @@
 		<a href="../../images/img-figures/jagiello/jagiello.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Ягайло" src="../../images/img-figures/jagiello/jagiello_thumb.jpg" height="140">
-		</br><small>В. кн. Ягайло</small>	
+		<br><small>В. кн. Ягайло</small>	
 		</a>
 		</p>
 		
@@ -46,7 +46,7 @@
 		<a href="../../images/img-figures/jagiello/Pieczac_Jagiello.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Ягайло" src="../../images/img-figures/jagiello/Pieczac_Jagiello_thumb.jpg" height="140">
-		</br><small>Печать Ягайло</small>	
+		<br><small>Печать Ягайло</small>	
 		</a>
 		</p>
 	
@@ -81,7 +81,7 @@
 		<a href="../../images/img-events/unia_liublin/unia_table.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Городельская уния" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" height="100">
-		</br><small>Хронология уний</small>
+		<br><small>Хронология уний</small>
 		</a>
 		</div>
 		
@@ -89,7 +89,7 @@
 		<a href="../../images/img-events/unia_vilno/wkl_polska_1386_1434.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Кревская уния" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="100">
-		</br><small>Кревская уния 1385</small>
+		<br><small>Кревская уния 1385</small>
 		</a>
 		</div>
 						
@@ -97,7 +97,7 @@
 		<a href="../../images/img-figures/gedimin/wkl_13-14ce.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Витовт" src="../../images/img-figures/gedimin/wkl_13-14ce_thumb.jpg" height="100">
-		</br><small>ВКЛ XIII-XIV в</small>
+		<br><small>ВКЛ XIII-XIV в</small>
 		</a>
 		</div>
 		
@@ -105,7 +105,7 @@
 		<a href="../../images/img-events/unia_krewo/ordensgebiete.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Кревская уния" src="../../images/img-events/unia_krewo/ordensgebiete_thumb.jpg" height="100">
-		</br><small>XIV-XV в. Земли Deutschen Ordens</small>
+		<br><small>XIV-XV в. Земли Deutschen Ordens</small>
 		</a>
 		</div>
 		
@@ -125,7 +125,7 @@
 		<a href="../../images/img-figures/jagellony/Jagiellony_15ce.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Ягайло" src="../../images/img-figures/jagellony/Jagiellony_15ce_thumb.jpg" height="100">
-		</br><small>Империя Ягеллонов</small>	
+		<br><small>Империя Ягеллонов</small>	
 		</a>
 		</div>
 		
@@ -133,7 +133,7 @@
 		<a href="../../images/img-figures/jagiello/sofia_golszanskaja_monet.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Ягайло" src="../../images/img-figures/jagiello/sofia_golszanskaja_monet_thumb.jpg" height="100">
-		</br><small>Памятная монета, РБ</small>	
+		<br><small>Памятная монета, РБ</small>	
 		</a>
 		</div>
 		
@@ -141,7 +141,7 @@
 		<a href="../../images/img-figures/jagellony/jagellony_kings.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Ягеллоны" src="../../images/img-figures/jagellony/jagellony_kings_thumb.jpg" height="100">
-		</br><small>Короли Ягеллоны</small>	
+		<br><small>Короли Ягеллоны</small>	
 		</a>
 		</div>
 		
@@ -149,7 +149,7 @@
 		<a href="../../images/img-figures/jagiello/pagonia_jagiello.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Ягайло" src="../../images/img-figures/jagiello/pagonia_jagiello_thumb.jpg" height="100">
-		</br><small>"Погоня", саркофаг Ягайло</small>	
+		<br><small>"Погоня", саркофаг Ягайло</small>	
 		</a>
 		</div>
 		
@@ -179,7 +179,7 @@
 		<a href="../../images/img-figures/jagiello/1_Jadwiga.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Ягайло" src="../../images/img-figures/jagiello/1_Jadwiga_thumb.jpg" height="100">
-		</br><small>Ядвига</small>	
+		<br><small>Ядвига</small>	
 		</a>
 		</div>
 						
@@ -187,7 +187,7 @@
 		<a href="../../images/img-figures/jagiello/2_Anna.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Ягайло" src="../../images/img-figures/jagiello/2_Anna_thumb.jpg" height="100">
-		</br><small>Анна Цельская</small>	
+		<br><small>Анна Цельская</small>	
 		</a>
 		</div>
 		
@@ -195,7 +195,7 @@
 		<a href="../../images/img-figures/jagiello/3_elzbeta.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Ягайло" src="../../images/img-figures/jagiello/3_elzbeta_thumb.jpg" height="100">
-		</br><small>Эльжбета Грановская</small>	
+		<br><small>Эльжбета Грановская</small>	
 		</a>
 		</div>
 		
@@ -203,7 +203,7 @@
 		<a href="../../images/img-figures/jagiello/sofia_golszanskaja.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Ягайло" src="../../images/img-figures/jagiello/sofia_golszanskaja.jpg" height="100">
-		</br><small>Софья Гольшанская</small>	
+		<br><small>Софья Гольшанская</small>	
 		</a>
 		</div>
 		
@@ -227,7 +227,7 @@
 		1386 Ягайло прибыл в Краков, 15 февраля был крещён в Вавеле под именем Владислава и 18 февраля обвенчан с тринадцатилетней Ядвигой.
 		</p>
 		<p>
-		1387 Ягайло возвращается в Вильню и совместно с Витовтом проводит активное "крещение Литвы и Жмуди" в католическую веру.
+		1387 Ягайло возвращается в Вильню и совместно с Витовтом проводит активное <a href="../terms/litva_baptism.php">крещение Литвы</a> в католическую веру.
 		</p>
 		<p>
 		1389-92 Второй этап <a href="../events/war_civil_1381-84_1389-92.php">Гражданской войны</a> — Ягайло vs Витовт.
@@ -242,15 +242,23 @@
 		страны в единое федеративное государство — <a href="../terms/rzeczpospolita.php">Речь Посполитую</a>.
 		</p>
 		
+		<p class="img-float-center">
+		<a href="../../images/img-terms/litva_baptism/1387_litva_baptism.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Крещение Литвы" src="../../images/img-terms/litva_baptism/1387_litva_baptism_thumb.jpg" height="140" >
+			<br><small>1387 Крещение Литвы</small>
+		</a>
+		</p>
 		
-		</br></br></br>
+		
+		<br><br><br>
 		<p><small>
-		http://bp21.org.by/ru/art/a121227.html</br>
-		be-x-old.wikipedia.org</br>
-		be.wikipedia.org</br>
-		pl.wikipedia.org</br>
-		uk.wikipedia.org</br>
-		ru.wikipedia.org</br>
+		http://bp21.org.by/ru/art/a121227.html<br>
+		be-x-old.wikipedia.org<br>
+		be.wikipedia.org<br>
+		pl.wikipedia.org<br>
+		uk.wikipedia.org<br>
+		ru.wikipedia.org<br>
 		</small></p>
 		
 		

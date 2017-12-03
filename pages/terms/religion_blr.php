@@ -296,7 +296,16 @@
 	
 	<h2>Христианство латинского (римского) обряда
 	</br><small>католицизм</small>
-	</h2>	
+	</h2>
+	
+		<p class="img-float-left">
+		<a href="../../images/img-terms/litva_baptism/1387_litva_baptism.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Крещение Литвы" src="../../images/img-terms/litva_baptism/1387_litva_baptism_thumb.jpg" height="140" >
+			<br><small>1387 Крещение Литвы</small>
+		</a>
+		</p>
+			
 		<p>
 		1323 Стремясь к европейскому признанию и ища поддержки в борьбе с Тевтонским Орденом, в. кн. <a href="../figures/gedimin.php">Гедымин</a> пишет письма 
 		<small>(<a target="_blank" href="https://archive.org/stream/codexdiplomatic00lithgoog#page/n48/mode/2up">оригинал</a> / 
@@ -310,13 +319,13 @@
 		В. князь <a href="../figures/jagiello.php">Ягайло</a> был крещен по католическому  обряду и становится королем Польши. 
 		</p>
 		<p>
-		1387 Ягайло и <a href="../figures/vitovt.php">Витовт</a> проводят совместное "крещение Литвы и Жмуди".
+		1387 Ягайло и <a href="../figures/vitovt.php">Витовт</a> проводят совместное <a href="../terms/litva_baptism.php">крещение Литвы</a>.
 		Папа Урбан VI  в 1389 году признает статус <a href="../terms/wkl.php">Великого княжества Литовского</a> как католического государства.
 		</p>
 		<p>
 		В архивах Тевтонского Ордена сохранился <a href="../download/spis_swidrigailo.php">"Спис городов"</a>, поддержавших <a href="../figures/svidrigailo.php">Свидригайло</a> во время 
 		<a href="../events/war_civil_1432.php">Гражданской войны 1432-1438</a>, расколовшей страну по 
-		религиозному признаку (Свидригайло опирался на диссидентов греческой веры). Разделение прошло по линии Полоцк-Мозырь.
+		религиозному признаку (Свидригайло опирался на диссидентов греческой веры). Разделение прошло по линии Полоцк-Борисов-Мозырь.
 		</p>
 		
 	<div class="col-md-12">						

@@ -71,7 +71,7 @@
           </li>
           
           <li>
-            <a href="../legacy/_legacy_intro.php">Arch-Спадчына</a>
+            <a href="../../arch-spadczyna.php">Arch-Спадчына</a>
           </li>
 		  
 		  <li>

@@ -172,6 +172,12 @@
 		
 		<p>
 		1612 году Второе народное ополчение освободило Москву, однако война полыхала до 1618 года, 
+		</p>
+		<p>
+		Во второй половине войны активное участие принимало Войско Запорожское под командованием гетмана Конашевича-Сагайдачного.  
+		Запорожская Сечь вступила в войну, получив признание со стороны Польши своей судебной и административной автономии.
+		</p>
+		<p>
 		Польские, литовские и казацкие формирования разорили южные области Московского царства.
 		 Война завершилась подписанием Деулинского перемирия 11 декабря 1618 года.
 		</p>
@@ -229,29 +235,37 @@
 		в этот день войска Жигимонта покинули Московский Кремль после двухлетней оккупации (на самом деле, ничего в этот день не произошло — так говорит энциклопедия)).
 		</p>
 		
-		<div class="col-md-12">
+		<div class="col-md-12 img-float-center">
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-figures/sigismund_waza/Carowie_Szujscy_na_sejmie_warszawskim_Jan_Matejko_18_century.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Жигимонт (Сигизмунд) III Ваза" src="../../images/img-figures/sigismund_waza/Carowie_Szujscy_na_sejmie_warszawskim_Jan_Matejko_18_century_thumb.jpg" height="100" >
-		</br><small>"Царь Шуйский в Варшаве"</small>
+		<br><small>"Царь Шуйский в Варшаве"</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-figures/sigismund_waza/minin.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Жигимонт (Сигизмунд) III Ваза" src="../../images/img-figures/sigismund_waza/minin.jpg" height="100" >
-		</br><small>Память о войсках Жигимонта III Вазы в Москве</small>
+		<br><small>Память о войсках Жигимонта III Вазы в Москве</small>
 		</a>
 		</div>		
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-events/war_moscow_1610/Truce_of_Deulino_1618-1619.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Война с Московией 1609-1618" src="../../images/img-events/war_moscow_1610/Truce_of_Deulino_1618-1619_thumb.jpg" height="100">
-		</br><small>Итог войны, Деулинское перемирие</small>
+		<br><small>Итог войны, Деулинское перемирие</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3">
+		<a href="../../images/img-events/war_moscow_1610/war_1618-1619.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Война с Московией 1609-1618" src="../../images/img-events/war_moscow_1610/war_1618-1619_thumb.jpg" height="100">
+		<br><small>Война 1609-1618</small>
 		</a>
 		</div>
 		

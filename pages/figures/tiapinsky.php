@@ -91,7 +91,7 @@
 		<div class="col-md-12">
 			
 			<div class="col-md-4 img-float-center">
-			<a href="#../../images/img-figures/tiapinsky/razmova.jpg" class="highslide"
+			<a href="../../images/img-figures/tiapinsky/razmova.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img src="../../images/img-figures/tiapinsky/razmova.jpg"  height="100"/>
 			</br><small>"Размаўляючы пра Катэхізіс"
@@ -108,7 +108,7 @@
 			</div>
 			
 			<div class="col-md-4 img-float-center">
-			<a href="#../../images/img-figures/tiapinsky/Ostoia_minsk.jpg" class="highslide"
+			<a href="../../images/img-figures/tiapinsky/Ostoia_minsk.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img src="../../images/img-figures/tiapinsky/Ostoia_minsk_thumb.jpg"  height="100"/>
 			</br><small>Герб "Остоя"

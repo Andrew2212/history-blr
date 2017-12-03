@@ -57,16 +57,56 @@
 		была война с Московией 1654-1667 гг. 
 		</p>
 		<p>
-		В 1654 году состоялась Переяславская Рада — переход Войска Запорожского во главе с Богданом Хмельницким под покровительство Москвы. 
-		Получив такого союзника, Московское царство вторглось в Речь Посполитую, захватив <a href="../terms/wkl.php">ВКЛ</a> и 
-		<a href="../download/zemie_ruskie.php">Земли Русские</a>. В это же время Швеция заняла <a href="../places/samogitia.php">Самогитию</a> и Польшу.
-		
+		Гістарычныя <a href="../download/zemie_ruskie.php">Землі Рускія</a> (на поўдзень ад сучаснай мяжы РБ, Украіна) адыйшлі ад Вялікага княства Літоўскага да Польшы згодна Люблінскай уніі 1569 г. (стварэньне Рэчы Паспалітай, канфедэрацыі Літвы і Польшы).
 		</p>
 		<p>
+		Складаныя стасункі паміж казацтвам і новай польскай шляхтай прыводзілі да шматлікіх паўстаньняў. 
+		</p>
+		<p>
+		У 1648 г. Багдан Хмельніцкі быў зацверджан гетманам Войска Запарожскага і пры дапамозе крымскага хана Гірэя распачаў чарговае паўстаньне супраць 
+		Кароны. Барацьба цягнулася да 1654 года, калі на Пераяслаўскай Радзе Войска Запарожскае звярнулася за дапамогай  да Маскоўскага царства і дало прысягу цару.
+		</p>
+		<p>
+		Атрымаўшы хаўруснікаў у асобе Запарожскага Войска, Маскоўскае царства распачало вайну супраць 
+		<a href="../terms/wkl.php">Вялікага княства Літоўскага</a>. 
+		Тым жа часам Швэцыя пачала наступ на <a href="../places/samogitia.php">Самогітыю</a> и Польшчу.
+		Пачаўся трынаццацігадовы Крвывы Патоп 1654-1667 гадоў 
+		</p>		
+		<p>
 		Согласно подымным переписям, потери населения составили от 30 до 70% по разным воеводствам. 
-		Наибольшие потери понесло население восточных православных земель.  
+		Наибольшие потери понесло население восточных беларуских земель.  
 		Из крепостей ВКЛ только <a href="../events/battle_liahowiczy.php">Ляховичи</a> и Слуцк не были захвачены врагом.
 		</p>
+		
+		<div class="col-md-12 img-float-center" >
+		
+		<div class="col-md-4">
+		<a href="../../images/img-events/unia_liublin/1688_morden_poland.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Люблінская унія" src="../../images/img-events/unia_liublin/1688_morden_poland_thumb.jpg" height="100">
+		<br><small>Речь Посполитая, XVII в</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4 ">
+		<a href="../../images/img-events/blood_potop/hmelnicky_1648-54.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кровавый Потоп, Восстание Хмельницкого" src="../../images/img-events/blood_potop/hmelnicky_1648-54_thumb.jpg" height="100">
+		<br><small>Восстание Хмельницкого 1648-54 
+		<br>и Переяславская Рада 1654</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-4 ">
+		<a href="../../images/img-events/blood_potop/Potop_1654-1667.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кровавый Потоп" src="../../images/img-events/blood_potop/Potop_1654-1667_thumb.jpg" height="100">
+		<br><small>Кровавый Потоп 1654-1667</small>	
+		</a>
+		</div>
+		
+		</div>
+		
 		<p>
 		<a href="../terms/religion_blr.php">Религиозное многообразие</a> было одной из причин "Кровавого Потопа". 
 		</br>Наказ московского царя Алексея стрелецкому войску: "Унии не быть, латинству не быть, жидам не быть" был равносилен объявлению геноцида 
@@ -97,28 +137,28 @@
 		как защиту от московской экспансии.
 		</p>
 		
-		<div class="col-md-12" >
+		<div class="col-md-12 img-float-center" >
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-4 ">
 		<a href="../../images/img-events/battle_polonka/RP1658.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/RP1658_thumb.jpg" height="120">
+		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/RP1658_thumb.jpg" height="100">
 		</br><small>Речь Посполитая Трех Народов, 1658</small>	
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-4 ">
 		<a href="../../images/img-events/battle_polonka/rzeczpospolita_Potop.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/rzeczpospolita_Potop_thumb.jpg" height="120">
+		<img alt="Кровавый Потоп" src="../../images/img-events/battle_polonka/rzeczpospolita_Potop_thumb.jpg" height="100">
 		</br><small>"Кровавый Потоп" 1654-1667</small>	
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-4 ">
 		<a href="../../images/img-events/blood_potop/areas_lost.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Кровавый Потоп" src="../../images/img-events/blood_potop/areas_lost_thumb.jpg" height="120">
+		<img alt="Кровавый Потоп" src="../../images/img-events/blood_potop/areas_lost_thumb.jpg" height="100">
 		</br><small>Территориальные потери</small>	
 		</a>
 		</div>
@@ -132,7 +172,7 @@
 		И истребление московского гарнизона Могилева жителями города. (Кстати — Мстиславль тоже был освобожден не регулярной армией, а местными жителями).
 		</p>
 		
-		<h3>1600 Битва под Полонкой и начало освобождения</h3>		
+		<h3>1660 Битва под Полонкой и начало освобождения</h3>		
 		
 		<p>
 		Освобождение <a href="../download/wkl_equal_etno.php">белорусских земель</a> началось после разгрома московских войск в 

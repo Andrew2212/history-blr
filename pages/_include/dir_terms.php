@@ -1,6 +1,7 @@
 
       <div class="col-md-2 ">
       
+      <!--
       	<p class="reclam-block">
 		<a href="../articles/taler_blr.php" >
 		Taler naszaha Kraju
@@ -8,7 +9,7 @@
 		</a>		
 		</p>
 		
-      <!--
+      
        <p>
 			<a href="belarus.php">
 			<img src="../../images/img-terms/_hot_terms_left/belarus.jpg" class="img-right-80""/></br>

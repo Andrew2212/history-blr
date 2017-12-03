@@ -76,6 +76,37 @@
 		Рассмотрение вопроса о Люблинской унии началось в январе 1569 года на общем сейме. Из-за конфликта интересов — помощь в войне в обмен на земли —
 		 сейм продолжался с перерывами до августа 1569 года. Знаменитый <a href="../download/map_wkl.php">Атлас Меркатора</a> (1595) дает представление о границах ВКЛ до заключения унии.
 		</p>
+		
+		<div class="col-md-12 img-float-center">
+		
+		<div class="col-md-4">
+		<a href="../../images/img-events/unia_liublin/16vek_Livonia-War_Unia-Liublin.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Ливонская война и Люблинская уния" src="../../images/img-events/unia_liublin/16vek_Livonia-War_Unia-Liublin_thumb.jpg" height="100">
+		<br><small>Ливонская война 1558-1583 
+		<br>и Люблинская уния 1569</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4">
+		<a href="../../images/img-events/unia_liublin/recz_pospolita.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Люблінская унія" src="../../images/img-events/unia_liublin/recz_pospolita_thumb.jpg" height="100">
+		<br><small>Взаимоотношения 
+		<br>ВКЛ и Короны</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4">
+		<a href="../../images/img-events/unia_liublin/1688_morden_poland.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Люблінская унія" src="../../images/img-events/unia_liublin/1688_morden_poland_thumb.jpg" height="100">
+		<br><small>Речь Посполитая, XVII в</small>
+		</a>
+		</div>
+				
+		</div>
+		
 		<p>		
 		1558 московские войска вторглись в Ливонию
 		</p>
@@ -144,18 +175,6 @@
 		Положительный в военном и политическом плане, так как новообразованное государство Речь Посполитая стала одной из самых крупных 
 		и могущественных стран Европы, и отрицательный, т.к. была потеряна значительная часть своей территории.
 		</p>
-		
-		<p class="img-float-center">
-		<a href="../../images/img-events/unia_liublin/recz_pospolita.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="Люблінская унія" src="../../images/img-events/unia_liublin/recz_pospolita_thumb.jpg" height="100">
-		</br><small>Взаимоотношения ВКЛ и Короны</small>
-		</a>
-		</p>
-		
-		
-		
-		
 		
 		
 		</br></br></br>

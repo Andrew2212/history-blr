@@ -88,10 +88,12 @@
 		</p>
 		
 		<p>
-		1377 Умирает в. князь Ольгерд. По завещанию, в обход традиционного наследования, новым в. князем становится Ягайло. Кейстут, брат Ольгерда, достаточно автономно правивший в Троках, отодвинут на второй план. 
+		1377 Умирает в. князь Ольгерд. По завещанию, в обход традиционного наследования, новым в. князем становится Ягайло. 
+		Кейстут, брат Ольгерда, достаточно автономно правивший в Троках, отодвинут на второй план. 
 		</p>
 		<p>
-		Ягайло было 30 лет и он искал пути модернизации страны, был готов к принятию христианства. Кейстуту  было 80 лет и он был решительным противником крещения.
+		Ягайло было 30 лет и он искал пути модернизации страны, был готов к принятию христианства. 
+		Кейстуту  было 80 лет и он был решительным противником крещения.
 		</p>
 		<p>
 		1378 Тевтонский Орден организовал крупную военную кампанию против Литвы. Крестоносцы дошли до Берестья и вышли к Припяти. 
@@ -167,7 +169,7 @@
 		Ягайло, оставаясь в. князем Литовским, становится королем Польши. 
 		</p>
 		<p>
-		1387 Ягайло возвращается в Вильню и совместно с Витовтом проводит активное "крещение Литвы и Жмуди" в католическую веру.
+		1387 Ягайло возвращается в Вильню и совместно с Витовтом проводит активное <a href="../terms/litva_baptism.php">крещение Литвы</a> в католическую веру.
 		</p>
 		<p>
 		После коронации Ягайло положение Литвы изменилось. Он управлял обоими государствами из Кракова и титуловался королём Польским и великим князем Литовским. 
@@ -175,28 +177,36 @@
 		</p>
 		
 		
-		<div class="col-md-12">	
+		<div class="col-md-12 img-float-center">	
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-events/unia_vilno/wkl_polska_1386_1434.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Кревская уния" src="../../images/img-events/unia_vilno/wkl_polska_1386_1434_thumb.jpg" height="100">
-		</br><small>Кревская уния 1385</small>
+		<br><small>Кревская уния 1385</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-events/unia_krewo/unia_krewo.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img  alt="Кревская уния" src="../../images/img-events/unia_krewo/unia_krewo_thumb.jpg" height="100">
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-events/unia_liublin/unia_table.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Городельская уния" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" height="100">
-		</br><small>Хронология уний</small>
+		<br><small>Хронология уний</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3">
+		<a href="../../images/img-terms/litva_baptism/1387_litva_baptism.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Крещение Литвы" src="../../images/img-terms/litva_baptism/1387_litva_baptism_thumb.jpg" height="100" >
+			<br><small>1387 Крещение Литвы</small>
 		</a>
 		</div>		
 		

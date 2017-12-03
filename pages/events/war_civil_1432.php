@@ -30,21 +30,21 @@
     <? include ("../_include/top_list_events.php"); ?>
   
 		<h1>1432—1438 Гражданская война
-		</br><small>последняя война мятежного князя Свидригайло</small></h1>
+		<br><small>последняя война мятежного князя Свидригайло</small></h1>
 		
 		<p class="img-float-left">
 		<a href="../../images/img-events/war_civil_1432/swidrigailo.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Гражданская война в ВКЛ" src="../../images/img-events/war_civil_1432/swidrigailo_thumb.jpg" height="120"> 	
 		</a>
-		</br></br>
+		<br><br>
 		</p>
 		<p class="img-float-right">
 		<a href="../../images/img-events/war_civil_1432/1432_wkl_swidrigajlo.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Гражданская война в ВКЛ" src="../../images/img-events/war_civil_1432/1432_wkl_swidrigajlo_thumb.jpg" height="120"> 
 		</a>
-		</br></br>
+		<br><br>
 		</p>
 		
 		<p>
@@ -59,10 +59,10 @@
 		</p>
 		<p>
 		Он разрывает союз с Польшей и отказывается присягать <a href="../figures/jagiello.php">Ягайло</a>. 
-		</br><i>
+		<br><i>
 		"Я не с его ласки, но с Божьей и по праву природного моего великий князь; имею теперь время отомстить ему за давние обиды, пускай будет благодарен, 
 		что я до этого почитаю и уважаю его просто, как старшего брата и короля польского"</i>
-		</br>Он разрывает <a href="unia_gorodlo.php">Городельскую Унию</a> 1413 и стремиться к восстановление политической независимости ВКЛ.
+		<br>Он разрывает <a href="unia_gorodlo.php">Городельскую Унию</a> 1413 и стремиться к восстановление политической независимости ВКЛ.
 		</p>
 		<p>
 		Ситуация ещё более усложнилась после занятия поляками Подолья, а также пленением короля польского Ягайло в <a href="../places/wilno.php">Вильне</a>. 
@@ -73,14 +73,14 @@
 		</p>
 		<p>		
 		1432 Сигизмунд заключает с Польшей <a href="unia_grodno.php">Гродненскую унию</a>.
-		</br>Однако Свидригайло получил поддержку восточных и южных земель ВКЛ, православная шляхта которых противилась преимущественному 
+		<br>Однако Свидригайло получил поддержку восточных и южных земель ВКЛ, православная шляхта которых противилась преимущественному 
 		положению католиков по условиям Унии. В архивах Тевтонского Ордена сохранился <a href="../download/spis_swidrigailo.php">"Спис городов"</a>, поддерживавших Свидригайло.
 		</p>
 		<p class="img-float-center">
 		<a href="../../images/img-events/war_civil_1432/1595_Mercator_Lithuania_swidrigajlo.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Гражданская война в ВКЛ" src="../../images/img-events/war_civil_1432/1595_Mercator_Lithuania_swidrigajlo_thumb.jpg" height="160"> 
-		</br><small>Города Свидригайло на карте Меркатора 1595 г.</small>
+		<br><small>Города Свидригайло на карте Меркатора 1595 г.</small>
 		</a>
 		</p>
 		
@@ -108,16 +108,16 @@
 		
 	
 		
-		</br></br></br>
+		<br><br><br>
 		<p><small>
 		http://www.dissercat.com/content/vnutripoliticheskii-krizis-v-velikom-knyazhestve-litovskom-v-30-e-gody-xv-veka</br>
-		http://spadczyna.com/history/b_his_3_vkl_16.htm</br>
-		http://spadczyna.com/history/mapes/b_3_vkl_15_3.htm</br>
-		be-x-old.wikipedia.org</br>
-		be.wikipedia.org</br>
-		pl.wikipedia.org</br>
-		uk.wikipedia.org</br>
-		ru.wikipedia.org</br>
+		http://spadczyna.com/history/b_his_3_vkl_16.htm<br>
+		http://spadczyna.com/history/mapes/b_3_vkl_15_3.htm<br>
+		be-x-old.wikipedia.org<br>
+		be.wikipedia.org<br>
+		pl.wikipedia.org<br>
+		uk.wikipedia.org<br>
+		ru.wikipedia.org<br>
 		</small></p>
 		
 	</div>

@@ -13,7 +13,7 @@
 	иллюстрированные истрическими картами и архивными документами" />
 	<meta name="keywords" itemprop="keywords" content="Битва под Хотином, 
 	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
-	<meta property="og:image" content="http://history-belarus.by/images/img-events/battle_hotin/17ce_Poland.jpg" />
+	<meta property="og:image" content="http://history-belarus.by/images/img-events/battle_hotin/title.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_events.php"); ?>
@@ -76,37 +76,37 @@
 		</br><a href="../terms/weliki_hetman.php">Великий гетман Литовский</a> Ян Кароль Ходкевич получил командование всеми силами Речи Посполитой.
 		</p>
 		
-	<div class="col-md-12">
+	<div class="col-md-12 img-float-center">
 	
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-events/battle_hotin/17ce_Poland.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-events/battle_hotin/17ce_Poland_thumb.jpg" height="100">
-		</br><small>Polonia, Litvania, Moldavia, Podolia. XVII век</small>
+		<br><small>Polonia, Litvania, Moldavia, Podolia. XVII век</small>
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-events/battle_hotin/chocin_battle.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-events/battle_hotin/chocin_battle_thumb.jpg" height="100">
-		</br><small>Битва под Хотином</small>
+		<br><small>Битва под Хотином</small>
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-events/battle_hotin/chodkiewicz_in_hotin_1621.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-events/battle_hotin/chodkiewicz_in_hotin_1621_thumb.jpg" height="100">
-		</br><small>Ян Кароль Ходкевич в Хотинской битве</small>
+		<br><small>Ян Кароль Ходкевич в Хотинской битве</small>
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-places/nowogrudok/hotin_1621.jpg" class="highslide"
+		<div class="col-md-3">
+		<a href="../../images/img-events/battle_hotin/ottomanEmpire.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-places/nowogrudok/hotin_1621.jpg" height="100">
-		</br><small>В память о погибших. Новогрудок 1643</small>
+		<img src="../../images/img-events/battle_hotin/ottomanEmpire_thumb.jpg" height="100">
+		<br><small>Оттоманская империя 1639</small>
 		</a>		
 		</div>
 		
@@ -115,18 +115,26 @@
 		<p>
 		Армия Речи Посполитой состояла из войска Польского, <a href="../download/spis_voiska.php">войска Литовского</a> и 
 		войска Запорожского (под командованием гетмана Петра Конашевича-Сагайдачного).
-		</br>В битве участвовало свыше 200 тыс. человек. Она продолжалась 40 дней (2 сент.- 9 окт.).
+		<br>В битве участвовало свыше 200 тыс. человек. Она продолжалась 40 дней (2 сент.- 9 окт.).
 		В результате битвы турки потеряли до 32 тыс. человек, начались переговоры о заключении мира.
 		</p>
 		
 		<p>
 		Это была последняя битва великого воина и полководца Яна Ходкевича. 24 сентября тяжело больной Ходкевич умер.
-		</br>Экспансия турок  была остановлена.
+		<br>Экспансия турок  была остановлена.
 		</p>
 		
 		<p>
 		В 1643 году по заказу каштеляна Яна Рудамины в фарном костеле <a href="../places/nowogrudok.php">Новогрудка</a> был установлен мраморный барельеф в память о новогрудских рыцарях, 
-		погибших в этой битве:  <i>"Калі ты забудзешся пра іх ты, Божа Нябесны забудься на мяне"</i>.
+		погибших в этой битве:  <i>"...нават калі і забудзецца гэта, аднак Бог маланак і з жывымі, і з мёртвымі жывы"</i>.
+		</p>
+		
+		<p class="img-float-center">
+		<a href="../../images/img-places/nowogrudok/hotin_1621.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img src="../../images/img-places/nowogrudok/hotin_1621.jpg" height="100">
+		<br><small>В память о погибших. Новогрудок 1643</small>
+		</a>
 		</p>
 		
 		
@@ -135,7 +143,7 @@
 		</h3>
 		<p>
 		Хотинская битва 11 ноября 1673 года — сражение в ходе польско-турецкой войны 1672-1676 годов за власть над Правобережной Украиной. 
-		</br>Объединённое польско-литовское войско под командованием коронного гетмана 
+		<br>Объединённое польско-литовское войско под командованием коронного гетмана 
 		Яна Собеского разгромило турецкую армию во главе с Гусейн-пашой (около 35 тысяч человек), 
 		укрепившуюся в старом лагере времён первой Хотинской битвы (1621).
 		</p>
@@ -145,13 +153,13 @@
 		</br>Победа сильно укрепила престиж гетмана Яна Собесского, получившего прозвище «Хотинский лев», и помогла ему при избрании на польский трон.
 		</p>
 		
-		</br></br></br>
+		<br><br><br>
 		<p><small>
-		be-x-old.wikipedia.org</br>
-		be.wikipedia.org</br>
-		pl.wikipedia.org</br>
-		uk.wikipedia.org</br>
-		ru.wikipedia.org</br>
+		be-x-old.wikipedia.org<br>
+		be.wikipedia.org<br>
+		pl.wikipedia.org<br>
+		uk.wikipedia.org<br>
+		ru.wikipedia.org<br>
 		</small></p>
 		
 	</div>

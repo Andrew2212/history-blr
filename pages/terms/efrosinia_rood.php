@@ -182,6 +182,39 @@
 		
 		</div>
 		
+		<h3>Беларуские деревянные кресты 
+		<br><small>Любовь Зорина</small></h3>
+		
+		<p class="img-float-left">
+		<a href="../../images/img-terms/efrosinia_rood/Henryk_Weyssenhoff_Cmentarz_bialoruski_w_Russakowiczach_1889.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Henryk Weyssenhoff - Cmentarz bialoruski w Russakowiczach (Беларускія могілкі) 1889" 
+		src="../../images/img-terms/efrosinia_rood/Henryk_Weyssenhoff_Cmentarz_bialoruski_w_Russakowiczach_1889_thumb.jpg" height="120" >
+		<br><small>"Беларускія могілкі"
+		<br>H. Weyssenhoff, 1889</small>
+		</a>
+		</p>
+		
+		<p>
+		"После 1839 года [ликвидация <a href="../events/unia_religion_brest.php">Брестской церковной унии</a>] православная церковь запрещала установку придорожных и кладбищенских крестов, украшенных резьбой и тканью. 
+		Они часто просто уничтожались администрацией, которая подозревала в них польско-католическое происхождение на том основании, 
+		что подобные кресты не встречаются в Великороссии. 
+		</p>
+		<p>
+		Смертельный удар по развитию декоративного искусства украшения крестов 
+		и алтарей на территории современной Беларуси нанес указ от 8 июня 1864 года М.Н. Муравьева, 
+		в соответствии с которым запрещалось не только устанавливать новые кресты, но и реставрировать старые. 
+		Это был один из способов русификации и укрепления российского православия в крае. 
+		</p>
+		<p>
+		Императорский указ от 14 марта 1896 года отменял циркуляр генерал-губернатора, но одновременно вводились ограничения 
+		на сооружение крестов из прочных материалов. Для деревянных крестов наступила новая эпоха, они стали появляться вдоль дорог и в полях, 
+		но в ограниченном количестве."
+		</p>
+		<p>
+		<a target="_blank" href="https://harodnia.com/be/uczora/681-lyubov-zorina-belaruskie-derevyannye-kresty">Читать полностью...</a>
+		</p>
+		
 		
 		<h2>"Русский крест"
 		<br><small>восьми-конечный канон</small>
@@ -190,7 +223,7 @@
 		<p class="img-float-left">
 		<a href="../../images/img-figures/kahaniec/krestRussia.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Русский крест" src="../../images/img-figures/kahaniec/krestRussia_thumb.jpg" height="100" >
+		<img alt="Русский крест" src="../../images/img-figures/kahaniec/krestRussia_thumb.jpg" height="120" >
 		<br><small>Russian крест</small>
 		</a>
 		</p>

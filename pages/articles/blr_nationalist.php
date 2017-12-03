@@ -4,14 +4,14 @@
   <head>
          
 <!-- ***Title*** -->
- 	<title>Откровения националиста. История Беларуси</title>
+ 	<title>Откровения националиста</title>
 <!-- ***Meta*** -->
-  	<meta name="description" content="Белорусский националист — объект договоренности. Когда его обсуждают два «ненационалиста», то их консенсус — в том, что националист — это все, 
+  	<meta property="og:description" name="description" content="Белорусский националист — объект договоренности. Когда его обсуждают два «ненационалиста», то их консенсус — в том, что националист — это все, 
 	что в состоянии породить их коллективная фантазия. Определять националиста тезисно не нужно. Он — наш бабай.
 	" />
 	<meta name="keywords" itemprop="keywords" content="История Беларуси, история Белоруссии, краткая история Беларуси, краткая история Беларуси в датах, 
 	 История Беларуси коротко, карты ВКЛ, карты белорусского этноса, метрики ВКЛ, литвины, шляхта Беларуси, белорусы, история Беларуси кратко" />
-  	<meta property="og:image" content="http://history-belarus.by/images/img-articles/articles_title.jpg" />
+  	<meta property="og:image" content="http://history-belarus.by/images/img-articles/blr_nationalist/title.jpg" />
 
 <!-- ***Include Header*** -->
 <? include ("../_include/header_articles.php"); ?>

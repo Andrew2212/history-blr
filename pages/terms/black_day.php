@@ -83,23 +83,23 @@
 		<small>В. Селеменев, директор Национального архива Беларуси</small>
 		</p>
 		
-		<div class="col-md-12">	
+		<div class="col-md-12 img-float-center">	
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-4 r">
 		<a href="../../images/img-terms/black_day/group.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img alt="Черный день Беларуси 1937" src="../../images/img-terms/black_day/group_thumb.jpg" height="100" >
 			</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-4 ">
 		<a href="../../images/img-terms/black_day/group1.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img alt="Черный день Беларуси 1937" src="../../images/img-terms/black_day/group1_thumb.jpg" height="100" >
 			</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-4 ">
 		<a href="../../images/img-terms/black_day/Belarusian_writers_1920.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img alt="Черный день Беларуси 1937" src="../../images/img-terms/black_day/Belarusian_writers_1920_thumb.jpg" height="100" >
@@ -116,27 +116,27 @@
 		<div class="col-md-6">
 		<p>
 		Адпусьціце мяне, Курапаты*,
-		</br>нават з куляю ў галаве,
-		</br>да дзяцей, да жаны, да хаты.
-		</br>Як там Бацькаўшчына жыве?
+		<br>нават з куляю ў галаве,
+		<br>да дзяцей, да жаны, да хаты.
+		<br>Як там Бацькаўшчына жыве?
 		</p>
 		<p>
 		Як там сад мой? Абрыдлі сосны,
-		</br>нават камень ня ўлежыць ніц.
-		</br>Я вярнуся, такі ўжо лёс мой —
-		</br>плакаць жвірам з пустых вачніц.
+		<br>нават камень ня ўлежыць ніц.
+		<br>Я вярнуся, такі ўжо лёс мой —
+		<br>плакаць жвірам з пустых вачніц.
 		</p>
 		<p>
 		Адпусьціце мяне да хаты.
-		</br>Як жа так — прапусьціць сяўбу?
-		</br>Я ж да сьмертухны быў аратым,
-		</br>я ж прашуся не на гульбу.
+		<br>Як жа так — прапусьціць сяўбу?
+		<br>Я ж да сьмертухны быў аратым,
+		<br>я ж прашуся не на гульбу.
 		</p>
 		<p>
 		А ў залог вам пакіну кулю,
-		</br>і — дадому, у Журавы!
-		</br>Зайду ў двор, абдыму матулю,
-		</br>пацалую, нібы жывы.
+		<br>і — дадому, у Журавы!
+		<br>Зайду ў двор, абдыму матулю,
+		<br>пацалую, нібы жывы.
 		</p>
 		<p>
 		<small>Анатоль Сыс</small>
@@ -148,6 +148,38 @@
 		<p>
 		*Куропаты — урочище под  Минском, являлось местом расстрелов и захоронений репрессированных органами НКВД в 1937-1940 годах.
 		</p>
+		
+		<h3>Сьпіс расстраляных 28-29/10/1937, Менск</h3>
+		
+		<p>
+		Поўны (магчыма) сьпіс загінуўшых 
+		</p>
+
+		<div class="col-md-12 img-float-center">	
+		
+		<div class="col-md-4 ">
+		<a href="../../images/img-terms/black_day/kurapaty-1.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Черный день Беларуси 1937" src="../../images/img-terms/black_day/kurapaty-1_thumb.jpg" height="100" >
+		</a>
+		</div>
+		
+		<div class="col-md-4 ">
+		<a href="../../images/img-terms/black_day/kurapaty-2.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Черный день Беларуси 1937" src="../../images/img-terms/black_day/kurapaty-2_thumb.jpg" height="100" >
+		</a>
+		</div>
+		
+		<div class="col-md-4 ">
+		<a href="../../images/img-terms/black_day/kurapaty-3.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Черный день Беларуси 1937" src="../../images/img-terms/black_day/kurapaty-3_thumb.jpg" height="100" >
+		</a>
+		</div>
+
+		</div>
+
 		
 		<h3>Найди своих</h3>
 		

@@ -210,7 +210,9 @@
 			</div>
 			<div class="col-md-8">
 			1537, Первая версия карты Europa Regina (Королева Европа).
-			</br>Забавно, что ВКЛ (Litvania) представлена городом Гродно. Alba Russia рядом с Livonia, как и на следующей карте.
+			</br>Забавно, что ВКЛ (Litvania) представлена городом Гродно (версия, почему Гродно, а не Вильня 
+			— <a target="_blank" href="https://asnoru.livejournal.com/27078.html">тут</a>).
+			 Alba Russia рядом с Livonia, как и на следующей карте.
 			</div>
 		</div>
 		

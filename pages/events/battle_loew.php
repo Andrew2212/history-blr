@@ -42,24 +42,53 @@
 		к Польше по условиям <a href="unia_liublin.php">Люблинской унии</a> 1569 года. Сложные взаимоотношения между Короной и казачеством порождали 
 		многочисленные вооруженные конфликты.
 		</p>
-		
-		<p class="img-float-left">
-		<a href="../../images/img-events/battle_loew/janush_radziwill.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="Януш Радзивилл" src="../../images/img-events/battle_loew/janush_radziwill_thumb.jpg" height="120">
-		</br><small>Януш Радзивилл</small>
-		</a>
+		<p>
+		Итогом восстания стала Переяславская Рада 1654 года, 
+		на которой Войско Запорожское обратилось за помощью к Московскому царству и присягнуло на верность царю.
+		Обретя такого союзника, Москва развязала войну против ВКЛ, оставшуюся в памятии, как <a href="../events/blood_potop.php">Кровавый Потоп</a>.
 		</p>
 		
-		<p class="img-float-right">
-		<a href="../../images/img-events/battle_loew/loew.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="Битва под Лоевом" src="../../images/img-events/battle_loew/loew_thumb.jpg" height="120">
-		</br><small>г. Лоев (Беларусь)</small>
-		</a>
-		</p>
+		<div class="col-md-12 img-float-center">
 		
-		<h3>Битва под Лоевом, 1649 год</h3>
+		<div class="col-md-3">
+		<a href="../../images/img-events/unia_liublin/16vek_Livonia-War_Unia-Liublin.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Ливонская война и Люблинская уния" src="../../images/img-events/unia_liublin/16vek_Livonia-War_Unia-Liublin_thumb.jpg" height="100">
+		<br><small>Люблинская уния 1569
+		<br>и Земли Руские</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3">
+		<a href="../download/zemie_ruskie.php">
+		<a href="../../images/img-events/battle_loew/Cborniy_atlas_Rechi_pospolitoy_ziemie_ruskie.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Битва под Лоевом. Земли Русские" src="../../images/img-events/battle_loew/Cborniy_atlas_Rechi_pospolitoy_ziemie_ruskie_thumb.jpg" height="100">
+		<br><small>Земли Русские Речи Посполитой</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3">
+		<a href="../../images/img-events/blood_potop/hmelnicky_1648-54.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Кровавый Потоп, Восстание Хмельницкого" src="../../images/img-events/blood_potop/hmelnicky_1648-54_thumb.jpg" height="100">
+		<br><small>Восстание Хмельницкого 1648-54 
+		<br>и Переяславская Рада 1654</small>	
+		</a>
+		</div>
+		
+		<div class="col-md-3">
+		<a href="../../images/img-terms/blr_entire/ua_hmelnicky.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Битва под Лоевом" src="../../images/img-terms/blr_entire/ua_hmelnicky_thumb.jpg" height="100">
+		<br><small>Восстание Хмельницкого</small>	
+		</a>
+		</div>
+		
+	</div>
+		
+		
+		<h2>Битва под Лоевом, 1649 год</h2>
 		
 		<p>
 		31 июля 1649 года Януш <a href="../figures/radziwilly.php">Радзивилл</a>, воевода Виленский и польный гетман Литовский, во главе 7-тысячной армии 
@@ -80,51 +109,50 @@
 		На гравюре 1720 года подробно показаны и расписаны в легенде ход сражения, расположение войск, лагерь Радзивилла, казацкий табор-вагенбург.
 		</p>
 		
-	<div class="col-md-12">
+		<div class="col-md-12 img-float-center">
 		
-		<div class="col-md-4 img-float-center">
-		<a href="../download/zemie_ruskie.php">
-		<a href="../../images/img-events/battle_loew/Cborniy_atlas_Rechi_pospolitoy_ziemie_ruskie.jpg" class="highslide"
+		<div class="col-md-4">
+		<a href="../../images/img-events/battle_loew/janush_radziwill.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Битва под Лоевом. Земли Русские" src="../../images/img-events/battle_loew/Cborniy_atlas_Rechi_pospolitoy_ziemie_ruskie_thumb.jpg" height="100">
-		</br><small>Земли Русские Речи Посполитой</small>
+		<img alt="Януш Радзивилл" src="../../images/img-events/battle_loew/janush_radziwill_thumb.jpg" height="100">
+		<br><small>Януш Радзивилл</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
-		<a href="../../images/img-terms/blr_entire/ua_hmelnicky.jpg" class="highslide"
+		<div class="col-md-4">
+		<a href="../../images/img-events/battle_loew/loew.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Битва под Лоевом" src="../../images/img-terms/blr_entire/ua_hmelnicky_thumb.jpg" height="100">
-		</br><small>Восстание Хмельницкого</small>	
+		<img alt="Битва под Лоевом" src="../../images/img-events/battle_loew/loew_thumb.jpg" height="100">
+		<br><small>г. Лоев (Беларусь)</small>
 		</a>
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-4">
 		<a href="../../images/img-events/battle_loew/loew_1649.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Битва под Лоевом" src="../../images/img-events/battle_loew/loew_1649_thumb.jpg" height="100">
-		</br><small>Битва под Лоевом 1649 г.
-		</br>(гравюра 1720 года)</small>
+		<br><small>Битва под Лоевом 1649 г.
+		<br>(гравюра 1720 года)</small>
 		</a>
 		</div>
 		
-	</div>
+		</div>
 		
-		<h3>Битва под Лоевом, 1651 год</h3>
+		<h2>Битва под Лоевом, 1651 год</h2>
 		
 		<p>
 		Спустя два года, 6 июля 1651 года на том же месте состоялась вторая битва под Лоевом с Войском Запорожским. 
-		</br>На этот раз численное превосходство было у армии княжества Литовского. 
+		На этот раз численное превосходство было у армии княжества Литовского. 
 		И снова Януш Радзивилл во главе 40-тысячного войска, усиленного <a href="../places/sea_herodotus.php">полесским</a> ополчением, разбил 20-тысячную казацкую армию атаманов Мартына Небабы и Степана Пободайло.
 		</p>
 		
-		<h3>Лоев</h3>
+		<h2>Лоев</h2>
 		<p class=" img-float-left">
 		<a href="../../images/img-events/battle_loew/1670_wkl_loew.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Битва под Лоевом" src="../../images/img-events/battle_loew/1670_wkl_loew_thumb.jpg" height="160">
-		</br><small>Лоев на карте ВКЛ
-		</br>1670 Lithvaniae, Amsterdam</small>
+		<br><small>Лоев на карте ВКЛ
+		<br>1670 Lithvaniae, Amsterdam</small>
 		</a>
 		</p>
 		<p>
@@ -140,7 +168,7 @@
 		</p>
 		<p>
 		В королевской грамоте 1539 года было сказано: 
-		</br><i>"люди великие поганство Татарове идуть у верх Днепра тым шляхом, которым третий год шли, мимо Чернигов на Лоеву Гору, 
+		<br><i>"люди великие поганство Татарове идуть у верх Днепра тым шляхом, которым третий год шли, мимо Чернигов на Лоеву Гору, 
 		и оттол бы они мели просто идти в тамошнее панство наше Великое князства Литовское, сказу и плен подданым нашим чинити"</i>.
 		</p>
 		
@@ -150,13 +178,13 @@
 		</p>
 		
 		
-		</br></br></br>
+		<br><br><br>
 		<p><small>
-		be-x-old.wikipedia.org</br>
-		be.wikipedia.org</br>
-		pl.wikipedia.org</br>
-		uk.wikipedia.org</br>
-		ru.wikipedia.org</br>
+		be-x-old.wikipedia.org<br>
+		be.wikipedia.org<br>
+		pl.wikipedia.org<br>
+		uk.wikipedia.org<br>
+		ru.wikipedia.org<br>
 		</small></p>
 		
 	</div>

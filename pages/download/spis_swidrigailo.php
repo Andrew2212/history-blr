@@ -30,7 +30,7 @@
     <? include ("../_include/top_list_download.php"); ?>
  
 		<h3>1432 Спис городов Свидригайло
-		</br><small><a href="../events/war_civil_1432.php">Гражданская война в ВКЛ 1432-1438</a></small>
+		<br><small><a href="../events/war_civil_1432.php">Гражданская война в ВКЛ 1432-1438</a></small>
 		</h3>
 		
 		<p class="img-float-left">
@@ -38,16 +38,16 @@
         onclick="return hs.expand(this)">
 		<img alt="Гражданская война в ВКЛ" src="../../images/img-events/war_civil_1432/spis_swidrigajlo_thumb.jpg" height="120"> 	
 		</a>
-		</br></br>
+		<br><br>
 		</p>
 		
 		<p class="img-float-right">
 		<a href="../../images/img-figures/gedimin/wkl_13-14ce.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Гражданская война в ВКЛ" src="../../images/img-figures/gedimin/wkl_13-14ce_thumb.jpg" height="120"> 
-		</br><small>Границы ВКЛ 1430</small> 	
+		<br><small>Границы ВКЛ 1430</small> 	
 		</a>
-		</br></br>
+		<br><br>
 		</p>
 		
 		<p>
@@ -74,7 +74,7 @@
 		
 		<div class="col-md-4 img-float-center">
 			<small>Факсимиле списка с аннотацией и современной транскрипцией городов (рус.)</small>
-			</br>Файл PDF, 4 Мб</br>
+			<br>Файл PDF, 4 Мб<br>
 			<a target="_blank" href="../../images/img-events/war_civil_1432/spis_swidrigailo.pdf" class="btn btn-info img-float-centr"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать
 			</a>
@@ -84,7 +84,7 @@
 		<a href="../../images/img-events/war_civil_1432/1595_Mercator_Lithuania_swidrigajlo.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Гражданская война в ВКЛ" src="../../images/img-events/war_civil_1432/1595_Mercator_Lithuania_swidrigajlo_thumb.jpg" height="160"> 
-		</br><small>Города Свидригайло на карте Меркатора 1595 г.</small>
+		<br><small>Города Свидригайло на карте Меркатора 1595 г.</small>
 		</a>
 		</div>
 		

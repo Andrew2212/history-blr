@@ -5,7 +5,7 @@
   <!-- ***Title*** -->
     <title>Ливонская война</title>
 <!-- ***Meta*** -->  
-    <meta name="description" content="Война ВКЛ с Московским царством, вторгшимся в Ливонию и захватившим Полоцк. Создание Речи Посполитой.
+    <meta name="description" content="Война ВКЛ с Московским царством, вторгшимся в Ливонию и захватившим Полоцк. Война, длившаяся 25 лет (1558-1583). Война, приведшая к Люблинской унии и созданию Речи Посполитой.
 	" />
 	<meta name="keywords" itemprop="keywords" content="ливонская война, 
 	история беларуси кратко в датах, основные события история Беларуси, история ВКЛ, ВКЛ, история Беларуси, Краткая история Беларуси, История беларуси кратко" />
@@ -30,22 +30,6 @@
   
 		<h1>1558-1583 Ливонская война</h1>
 		
-		<p class="img-float-left">
-		<a href="../../images/img-download/map_sweden/1573-78_Livoniae.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="Ливонская война" src="../../images/img-download/map_sweden/1573-78_Livoniae_thumb.jpg" height="160">
-		</br><small>Livonia 1573-78</small>
-		</a>
-		</p>
-		
-		<p class="img-float-right">
-		<a href="../../images/img-events/war_livonia/livon1558.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="Ливонская война" src="../../images/img-events/war_livonia/livon1558_thumb.jpg" height="160">
-		</br><small>Ливонская война</small>
-		</a>
-		</p>
-		
 		<p>
 		Ливонская (Инфлянтская) война (1558-1583) — попытка Московского царя Ивана IV Грозного захватить Ливонию. В войне участвовали Ливонская конфедерация, 
 		Московское царство, <a href="../terms/wkl.php">Великое княжество Литовское</a>, Шведское и Датское королевства. 
@@ -60,8 +44,39 @@
 		 другая же непосредственно вошла в состав Великого княжества Литовского.
 		 </p>
 		<p>
-		С этого времени война велась между ВКЛ и Московским царством.
+		С этого времени война велась между ВКЛ и Московским царством. Война длилась 25 лет и привела к заключению <a href="../events/unia_liublin.php">Люблинской унии</a>
+		 и образованию Речи Посполитой — союза ВКЛ и Польши.
 		</p>
+		
+		<div class="col-md-12 img-float-center">
+		
+		<div class="col-md-4">
+		<a href="../../images/img-events/war_livonia/1711_Livonie__Curlande_et_Samogitie.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Ливонская война" src="../../images/img-events/war_livonia/1711_Livonie__Curlande_et_Samogitie_thumb.jpg" height="100">
+		<br><small>Ливония</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4">
+		<a href="../../images/img-events/unia_liublin/16vek_Livonia-War_Unia-Liublin.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Ливонская война и Люблинская уния" src="../../images/img-events/unia_liublin/16vek_Livonia-War_Unia-Liublin_thumb.jpg" height="100">
+		<br><small>Ливонская война 1558-1583 
+		<br>и Люблинская уния 1569</small>
+		</a>
+		</div>
+		
+		<div class="col-md-4">
+		<a href="../../images/img-events/war_livonia/livon1558.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Ливонская война" src="../../images/img-events/war_livonia/livon1558_thumb.jpg" height="100">
+		<br><small>Ливонская война</small>
+		</a>
+		</div>
+		
+		</div>
+		
 		<p> 
 		1563 Московским войском был захвачен Полоцк — крупнейший и богатейший городом ВКЛ. Разорение города стало концом величия Полоцка, 
 		после которого он больше никогда не возродился. 
@@ -86,32 +101,32 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_livonia/Cranach_the_Younger_Sigismund_II_Augustus.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливонская война" src="../../images/img-events/war_livonia/Cranach_the_Younger_Sigismund_II_Augustus.jpg" height="120">
-		</br><small>Сигизмунд II Август</small>
+		<img alt="Ливонская война" src="../../images/img-events/war_livonia/Cranach_the_Younger_Sigismund_II_Augustus.jpg" height="100">
+		<br><small>Сигизмунд II Август</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_livonia/Stefan_Batory_1576.jpg"  class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливонская война" src="../../images/img-events/war_livonia/Stefan_Batory_1576.jpg" height="120">
-		</br><small>Стефан Баторий</small>
+		<img alt="Ливонская война" src="../../images/img-events/war_livonia/Stefan_Batory_1576.jpg" height="100">
+		<br><small>Стефан Баторий</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_livonia/Ivan_grozny_1672.jpg"  class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливонская война" src="../../images/img-events/war_livonia/Ivan_grozny_1672.jpg" height="120">
-		</br><small>Иван IV Грозный</small>
+		<img alt="Ливонская война" src="../../images/img-events/war_livonia/Ivan_grozny_1672.jpg" height="100">
+		<br><small>Иван IV Грозный</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-events/war_livonia/ivan_europe.jpg"  class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливонская война" src="../../images/img-events/war_livonia/ivan_europe_thumb.jpg" height="120">
-		</br><small>Иван Грозный в восприятии европейцев</small>
+		<img alt="Ливонская война" src="../../images/img-events/war_livonia/ivan_europe_thumb.jpg" height="100">
+		<br><small>Иван Грозный в восприятии европейцев</small>
 		</a>
 		</div>
 		
@@ -131,7 +146,7 @@
 		<div class="col-md-6 img-float-center">
 		<a href="../../images/img-terms/blr_flag/Siege_of_Polotsk_in_1579.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Флаг Беларуси БЧБ" src="../../images/img-terms/blr_flag/Siege_of_Polotsk_in_1579_thumb.jpg" height="120"> 
+		<img alt="Флаг Беларуси БЧБ" src="../../images/img-terms/blr_flag/Siege_of_Polotsk_in_1579_thumb.jpg" height="100"> 
 		</br><small>Осада Полоцка 1579 года</small>
 		</a>
 		</div>
@@ -139,7 +154,7 @@
 		<div class="col-md-6 img-float-center">
 		<a href="../../images/img-events/war_livonia/Jan_Matejko-Batory_pod_Pskowem.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливонская война" src="../../images/img-events/war_livonia/Jan_Matejko-Batory_pod_Pskowem_thumb.jpg" height="120">
+		<img alt="Ливонская война" src="../../images/img-events/war_livonia/Jan_Matejko-Batory_pod_Pskowem_thumb.jpg" height="100">
 		</br><small>Стефан Баторий под Псковом</small>
 		</a>
 		</div>
@@ -147,10 +162,14 @@
 		</div>
 		
 		<p>
+		15 января 1582 года был заключен Ям-Зампольский мирный договор. Сроком на 10 лет прекращались боевые действия с обоих сторон.
+		Следующая <a href="../events/war_moscow_1610.php">война 1609-1618</a> начнется с конфликта со Швецией за эстонские земли и приведет к захвату нашими войсками московского Кремля. 
+		В память об этом событии на Красной площади поставят памятник и будут отмечать "День России". 
+		</p>
+		<p>
 		Ливонская война оказала огромное влияние на события в Восточной Европе и внутренние дела вовлечённых государств. 
 		В результате неё закончил своё существование Ливонский орден, война способствовала образованию Речи Посполитой, 
 		а Московское царство привела к экономическому упадку.
-
 		</p>
 		
 		

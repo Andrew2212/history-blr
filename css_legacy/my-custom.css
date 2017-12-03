@@ -1,0 +1,158 @@
+/*==========Body font style===================*/
+body {
+    font-family: Verdana,sans-serif;
+    color: #444;
+}
+/*==========Dividers===================================*/
+
+/*Divider vertical right for div*/
+.divider-vertical-right {
+/*height: 50px;
+margin: 0 9px;*/
+border-right: 1px solid #F2F2F2;
+}
+
+/*Divider vertical left for div*/
+.divider-vertical-left{
+border-left: 1px solid #F2F2F2;
+}
+
+/*Divider empty vertical */
+.div-empty{
+border-bottom: 1px solid #DDD;
+height: 12px;
+}
+
+/*==========Reclam right side-bar block================================*/
+.reclam-block{
+border: 1px solid #F00;
+text-align: center;
+padding-top:8px;
+padding-bottom:8px;
+}
+
+/*==========Top list================================*/
+.top-list{
+border-bottom: 1px solid #666;
+margin-bottom:12px;
+padding-bottom:8px;
+}
+
+/*==========Left sidebar new================================*/
+.left-bar-align-center{
+border-right: 1px solid #888;
+text-align: center;
+}
+
+.right-bar-align-center{
+border-left: 1px solid #888;
+text-align: center;
+}
+
+/*==========Left sidebar================================*/
+.left-bar{
+
+border-right: 1px solid #888;
+}
+
+.left-center-bar{
+height: 1000px;	
+overflow-y: auto;
+border-right: 1px solid #888;
+text-align: center;
+}
+
+
+.left-img-link{
+text-align: center;
+}
+/*==========Right sidebar================================*/
+.right-bar{
+border-left: 1px solid #888;
+}
+
+.right-center-bar{
+height: 1000px;	
+overflow-y: auto;
+border-left: 1px solid #888;
+text-align: center;
+}
+
+.right-left-bar{
+height: 1000px;	
+overflow-y: auto;
+border-left: 1px solid #888;
+text-align: left;
+}
+
+
+/*=================Item state===========================*/
+
+/*Directory item is unable*/
+.item-unable{
+color: #CCCCCC;
+}
+
+/*Directory item is edited*/
+.item-edit{
+color: #999999; 
+}
+
+/*Directory item is corrected*/
+.item-correct{
+color: #669966;
+}
+
+/*Directory item without link*/
+.item-link{
+color: #CC9966;
+}
+/*==============Images size within right sidebar================*/
+
+/*Style images within right sidebar*/
+.img-right-180{
+max-width:180px; 	
+margin-top: 0px;
+vertical-align: middle;
+}
+.img-right-120{
+max-width:120px; 	
+margin-top: 0px;
+}
+
+.img-right-100{
+max-width:100px; 	
+margin-top: 0px;
+}
+
+.img-right-80{
+max-width:80px; 	
+margin-top: 0px;
+}
+/*==================Images on pages=======================*/
+
+.img-float-left{
+	float: left; 
+	margin-right: 10px
+}
+
+.img-float-left-margin-bottom{
+	float: left; 
+	margin-bottom: 10px
+}
+
+.img-float-right{
+	float: right; 
+	margin-left: 10px
+}
+
+.img-float-center{
+	text-align: center;
+	margin-bottom: 10px
+	
+}
+
+/*================Important Dates============================*/
+.data-vip{
+	color: red;	
+}
