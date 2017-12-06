@@ -22,6 +22,13 @@
     <link href="../../css/logo-nav.css" rel="stylesheet" />
     <link href="../../css/simple-sidebar.css" rel="stylesheet" />
 	<link href="../../css/my-custom.css" rel="stylesheet" />
+	<link href="../../css/creative.css" rel="stylesheet" />
+
+	<!-- Custom Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="../../font-awesome_legacy/css/font-awesome.min.css" type="text/css">
+    
 	<!-- Favicon -->
 	<link href="../../favicon.ico" rel="shortcut icon" type="image/x-icon" />	
 
