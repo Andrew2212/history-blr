@@ -49,11 +49,24 @@
 <!-- *** Include header_navbar_title*** -->
 <? include ("../_include/include_header_navbar_title.php"); ?>	  
 	  	  	  
+<!-- ***Navbar*** -->
+<div class="navbar navbar-default " role="navigation" style="margin-top: 4px">
+  
+  	<!-- ***Container*** -->
+	<div class="container">
+    
+      	<!-- ***NavBar-Header*** Brand and toggle get grouped for better mobile display -->
+      	<div class="navbar-header">
+      		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+      		<span class="sr-only"></span> 
+	 	 	<!-- Полоски на кнопке -->
+      		<span>Разделы сайта</span> 	  
+	 		</button> 	  	  	  
+        	<!-- *** Include header_navbar_brand (logo in the left corner)*** -->
+			<? include ("../_include/include_header_navbar_brand.php"); ?> 
+		</div>
 
-<!-- *** Include header_navbar_brand (logo in the left corner)*** -->
-<? include ("../_include/include_header_navbar_brand.php"); ?>
-
-      <!-- ***Collect the nav links, forms, and other content for toggling*** -->
+      <!-- ***navbar-collapse*** -->
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	  	  
         <ul class="nav navbar-nav navbar-right">

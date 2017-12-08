@@ -8,32 +8,19 @@
 	<meta name='wmail-verification' content='bbb54a20dd76cd57' />	
 
     <!-- ***Styles*** -->
-    
-    <!--Highslade JS&CSS-->
-    <script type="text/javascript" src="../../highslide/highslide.js"></script>
-	<link rel="stylesheet" type="text/css" href="../../highslide/highslide.css" />
-	<script type="text/javascript">
-    // override Highslide settings here
-    // instead of editing the highslide.js file
-    hs.graphicsDir = '/highslide/graphics/';
-    hs.outlineType = 'rounded-white';   
-	</script>
-	
-	
 	
     <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet" />
-	<!--<link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="/css/bootstrap.css" rel="stylesheet" />
+	
     <!-- Custom CSS -->
-    <link href="css/logo-nav.css" rel="stylesheet" />
-    <link href="css/simple-sidebar.css" rel="stylesheet" />
-	<link href="css/my-custom.css" rel="stylesheet" />
-	<link href="../../css/creative.css" rel="stylesheet" />
+	<link href="/css/my-custom.css" rel="stylesheet" />
+	<link href="/css/creative.css" rel="stylesheet" />
 
 	<!-- Custom Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="../../font-awesome_legacy/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="/font-awesome_legacy/css/font-awesome.min.css" type="text/css">
     
 	<!-- Favicon -->
 	<link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />	
@@ -41,7 +28,16 @@
 </style>
 
 <!-- ***Scripts*** -->
-<script src="../../js/bootstrap.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="/highslide/highslide.js"></script>
+	<link rel="stylesheet" type="text/css" href="/highslide/highslide.css" />
+	<script type="text/javascript">
+    // override Highslide settings here
+    // instead of editing the highslide.js file
+    hs.graphicsDir = '/highslide/graphics/';
+    hs.outlineType = 'rounded-white';   
+	</script>
 
   </head>
   <!-- ***BODY*** -->
@@ -49,19 +45,31 @@
 
 <!-- ***Header*** --> 
 	<!-- *** Include header_navbar_title*** -->
-	<? include ("pages/_include/include_header_navbar_title.php"); ?>   
+	<? include ("pages/_include/include_header_navbar_title.php"); ?>  
 
-	  	  	  
-    <a class="navbar-brand" href="#">
-     <img src="img/logo.png" height="30" style="margin-top: 0px;" alt="История Беларуси" title="Home" /> 	  
-    </a> 
-    <!-- /***NavBar-Header***-->
-	</div>
+<!-- ***Navbar*** -->
+<div class="navbar navbar-default " role="navigation" style="margin-top: 4px">
+  
+  	<!-- ***Container*** -->
+	<div class="container">
+    
+      	<!-- ***NavBar-Header*** Brand and toggle get grouped for better mobile display -->
+      	<div class="navbar-header">
+      		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+      		<span class="sr-only"></span> 
+	 	 	<!-- Полоски на кнопке -->
+      		<span>Разделы сайта</span> 	  
+	 		</button> 	  	  	  
+        	<!-- *** Include header_navbar_brand (logo in the left corner)*** -->
+			<? include ("/pages/_include/include_header_navbar_brand.php"); ?> 
+		</div>
+		
+		<!-- /***NavBar-Header***-->
  
-      <!-- ***.navbar-collapse. Collect the nav links, forms, and other content for toggling*** -->
-      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    	<!-- ***.navbar-collapse. Collect the nav links, forms, and other content for toggling*** -->
+    	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
-        <ul class="nav navbar-nav navbar-right">
+        	<ul class="nav navbar-nav navbar-right">
         
           <li>
             <a href="arch-spadczyna.php">Arch-спадчына</a>
@@ -108,13 +116,13 @@
 			</a>
           </li>
           
-        </ul>
+        	</ul>
         
       </div>
       <!-- /.navbar-collapse -->
       
-    </div>
+	</div>
     <!-- /.container -->
     
-  </div>
-  <!-- /***Navbar*** -->
+</div>
+<!-- /***Navbar*** -->

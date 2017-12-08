@@ -5,6 +5,8 @@
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta name="robots" content="all" />
+	<!--***Check for MailRu finder-->
+	<meta name='wmail-verification' content='bbb54a20dd76cd57' />
 	
 	<!-- ***Favicon*** -->
 	<link rel="icon" href="favicon.ico" type="image/x-icon"/>
