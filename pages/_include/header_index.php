@@ -14,6 +14,8 @@
 	<link href="/css/bootstrap.css" rel="stylesheet" />
 	
     <!-- Custom CSS -->
+    <link href="/css/logo-nav.css" rel="stylesheet" />
+    <link href="/css/simple-sidebar.css" rel="stylesheet" />
 	<link href="/css/my-custom.css" rel="stylesheet" />
 	<link href="/css/creative.css" rel="stylesheet" />
 
@@ -40,30 +42,33 @@
 	</script>
 
   </head>
+  
   <!-- ***BODY*** -->
   <body>
 
 <!-- ***Header*** --> 
-	<!-- *** Include header_navbar_title*** -->
-	<? include ("pages/_include/include_header_navbar_title.php"); ?>  
+
+<!-- *** Include header_navbar_title*** -->
+<? include ("pages/_include/include_header_navbar_title.php"); ?> 
 
 <!-- ***Navbar*** -->
 <div class="navbar navbar-default " role="navigation" style="margin-top: 4px">
   
   	<!-- ***Container*** -->
 	<div class="container">
-    
+    	
+    	<!-- *** Include header_navbar_brand (logo in the left corner)*** -->
+		<? include ("pages/_include/include_header_navbar_brand.php"); ?> 
+			
       	<!-- ***NavBar-Header*** Brand and toggle get grouped for better mobile display -->
-      	<div class="navbar-header">
+      	<div class="navbar-header ">
       		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
       		<span class="sr-only"></span> 
 	 	 	<!-- Полоски на кнопке -->
       		<span>Разделы сайта</span> 	  
 	 		</button> 	  	  	  
-        	<!-- *** Include header_navbar_brand (logo in the left corner)*** -->
-			<? include ("/pages/_include/include_header_navbar_brand.php"); ?> 
 		</div>
-		
+
 		<!-- /***NavBar-Header***-->
  
     	<!-- ***.navbar-collapse. Collect the nav links, forms, and other content for toggling*** -->
