@@ -86,7 +86,7 @@
     <script src="../../js/bootstrap.min.js"></script>
 
     <!-- Custom Theme JavaScript -->
-    <!--script src="../../js/creative.js"></script>
+    <script src="../../js/creative.js"></script>
     
   
   <!-- ***Google Analitics*** -->
