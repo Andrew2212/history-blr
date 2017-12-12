@@ -305,7 +305,7 @@
         </li>
         <li>
           <a href="ross_empire.php">Российская империя</a>
-          br><small>от Тартарии до Московии</small>
+          <br><small>от Тартарии до Московии</small>
         </li>
         <li>
           <a href="sssr.php" class="item-edit">СССР</a>

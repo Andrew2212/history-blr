@@ -152,9 +152,9 @@
 		
 		<div class="col-md-6 img-float-center">
 		<a target="_blank" href="https://youtu.be/lvPxN2VZ8gE">
-        <img src="../../images/img-films/brothers/film_brothers_thumb.jpg" height="100"/>
-    		</br><small>Короткий ролик (73 сек)
-			</br>о дружбе народов</small>
+        <img src="../../images/img-terms/ross_empire/brothers.jpg" height="100"/>
+    		<br><small>Короткий ролик (73 сек)
+			<br>о дружбе народов</small>
 		</a>
 		</div>
 		
@@ -162,8 +162,8 @@
 		<a href="../../images/img-terms/ross_empire/growth_of_russia_1547-1725.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/ross_empire/growth_of_russia_1547-1725_thumb.jpg" height="100"/>
-			</br><small>Рост империи
-			</br>1547-1725</small>
+			<br><small>Рост империи
+			<br>1547-1725</small>
 		</a>
 		
 		</div>
@@ -183,7 +183,7 @@
 		<a href="../../images/img-terms/ross_empire/1645_russiae_blaeu.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/ross_empire/1645_russiae_blaeu_thumb.jpg" height="100"/>
-			</br><small>1645 Tabula Russiae,</br>Blaeu</small>
+			<br><small>1645 Tabula Russiae,<br>Blaeu</small>
 		</a>
 		</div>
 		
@@ -191,7 +191,7 @@
 		<a href="../../images/img-terms/ross_empire/1681_moscoviae.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/ross_empire/1681_moscoviae_thumb.jpg" height="100"/>
-			</br><small>1681 Moscoviae </br>feu Russiae Magnae</small>
+			<br><small>1681 Moscoviae <br>feu Russiae Magnae</small>
 		</a>
 		</div>
 		
@@ -199,7 +199,7 @@
 		<a href="../../images/img-terms/ross_empire/tartaria.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img src="../../images/img-terms/ross_empire/tartaria_tumb.jpg" height="100"/>
-			</br><small>1720 Asiae</small>
+			<br><small>1720 Asiae</small>
 		</a>
 		</div>
 		
@@ -207,7 +207,7 @@
 		<a href="../../images/img-terms/blr_etnos/slavic_shafarik.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img src="../../images/img-terms/blr_etnos/slavic_shafarik_thumb.jpg" height="100"/>
-			</br><small>Й. Шафарик о "русском мире", 1882</small>
+			<br><small>Й. Шафарик о "русском мире", 1882</small>
 		</a>				
 		</div>
 		

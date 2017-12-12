@@ -46,7 +46,7 @@
 			Эти люди рождались, жили, творили, сражались и умирали на <a href="../download/blr_people.php">этой земле</a> и за эту землю.
 			</br>Они достойны того, чтобы их помнили
 			</br>Среди них были <a href="hodkewich.php">воины</a> и <a href="mickiewicz.php">поэты</a>, 
-			<a href="malewicz.php">художники</a> и <a href="konenkow.php">скульпторы</a>, 
+			<a href="malewicz.php">художники</a> и <a href="../figures/dmachowski.php">скульпторы</a>, 
 			<a href="narkewicz.php">ученые</a> и <a href="przewalskij.php">путешественники</a>, 
 			 <a href="skosyrew.php">авантюристы</a> и <a href="../terms/filomaty.php">интеллектуалы-романтики</a>, 
 			 первый<a href="sudzilowskij.php"> Президент Гавайев</a> и <a href="simienowicz.php">основоположник ракетостроения</a>,

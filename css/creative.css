@@ -30,6 +30,18 @@ For the images thumbhails
     margin:8px 8px 0px;
 }
 
+.thumbInfoUnSign {
+    width: 140px;
+    height: 140px;
+    filter: none; /* IE6-9 */ 
+    -webkit-filter: grayscale(0); 
+    border-radius:5px; 
+    background-color: #fff; 
+    border: 1px solid #ddd; 
+    padding:8px; 
+    margin:8px;
+}
+
 .thumbInfo {
     width: 140px;
     height: 140px;
@@ -81,7 +93,6 @@ header .header-content {
     padding-right: 15px;
     text-align: center;
 }
-
 
 
 

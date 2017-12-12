@@ -66,6 +66,7 @@
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
         <ul class="nav navbar-nav navbar-right">
+
            <li>
             <a href="../times/_times_intro.php">Время</a>
           </li>
@@ -84,6 +85,10 @@
 		  
 		  <li>
             <a href="_places_intro.php" style="color: red">Топонимы</a>
+          </li>
+          
+          <li>
+            <a href="../../arch-spadczyna.php">Arch-спадчына</a>
           </li>
 		  
 		  <li>

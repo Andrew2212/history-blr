@@ -76,9 +76,6 @@
 
         	<ul class="nav navbar-nav navbar-right">
         
-          <li>
-            <a href="arch-spadczyna.php">Arch-спадчына</a>
-          </li>
            <li>
             <a href="pages/times/_times_intro.php">Время</a>
           </li>
@@ -97,6 +94,10 @@
 		  
 		  <li>
             <a href="pages/places/_places_intro.php">Топонимы</a>
+          </li>
+          
+          <li>
+            <a href="arch-spadczyna.php">Arch-спадчына</a>
           </li>
 		  
 		  <li>

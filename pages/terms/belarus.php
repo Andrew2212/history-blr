@@ -610,21 +610,12 @@
 	
 	<div class="col-md-16 img-float-center">
 		<a target="_blank" href="https://youtu.be/lvPxN2VZ8gE">
-        <img src="../../images/img-films/brothers/film_brothers_thumb.jpg" height="120"/>
-    		</br><small>Короткий ролик (73 сек) о дружбе народов</small>
+        <img src="../../images/img-terms/ross_empire/brothers.jpg" height="120"/>
+    		<br><small>Короткий ролик (73 сек) о дружбе народов</small>
 		</a>
 		</div>
 					
-	
-	</br></br></br>
-		<p><small>
-		be-x-old.wikipedia.org</br>
-		be.wikipedia.org</br>
-		pl.wikipedia.org</br>
-		uk.wikipedia.org</br>
-		ru.wikipedia.org</br>
-		inbelhist.org/?p=4737
-		</small></p>
+
 		
 	</div>
 	
