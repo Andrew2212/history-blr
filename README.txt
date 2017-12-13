@@ -6,11 +6,11 @@
 Картинки, чтобы не грузить ГитХаб, вынесены в архи на Гугль-диск.
 
 Скачать архив images.zip во ссылке
-https://drive.google.com/file/d/1ACTW41W5z4BjZU_AdVXpouSoo2Qs4qET/view?usp=sharing (2017/декабрь/03)
+https://drive.google.com/file/d/16BXhKb9bif4Ez4REWnInmGPWv457CQ4L/view?usp=sharing
 распаковать и заменить пустую папку www/images на полученную
 
 Скачать архив images_legacy.zip во ссылке
-https://drive.google.com/file/d/1IBvYbVOT64wTLleKcFR-DW-8TjyfhuKD/view?usp=sharing (2017/декабрь/03)
+https://drive.google.com/file/d/185mrFNrdN9lV8IdpJ3i1QbzPUK89HNQh/view?usp=sharing
 распаковать и заменить пустую папку www/images_legacy на полученную
 
 Для работы с файлами по ссылке
