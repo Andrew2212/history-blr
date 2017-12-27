@@ -55,6 +55,10 @@
            <br> <a href="/pages/arch_vitebsk/vitebsk_oswieja.php"><small>Місіянерскі касцёл Найсвяцейшай Тройцы </small></a>
          </li>
          <li>
+            Белая Царква
+           <br> <a href="/pages/arch_vitebsk/vitebsk_bielajaCarkva.php"><small>Траецкая царква Троiцкага (Белацаркоўскага) манастыра</small></a>
+         </li>
+         <li>
             Валынцы
            <br> <a href="/pages/arch_vitebsk/vitebsk_valyncy.php"><small>Дамініканскі касцёл св. Юр'я</small></a>
          </li>
@@ -83,8 +87,16 @@
            <br> <a href="/pages/arch_vitebsk/vitebsk_polatskStefan.php"><small>Езуіцкі касцёл св. Стэфана</small></a>
          </li>
          <li>
+            Селішча
+           <br> <a href="/pages/arch_vitebsk/vitebsk_seliszcza.php"><small>Бернардынскі касцёл св. Веранiкi</small></a>
+         </li>
+         <li>
+            Смаляны
+           <br> <a href="/pages/arch_vitebsk/vitebsk_smaliany.php"><small>Дамініканскі касцёл Найсвяцейшай Панны Марыі</small></a>
+         </li>
+         <li>
             Сянно
-           <br> <a href="/pages/arch_vitebsk/vitebsk_senno.php"><small>Францысканскі касцёл Св. Троiцы</small></a>
+           <br> <a href="/pages/arch_vitebsk/vitebsk_senno.php"><small>Францысканскі касцёл св. Троiцы</small></a>
          </li>
 		 <li>
             Тадулін (Янавічы)
@@ -179,6 +191,10 @@
          <li>
             Гайна
            <br> <a href="/pages/arch_mensk/mensk_hajna.php"><small>Касцёл Унебаўзяцьця Найсвяцейшай Панны Марыі</small></a>
+         </li>
+         <li>
+           Зембін
+           <br> <a href="/pages/arch_mensk/mensk_zembin.php"><small>Касцёл Унебаўзяцьця Найсвяцейшай Панны Марыі</small></a>
          </li>
          <li>
             Клецк

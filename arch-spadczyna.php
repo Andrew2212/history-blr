@@ -47,6 +47,9 @@
                     <li>
     					<a href="/pages/arch_about/allObjects.php">Галерэя</a>
   					</li>
+  					<li>
+    					<a href="/pages/arch_about/glossaryj.php">Гласарый</a>
+  					</li>
                     <li>
                         <a class="page-scroll" href="#contact">Зваротная сувязь</a>
                     </li>

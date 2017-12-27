@@ -3,2502 +3,2502 @@
 		<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
 	<loc>http://history-belarus.by/</loc>
-	<lastmod>2017-11-04T14:26:28+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/arch-spadczyna.php</loc>
-	<lastmod>2017-11-04T14:26:29+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/times/_times_intro.php</loc>
-	<lastmod>2017-11-04T14:26:30+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/_events_intro.php</loc>
-	<lastmod>2017-11-04T14:26:31+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/_figures_intro.php</loc>
-	<lastmod>2017-11-04T14:26:31+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/_terms_intro.php</loc>
-	<lastmod>2017-11-04T14:26:32+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/places/_places_intro.php</loc>
-	<lastmod>2017-11-04T14:26:33+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/articles/_articles_intro.php</loc>
-	<lastmod>2017-11-04T14:26:34+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/about/_about_intro.php</loc>
-	<lastmod>2017-11-04T14:26:34+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/download/_download_intro.php</loc>
-	<lastmod>2017-11-04T14:26:36+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/dates/_dates_intro.php</loc>
-	<lastmod>2017-11-04T14:26:36+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/blr.php</loc>
-	<lastmod>2017-11-04T14:26:36+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/articles/taler_blr.php</loc>
-	<lastmod>2017-11-04T14:26:38+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/blr_gerb.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/articles/patria_propria.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/articles/step_away.html</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/download/map_wkl.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/belarus.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/blr_etnos.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/download/blr_people.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/blr_mova.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/blr_flag.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/religion_blr.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/times/10_vek.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/_img-index/blr_10ce_etno_variag_way.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/polotsk_principality.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/belarus/polotsk_libre_saga.pdf</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/rogvolod_rogneda.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/torwald.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/times/11_vek.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/_img-index/blr_10ce_country_variag_way.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/charadzej.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/battle_nemiga.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/times/12_vek.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/_img-index/blr_12ce_country.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/yotving.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/places/litwa.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/download/shafarik.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/lutizy.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/times/13_vek.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/_img-index/blr_13ce_country.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/mindowg.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/wkl.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/places/nowogrudok.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/places/wilno.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/shwarn.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/vyten.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/gedimin.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/times/14_vek.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/_img-index/blr_14ce_country.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/olgerd.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/download/wkl_equal_etno.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/sinie_wody.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/times/15_vek.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/_img-index/blr_15ce_country.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/dukes_wkl.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/weliki_marshalok.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/weliki_kancler.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/weliki_hetman.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/war_civil_1432.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/grunwald.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/places/samogitia.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/statut.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/times/16_vek.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/_img-index/blr_16ce_country.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/rzeczpospolita.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/confederacia_warshawa.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/unia_religion_brest.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/times/17_vek.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/_img-index/blr_17ce_country.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/blood_potop.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/shliahta.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/times/18_vek.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/_img-index/blr_18ce_country.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/war_civil_1696.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/confederacyi_18vek.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/war_great_north.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/razbor_rechi.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/uprising_1794.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/times/19_vek.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/_img-index/blr_19ce_country.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/sewero_zapadny_kraj.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/ross_empire.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/war_1812.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/uprising_1863.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/filomaty.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/times/20_vek.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/_img-index/blr_20ce_country.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/bnr.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_about/allObjects.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:04+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/index.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:06+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/arch_brest/brest_bycien.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/times/_times_intro.php</loc>
+	<lastmod>2017-12-14T07:05:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/events/_events_intro.php</loc>
+	<lastmod>2017-12-14T07:05:06+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/_figures_intro.php</loc>
+	<lastmod>2017-12-14T07:05:06+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/_terms_intro.php</loc>
+	<lastmod>2017-12-14T07:05:07+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/places/_places_intro.php</loc>
+	<lastmod>2017-12-14T07:05:08+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/arch-spadczyna.php</loc>
+	<lastmod>2017-12-14T07:05:08+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/arch_brest/brest_berezaKartuz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/articles/_articles_intro.php</loc>
+	<lastmod>2017-12-14T07:05:09+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/about/_about_intro.php</loc>
+	<lastmod>2017-12-14T07:05:10+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/download/_download_intro.php</loc>
+	<lastmod>2017-12-14T07:05:10+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/dates/_dates_intro.php</loc>
+	<lastmod>2017-12-14T07:05:11+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/blr.php</loc>
+	<lastmod>2017-12-14T07:05:12+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/arch_brest/brest_haradziszcza.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/articles/taler_blr.php</loc>
+	<lastmod>2017-12-14T07:05:12+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/img/Lithvaniae_Blr.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/arch_brest/brest_imianin.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/articles/patria_propria.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/arch_brest/arch_pattern.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/articles/step_away.html</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_oswieja.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/images/_img-index/blr_13ce_country.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_valyncy.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/terms/polotsk_principality.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_druja.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/terms/wkl.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_senno.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/terms/sewero_zapadny_kraj.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_tadulin.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/terms/bnr.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_czaszniki.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_vitebsk/arch_pattern.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_harodnia/harodnia_astaszin.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_harodnia/harodnia_navgarodak.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_harodnia/arch_pattern.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_homiel/homiel_mozyr.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_homiel/arch_pattern.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_mohilew/mohilew_bobrujsk.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_mohilew/mohilew_hlusk.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_mohilew/mohilew_czausy.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_mohilew/mohilew_szklow.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_mohilew/arch_pattern.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_mensk/mensk_hajna.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_mensk/mensk_kojdanawa.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_mensk/mensk_neswiz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_mensk/mensk_stoubcy.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_about/aboutProject.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/places/sea_herodotus.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/battle_loew.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/unia_religion_italy.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images_legacy/img_brest/_brest_intro/kraj_brest.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/kalumny/1684_Litwa-Rus-Zmudz-Woewodstwa.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/yotving/jazwingi.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images_legacy/img_brest/_brest_intro/1584-RP-Litwa-Polesie.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images_legacy/img_brest/_brest_intro/Differences.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_brest/_brest_intro.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/blr_entire.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/dwina_stouns.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/efrosinia_rood.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/zemiane.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/orsha_battle.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/images/img-events/blood_potop/hmelnicky_1648-54.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/war_livonia.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/download/blr_moscow.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images_legacy/img_vitebsk/_vitebsk_intro/kraj_vitebsk.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/tur_evangelie/holy_people.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-figures/gedimin/kirkor_litwa_duces.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images_legacy/img_vitebsk/_vitebsk_intro/craft.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_vitebsk/_vitebsk_intro.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/slavs.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/batory.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/jagellony.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/kejstut.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/events/blood_potop.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/unia_krewo.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/terms/litva_baptism.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/events/unia_liublin.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/figures/jagiello.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/events/unia_religion_brest.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/figures/vitovt.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/events/uprising_1794.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/images_legacy/img_harodnia/_harodnia_intro/kraj_harodnia.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/events/uprising_1863.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/images/img-terms/wkl/terrae_prussiae.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/events/battle_polonka.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/images/img-download/deutschen_und_dachbarstamme/Litwani_Zeufs.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/events/battle_loew.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/images/img-terms/litva_baptism/1387_litva_baptism.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/events/orsha_battle.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/arch_harodnia/_harodnia_intro.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/images/img-figures/batory/title.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/terms/tur_evangelie.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/kirill_tur.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/husaria.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/wars_1487-1537.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images_legacy/img_homiel/_homiel_intro/kraj_homiel.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/tur_evangelie/tur_evangelie.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-events/wars_1487-1537/wkl_15ce.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_homiel/_homiel_intro.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images_legacy/img_mohilew/_mohilew_intro/kraj_mohilew.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-events/war_great_north//kirkor_mohilew.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-download/blr_moscow_17ce/zlotory.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/arch_mohilew/_mohilew_intro.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/download/deutschen_und_dachbarstamme.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/world_war_1.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/terms/bssr.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/places/nesviz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/zawisza.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/download/carolomachia.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/download/blr_people.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/figures/hodkewich.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/figures/zofia_sluck.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/figures/mickiewicz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/images_legacy/img_mensk/_mensk_intro/kraj_mensk.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/figures/malewicz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/images/img-terms/yotving/jotwings_podlasia.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/figures/dmachowski.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/images/img-figures/zawisza/carolomachia.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/figures/chodzko.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/images_legacy/img_mensk/_mensk_intro/MENSK-lingvo.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/figures/przewalskij.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/arch_mensk/_mensk_intro.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/figures/skosyrew.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/filomaty.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/sudzilowskij.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/simienowicz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/ryllo.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/kunciewicz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-terms/litwiny/litvin_religion.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/yotving.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/litwiny.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/download/all_peoples_RI.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/kraj_tut.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-figures/gusowsky/1539_Carta_Marina.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/blr_etnos.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/places/nalsen.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/places/litwa.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/places/samogitia.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/gudai.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/places/sea_herodotus.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-articles/holywar/title.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/articles/blr_nationalist.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/articles/belarus_belarussia.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/articles/ortodox.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/articles/dnk.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/articles/nation_id.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/articles/holywar.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-download/map_wkl/title.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/download/map_wkl.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/download/map_wkl_lotter.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/download/map_mercator.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/download/chronicles_peter.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/download/chronicles_dubnica.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/download/kirkor.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/download/shafarik.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/download/metrica_litwa.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/download/spis_voiska.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-dates/title1.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/events/battle_nemiga.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/events/grunwald.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/events/uprising_sluzk.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/belarus.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/img_legacy/title.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_harodnia/harodnia_harodniaPhara.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_mensk/mensk_menskTomasz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_brest/brest_berezaKartuz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_hlybokae.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/times/10_vek.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/_img-index/blr_10ce_etno_variag_way.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-terms/belarus/polotsk_libre_saga.pdf</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/rogvolod_rogneda.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/torwald.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/times/11_vek.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/_img-index/blr_10ce_country_variag_way.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/charadzej.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/religion_blr.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/times/12_vek.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/_img-index/blr_12ce_country.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/lutizy.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/times/13_vek.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/mindowg.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/places/nowogrudok.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/places/wilno.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/shwarn.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/vyten.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/gedimin.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/times/14_vek.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/_img-index/blr_14ce_country.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/olgerd.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/download/wkl_equal_etno.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/events/sinie_wody.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/times/15_vek.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/_img-index/blr_15ce_country.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/dukes_wkl.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/weliki_marshalok.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/weliki_kancler.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/weliki_hetman.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/events/war_civil_1432.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/statut.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/times/16_vek.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/_img-index/blr_16ce_country.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/rzeczpospolita.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/events/confederacia_warshawa.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/times/17_vek.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/_img-index/blr_17ce_country.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/shliahta.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/times/18_vek.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/_img-index/blr_18ce_country.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/events/war_civil_1696.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/events/confederacyi_18vek.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/events/war_great_north.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/events/razbor_rechi.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/times/19_vek.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/_img-index/blr_19ce_country.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/ross_empire.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/events/war_1812.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/times/20_vek.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/_img-index/blr_20ce_country.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/times/_times_intro.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/times/21_vek.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/figures/skorina.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/terms/litwiny.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/terms/blr_gerb.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/blr_flag.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/blr_entire/blr_now.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/blr_entire/blr_1430_wkl.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/blr_etnos/blr_etnos15ce.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/blr_entire/blr_Lotter_litwa_1770.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/kraj_tut/Mapa_6_gubernij_Litwy_i_Bialej_Rusi.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/download/chronicles_peter.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/blr_entire/1759_Samogitia.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-places/samogitia/1935_Litauen.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-places/samogitia/lssr_1946.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-download/LIETUVAS_KALBA.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/figures/budny.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/figures/radziwilly.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-places/samogitia/peter_text.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-figures/gedimin/kirkor_litwa_duces.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/blr_entire/zmud_pryvilej.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/blr_entire/zmud_radzivilly.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/war_civil_1381-84_1389-92.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/download/map_mercator.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/figures/svidrigailo.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/events/unia_liublin.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/figures/jagiello.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-download/map_mercator/1595_Mercator_Lithuania_blr_etno.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/blr_entire/pl_1595_Mercator_det.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-events/unia_liublin/unia_table.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-figures/kishky/polasie.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/figures/mickiewicz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/terms/blr_mova.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/figures/gusowsky.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/figures/kostiushko.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/figures/domeyko.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/figures/oginskie.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/figures/orda.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/blr_mova/signs_moscov.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-events/uprising_1863/jaska_haspadar.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/filomaty/1875_Rittih.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/filomaty/tut_kraj.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/zemie_ruskie.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-places/sea_herodotus/1575_Lafreri.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/shliahta/1697_Sarmatia.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-places/sea_herodotus/1655_lithuanie_polesie.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/blr_entire/ua_1569.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/terms/rzeczpospolita_treh_narodov.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/figures/kalinowski.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/blr_entire/ua_nalivajko.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/blr_entire/ua_hmelnicky.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/rzeczpospolita_treh_narodov/rech_treh_harodov_map.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/blr_entire/ua_1649_reestr.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/figures/ostrogski.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/figures/smotrickij.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/figures/malewicz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/events/wars_1487-1537.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-terms/blr_entire/Anneksia_SWE-1932.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/vitovt.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/war_moscow_1610.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/places/smolensk.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/uprising_1830.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-events/wars_1487-1537/wkl_15ce.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-events/battle_polonka/rzeczpospolita_Potop.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-events/razbor_rechi/razbor_rechi.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-events/uprising_1863/blr_1863.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/figures/bulak.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/figures/lastowski.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/world_war_2.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/figures/godlewski.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-figures/kunciewicz/statut_1566.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-figures/kunciewicz/sobor_ulozenie_1649.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages_bel/figures/_figures_intro.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/you.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/aleksiewicz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/vasilkovsky.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/geniusz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/duz_duszewski.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/kondratovich.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/luckiewicz_anton.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/luckiewicz_ivan.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/lesik.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/skirmunt.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/bogdanowich.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/bogushewicz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/sigismund_waza.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/poniatowski.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/woinillovicz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/gonsewsky.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/david.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/places/nalsen.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/karski.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/drozdovich.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/dunin-marzinkewicz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/kahaniec.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/konenkow.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/kmicic.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/kunciewicz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/lisowsky.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/volovicz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/kishky.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/kesgajla.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/pacy.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/sapegi.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/mineyko.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/narkewicz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/tarashkevicz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/efrosinia.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/przewalskij.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/radziwill_janusz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/rejtan.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/ryllo.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/sapega.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/szydlowski_mirskie.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/simienowicz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/download/blr_types.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/simeon.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/skosyrew.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/sudzilowskij.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/stankewicz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/tiapinsky.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/chodzko.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/shagal.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/fedorow.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/figures/kupala.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/articles/nation_id.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/book_title.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/p1_review.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/p1_rus_people.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/p1_intro.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/p2_rossiany.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/p2_review.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/p2_polen.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/p2_polenDress.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/p2_litwa.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/download/russia_blr.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/download/kirkor.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/download/map_wkl_lotter.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/slavs/brothers.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/blr_etnos/shafarik_blr_people.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/blr_etnos/slavic_shafarik.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/shliahta/Sarmatia_Sanson.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-download/blr_people_now/map_Lotter_litwa_1770.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/litwiny/smolensk_blr.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-figures/blr_polak.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/shliahta/blr_shliahta1.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/litwiny/litvin_religion.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/blr_etnos/blr_character.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/events/_events_intro.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/events/uprising_sluzk.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/war_1409-11.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/war_1512.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/war_1600.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/war_green_oak.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/events/world_war_1.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/fails.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/unia_vilno.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/unia_gorodlo.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/unia_grodno.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/events/unia_religion_italy.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/unia_krakov.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/unia_melnik.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/radziwill_janusz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/constitution_3may.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/battle_worskla.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/battle_ula.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/battle_kircholm.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/battle_klushyn.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/battle_hotin.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/events/battle_liahowiczy.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/events/battle_polonka.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages_bel/figures/_figures_intro.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/you.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/aleksiewicz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/vasilkovsky.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/geniusz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/duz_duszewski.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/kondratovich.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/luckiewicz_anton.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/luckiewicz_ivan.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/lesik.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/skirmunt.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/bogdanowich.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/bogushewicz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/kejstut.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/batory.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/sigismund_waza.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/poniatowski.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/jagellony.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/woinillovicz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/gonsewsky.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/david.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/karski.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/drozdovich.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/dunin-marzinkewicz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/zawisza.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/kahaniec.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/konenkow.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/kmicic.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/lisowsky.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/volovicz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/kishky.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/kesgajla.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/pacy.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/sapegi.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/mineyko.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/narkewicz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/tarashkevicz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/dwina_stouns.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/efrosinia.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/kirill_tur.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/rejtan.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/sapega.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/szydlowski_mirskie.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/download/blr_types.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/simeon.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/zofia_sluck.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/stankewicz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/tiapinsky.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/shagal.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/fedorow.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/figures/kupala.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/book_title.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/p1_review.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/p1_rus_people.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/p1_intro.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/p2_rossiany.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/p2_review.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/p2_polen.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/p2_polenDress.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-download/all_peoples_RI/p2_litwa.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/download/russia_blr.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-terms/slavs/brothers.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-terms/blr_etnos/shafarik_blr_people.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-terms/blr_etnos/slavic_shafarik.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-terms/shliahta/Sarmatia_Sanson.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-download/blr_people_now/map_Lotter_litwa_1770.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-terms/litwiny/smolensk_blr.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-figures/blr_polak.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-terms/shliahta/blr_shliahta1.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-terms/blr_etnos/blr_character.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/terms/_terms_intro.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/blr_entire.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/blr_heraldic.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/efrosinia_rood.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/blr_nationalists_1957.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/terms/blr_hymn.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/articles/blr_family_names.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/terms/lit_bel.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/terms/bssr.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/terms/rb.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/terms/kalumny.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/litva_baptism.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/terms/policijaWKL.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/terms/atrad_bnr.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/slavs.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/terms/vajacki_marsz.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/terms/gudai.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/terms/husaria.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/tur_evangelie.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/terms/zemiane.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/terms/jesuity.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/inkvizicija.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/west_russland.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/terms/kraj_tut.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/terms/bastards.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/terms/magdeburg_law.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/terms/blr_museum.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/articles/ortodox.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/terms/sssr.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/terms/turow_principality.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/terms/black_day.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/places/_places_intro.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/places/vowczyn.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/places/grodno.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/places/fara_grodno.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/places/wostra_brama.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/places/zyroviczy.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/places/oginski_channel.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/places/august_channel.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/places/kossowo.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/places/krevo.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/places/nesviz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/places/polotsk.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/places/sophia_sobor.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/images/img-figures/gusowsky/1539_Carta_Marina.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
+	<loc>http://history-belarus.by/pages/arch_about/allObjects.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_brest/brest_brestPannaMaryja.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_brest/brest_bycien.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_brest/brest_haradziszcza.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_brest/brest_imianin.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_brest/brest_pinsk.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_brest/arch_pattern.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_oswieja.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_valyncy.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_vitebskJozef.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_hubino.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_druja.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_orsza.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_polatskStefan.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_senno.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_tadulin.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_uszaczy.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_vitebsk/vitebsk_czaszniki.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_homiel/homiel_mozyr.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_homiel/arch_pattern.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_harodnia/harodnia_astaszin.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_harodnia/harodnia_navgarodak.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_harodnia/harodnia_slonim.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_harodnia/arch_pattern.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_mohilew/mohilew_bobrujsk.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_mohilew/mohilew_hlusk.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_mohilew/mohilew_mohilewFrancisk.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_mohilew/mohilew_czausy.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_mohilew/mohilew_szklow.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_mohilew/arch_pattern.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_mensk/mensk_hajna.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_mensk/mensk_kleck.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_mensk/mensk_kojdanawa.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_mensk/mensk_neswiz.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_mensk/mensk_sluck.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_mensk/mensk_smilowiczy.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_mensk/mensk_stoubcy.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_about/aboutProject.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images_legacy/img_brest/_brest_intro/kraj_brest.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-terms/kalumny/1684_Litwa-Rus-Zmudz-Woewodstwa.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-terms/yotving/jazwingi.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images_legacy/img_brest/_brest_intro/1584-RP-Litwa-Polesie.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images_legacy/img_brest/_brest_intro/Differences.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_brest/_brest_intro.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/download/blr_moscow.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images_legacy/img_vitebsk/_vitebsk_intro/kraj_vitebsk.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-terms/tur_evangelie/holy_people.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images_legacy/img_vitebsk/_vitebsk_intro/craft.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_vitebsk/_vitebsk_intro.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images_legacy/img_harodnia/_harodnia_intro/kraj_harodnia.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-terms/wkl/terrae_prussiae.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-download/deutschen_und_dachbarstamme/Litwani_Zeufs.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-terms/litva_baptism/1387_litva_baptism.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_harodnia/_harodnia_intro.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images_legacy/img_homiel/_homiel_intro/kraj_homiel.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-terms/tur_evangelie/tur_evangelie.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_homiel/_homiel_intro.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images_legacy/img_mohilew/_mohilew_intro/kraj_mohilew.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-events/war_great_north//kirkor_mohilew.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-download/blr_moscow_17ce/zlotory.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_mohilew/_mohilew_intro.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/download/deutschen_und_dachbarstamme.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/terms/bssr.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/download/carolomachia.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images_legacy/img_mensk/_mensk_intro/kraj_mensk.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-terms/yotving/jotwings_podlasia.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images/img-figures/zawisza/carolomachia.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/images_legacy/img_mensk/_mensk_intro/MENSK-lingvo.jpg</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/arch_mensk/_mensk_intro.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/articles/_articles_intro.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/articles/blr_nationalist.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/articles/rus_mir.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/articles/bnr_article.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/articles/essay.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/articles/blr_context.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/articles/belarus_belarussia.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/articles/old_bel_shliahta.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/articles/book_mova.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/articles/bonda.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/articles/tawarystwa_amatarau_kazak.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/articles/holywar.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/articles/Blr_VS_Litva.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/articles/arlow_nezaleznasc.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/articles/dnk.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/articles/zwarot.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://history-belarus.by/pages/articles/mova_standarts.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/articles/genealogy_of_rus.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/about/_about_intro.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://history-belarus.by/pages/whatfor/_whatfor_intro.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<loc>http://history-belarus.by/pages/about/whatfor.php</loc>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-about/peter_text.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-about/legioner.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/about/readme.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/about/list_for_Alexander.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/download/_download_intro.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/statut_wkl.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/chronicles.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/download/metrica_litwa.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/download/spis_voiska.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/download/all_peoples_RI.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/spis_1863.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/zbor_shliahty.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/shliahta_zmud.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/letopis_radziwil.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/kraina_blr.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/spis_swidrigailo.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/chronica_bielskiego.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/pages/download/chronicles_dubnica.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/atlas_historyczny_sage.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/monet_blr.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/map_ptolemy.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/map_ebstorf.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/blr_atlas.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/kartografia_wkl.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/litva_cronicles.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/alba_ruthenia.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/map_15century.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/map_16century.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/map_17century.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/map_18century.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/map_radziwill.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/download/map_sweden.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-download/map_radziwill.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/dates/_dates_intro.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/dates/january.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/dates/february.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/dates/march.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/dates/april.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/dates/may.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/dates/june.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/dates/july.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/dates/august.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/dates/september.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/dates/october.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/dates/november.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages/dates/december.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/terms/blr_gerb.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/articles/patria_propria.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/articles/step_away.html</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/download/map_wkl.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/terms/belarus.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/terms/blr_etnos.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/terms/religion_blr.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/times/10_vek.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/download/blr_people.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/terms/polotsk_principality.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/figures/rogvolod_rogneda.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/times/11_vek.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/figures/charadzej.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/events/battle_nemiga.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/events/war_civil_1432.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/events/grunwald.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/places/samogitia.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/terms/statut.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/times/20_vek.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/pages_bel/terms/bnr.php</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/talerOneHang.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/ruins.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/talersAll.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/talerSmall.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/talerBigSilver.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/talerBig.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/TalerCard.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/henseGod.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/us_marshal.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/tallinn.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/talerUsage.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/talerCoins.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/legacy.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/neswizLenin.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/souvenirs.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/talerOne.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/talertTempStamp.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>http://history-belarus.by/images/img-articles/taler_blr/1559_gross_Sigizmund.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-articles/taler_blr/M-D-Litva_1569-1795.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-articles/taler_blr/M-D-L___Ligatura.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-articles/taler_blr/1660_boratinki.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-articles/taler_blr/vitrina.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-articles/taler_blr/herb_four_monet.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/blr_gerb/grodno_harugva.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/kalumny/1584_herbMinskVitebsk.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/kalumny/1597_MartinChronicaBookPogoniaKalumny.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/kalumny/1597_MartinChronicaBookMinskZmud.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-articles/taler_blr/2011_Capitalist%20Digital.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-articles/taler_blr/2007_banknote.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-articles/taler_blr/1993_banknote.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-articles/taler_blr/1993_blr.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-articles/taler_blr/criptoTaler.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-articles/taler_blr/archStub.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/blr_gerb/Pagonia_BelArt.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/blr_gerb/1645_POGONIA_Orbis%20Polonus.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-figures/vyten/viten_pogonia.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-download/shafarik/velety.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/blr_gerb/BogislawI_Siegel.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-terms/lutizy/lutizy.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-events/grunwald/dligosz.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>http://history-belarus.by/images/img-download/atlas_historyczny_sage/1844_herby.jpg</loc>
-	<lastmod>2017-11-04T14:26:39+01:00</lastmod>
+	<lastmod>2017-12-14T07:05:13+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 </urlset>

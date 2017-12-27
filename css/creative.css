@@ -14,8 +14,8 @@ For the images thumbhails
     border-radius:5px; 
     background-color: #fff; 
     border: 1px solid #ddd; 
-    padding:8px; 
-    margin:8px;
+    padding:4px; 
+    margin:4px;
 }
 
 .thumb {
@@ -26,8 +26,8 @@ For the images thumbhails
     border-radius:5px; 
     background-color: #fff; 
     border: 1px solid #ddd; 
-    padding:8px; 
-    margin:8px 8px 0px;
+    padding:4px; 
+    margin:4px 4px 0px;
 }
 
 .thumbInfoUnSign {
@@ -38,20 +38,20 @@ For the images thumbhails
     border-radius:5px; 
     background-color: #fff; 
     border: 1px solid #ddd; 
-    padding:8px; 
-    margin:8px;
+    padding:4px; 
+    margin:4px;
 }
 
 .thumbInfo {
-    width: 140px;
-    height: 140px;
+    width: 160px;
+    height: 160px;
     filter: none; /* IE6-9 */ 
     -webkit-filter: grayscale(0); 
     border-radius:5px; 
     background-color: #fff; 
     border: 1px solid #ddd; 
-    padding:8px; 
-    margin:8px 8px 0px;
+    padding:4px; 
+    margin:4px 4px 0px;
 }
 
 /* Text font into body */
@@ -93,6 +93,5 @@ header .header-content {
     padding-right: 15px;
     text-align: center;
 }
-
 
 
