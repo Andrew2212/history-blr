@@ -173,6 +173,10 @@
            <br> <a href="/pages/arch_mohilew/mohilew_mohilewFrancisk.php"><small>Касцёл св. Францыска Ксаверыя і Анёлаў-Ахоўнікаў</small></a>
          </li>
          <li>
+            Мсціслаў
+           <br> <a href="/pages/arch_mohilew/mohilew_mscislau.php"><small>Езуiцкі касцёл Св. Міхаіла Арханёла</small></a>
+         </li>
+         <li>
             Чавусы
            <br> <a  href="/pages/arch_mohilew/mohilew_czausy.php"><small>Касцёл кармэлітаў</small></a>
          </li>

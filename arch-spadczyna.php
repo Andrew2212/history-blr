@@ -527,12 +527,12 @@
                 </div>
                 
                 <div class="col-lg-3 col-sm-6 col-md-6 img-float-center">
-                    <a href="/pages/arch_mohilew/mohilew_czausy.php" class="portfolio-box" >
-                        <img src="images_legacy/img_mohilew/czausy/czausy_index.jpg"  class="img-responsive image-thumb_archIndex" alt="Чавусы: Касцёл кляштару кармэлітаў" >
+                    <a href="/pages/arch_mohilew/mohilew_mscislau.php" class="portfolio-box" >
+                        <img src="images_legacy/img_mohilew/mscislau/mscislau_index.jpg"  class="img-responsive image-thumb_archIndex" alt="Мсціслаў, Езуiцкі касцёл Св. Міхаіла Арханёла" >
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Чавусы: Касцёл кляштару кармэлітаў
+                                    Мсціслаў: Езуiцкі касцёл Св. Міхаіла Арханёла
                                 </div>
                             </div>
                         </div>
