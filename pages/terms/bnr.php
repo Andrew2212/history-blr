@@ -31,20 +31,23 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
     
-		<h1>1918-1919 Белорусская Народная Республика </h1>
+		<h1>1918-1919 БНР
+		<br><small>хронология событий 1914-1922</small>
+		</h1>
 		
+		<h2>Белорусская Народная Респулика</h2>
 		<p>
 		<i>
 		"Няхай жыве магутны, сьмелы
-		</br>Наш беларускі вольны дух.
-		</br>Штандар наш бел-чырвона-белы,
-		</br>Пакрый сабой народны рух."
+		<br>Наш беларускі вольны дух.
+		<br>Штандар наш бел-чырвона-белы,
+		<br>Пакрый сабой народны рух."
 		</i>
-		</br><small>Строки из гимна БНР "Ваяцкі марш" </small>
+		<br><small>Строки из гимна БНР <a href="../terms/vajacki_marsz.php">"Ваяцкі марш"</a> </small>
 		</p>
 		<p>
 		<i>"Белоруссия в <a href="../download/blr_people.php">границах расселения</a> и численного преобладания <a href="blr_etnos.php">белорусского народа</a> провозглашается Народной Республикой."</i>
-		</br><small> 2-я Уставная Грамота Рады БНР</small>
+		<br><small> 2-я Уставная Грамота Рады БНР</small>
 		</p>
 		
 	<div class="col-md-12">
@@ -53,14 +56,14 @@
 		<a href="../../images/img-terms/bnr/map_bnr.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/map_bnr_thumb.jpg" height="120">
-			</br><small>БНР 1918</small>
+			<br><small>БНР 1918</small>
 			</a>
 		</p>
 		<p class="img-float-right">
 		<a href="../../images/img-terms/bnr/postcard_bnr.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/postcard_bnr_thumb.jpg" height="120">
-			</br><small>Герб БНР </small>
+			<br><small>Герб БНР </small>
 			</a>
 		</p>
 		
@@ -68,10 +71,10 @@
 		
 		<p>
 		Белорусская Народная Республика — государство, объявленное на территории Беларуси 25 марта 1918 года. 
-		</br>Главным руководящим органом являлась Рада БНР.
-		</br>Государственная и обязательный язык: белорусский.
-		</br>Место заседаний правительства: Минск, Гродно (с декабря 1918).
-		</br><a href="../events/uprising_sluzk.php">Слуцки Збройны чын</a> 1920 года — продолжение истории БНР.
+		<br>Главным руководящим органом являлась Рада БНР.
+		<br>Государственная и обязательный язык: белорусский.
+		<br>Место заседаний правительства: Минск, Гродно (с декабря 1918).
+		<br><a href="../events/uprising_sluzk.php">Слуцки Збройны чын</a> 1920 года — продолжение истории БНР.
 		</p>
 		
 	</div>
@@ -129,7 +132,7 @@
 			<a href="../../images/img-terms/bnr/BNR_Third_charter.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/BNR_Third_charter_thumb.jpg" height="100">
-			</br><small>Уставная Грамота Рады БНР </small>
+			<br><small>Уставная Грамота Рады БНР </small>
 			</a>
 			</div>
 			
@@ -137,7 +140,7 @@
 		<a href="../../images/img-terms/bnr/bnr_mission.jpg" class="highslide"
         onclick="return hs.expand(this)">
 		<img alt="Слуцки збройны чын" src="../../images/img-terms/bnr/bnr_mission_thumb.jpg" height="100" >
-		</br><small>Вайскова- Дыплёматычная мисыя БНР</small>
+		<br><small>Вайскова- Дыплёматычная мисыя БНР</small>
 		</a>
 		</div>
 			
@@ -146,7 +149,7 @@
 			<a href="../../images/img-terms/blr_flag/blr_rada.jpg" class="highslide"
        		 onclick="return hs.expand(this)">
 			<img alt="Флаг Беларуси БЧБ" src="../../images/img-terms/blr_flag/blr_rada_thumb.jpg" height="100">
-			</br><small>БНР, Минск </small>
+			<br><small>БНР, Минск </small>
 			</a>
 			</div>
 			
@@ -154,7 +157,7 @@
 			<a href="../../images/img-terms/blr_flag/blr_grodno.jpg" class="highslide"
        		 onclick="return hs.expand(this)">
 			<img alt="Флаг Беларуси БЧБ" src="../../images/img-terms/blr_flag/blr_grodno_thumb.jpg" height="100">
-			</br><small>БНР, Гродно</small>
+			<br><small>БНР, Гродно</small>
 			</a>
 			</div>
 
@@ -200,7 +203,7 @@
 			<a href="../../images/img-terms/bnr/rada.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/rada_thumb.jpg" height="100">
-			</br><small>Народный секретариат БНР</small>
+			<br><small>Народный секретариат БНР</small>
 			</a>
 			</div>
 			
@@ -208,7 +211,7 @@
 			<a href="../../images/img-figures/lastowski/lastowski.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img alt="Вацлав Ластовский" src="../../images/img-figures/lastowski/lastowski.jpg" height="100" >
-			</br><small>Вацлав Ластовский</small>
+			<br><small>Вацлав Ластовский</small>
 			</a>
 			</div>
 			
@@ -216,7 +219,7 @@
 			<a href="../../images/img-figures/bulak/bulak-balahowicz.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img alt="Белорусская Народная Республика БНР" src="../../images/img-figures/bulak/bulak-balahowicz_thumb.jpg" height="100" >
-			</br><small>Станислав Булак-Балахович</small>
+			<br><small>Станислав Булак-Балахович</small>
 			</a>
 			</div>
 			
@@ -225,7 +228,7 @@
 			<a href="../../images/img-figures/kondratowich/kandratovic_1906.jpg" class="highslide"
         onclick="return hs.expand(this)">
 			<img alt="Кондратович Киприан" src="../../images/img-figures/kondratowich/kandratovic_1906_thumb.jpg" height="100" >
-			</br><small>Киприан Кондратович</small>
+			<br><small>Киприан Кондратович</small>
 			</a>
 			</div>
 			
@@ -236,38 +239,26 @@
 		Во вновь сложившемся на ее руинах <a href="sssr.php">СССР</a> проживало более 200 народов и было всего 15 Союзных Республик. 
 		Только благодаря провозглашению БНР была создана <a href="bssr.php">БССР</a> — одна из этих 15. 
 		</p>
-		
-<!--Spoiler-->
-<!--http://forwebmaster.net/prostoy-spoyler-dlya-sayta-v-html/-->
-<div class="spoil">
-	
-	<p>
-	<div class="smallfont">
-	<h3>Границы Беларуси 1914-1946 гг</h3>
-	
-	<input type="button" class="btn btn-info btn-sm" value="Показать / Скрыть" class="input-button" 
-	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Показать / Скрыть'; }">
-	</p>
-
-</div>
-
-<div class="alt2">
-<div style="display: none;">
 
 
+<h3>Границы Беларуси 1914-1946 гг</h3>		
+<!-- ***Spoiler*** -->
+<? include ("../_include/_include_spoiler-Start.php"); ?>
+<!-- ***_include_spoiler-Start*** -->	
 
 	<!-- ***blr_entire *** -->
   	<? include ("../_include/include_Blr_border_1914-1946.php"); ?>
-
-
-<div class="col-md-12 top-list">
-<!--It's just line-->
-</div>    
-      
-</div>
-</div>
-</div>	
+  	
+<!-- ***_include_spoiler-End*** -->
+<? include ("../_include/_include_spoiler-End.php"); ?>	
 <!--/Spoiler-->
+
+
+<h2>Хронология событий 1914-1922
+<br><small>от начала Первой Мировой до образования СССР</small>
+</h2>
+<!-- ***include BNR_chrono_1914-22*** -->
+<? include ("../_include/include_BNR_chrono_1914-22.php"); ?>
 
 		<h3>Могла ли БНР удержаться?</h3>
 
@@ -326,21 +317,21 @@
 			<div class=" col-md-4 ">
 			<a href="../../images/img-terms/bnr/dzen_voli.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/dzen_voli_thumb.jpg" height="100">
+			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/dzen_voli_thumb.jpg" class="thumb">
 			</a>
 			</div>
 			
 			<div class=" col-md-4 ">
 			<a href="../../images/img-terms/bnr/dzen_voli2.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/dzen_voli2_thumb.jpg" height="100">
+			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/dzen_voli2_thumb.jpg" class="thumb">
 			</a>
 			</div>
 			
 			<div class=" col-md-4 ">
 			<a href="../../images/img-terms/bnr/dzen_voli3.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/dzen_voli3_thumb.jpg" height="100">
+			<img alt="Белорусская Народная Республика БНР" src="../../images/img-terms/bnr/dzen_voli3_thumb.jpg" class="thumb">
 			</a>
 			</div>
 			
@@ -351,18 +342,13 @@
 				
 		
 		
-		</br></br></br>
+		<br><br><br>
 		<p><small>
-		http://inbelhist.org/mogla-li-bnr-uderzhatsya/</br>
-		http://www.belaruspartisan.org/blogs/cajcyc/15492/</br>
-		http://nn.by/?c=ar&i=52932</br>
-		http://gazetaby.com/cont/art.php?sn_nid=20092</br>
-		be-x-old.wikipedia.org</br>
-		be.wikipedia.org</br>
-		pl.wikipedia.org</br>
-		uk.wikipedia.org</br>
-		ru.wikipedia.org</br>
-		inbelhist.org/?p=4737
+		http://inbelhist.org/mogla-li-bnr-uderzhatsya/<br>
+		http://www.belaruspartisan.org/blogs/cajcyc/15492/<br>
+		http://nn.by/?c=ar&i=52932<br>
+		http://gazetaby.com/cont/art.php?sn_nid=20092<br>
+
 		</small></p>
 	</div>
 	

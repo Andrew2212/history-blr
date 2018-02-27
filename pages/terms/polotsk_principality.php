@@ -7,9 +7,10 @@
  	<title>Полоцкое княжество</title>
 
 <!-- ***Meta*** -->
-    <meta name="description" content="Полоцкое княжество. История от Рогволода до Гедимина. Истоки государственности на белорусских землях
+    <meta name="description" content="Полоцкое княжество. Хронология событий от Рогволода до Гедимина — истоки государственности на белорусских землях, княжеские династии,
+    христианство и язычесвто, Двинские камни и Полочцкая София.
 	" />
-    <meta name="keywords" itemprop="keywords" content="полоцкое княжество, 
+    <meta name="keywords" itemprop="keywords" content="полоцкое княжество, Двинские камни, княжеские династии, Полоцк-ВКЛ, история Полоцкого княжества, Всеслав Чародей.
 	 Беларусь, белорусский этнос, религия в Беларуси, белорусы, краткая история Беларуси, история Беларуси, история Белоруссии, История беларуси кратко в датах" />
 	<meta property="og:image" content="http://history-belarus.by/images/img-terms/polotsk_principality/title.jpg" />
 
@@ -20,7 +21,7 @@
   <div class="container-fluid">
   
 
-      <!-- ***Sidebar Left - include CurrentDir*** -->
+<!-- ***Sidebar Left - include CurrentDir*** -->
 <? include ("../_include/dir_terms.php"); ?>
 
 	
@@ -35,15 +36,15 @@
 		<p class="img-float-left">
 		<a href="../../images/img-terms/belarus/polotsk_global.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/img-terms/belarus/polotsk_global_thumb.jpg" height="120">
-		</br><small>Полоцкое княжество</small>
+		<img alt="Полоцкое княжество, История Беларуси" src="../../images/img-terms/belarus/polotsk_global_thumb.jpg" class="thumbInfo">
+		<br><small>Полоцкое княжество</small>
 		</a>
 		</p>
 		<p class="img-float-right">
 		<a href="../../images/img-terms/polotsk_principality/monet_rb.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Полоцкое княжество" src="../../images/img-terms/polotsk_principality/monet_rb_thumb.jpg" height="120">
-		</br><small>Памятная монета, РБ</small>	
+		<img alt="Полоцкое княжество, Памятная монета, РБ" src="../../images/img-terms/polotsk_principality/monet_rb_thumb.jpg" class="thumbInfo">
+		<br><small>Памятная монета, РБ</small>	
 		</a>
 		</p>
 		
@@ -87,71 +88,51 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/_img-index/blr_10ce_etno_variag_way.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Полоцкое княжество" src="../../images/_img-index/blr_10ce_etno_variag_way_thumb.jpg" height="100">
-		</br><small>Племенные союзы</small>
+		<img alt="Полоцкое княжество, Племенные союзы" src="../../images/_img-index/blr_10ce_etno_variag_way_thumb.jpg" class="thumb">
+		<br><small>Племенные союзы</small>
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/religion_blr/viking expeditions.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Полоцкое княжество" src="../../images/img-terms/religion_blr/viking expeditions_thumb.jpg" height="100">
-		</br><small>Экспедиции викингов </small>	
+		<img alt="Полоцкое княжество, Экспедиции викингов" src="../../images/img-terms/religion_blr/viking expeditions_thumb.jpg" class="thumb">
+		<br><small>Экспедиции викингов </small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/polotsk_principality/rus_towns.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Полоцкое княжество" src="../../images/img-terms/polotsk_principality/rus_towns_thumb.jpg" height="100">
-		</br><small>"Города руские", 862</small>	
+		<img alt="Полоцкое княжество, Города руские 862" src="../../images/img-terms/polotsk_principality/rus_towns_thumb.jpg" class="thumb">
+		<br><small>"Города руские", 862</small>	
 		</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-places/sea_herodotus/1550_Munster_Poloniae_et_vngariae.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-places/sea_herodotus/1550_Munster_Poloniae_et_vngariae_thumb.jpg" height="100">
-		</br><small>Море Геродота, 1550 S.Munster, 1550</small>				
+		<img alt="Полоцкое княжество, Море Геродота" src="../../images/img-places/sea_herodotus/1550_Munster_Poloniae_et_vngariae_thumb.jpg" class="thumb">
+		<br><small>Море Геродота, 1550 S.Munster, 1550</small>				
 		</a>
 		</div>
 		
 	</div>
-	
- <!--Spoiler-->
-<!--http://forwebmaster.net/prostoy-spoyler-dlya-sayta-v-html/-->
-<div class="spoil">
-	
+
+	<h3>Забавные факты</h3>	
+ <!--Spoiler-Start-->
+<? include ("../_include/_include_spoiler-Start.php"); ?>
 	<p>
-	<div class="smallfont">
-	<i>* Забавные факты</i>
-	
-	<input type="button" class="btn btn-info btn-sm" value="Показать / Скрыть" class="input-button" 
-	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Показать / Скрыть'; }">
-	</p>
-
-</div>
-
-<div class="alt2">
-<div style="display: none;">
-
-<div class="col-md-12 top-list">
-<!--It's just line-->
-</div>
-
-<h3>
-Это интересно знать
-</h3>
-<p>
 	<ul>
 		<li>
-		Восточная граница Полоцкого княжества является самой старой <a href="../terms/blr_entire.php">границей Беларуси</a>. Сегодня, спустя 1000 лет, она проходит по тем же местам
+		Восточная граница Полоцкого княжества является самой старой <a href="../terms/blr_entire.php">границей Беларуси</a>. 
+		Сегодня, спустя 1000 лет, она проходит по тем же местам
 		</li>
-		</br>
+		<br>
 		<li>
 		За эту 1000 лет свыше 90% <a href="../terms/blr_entire.php">войн с соседними государствами</a> адбылося на восточной границе.
 		</li>
-		</br>
+		<br>
 		<li>
 		До XIX века в академических круга бытовало твердое убеждение, что по этой границе 
 		(плюс-минус <a href="../places/smolensk.php">Смоленск</a>) проходит разделение между
@@ -159,20 +140,13 @@
 		<a href="../download/all_peoples_RI.php">"Описании всех обитающих в Российском государстве народов"</a> 1799 года Императорской Академии наук.
 		</li>
 	</ul>
-</p>
+	</p>
 
-
-
-<div class="col-md-12 top-list">
-<!--It's just line-->
-</div>    
-      
-</div>
-</div>
-</div>	
+ <!--Spoiler-End-->
+<? include ("../_include/_include_spoiler-End.php"); ?>	
 <!--/Spoiler-->
 		
-		<h3>X век</h3>
+		<h2>X век</h2>
 		<p>
 		Полоцкое княжество быстро отпало от предполагаемого "древнерусского государства".
 		</p>
@@ -205,49 +179,49 @@
 		Согласно исландской саге "Прядь о Торвальде Путешественнике" Торвальд похоронен <i>"в горе у церкви Иоанна и почитается как святой"</i>.
 		</p>
 		
-	<div class="col-md-12">	
+	<div class="col-md-12 img-float-center">	
 	
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/_img-index/blr_10ce_variag_vay.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Полоцкое княжество" src="../../images/_img-index/blr_10ce_variag_vay_thumb.jpg" height="100">
-		</br><small>Путь из варяг в греки</small>
+		<img alt="Полоцкое княжество, уть из варяг в греки" src="../../images/_img-index/blr_10ce_variag_vay_thumb.jpg" class="thumb">
+		<br><small>Путь из варяг в греки</small>
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/_img-index/blr_10ce_country_variag_way.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Полоцкое княжество" src="../../images/_img-index/blr_10ce_country_variag_way_thumb.jpg" height="100">
-		</br><small>Полоцкое княжество X-XI вв</small>
+		<img alt="Полоцкое княжество X-XI вв" src="../../images/_img-index/blr_10ce_country_variag_way_thumb.jpg" class="thumb">
+		<br><small>Полоцкое княжество X-XI вв</small>
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/polotsk_principality/Izjaslaw_Rahnieda.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Полоцкое княжество" src="../../images/img-terms/polotsk_principality/Izjaslaw_Rahnieda_thumb.jpg" height="100">
-		</br><small>Изяслав, Рогнеда
-		 </br>г. Заславль 987</small>	
+		<img alt="Полоцкое княжество, Изяслав, Рогнеда" src="../../images/img-terms/polotsk_principality/Izjaslaw_Rahnieda_thumb.jpg" class="thumb">
+		<br><small>Изяслав, Рогнеда
+		 <br>г. Заславль 987</small>	
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/religion_blr/saga_torwald.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Путь из варяг в греки" src="../../images/img-terms/religion_blr/saga_torwald_thumb.jpg" height="100">
-		</br><small>Сага о крещении</small>
+		<img alt="Полоцк, Путь из варяг в греки, Сага о крещении" src="../../images/img-terms/religion_blr/saga_torwald_thumb.jpg" class="thumb">
+		<br><small>Сага о крещении</small>
 		</a>
 		</div>
 		
 	</div>
 		
-		<h3>XI век</h3>
+		<h2>XI век</h2>
 		
 		<p>
 		Век расцвета княжества. 
 		</p>
-		<h4>1003-1044 княжение Брячеслава</h4>
+		<h3>1003-1044 княжение Брячеслава</h3>
 		<p>
 		Брячеслав, сына Изяслава. Присоединил земли между Западной Двиной и Десной, где основал город Браслав. 
 		</p>
@@ -263,7 +237,7 @@
 		
 		<p>
 		<a target=_blank" href="http://norse.ulver.com/src/konung/eymund/ru2.html">"Сага об Эймунде"</a>
-		 <small></br><i>"Тогда затрубили сбор, и было всем объявлено, что Господыня Ингигерда хочет говорить с Конунгом и его людьми. Когда собрались люди, мужи увидели, 
+		 <small><br><i>"Тогда затрубили сбор, и было всем объявлено, что Господыня Ингигерда хочет говорить с Конунгом и его людьми. Когда собрались люди, мужи увидели, 
 		что Господыня Ингигерда находится в Нордманнской дружине Конунга Эймунда. В тоже время обнародовано от имени Конунга Вартилафа (Брячеслава), 
 		что Господыня будет творить (мир)... Она сказала Конунгу Ярислейфу (Ярославу), что ему держать вперед самую важную часть Гардарика, 
 		то есть Гольмгард (Новгород), а Вартилафу владеть Кунигардом (Киевом), другою лучшею частью всех владений, с податями и сборами, — 
@@ -272,52 +246,54 @@
 		</i></small>
 		</p>
 		
-	<div class="col-md-12">
+	<div class="col-md-12 img-float-center">
 				
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/polotsk_principality/saga_ditrek.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/polotsk_principality/saga_ditrek_thumb.jpg" height="100">
-		</br><small>А. Н. Веселовский о Полоцке</small>	
+		<img alt="Полоцкое княжество, Веселовский о Полоцке" src="../../images/img-terms/polotsk_principality/saga_ditrek_thumb.jpg" class="thumb">
+		<br><small>А. Н. Веселовский о Полоцке</small>	
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/polotsk_principality/about_Polotsk_duces.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/polotsk_principality/about_Polotsk_duces_thumb.jpg" height="100">
-		</br><small>Рогволодовичи vs Ярославичи</small>	
+		<img alt="Полоцкое княжество? Рогволодовичи vs Ярославичи" src="../../images/img-terms/polotsk_principality/about_Polotsk_duces_thumb.jpg" class="thumb">
+		<br><small>Рогволодовичи vs Ярославичи</small>	
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/polotsk_principality/briaczeslaw.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Полоцкое княжество" src="../../images/img-terms/polotsk_principality/briaczeslaw_thumb.jpg" height="100">
-		</br><small>Князь Брячеслав (1003-1044)
-		</br> г. Браслав 1065</small>	
+		<img alt="Полоцкое княжество Князь Брячеслав (1003-1044), г. Браслав 1065" src="../../images/img-terms/polotsk_principality/briaczeslaw_thumb.jpg" class="thumb">
+		<br><small>Князь Брячеслав (1003-1044)
+		<br> г. Браслав 1065</small>	
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/polotsk_principality/Polatsk-Cathedral_of_Sophia.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Полоцкое княжество" src="../../images/img-terms/polotsk_principality/Polatsk-Cathedral_of_Sophia_thumb.jpg" height="100">
-		</br><small>Полоцк 
-		</br>Софийский собор 1030-50</small>	
+		<img alt="Полоцкое княжество Софийский собор 1030-50" src="../../images/img-terms/polotsk_principality/Polatsk-Cathedral_of_Sophia_thumb.jpg" class="thumb">
+		<br><small>Полоцк 
+		<br>Софийский собор 1030-50</small>	
 		</a>
 		</div>
 		
 	</div>
 		
-		<h4>1044-1101 княжение Всеслава "Чародея"</h4>
+		<h3>1044-1101 княжение Всеслава "Чародея"</h3>
 		
 		<p>
-		<a href="../figures/charadzej.php">Всеслав, сын Брячеслава</a>. Пожалуй, самый известный князь Полоцкий. Его долгое княжение (57 лет) отмечено завершением строительства Полоцкого 
-		<a href="../places/sophia_sobor.php">Софийского собора</a> (1030-60). Примечателен также как герой «Слова о полку Игореве» и восточнославянского фольклора.
+		<a href="../figures/charadzej.php">Всеслав, сын Брячеслава</a>. Пожалуй, самый известный князь Полоцкий. 
+		В свое долгое княжение (57 лет) он — оставаясь язычником-колдуном и не будучи причисленным к лику святых, — завершил строительства Полоцкого 
+		<a href="../places/sophia_sobor.php">Софийского собора</a> (1030-60). Примечателен также как герой «Слова о полку Игореве» 
+		и восточнославянского фольклора.
 		</p>
 		<p>
-		Он продолжил традицию противостояния Ярославичей и Рогволодовичей — в 1065 году держал в осаде Псков и разграбил Новгород. 
+		Всеслав продолжил традицию противостояния Ярославичей и Рогволодовичей — в 1065 году держал в осаде Псков и разграбил Новгород. 
 		Против него выступили совместно правившие трое Ярославичей — Изяслав Киевский, Святослав Черниговский и Всеволод Переяславский. Они направились на Минск. 
 		Войска Ярославичей и Всеслава сошлись на реке Немиге.
 		</p>
@@ -326,43 +302,44 @@
 		По итогам битвы Всеслав Чародей был приглашен на переговоры, пленен, освобожден киевским вече и избран киевским князем.
 		</p>
 		<p>
-		Княжение Всеслава было наивысшей точкой расцвета Полоцкого княжества. Ещё при жизни он разделил полоцкую землю между своими сыновьями, которые, в свою очередь, поделили полоцкие уделы между своими детьми.
+		Княжение Всеслава было наивысшей точкой расцвета Полоцкого княжества. Ещё при жизни он разделил полоцкую землю между своими сыновьями, 
+		которые, в свою очередь, поделили полоцкие уделы между своими детьми.
 		</p>
 	
-	<div class="col-md-12">
+	<div class="col-md-12 img-float-center">
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/polotsk_principality/useslaw.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Полоцкое княжество" src="../../images/img-terms/polotsk_principality/useslaw_thumb.jpg" height="100">
-		</br><small>Князь Всеслав "Чародей" (1044-1101)</small>	
+		<img alt="Полоцкое княжество, Князь Всеслав Чародей" src="../../images/img-terms/polotsk_principality/useslaw_thumb.jpg" class="thumb">
+		<br><small>Князь Всеслав "Чародей" (1044-1101)</small>	
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/polotsk_principality/minsk.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Полоцкое княжество" src="../../images/img-terms/polotsk_principality/minsk_thumb.jpg" height="100">
-		</br><small>Битва на Немиге
-		</br>г. Минск 1067</small>	
+		<img alt="Полоцкое княжество, Битва на Немиге" src="../../images/img-terms/polotsk_principality/minsk_thumb.jpg" class="thumb">
+		<br><small>Битва на Немиге
+		<br>г. Минск 1067</small>	
 		</a>
 		</div>
 		
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-events/battle_nemiga/tale_of_igor.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-events/battle_nemiga/tale_of_igor_thumb.jpg" height="100">
-		</br><small>"Слово о полку Игореве",
-		</br>Битва на Немиге 1067</small>
+		<img alt="Полоцкое княжество, Битва на Немиге 1067, Слово о полку Игореве" src="../../images/img-events/battle_nemiga/tale_of_igor_thumb.jpg" class="thumb">
+		<br><small>"Слово о полку Игореве",
+		<br>Битва на Немиге 1067</small>
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/polotsk_principality/geraldic.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Полоцкое княжество" src="../../images/img-terms/polotsk_principality/geraldic_thumb.jpg" height="100">
-		</br><small>Княжеские печати и знаки</small>	
+		<img alt="Полоцкое княжество, Княжеские печати и знаки" src="../../images/img-terms/polotsk_principality/geraldic_thumb.jpg" class="thumb">
+		<br><small>Княжеские печати и знаки</small>	
 		</a>
 		</div>
 		
@@ -370,14 +347,14 @@
 	</div>
 	
 	
-		<h3>XII век</h3>
-	<div class="col-md-12">
+		<h2>XII век</h2>
+	
 		<p class="img-float-left">
 		<a href="../../images/img-terms/polotsk_principality/cronicle_Litowska.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/polotsk_principality/cronicle_Litowska_thumb.jpg" height="120">
-		</br><small><i>"О полоцкой свободности 
-		</br>або Венеции"</i></small>	
+		<img alt="О полоцкой свободности або Венеции" src="../../images/img-terms/polotsk_principality/cronicle_Litowska_thumb.jpg" class="thumbInfo">
+		<br><small><i>"О полоцкой свободности 
+		<br>або Венеции"</i></small>	
 		</a>
 		</p>
 		<p>
@@ -401,17 +378,14 @@
 		Крещение языческих капищь и первые христианские святые — <a href="../figures/efrosinia.php">Ефросиния Полоцкая</a> 
 		и <a href="../figures/kirill_tur.php">Кирилл Туровский</a>.
 		</p>
-	
-	</div>
+
 		
-		<h4>
-		Язычество и христианство. 
-		</h4>
+		<h3>Язычество и христианство</h3>
 		<p class="img-float-left">
 		<a href="../../images/img-terms/tur_evangelie/holy_people.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Туровское евангелие" src="../../images/img-terms/tur_evangelie/holy_people_thumb.jpg" height="120" >
-			</br><small>Святые XI века</small>
+			<img alt="Полоцкое княжество - Святые XI века" src="../../images/img-terms/tur_evangelie/holy_people_thumb.jpg" class="thumbInfo">
+			<br><small>Святые XI века</small>
 		</a>
 		</p>
 		<p>
@@ -433,9 +407,8 @@
 		<p>
 		Так начинала складываться богатая <a href="../terms/religion_blr.php">палитра религий на белорусских землях</a>.
 		</p>
-		<h4>
-		1101-1128 князь Рогволод-Борис и Двинские камни.
-		</h4>
+		
+		<h3>1101-1128 князь Рогволод-Борис и Двинские камни</h3>
 		<p>
 		Одним из значимых культовых артефактов, оставшихся от XII века являются 
 		<a href="../terms/dwina_stouns.php">Двинские (Борисовы) камни</a> — огромные валуны с выбитыми на них христианскими символами. 
@@ -469,48 +442,48 @@
 		
 		
 		
-	<div class="col-md-12">		
+	<div class="col-md-12 img-float-center">		
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/_img-index/blr_12ce_country.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="История Беларуси" src="../../images/_img-index/blr_12ce_country_thumb.jpg" height="100">
-		</br><small>XII век</small>
+		<img alt="Полоцкое княжество XII век" src="../../images/_img-index/blr_12ce_country_thumb.jpg" class="thumb">
+		<br><small>XII век</small>
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/polotsk_principality/borisow.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Полоцкое княжество" src="../../images/img-terms/polotsk_principality/borisow_thumb.jpg" height="100">
-		</br><small>Князь Рогволод-Борис (1101-1028)
-		</br>г. Борисов 1102</small>
+		<img alt="Полоцкое княжество, Князь Рогволод-Борис (1101-1028)" src="../../images/img-terms/polotsk_principality/borisow_thumb.jpg" class="thumb">
+		<br><small>Князь Рогволод-Борис (1101-1028)
+		<br>г. Борисов 1102</small>
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/polotsk_principality/dvina_stouns.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Полоцкое княжество" src="../../images/img-terms/polotsk_principality/dvina_stouns_thumb.jpg" height="100">
-		</br><small>Двинские (Борисовы) камни, XII в</small>
+		<img alt="Полоцкое княжество, Двинские (Борисовы) камни, XII в" src="../../images/img-terms/polotsk_principality/dvina_stouns_thumb.jpg" class="thumb">
+		<br><small>Двинские (Борисовы) камни, XII в</small>
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/religion_blr/blr_pogan.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/religion_blr/blr_pogan_thumb.jpg" height="100">
-		</br><small>"Языческое наследие"</small> 	
+		<img alt="Полоцкое княжество, Языческое наследие" src="../../images/img-terms/religion_blr/blr_pogan_thumb.jpg" class="thumb">
+		<br><small>"Языческое наследие"</small> 	
 		</a>
 		</div>
 		
 	</div>
 		
 	
-	<h3>XIII-XIV век</h3>
+	<h2>XIII-XIV век</h2>
 	
 		<p>
-		Рядом с Полоцким княжеством, на берегу <a href="../places/sea_herodotus.php">моря Геродота</a>, в исторической <a href="../places/litwa.php">Литве</a> (Lithuania Propria) под предводительством 
+		Рядом с Полоцким княжеством, на берегу <a href="../places/sea_herodotus.php">моря Геродота</a>, в исторической <a href="../places/litwa.php">Литве</a> под предводительством 
 		<a href="../figures/mindowg.php">Миндовга</a> складывается <a href="../terms/wkl.php">княжество Литовское</a>. 
 		К 1266-69 году, после смерти его сына Войшалка и зятя <a href="../figures/shwarn.php">Шварна</a>, княжеская (королевская) династия обрывается.
 		</p>
@@ -524,37 +497,37 @@
 		Конец этого периода связывали с княжением детей Лютувера (Lutuver) — в 1307 князя Воина в Полоцке и в 1291 князя <a href="../figures/vyten.php">Витеня</a> в Литве. 
 		<p>
 		
-		<div class="col-md-12">
+		<div class="col-md-12 img-float-center">
 		
-			<div class="col-md-3 img-float-center">
+			<div class="col-md-3">
 			<a href="../../images/_img-index/blr_13ce_country.jpg" class="highslide"
        		 onclick="return hs.expand(this)">
-			<img alt="История Беларуси" src="../../images/_img-index/blr_13ce_country_thumb.jpg" height="100">
-			</br><small>XIII век</small>
+			<img alt="История Беларуси XIII век" src="../../images/_img-index/blr_13ce_country_thumb.jpg" class="thumb">
+			<br><small>XIII век</small>
 			</a>
 			</div>
 		
-			<div class="col-md-3 img-float-center">
+			<div class="col-md-3">
 			<a href="../../images/img-figures/rogvolod_rogneda/1844_hstorie_lelevel.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="Великое княжество Литовское, ВКЛ" src="../../images/img-figures/rogvolod_rogneda/1844_hstorie_lelevel_thumb.jpg" height="100"/>
-			</br><small>"Slavons du nord et de l'est" 1844</small>
+			<img alt="Великое княжество Литовское, ВКЛ - Slavons du nord et de l'est" src="../../images/img-figures/rogvolod_rogneda/1844_hstorie_lelevel_thumb.jpg" class="thumb">
+			<br><small>"Slavons du nord et de l'est" 1844</small>
 			</a>
 			</div>
 			
-			<div class="col-md-3 img-float-center">
+			<div class="col-md-3">
 			<a href="../../images/img-figures/gedimin/kirkor_litwa_duces.jpg" class="highslide"
       		onclick="return hs.expand(this)">
-			<img alt="Великое княжество Литовское, ВКЛ" src="../../images/img-figures/gedimin/kirkor_litwa_duces_thumb.jpg" height="100">
-			</br><small>Родовод Гедымина</small>	
+			<img alt="Великое княжество Литовское, ВКЛ, Родовод Гедымина" src="../../images/img-figures/gedimin/kirkor_litwa_duces_thumb.jpg" class="thumb">
+			<br><small>Родовод Гедымина</small>	
 			</a>
 			</div>
 			
-			<div class="col-md-3 img-float-center">
+			<div class="col-md-3">
 			<a href="../../images/img-terms/blr_entire/zmud_pryvilej.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="Беларусь и соседи" src="../../images/img-terms/blr_entire/zmud_pryvilej_thumb.jpg" height="100"> 
-			</br><small>Полоцкий земский привилей</small>
+			<img alt="Беларусь и соседи, Полоцкий земский привилей" src="../../images/img-terms/blr_entire/zmud_pryvilej_thumb.jpg" class="thumb"> 
+			<br><small>Полоцкий земский привилей</small>
 			</a>
 			</div>
 			
@@ -567,37 +540,37 @@
 		иногда писалась как LUTUANIA.
 		<p>
 		
-		<div class="col-md-12">
+		<div class="col-md-12 img-float-center">
 		
-			<div class="col-md-3 img-float-center">
+			<div class="col-md-3">
 			<a href="../../images/img-figures/gedimin/wkl_13-14ce.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="Ольгерд" src="../../images/img-figures/gedimin/wkl_13-14ce_thumb.jpg" height="100">
-			</br><small>Образование ВКЛ</small> 	
+			<img alt="Образование ВКЛ, Ольгерд" src="../../images/img-figures/gedimin/wkl_13-14ce_thumb.jpg" class="thumb">
+			<br><small>Образование ВКЛ</small> 	
 			</a>
 			</div>
 			
-			<div class="col-md-3 img-float-center">
+			<div class="col-md-3">
 			<a href="../../images/img-terms/lutizy/lutizy.jpg" class="highslide"
        	 onclick="return hs.expand(this)">
-			<img alt="лютичи, велеты" src="../../images/img-terms/lutizy/lutizy.jpg" width="120" height="100"/>
-			</br><small>Лютичи-велеты в словаре 1854 г.</small>
+			<img alt="Лютичи-велеты в словаре 1854 г" src="../../images/img-terms/lutizy/lutizy.jpg" class="thumb">
+			<br><small>Лютичи-велеты в словаре 1854 г.</small>
 			</a>
 			</div>
 			
-			<div class="col-md-3 img-float-center">
+			<div class="col-md-3">
 			<a href="../../images/img-terms/lutizy/lutizy_byzantine_empires_814.jpg" class="highslide"
        	 onclick="return hs.expand(this)">
-			<img alt="лютичи, велеты" src="../../images/img-terms/lutizy/lutizy_byzantine_empires_814_thumb.jpg" height="100"/>
-			</br><small>Вильцы-лютичи на карте Византийской Империи</small>
+			<img alt="Вильцы-лютичи на карте Византийской Империи" src="../../images/img-terms/lutizy/lutizy_byzantine_empires_814_thumb.jpg" class="thumb">
+			<br><small>Вильцы-лютичи на карте Византийской Империи</small>
 			</a>
 			</div>
 		
-			<div class="col-md-3 img-float-center">
+			<div class="col-md-3">
 			<a href="../../images/img-terms/lutizy/lutuania.jpg" class="highslide"
      	   onclick="return hs.expand(this)">
-			<img alt="лютичи, велеты" src="../../images/img-terms/lutizy/lutuania_thumb.jpg" height="100"/>
-			</br><small>LUTUANIA на карте</small>
+			<img alt="лютичи, велеты, LUTUANIA" src="../../images/img-terms/lutizy/lutuania_thumb.jpg" class="thumb">
+			<br><small>LUTUANIA на карте</small>
 			</a>
 			</div>
 			
@@ -614,6 +587,12 @@
 		еще 300 лет (до прихода московского войска) — что несравнимо с походами 
 		<a href="../figures/david.php">Давида Городенского</a> (наместника Гедимина) на Ревель (Таллин) или Мазовию. 
 		<p>
+		
+<!-- ***Gedimin Rodovod Comment*** -->
+<? include ("../_include/include_gedimin_comment.php"); ?>    
+<div class="col-md-12" style="height:10px;">
+</div> 
+		
 		<p>
 		Возможно, Императорское Русское Географическое Общество (<a href="../download/kirkor.php">"Живописная Россия"</a>, 1882) было право, 
 		утверждая происхождение Гедыминовичей от Полоцких <a href="../figures/rogvolod_rogneda.php">Рогволодовичей</a> 
@@ -621,19 +600,12 @@
 		</p>
 		
 		
-<!-- ***Gedimin Rodovod Comment*** -->
-<? include ("../_include/include_gedimin_comment.php"); ?>    
-<div class="col-md-12" style="height:10px;">
-</div> 
+
 		
-		</br></br></br>
+		<!-- Ссылки по теме -->
+		<br><br><br>
 		<p><small>
-		http://days.pravoslavie.ru/Life/life6571.htm</br>
-		be-x-old.wikipedia.org</br>
-		be.wikipedia.org</br>
-		pl.wikipedia.org</br>
-		uk.wikipedia.org</br>
-		ru.wikipedia.org</br>
+		<!-- Адреса нужных ссылок -->
 		</small></p>
 	
 	</div>

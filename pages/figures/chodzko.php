@@ -46,7 +46,7 @@
 		<p class="img-float-left" >
 		<a href="../../images/img-figures/chodzko/LeonardChodzko.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/LeonardChodzko_thumb.jpg" height="120" >
+		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/LeonardChodzko_thumb.jpg" class="thumbInfo">
 		</a>
 		</p>
 		
@@ -71,7 +71,7 @@
 		<div class="col-md-4">
 		<a href="../../images/img-figures/chodzko/chodzko.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/chodzko_thumb.jpg" height="100" >
+		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/chodzko_thumb.jpg" class="thumb">
 		<br><small>д. Оборок / Груздовка</small>
 		</a>
 		</div>
@@ -79,7 +79,7 @@
 		<div class="col-md-4">
 		<a href="../../images/img-figures/chodzko/Boruny.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/Boruny_thumb.jpg" height="100" >
+		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/Boruny_thumb.jpg" class="thumb">
 		<br><small>Боруны, униатский монастырь</small>
 		</a>
 		</div>
@@ -87,7 +87,7 @@
 		<div class="col-md-4">
 		<a href="../../images/img-terms/filomaty/tut_kraj.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Филоматы" src="../../images/img-terms/filomaty/tut_kraj_thumb.jpg" height="100">
+		<img alt="Филоматы" src="../../images/img-terms/filomaty/tut_kraj_thumb.jpg" class="thumb">
 		<br><small>Филоматы</small>
 		</a>
 		</div>
@@ -114,28 +114,28 @@
 		<div class="col-md-3">
 		<a href="../../images/img-figures/chodzko/work_21.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/work_21_thumb.jpg" height="100" >
+		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/work_21_thumb.jpg" class="thumb">
 		</a>
 		</div>
 		
 		<div class="col-md-3">
 		<a href="../../images/img-figures/chodzko/work_22.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/work_22_thumb.jpg" height="100" >
+		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/work_22_thumb.jpg" class="thumb">
 		</a>
 		</div>
 		
 		<div class="col-md-3">
 		<a href="../../images/img-figures/chodzko/work_23.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/work_23_thumb.jpg" height="100" >
+		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/work_23_thumb.jpg" class="thumb">
 		</a>
 		</div>
 		
 		<div class="col-md-3">
 		<a href="../../images/img-figures/chodzko/work_24.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/work_24_thumb.jpg" height="100" >
+		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/work_24_thumb.jpg" class="thumb">
 		</a>
 		</div>
 		
@@ -151,7 +151,7 @@
 		<p class="img-float-left" >
 		<a href="../../images/img-figures/chodzko/jan.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ян Борейко Ходзько" src="../../images/img-figures/chodzko/jan_thumb.jpg" height="120" >
+		<img alt="Ян Борейко Ходзько" src="../../images/img-figures/chodzko/jan_thumb.jpg" class="thumbInfo">
 		</a>
 		</p>
 		
@@ -188,7 +188,7 @@
 		<p class="img-float-left" >
 		<a href="../../images/img-figures/chodzko/IgnacyChodzko.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Игнаци Ходзько" src="../../images/img-figures/chodzko/IgnacyChodzko_thumb.jpg" height="120" >
+		<img alt="Игнаци Ходзько" src="../../images/img-figures/chodzko/IgnacyChodzko_thumb.jpg" class="thumbInfo">
 		</a>
 		</p>
 		
@@ -214,7 +214,13 @@
 		<p class="img-float-left" >
 		<a href="../../images/img-figures/chodzko/alexander.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Александр Ходзько" src="../../images/img-figures/chodzko/alexander_thumb.jpg" height="120" >
+		<img alt="Александр Ходзько" src="../../images/img-figures/chodzko/alexander_thumb.jpg" class="thumbInfo">
+		</a>
+		</p>
+		<p class="img-float-right" >
+		<a href="../../images/img-figures/chodzko/chodzkaFilamati.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Александр Ходзько" src="../../images/img-figures/chodzko/chodzkaFilamati_thumb.jpg" class="thumbInfo">
 		</a>
 		</p>
 		<p>
@@ -225,6 +231,10 @@
 		Там познакомился с Адамом Мицкевичем, <a href="../figures/volovicz.php">Михаилом Воловичем</a>, 
 		<a href="../figures/domeyko.php">Игнаци Домейко</a>. 
 		В 1923 был арестован за участие в тайном студенческом <a href="../terms/filomaty.php">обществе филоматов</a>.
+		</p>
+		<p>
+		Материалы следствия по делу филоматов и именные списки участников были собраны в докладной на имя имератора 
+		<a href="../download/filomaty_note.php">"К истории тайных обществ и кружков"</a>, 1824.
 		</p>
 		<p>
 		После освобождения был выслан в Санкт-Петербург; учился в Институте востоковедения (1824-31). Был консулом Российской империи в Персии.
@@ -270,7 +280,7 @@
 		<p class="img-float-left" >
 		<a href="../../images/img-figures/chodzko/jozef.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ходзько Язэп (Іосіф)" src="../../images/img-figures/chodzko/jozef_thumb.jpg" height="120" >
+		<img alt="Ходзько Язэп (Іосіф)" src="../../images/img-figures/chodzko/jozef_thumb.jpg" class="thumbInfo">
 		</a>
 		</p>
 		<p>
@@ -327,7 +337,7 @@
 		<div class="col-md-4">
 		<a href="../../images/img-figures/chodzko/1832_Towarzystwo.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/1832_Towarzystwo_thumb.jpg" height="100" >
+		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/1832_Towarzystwo_thumb.jpg" class="thumb">
 		<br><small>Обращение Товарищества, 1832</small>
 		</a>
 		</div>
@@ -335,7 +345,7 @@
 		<div class="col-md-4">
 		<a href="../../images/img-figures/chodzko/1832_TowarzystwoHerby.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/1832_TowarzystwoHerby_thumb.jpg" height="100" >
+		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/1832_TowarzystwoHerby_thumb.jpg" class="thumb">
 		<br><small>"Литовские" и "Земли Руские"</small>
 		</a>
 		</div>
@@ -343,7 +353,7 @@
 		<div class="col-md-4">
 		<a href="../../images/img-figures/chodzko/1832_Towarzystwo1902.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/1832_Towarzystwo1902_thumb.jpg" height="100" >
+		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/1832_Towarzystwo1902_thumb.jpg" class="thumb">
 		<br><small>1902 Emigracya Polska</small>
 		</a>
 		</div>

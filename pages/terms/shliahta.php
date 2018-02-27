@@ -30,9 +30,18 @@
     <!-- ***Top list [A-Z] *** -->
     <? include ("../_include/top_list_terms.php"); ?>
     	
-    	<h1>Шляхта. Шляхетская демократия</h1>
+    	<h1>Шляхта ВКЛ
+		 <br><small>шляхетская нация и шляхетская демократия</small>
+		 </h1>
     	
-		<h2>Белорусская шляхта ВКЛ</h2>
+		<h2>Белорусская шляхта</h2>
+		
+		<p class="img-float-left">
+		<a href="../../images/img-terms/shliahta/magnatz.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Белорусская шляхта ВКЛ" src="../../images/img-terms/shliahta/magnatz_thumb.jpg" class="thumbInfo">
+		</a>				
+		</p>
 				
 		<p>
 		Шляхта (от древневерхненемецкого slahta — род, либо нем. Schlacht — сражение) — привилегированное воинское сословие в Королевстве Польском и 
@@ -47,25 +56,32 @@
 		
 		<div class="col-md-12 img-float-center">	
 		
-		<div class="col-md-4">
-		<a href="../../images/img-terms/shliahta/magnatz.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img alt="Белорусская шляхта ВКЛ" src="../../images/img-terms/shliahta/magnatz_thumb.jpg" height="100"/>
-		</a>				
-		</div>
-		
-		<div class="col-md-4">
-		<a href="../../images/img-terms/shliahta/18v_zagrodkowaja_shliahta.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-			<img alt="Белорусская шляхта ВКЛ" src="../../images/img-terms/shliahta/18v_zagrodkowaja_shliahta_thumb.jpg" height="100"/>
-		</a>				
-		</div>
-		
-		<div class="col-md-4">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/shliahta/magnaty_14-18ce.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Белорусская шляхта ВКЛ" src="../../images/img-terms/shliahta/magnaty_14-18ce_thumb.jpg" height="100"/>
+			<img alt="Белорусская шляхта ВКЛ" src="../../images/img-terms/shliahta/magnaty_14-18ce_thumb.jpg" class="thumb">
 		</a>				
+		</div>
+		
+		<div class="col-md-3">
+		<a href="../../images/img-terms/shliahta/18v_zagrodkowaja_shliahta.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Белорусская шляхта ВКЛ" src="../../images/img-terms/shliahta/18v_zagrodkowaja_shliahta_thumb.jpg" class="thumb">
+		</a>				
+		</div>
+		
+		<div class="col-md-3">
+		<a href="../../images/img-terms/shliahta/chodzko.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Белорусская шляхта ВКЛ" src="../../images/img-terms/shliahta/chodzko_thumb.jpg" class="thumb">
+		</a>				
+		</div>
+		
+		<div class="col-md-3">
+			<a href="../../images/img-download/blr_types/gentry_yard.jpg" class="highslide"
+       	 	onclick="return hs.expand(this)">
+			<img alt="Беларусы ў фотаздымках, околичная шляхта"  src="../../images/img-download/blr_types/gentry_yard_thumb.jpg" class="thumb">	
+			</a>
 		</div>
 		
 		</div>
@@ -85,6 +101,7 @@
 		<br>— застенковая (загродковая, околичная) шляхта (имела свое хозяйство, но не имела крестьян)
 		<br>— шляхта-голота (безземельная)
 		</p>
+		
 		<p>
 		Нижний имущественный слой шляхты размыто смыкался с <a href="zemiane.php">земянами</a> и панцирными <a href="zemiane.php">боярами</a>.
 		Шляхта, земяне, панцирные и путные бояре были воинским сословием (крестьне на службу не призывались). 
@@ -92,35 +109,43 @@
 		где каждый может найти знакомые фамилии.
 		</p>
 		
-	<div class="col-md-12">	
+	<div class="col-md-12 img-float-center">	
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/shliahta/shliahta_ukaz.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Белорусская шляхта ВКЛ" src="../../images/img-terms/shliahta/shliahta_ukaz.jpg" height="100" width="120">
+		<img alt="Белорусская шляхта ВКЛ, прывилей Сигизмунда Августа" src="../../images/img-terms/shliahta/shliahta_ukaz.jpg" class="thumb">
 		<br><small>Сигизмунд Август о шляхте</small>
 		</a>				
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/shliahta/blr_shliahta1.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Белорусская шляхта ВКЛ" src="../../images/img-terms/shliahta/blr_shliahta1_thumb.jpg" height="100">
-		<br><small>"Белорусская шляхта и панцирные бояре", 1905 г</small>
+		<img alt="Белорусская шляхта и панцирные бояре, 1905" src="../../images/img-terms/shliahta/blr_shliahta1_thumb.jpg" class="thumb">
+		<br><small>1905 "Белорусская шляхта и панцирные бояре"</small>
 		</a>				
 		</div>
 		
-		<div class="col-md-4 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/shliahta/blr_shliahta.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Белорусская шляхта ВКЛ" src="../../images/img-terms/shliahta/blr_shliahta_thumb.jpg" height="100"/>
-			<br><small>Шляхта и государство</small>
+			<img alt="Шляхта и государство" src="../../images/img-terms/shliahta/blr_shliahta_thumb.jpg" class="thumb">
+			<br><small>1905 Шляхта и государство</small>
+		</a>				
+		</div>
+		
+		<div class="col-md-3">
+		<a href="../../images/img-terms/shliahta/1567_Popis.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Шляхта и государство" src="../../images/img-terms/shliahta/1567_Popis_thumb.jpg" class="thumb">
+			<br><small>1567 Пописъ войска</small>
 		</a>				
 		</div>
 		
 	</div>
 	
-		<h4>Сарматизм</h4>
+		<h3>Сарматизм</h3>
 		<p>
 		 — шляхетская идеология , доминировавшая в XVI - XIX вв. 
 		Сарматизм возводил шляхту к древним сарматам , отделяя тем самым себя от массы простолюдинов.
@@ -141,7 +166,7 @@
 		<div class="col-md-3">
 		<a href="../../images/img-terms/shliahta/Sarmatia_Sanson.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Белорусская шляхта ВКЛ, сарматы, Сарматия" src="../../images/img-terms/shliahta/Sarmatia_Sanson_thumb.jpg" height="100">
+		<img alt="Белорусская шляхта ВКЛ, сарматы, Сарматия Sanson 1660" src="../../images/img-terms/shliahta/Sarmatia_Sanson_thumb.jpg" class="thumb">
 		<br><small>Сарматия. Sanson, 1660</small>
 		</a>				
 		</div>
@@ -149,7 +174,7 @@
 		<div class="col-md-3">
 			<a href="../../images/img-places/sea_herodotus/Polesie_SeaHeradotus.jpg" class="highslide"
        		onclick="return hs.expand(this)">
-			<img alt="Полесье, море Геродота, ВКЛ, Литва" src="../../images/img-places/sea_herodotus/Polesie_SeaHeradotus_thumb.jpg" height="100">
+			<img alt="Полесье, море Геродота, ВКЛ, Литва" src="../../images/img-places/sea_herodotus/Polesie_SeaHeradotus_thumb.jpg" class="thumb">
 			<br><small>Полесье</small>					
 			</a>
 		</div>
@@ -157,7 +182,7 @@
 		<div class="col-md-3">
 		<a href="../../images/img-terms/shliahta/zawisza.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Белорусская шляхта ВКЛ, сарматы, Сарматия" src="../../images/img-terms/shliahta/zawisza_thumb.jpg" height="100">
+		<img alt="Белорусская шляхта ВКЛ, сарматы, Сарматский портрет" src="../../images/img-terms/shliahta/zawisza_thumb.jpg" class="thumb">
 		<br><small>Сарматский портрет</small>
 		</a>				
 		</div>
@@ -165,7 +190,7 @@
 		<div class="col-md-3">
 		<a href="../../images/img-terms/shliahta/1697_Sarmatia.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Белорусская шляхта ВКЛ, сарматы, Сарматия" src="../../images/img-terms/shliahta/1697_Sarmatia_thumb.jpg" height="100">
+		<img alt="Белорусская шляхта ВКЛ, сарматы, Сарматия et Scythia" src="../../images/img-terms/shliahta/1697_Sarmatia_thumb.jpg" class="thumb">
 		<br><small>Сарматия et Scythia, 1697</small>
 		</a>				
 		</div>
@@ -173,7 +198,7 @@
 		</div>
 		
 		
-		<h4>Gente Lituane, natione Polonus</h4>
+		<h3>Gente Lituane, natione Polonus</h3>
 		<p>
 			<i>" — большинство местного дворянства знало о своем литовском или белорусском этническом происхождении,
 			  но воспринимало языковую и культурную полонизацию предков как акт их добровольного политического и цивилизационного выбора
@@ -199,8 +224,45 @@
 		</small> ]
 		</p>
 		
+		<div class="col-md-12 img-float-center">	
+		
+		<div class="col-md-3">
+		<a href="../../images/img-terms/shliahta/Spasowicz-2.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Белорусская шляхта ВКЛ, Беларуские поляки" src="../../images/img-terms/shliahta/Spasowicz-2_thumb.jpg" class="thumb">
+		<br><small>Беларуские "поляки"</small>
+		</a>				
+		</div>
+		
+		<div class="col-md-3">
+		<a href="../../images/img-terms/shliahta/Spasowicz-1.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Белорусская шляхта ВКЛ, Литвины и  короняжи" src="../../images/img-terms/shliahta/Spasowicz-1_thumb.jpg" class="thumb">
+		<br><small>Литвины и  "короняжи"</small>
+		</a>				
+		</div>
+		
+		<div class="col-md-3">
+		<a href="../../images/img-figures/chodzko/1832_TowarzystwoHerby.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/chodzko/1832_TowarzystwoHerby_thumb.jpg" class="thumb">
+		<br><small>1832 "Товарищество Литовское"</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3" >
+		<a href="../../images/img-terms/litwiny/litvin_blr.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="польскоязычные литвины-белорусы" src="../../images/img-terms/litwiny/litvin_blr_thumb.jpg" class="thumb">
+		<br><small><i>"Polka z Litwy"</i></small>
+		</a>
+		</div>
+		
+		</div>
+		
 		<p>
-		Типичными представителями тутэйшай шляхты были <a href="../figures/woinillovicz.php">Войниловичи</a> — 
+		Типичными представителями тутэйшай шляхты были <a href="../figures/chodzko.php">Ходзько</a> гербу "Костеша", 
+		<a href="../figures/skirmunt_helena.php">Скирмунты</a> гербу "Дуб", <a href="../figures/woinillovicz.php">Войниловичи</a> — 
 		<i>
 			"Войниловичи не пришли ни с Востока, ни с Запада — они коренные, местные, кость от кости, кровь от крови того народа, 
 			который когда-то хоронил своих предков в этих курганах (сегодня — на сельских кладбищах) 
@@ -209,65 +271,55 @@
 		 <small>"Воспоминания", Э. Войнилович (фундатор строительства минского Красного костела)</small>		
 		</p>
 		
-		<div class="col-md-12">	
+		<div class="col-md-12 img-float-center">	
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/shliahta/kirkor_shliahta.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Белорусская шляхта ВКЛ" src="../../images/img-terms/shliahta/kirkor_shliahta.jpg" height="100" width="120">
-		<br><small>А. Киркор, Белорусское Полесье, 1882</small>
+		<img alt="Белорусская шляхта ВКЛ, Киркор, Белорусское Полесье" src="../../images/img-terms/shliahta/kirkor_shliahta.jpg" class="thumb">
+		<br><small>А. Киркор "Белорусское Полесье"</small>
 		</a>				
 		</div>
 		
-		<div class="col-md-3 img-float-center">
-		<a href="../../images/img-terms/filomaty/1875_Rittih.jpg" class="highslide"
-        onclick="return hs.expand(this)">
-		<img alt="Белорусская шляхта ВКЛ" src="../../images/img-terms/filomaty/1875_Rittih_thumb.jpg" height="100">
-		<br><small>Лингвистическая карта края. 1875</small>
-		</a>				
-		</div>
-		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-terms/filomaty/tut_kraj.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Белорусская шляхта ВКЛ" src="../../images/img-terms/filomaty/tut_kraj_thumb.jpg" height="100">
+		<img alt="Белорусская шляхта ВКЛ, Филоматы" src="../../images/img-terms/filomaty/tut_kraj_thumb.jpg" class="thumb">
 		<br><small>Филоматы</small>
 		</a>				
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-figures/woinillovicz/rodowod.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Белорусская шляхта ВКЛ" src="../../images/img-figures/woinillovicz/rodowod_thumb.jpg" height="100">
+		<img alt="Белорусская шляхта ВКЛ, Родовод Войниловичей" src="../../images/img-figures/woinillovicz/rodowod_thumb.jpg" class="thumb">
 		<br><small>Родовод Войниловичей</small>
 		</a>				
 		</div>
 		
+		<div class="col-md-3">
+		<a href="../../images/img-figures/skirmunt_helena/kanstanzija.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+		<img alt="Леонард Ходзько и Товарищество Литовское и Земель Руских" src="../../images/img-figures/skirmunt_helena/kanstanzija_thumb.jpg" class="thumb">
+		<br><small>"Наша тутэйшасьць" 1907</small>
+		</a>
 		</div>
 		
-		<h4>Наследие</h4>
+		</div>
+		
+		
+		<h2>Шляхта & Российская империя</h2>
+		
 		<p>
-		Это наднациональное самосознание шляхты стало истоком <a href="../terms/kraj_tut.php">"тутэйшай краевасьцi"</a>
-		 — основы <a href="../download/blr_nationalists_1957.php">белорусского национализма</a>.
+		После Разделов Речи Посполитой и присоединении ВКЛ к Российской империи, шляхетское сословие вместе 
+		с местным самоуправлением стремительно ликвидируется. 
 		</p>
-		
-		
-		
-		
-		<h4>Списки шляхты</h4>
 		<p>
-		Поименные списки шляхты и шляхетских родов — "Сбор имен шляхты", 
-		сводные списки участников восстания 1830 и восстания 1863 гг., иные источники — можно посмотреть <a href="../figures/you.php">ТУТ</a>.
-		</p>
-		
-		<h4>Шляхта & Российская империя</h4>
-		
-		<p>
-		После Разделов Речи Посполитой и присоединении ВКЛ к Российской империи, шляхетское сословие (наряду с крестянами именовавшееся "поляками") вместе 
-		с местным самоуправлением стремительно ликвидируется. Интересен труд Императорской АН 
-		<a href="../download/all_peoples_RI.php">"Описание всех обитающих в Российском государстве народов"</a> 1795 г.,
-		составленный после Второго раздела и захвата Россией восточной и центральной Беларуси. 
-		Первое сводное этнографическое описание. Описывает крестьян и шляхту "народа польского" (что характерно, без причитаний о "тяжкой доле мужика-белоруса" — все еще впереди).
+		Интересен труд Императорской АН 
+		<a href="../download/all_peoples_RI.php">"Описание всех обитающих в Российском государстве народов"</a> 1793 г.,
+		составленный после Второго раздела РП. 
+		Именует всех жителей нашего Края "поляками". Описывает крестьян и шляхту "народа польского". 
+		Что характерно, без причитаний о "тяжкой доле мужика-белоруса" — все еще впереди.
 		</p>
 		
 		<div class="col-md-12 img-float-center">
@@ -275,34 +327,36 @@
 		<div class="col-md-3">
 		<a href="../../images/img-events/razbor_rechi/razbor_rechi.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Падзелы Рэчы Паспалітай" src="../../images/img-events/razbor_rechi/razbor_rechi_thumb.jpg" height="100" >
-			</br><small>1772-1795 Разделы Речи Посполитой</small>
+			<img alt="Падзелы Рэчы Паспалітай" src="../../images/img-events/razbor_rechi/razbor_rechi_thumb.jpg" class="thumb">
+			<br><small>1772-1795 Разделы Речи Посполитой</small>
+			</a>
+		</div>
+		
+		<div class="col-md-3">
+			<a href="../../images/img-download/all_peoples_RI/p2_polen.jpg" class="highslide"
+        	onclick="return hs.expand(this)">
+			<img alt="1799 Описание народов государства Российского, белорусы-поляки" src="../../images/img-download/all_peoples_RI/p2_polen_thumb.jpg" class="thumb">
+			<br><small>1793 <i>"Народ Польский"</i></small>
 			</a>
 		</div>
 		
 		<div class="col-md-3">
 			<a href="../../images/img-download/all_peoples_RI/p2_polenDress.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p2_polenDress_thumb.jpg" height="100"/>
-			<br><small>"О шляхте и крестьянах" 1795</small>
+			<img alt="1799 Описание народов государства Российского, О шляхте и крестьянах" src="../../images/img-download/all_peoples_RI/p2_polenDress_thumb.jpg" class="thumb">
+			<br><small>1793 "О шляхте и крестьянах"</small>
 			</a>
 		</div>	
 		
 		<div class="col-md-3">
 		<a href="../../images/img-download/blr_types/shliachta_okolicz.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/shliachta_okolicz_thumb.jpg" height="100">
-			</br><small>Шляхта околичная, 1882</small>	
+			<img alt="Беларусы ў фотаздымках, Шляхта околичная"  src="../../images/img-download/blr_types/shliachta_okolicz_thumb.jpg" class="thumb">
+			<br><small>Шляхта околичная, 1882</small>	
 			</a>				
 		</div>
 		
-		<div class="col-md-3">
-			<a href="../../images/img-download/blr_types/gentry_yard.jpg" class="highslide"
-       	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/gentry_yard_thumb.jpg" height="100">
-			<br><small>"Двор шляхты" 1911</small>	
-			</a>
-		</div>
+		
 		
 		</div>
 		
@@ -319,8 +373,24 @@
 		<p>	  
 			  Даже после этого, согласно данным Министерства юстиции <a href="ross_empire.php">Российской империи</a> за 1858 г., в 49 губерниях европейской части империи насчитывалось 
 			  305 тыс. дворян мужского пола, 
-			  из которых на девять губерний <a href="../download/west_russland.php">Западного края</a> (к их числу официально относились Волынская, Виленская, Витебская, Киевская, 
-			  Ковенская, Минская, Могилевская и Подольская) приходилось более 192 тыс., или примерно 2/3 от общей численности
+			  из которых на девять губерний <a href="../download/west_russland.php">Западного края</a> 
+			  (шесть губерний <a href="../terms/sewero_zapadny_kraj.php">Северо-Западного края</a> — Виленская, Ковенская, Гродненская, Минская, Могилёвская, Витебская, — плюс Киевская, Волынская, Подольская.) 
+			  приходилось более 192 тыс., или примерно 2/3 от общей численности
+		</p>
+		
+		<h3>Наследие</h3>
+		<p>
+		Это наднациональное самосознание шляхты стало истоком <a href="../terms/kraj_tut.php">"тутэйшай краевасьцi"</a>
+		 — основы <a href="../download/blr_nationalists_1957.php">белорусского национализма</a>.
+		</p>
+		
+		
+		
+		
+		<h3>Списки шляхты</h3>
+		<p>
+		Поименные списки шляхты и шляхетских родов — "Сбор имен шляхты", 
+		сводные списки участников восстания 1830 и восстания 1863 гг., иные источники — можно посмотреть <a href="../figures/you.php">ТУТ</a>.
 		</p>
 		
 		
@@ -365,11 +435,7 @@
 		<p><small>
 		http://www.gutenberg.czyz.org/word,60867<br>
 		http://www.arche.by/by/page/science/6866<br>
-		be-x-old.wikipedia.org<br>
-		be.wikipedia.org<br>
-		pl.wikipedia.org<br>
-		uk.wikipedia.org<br>
-		ru.wikipedia.org<br>
+
 		</small></p>
 		
 	</div>

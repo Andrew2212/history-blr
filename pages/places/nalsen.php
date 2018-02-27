@@ -235,6 +235,21 @@
 		
 		</div>
 		
+				<h3>Litva Литва
+		<br><small>локализация термина</small>
+		</h3>
+<!--Spoiler-->		
+<!-- ***Spoiler Start *** -->
+<? include ("../_include/_include_spoiler-Start.php"); ?>
+	
+	<!-- ***Litva *** -->
+  	<? include ("../_include/include_Litva.php"); ?>
+
+<!-- ***Spoiler End *** -->
+<? include ("../_include/_include_spoiler-End.php"); ?>	
+<!--/Spoiler-->  	
+  	
+		
 		<h3>Пестрая этнография</h3>
 		
 		<div class="col-md-12" >

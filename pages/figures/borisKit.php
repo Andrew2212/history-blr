@@ -4,7 +4,7 @@
   <head>
   
   <!-- ***Title*** -->
- 	<title>Шаблон страницы</title>
+ 	<title>Борис Кит</title>
 
 <!-- ***Meta*** -->
 	<!-- ***ОПИСАНИЕ СТРАНИЦЫ*** -->
@@ -17,22 +17,22 @@
 	<meta property="og:image" content="http://history-belarus.by/img/Lithvaniae_Blr.jpg" />
 
 <!-- ***Include Header*** -->
-<? include ("../_include/header_terms.php"); ?>
+<? include ("../_include/header_figures.php"); ?>
   
 <!-- ***Content & Sidebars*** -->
 <div class="container-fluid">
   
 	<!-- ***Sidebar Left - include CurrentDir*** -->
-	<? include ("../_include/dir_terms.php"); ?>
+	<? include ("../_include/dir_figures.php"); ?>
 
 	
- <!-- ***Page Content*** -->
+<!-- ***Page Content*** -->
 <div class="col-md-8">
 
 <!-- ***Top list [A-Z] *** -->
-<? include ("../_include/top_list_terms.php"); ?>
-    
-		<h1>Шаблон страницы</h1>
+<? include ("../_include/top_list_figures.php"); ?>
+
+		<h1>Борис Кит</h1>
 		
 		<div class="img-float-left">
 		<a href="../../images/img-about/stub.jpg" class="highslide"
@@ -120,13 +120,17 @@
 		<br><br><br>
 		<p><small>
 		<!-- Адреса нужных ссылок -->
+		https://nn.by/?c=ar&i=204209<br>
+		https://news.tut.by/culture/579491.html<br>
+		https://www.svaboda.org/a/29014979.html<br>
+		https://www.svaboda.org/a/barysa-kita-pachavali-pad-biel-cyrvona-bielym-sciaham/29042008.html<br>
 		</small></p>
 				
 <!-- ***/Page Content div class="col-md-8"*** -->	
 </div>
 	
 	<!-- ***Sidebar Right*** -->
-	<? include ("../_include/right_sidebar_terms.php"); ?>
+	<? include ("../_include/right_sidebar_figures.php"); ?>
 
 <!-- ***/Content & Sidebars*** -->	
 </div>

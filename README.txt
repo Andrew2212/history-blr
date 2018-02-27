@@ -5,15 +5,14 @@
 
 Картинки, чтобы не грузить ГитХаб, вынесены в архи на Гугль-диск.
 
-Скачать архив images.zip во ссылке
-https://drive.google.com/file/d/16BXhKb9bif4Ez4REWnInmGPWv457CQ4L/view?usp=sharing
+Скачать архив images.zip во ссылке (2018/02/27)
+https://drive.google.com/file/d/1tALtvKGkq88jTy5CVqJ736E5-HXcjBBy/view?usp=sharing
 распаковать и заменить пустую папку www/images на полученную
-14/12/2017 - Commit 'Index-page is fixed'
 
-Скачать архив images_legacy.zip во ссылке
-https://drive.google.com/file/d/1AWLrbbW8MtKge7SpzmZqbXfBLktArr-J/view?usp=sharing
+
+Скачать архив images_legacy.zip во ссылке (2018/02/27)
+https://drive.google.com/file/d/1kah0EP9sNgxmn2xah4st8Rwvx-1DVOvd/view?usp=sharing
 распаковать и заменить пустую папку www/images_legacy на полученную
-14/12/2017 - Commit 'Index-page is fixed'
 
 Для работы с файлами по ссылке
 https://drive.google.com/file/d/0B_T3PThCY39DZGhNSUNHQkpjZ1E/view?usp=sharing

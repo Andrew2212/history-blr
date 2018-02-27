@@ -44,6 +44,14 @@
         </div>
         
         <div class="col-lg-2 col-md-3 col-sm-6">
+        <a href="../arch_brest/brest_lyskawa.php">
+		<img class="image-thumbSign" src="../../images_legacy/img_brest/lyskawa/lyskawa-3_thumb.jpg" alt="Лыскава, місіянерскі касцёл св. Тройцы" />
+		<br><small>Лыскава, місіянерскі 
+		<br>касцёл св. Тройцы</small>
+        </a>
+        </div>
+        
+        <div class="col-lg-2 col-md-3 col-sm-6">
         <a href="../arch_brest/brest_pinsk.php">
 		<img class="image-thumbSign" src="../../images_legacy/img_brest/pinsk/pinsk-3_thumb.jpg" alt="Пінск, Езуіцкі касёл св. Станіслава" />
 		<br><small>Пінск, езуіцкі 

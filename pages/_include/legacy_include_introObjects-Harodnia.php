@@ -13,10 +13,34 @@
         </div>
         
         <div class="col-lg-2 col-md-3 col-sm-6">
+        <a href="../arch_harodnia/harodnia_aszmiany.php">
+		<img class="image-thumbSign" src="../../images_legacy/img_harodnia/aszmiany/aszmiany-1_thumb.jpg" alt="Ашмяны, францысканскі касцёл Найсвяцейшай Панны Марыі" />
+		<br><small>Ашмяны, касцел  
+		<br>Наісв. Панны Марыі</small>
+        </a>
+        </div>
+        
+        <div class="col-lg-2 col-md-3 col-sm-6">
         <a href="../arch_harodnia/harodnia_harodniaPhara.php">
 		<img class="image-thumbSign" src="../../images_legacy/img_harodnia/harodniaPhara/harodniaPhara-3_thumb.jpg" alt="Гародня, Фара Вітаўта" />
 		<br><small>Гародня, 
 		<br>Фара Вітаўта</small>
+        </a>
+        </div>
+        
+        <div class="col-lg-2 col-md-3 col-sm-6">
+        <a href="../arch_harodnia/harodnia_berastawica.php">
+		<img class="image-thumbSign" src="../../images_legacy/img_harodnia/berastawica/berastawica-4_thumb.jpg" alt="В. Бераставіца, касцел Звеставаньня Панны Марыі" />
+		<br><small>В. Бераставіца, касцел 
+		<br>Наведзінаў ПанныМарыі</small>
+        </a>
+        </div>
+        
+        <div class="col-lg-2 col-md-3 col-sm-6">
+        <a href="../arch_harodnia/harodnia_lapenica.php">
+		<img class="image-thumbSign" src="../../images_legacy/img_harodnia/lapenica/lapenica-1_thumb.jpg" alt="В. Лапеніца, Iаана Хрысцiцеля" />
+		<br><small>В. Лапеніца, касцел 
+		<br>Iаана Хрысцiцеля</small>
         </a>
         </div>
 		
@@ -35,22 +59,7 @@
 		<br>касцёл св. Міхаіла </small>
         </a>
         </div>
-        
-        <div class="col-lg-2 col-md-3 col-sm-6">
-        <a href="../arch_harodnia/arch_pattern.php">
-		<img class="image-thumbSign" src="../../img_legacy/archStub_thumb.jpg" alt="alt=ОПИСАНИЕ_1" />
-		<br><small>Описание</small>
-        </a>
-        </div>
-        
-        <div class="col-lg-2 col-md-3 col-sm-6">
-        <a href="../arch_harodnia/arch_pattern.php">
-		<img class="image-thumbSign" src="../../img_legacy/archStub_thumb.jpg" alt="alt=ОПИСАНИЕ_1" />
-		<br><small>Описание</small>
-        </a>
-        </div>
-        
-        
+  
     </div>
  
 </div>

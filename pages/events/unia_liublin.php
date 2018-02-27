@@ -35,20 +35,24 @@
 		<p class="img-float-left">
 		<a href="../../images/img-events/unia_liublin/herb_RP.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Люблинская уния" src="../../images/img-events/unia_liublin/herb_RP_thumb.jpg" height="140">
+		<img alt="Люблинская уния, герб Речи Посполитой" src="../../images/img-events/unia_liublin/herb_RP_thumb.jpg" class="thumbInfo">
 		</a>
 		</p>
 		
 		<p class="img-float-right">
 		<a href="../../images/img-events/unia_liublin/1586_taler_Batory.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Талер Стефан Баторий" src="../../images/img-events/unia_liublin/1586_taler_Batory_thumb.jpg" height="140">
+		<img alt="Талер Стефан Баторий" src="../../images/img-events/unia_liublin/1586_taler_Batory_thumb.jpg" class="thumbInfo">
 		</a>
 		</p>
 
 		<p>
 		Люблинская уния — государственный союз между Королевством Польским и <a href="../terms/wkl.php">Великим княжеством Литовским</a>, положивший начало единому федеративному 
-		государству — <a href="../terms/rzeczpospolita.php">Речи Посполитой</a>. Было создано государство, которое играло значимую роль на мировой арене в течение последующих 200 лет. 
+		государству — <a href="../terms/rzeczpospolita.php">Речи Посполитой</a>. Rzeczpospolita (польск) - Res Publica (лат) - Общее дело (республика).
+		 </p>
+		<p>
+		Было создано государство под девизом <i>Si Deus Nobiscum quis contra nos</i> (Если с нами Бог, то кто против нас),
+		 которое играло значимую роль на мировой арене в течение последующих 200 лет.
 		</p>
 		<p>
 		Акт унии был заключён 28 июня 1569 года и 1 июля этого года утверждён раздельно депутатами польского и литовского сеймов на общем сейме, созванном в Люблине. 
@@ -59,8 +63,10 @@
 		Уния не столько укрепила власть монарха (чего и желал Сигизмунд), сколько усилила влияние 
 		<a href="../terms/shliahta.php">шляхты</a>, увеличив заодно и её численность. Абсолютная монархия, характерная для XVI века так и не сложилась (она прийдет на эти земли только к XIX веку на русских штыках).
 		</p>
+		
+		<h2>Условия унии</h2>
 		<p>
-		Согласно Унии оба государства имели одного государя, которого каждый раз должны были избирать сообща (без наследственного преемства власти). Был общий сейм и сенат ("паны рада"), который ведал общими внутренними делами и политикой. 
+		Согласно Люблинской Унии оба государства имели одного государя, которого каждый раз должны были избирать сообща (без наследственного преемства власти). Был общий сейм и сенат ("паны рада"), который ведал общими внутренними делами и политикой. 
 		Таможенные границы между Польшей и Литвой ликвидировались. К Польше отошли <a href="../download/zemie_ruskie.php">Земли Руские</a> (Украина).
 		</p>
 		<p>
@@ -82,7 +88,7 @@
 		<div class="col-md-4">
 		<a href="../../images/img-events/unia_liublin/16vek_Livonia-War_Unia-Liublin.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Ливонская война и Люблинская уния" src="../../images/img-events/unia_liublin/16vek_Livonia-War_Unia-Liublin_thumb.jpg" height="100">
+		<img alt="Ливонская война и Люблинская уния" src="../../images/img-events/unia_liublin/16vek_Livonia-War_Unia-Liublin_thumb.jpg" class="thumb">
 		<br><small>Ливонская война 1558-1583 
 		<br>и Люблинская уния 1569</small>
 		</a>
@@ -91,7 +97,7 @@
 		<div class="col-md-4">
 		<a href="../../images/img-events/unia_liublin/recz_pospolita.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Люблінская унія" src="../../images/img-events/unia_liublin/recz_pospolita_thumb.jpg" height="100">
+		<img alt="Люблінская унія" src="../../images/img-events/unia_liublin/recz_pospolita_thumb.jpg" class="thumb">
 		<br><small>Взаимоотношения 
 		<br>ВКЛ и Короны</small>
 		</a>
@@ -100,13 +106,15 @@
 		<div class="col-md-4">
 		<a href="../../images/img-events/unia_liublin/1688_morden_poland.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Люблінская унія" src="../../images/img-events/unia_liublin/1688_morden_poland_thumb.jpg" height="100">
-		<br><small>Речь Посполитая, XVII в</small>
+		<img alt="Люблінская унія" src="../../images/img-events/unia_liublin/1688_morden_poland_thumb.jpg" class="thumb">
+		<br><small>Речь Посполитая, XVII в
+		<br>границы воеводств</small>
 		</a>
 		</div>
 				
 		</div>
 		
+		<h2>Хронология событий</h2>
 		<p>		
 		1558 московские войска вторглись в Ливонию
 		</p>
@@ -133,38 +141,38 @@
 		
 		
 		
-		<div class="col-md-12">
+		<div class="col-md-12 img-float-center">
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-events/unia_liublin/1595_Mercator_Lithuania.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Люблинская уния" src="../../images/img-events/unia_liublin/1595_Mercator_Lithuania_thumb.jpg" height="100">
-		</br><small>1595 Mercator "Lithuania"</small>
+		<img alt="1595 Mercator Lithuania, Люблинская уния" src="../../images/img-events/unia_liublin/1595_Mercator_Lithuania_thumb.jpg" class="thumb">
+		<br><small>1595 Mercator "Lithuania"</small>
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-events/unia_liublin/unia_table.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Кревская уния" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" height="100">
-		</br><small>Хронология уний
-		</br>ВКЛ-Польша</small>
+		<img alt="Хронология уний, Кревская уния" src="../../images/img-events/unia_liublin/unia_table_thumb.jpg" class="thumb">
+		<br><small>Хронология уний
+		<br>ВКЛ-Польша</small>
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-events/unia_liublin/livonia_war_1558-1583.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Люблинская уния" src="../../images/img-events/unia_liublin/livonia_war_1558-1583_thumb.jpg" height="100">
-		</br><small>1558-1583 Ливонская война</small>
+		<img alt="1558-1583 Ливонская война, Люблинская уния" src="../../images/img-events/unia_liublin/livonia_war_1558-1583_thumb.jpg" class="thumb">
+		<br><small>1558-1583 Ливонская война</small>
 		</a>
 		</div>
 		
-		<div class="col-md-3 img-float-center">
+		<div class="col-md-3">
 		<a href="../../images/img-events/unia_liublin/rp_16_vek.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Люблинская уния" src="../../images/img-events/unia_liublin/rp_16_vek_thumb.jpg" height="100">
-		</br><small>1596 Образование Речи Посполитой</small>
+		<img alt="Люблинская уния 1596 Образование Речи Посполитой" src="../../images/img-events/unia_liublin/rp_16_vek_thumb.jpg" class="thumb">
+		<br><small>1596 Образование Речи Посполитой</small>
 		</a>
 		</div>
 		
@@ -177,14 +185,9 @@
 		</p>
 		
 		
-		</br></br></br>
+		<br><br><br>
 		<p><small>
-		be-x-old.wikipedia.org</br>
-		be.wikipedia.org</br>
-		pl.wikipedia.org</br>
-		uk.wikipedia.org</br>
-		ru.wikipedia.org</br>
-		jezykpolski.hostenko.com/reczpospolita-i-vremen-yagellonov-1385-1572</br>
+		jezykpolski.hostenko.com/reczpospolita-i-vremen-yagellonov-1385-1572<br>
 		calend.ru/event/4028
 		</small></p>
 		

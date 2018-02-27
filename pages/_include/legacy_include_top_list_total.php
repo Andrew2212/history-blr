@@ -37,6 +37,10 @@
 		 <li>
             Імянін (Таракань)
            <br> <a href="/pages/arch_brest/brest_imianin.php"><small>Базіліянская царква Богаз'яўленьня</small></a>
+         </li>
+		 <li>
+            Лыскава
+           <br> <a href="/pages/arch_brest/brest_lyskawa.php"><small>Місіянерскі касцёл св. Тройцы</small></a>
          </li> 
 		 <li>
             Пінск
@@ -139,8 +143,20 @@
            <br> <a href="/pages/arch_harodnia/harodnia_astaszin.php"><small>Кальвінскі збор</small></a>
          </li>
          <li>
+            Ашмяны
+           <br> <a href="/pages/arch_harodnia/harodnia_aszmiany.php"><small>Францысканскі касцёл Найсвяцейшай Панны Марыі</small></a>
+         </li>
+         <li>
             Гародня
            <br> <a href="/pages/arch_harodnia/harodnia_harodniaPhara.php"><small>Фара Вітаўта</small></a>
+         </li>
+         <li>
+            Вялікая Бераставіца
+           <br> <a href="/pages/arch_harodnia/harodnia_berastawica.php"><small>Кармеліцкі касцёл Звеставаньня Панны Марыі</small></a>
+         </li>
+         <li>
+            Вялікая Лапеніца (Грыневiчы)
+           <br> <a href="/pages/arch_harodnia/harodnia_lapenica.php"><small>Францысканскі касцёл Iаана Хрысцiцеля</small></a>
          </li>
          <li>
             Наваградак
@@ -169,12 +185,20 @@
            <br> <a href="/pages/arch_mohilew/mohilew_hlusk.php"><small>Касьцёл бернардынскі</small></a>
          </li>
          <li>
+            Княжыцы
+           <br> <a href="/pages/arch_mohilew/mohilew_kniazycy.php"><small>Дамініканскі касцёл св. Антонія</small></a>
+         </li>
+         <li>
             Магілёў
            <br> <a href="/pages/arch_mohilew/mohilew_mohilewFrancisk.php"><small>Касцёл св. Францыска Ксаверыя і Анёлаў-Ахоўнікаў</small></a>
          </li>
          <li>
             Мсціслаў
            <br> <a href="/pages/arch_mohilew/mohilew_mscislau.php"><small>Езуiцкі касцёл Св. Міхаіла Арханёла</small></a>
+         </li>
+         <li>
+            Сялец (Ануфрыева)
+           <br> <a href="/pages/arch_mohilew/mohilew_sialec.php"><small>Базыльянская царква св. Ануфрыя</small></a>
          </li>
          <li>
             Чавусы

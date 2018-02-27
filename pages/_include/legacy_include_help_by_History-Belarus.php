@@ -8,7 +8,7 @@
 					Графічнае адраджэньне страчанай архітэктурнай спадчыны
 					</h3>
 					<p class="text-faded">
-					Пры інфармацыйнай падтрымке 
+					Пры інфармацыйнай падтрымцы 
 					
                     <a target="_blank" href="../../index.php" class="btn btn-default btn-xl-history-belarus"> 
 					<img src="../../img/logo.png" height="20" >

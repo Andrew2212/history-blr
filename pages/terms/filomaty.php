@@ -38,15 +38,15 @@
 		<p class="img-float-left">
 		<a href="../../images/img-terms/filomaty/Philomathes.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Филоматы" src="../../images/img-terms/filomaty/Philomathes_thumb.jpg" height="160">
-		</br><small>Филоматы</small>
+		<img alt="Филоматы" src="../../images/img-terms/filomaty/Philomathes_thumb.jpg" class="thumbInfo">
+		<br><small>Филоматы</small>
 		</a>
 		</p>
 		<p class="img-float-right">
 		<a href="../../images/img-terms/filomaty/tut_kraj.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Филоматы" src="../../images/img-terms/filomaty/tut_kraj_thumb.jpg" height="160">
-		</br><small>Истоки</small>
+		<img alt="Филоматы" src="../../images/img-terms/filomaty/tut_kraj_thumb.jpg" class="thumbInfo">
+		<br><small>Истоки</small>
 		</a>
 		</p>
 		
@@ -66,15 +66,53 @@
 		 Структура ориентировалась на научные и литературные общества. Деятельность состояла в чтении и критических разборах своих сочинений, 
 		 дискуссиях о прочитанных книгах и т. п.
 		</p>
-		<p>
-		В 1819 году программа общества приобрела отчетливую политическую и патриотическую окраску.
+		<p> 
+		После скасаваньня организации, в 1824 году, по материалам следствия был составлен доклад <a href="../download/filomaty_note.php">"К истории тайных обществ и кружков"</a>,
+		подробно рассказывающий о структуре общества и дополненный поименным списком участников.
 		</p>
 		<p>
-		Оно охватило своим влиянием виленское студенчество и гимназическую среду главным образом через свои дочерние организации, 
+		Движене охватило своим влиянием виленское студенчество и гимназическую среду главным образом через свои дочерние организации, 
 		филиалы — легальные и тайные кружки и общества: Союз друзей (1819), преобразованный в 1822 году в Союз филадельфистов (38 членов); 
 		Кружок лучезарных (или "лучистых", "Promienistych", 1820), официально именуемым Обществом друзей полезного развлечения (168 членов); 
 		общество филаретов (1820; 176 членов), Общество поэтов (1823; 17 членов)
 		</p>
+		
+		<div class="col-md-12 img-float-center">
+	
+		<div class="col-md-3">
+		<a href="../../images/img-download/filomaty_note/essays.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Общество филоматов - Неприличные и предосудительные сочинения" src="../../images/img-download/filomaty_note/essays_thumb.jpg" class="thumb" >
+			<br><small><i>"Неприличные и предосудительные сочинения"</i></small>
+		</a>
+		</div>
+		
+		<div class="col-md-3">
+		<a href="../../images/img-download/filomaty_note/filarety.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Филареты, филоматы, променисты" src="../../images/img-download/filomaty_note/filarety_thumb.jpg" class="thumb" >
+			<br><small><i>Филареты, филоматы, променисты</i></small>
+		</a>
+		</div>
+		
+		<div class="col-md-3">
+		<a href="../../images/img-download/filomaty_note/statut.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Общество филоматов - Устав и структура" src="../../images/img-download/filomaty_note/statut_thumb.jpg" class="thumb" >
+			<br><small><i>Устав и структура</i></small>
+		</a>
+		</div>
+		
+		<div class="col-md-3">
+		<a href="../../images/img-download/filomaty_note/piesn.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Песнь филаретов А. Мицкевича" src="../../images/img-download/filomaty_note/piesn_thumb.jpg" class="thumb" >
+			<br><small><i>"Песнь филаретов" А. Мицкевича</i></small>
+		</a>
+		</div>
+		
+	</div>
+		
 		<p>
 		Филоматы заложили основы современной самоидентификации края — <a href="../terms/kraj_tut.php">тутэйшай краевасьцi</a>, которая станет основой 
 		<a href="../download/blr_nationalists_1957.php">белорусского национализма</a> 1890-1930 годов.
@@ -91,13 +129,41 @@
 		</small> ]
 		</p>
 		
-		<p class="img-float-center">
+		<div class="col-md-12 img-float-center">
+		
+		<div class="col-md-3">
+		<a href="../../images/img-download/all_peoples_RI/p2_polen.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="1799 Описание народов государства Российского - Народ Польский" src="../../images/img-download/all_peoples_RI/p2_polen_thumb.jpg" class="thumb" >
+			<br><small>"Народ Польский" 1793</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3">
+		<a href="../../images/img-download/filomaty_note/1803vilno_univer.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Филоматы, 1803 Виленский учебный округ" src="../../images/img-download/filomaty_note/1803vilno_univer_thumb.jpg" class="thumb" >
+			<br><small>1803 Виленский учебный округ</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3">
 		<a href="../../images/img-terms/filomaty/1875_Rittih.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Филоматы" src="../../images/img-terms/filomaty/1875_Rittih_thumb.jpg" height="100">
-		</br><small>Лингвистическая карта края. 1875</small>
+			<img alt="Филоматы, Лингвистическая карта края. 1875" src="../../images/img-terms/filomaty/1875_Rittih_thumb.jpg" class="thumb" >
+			<br><small>Лингвистическая карта края. 1875</small>
 		</a>
-		</p>
+		</div>
+		
+		<div class="col-md-3">
+		<a href="../../images/img-download/filomaty_note/members.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Общество филоматов - Общiй именной списокъ" src="../../images/img-download/filomaty_note/members_thumb.jpg" class="thumb" >
+			<br><small><i><i>Общiй именной списокъ</i></i></small>
+		</a>
+		</div>
+		
+		</div>
 		
 		<p>
 		<i>
@@ -112,7 +178,7 @@
 			а пасля заняпаду Рэчы Паспалітай знаходзіла прыхільнікаў і паслядоўнікаў у шэрагах дэмакратычных змагароў за свабоду. 
 			Гарачым і перакананым яе прыхільнікам быў "дыктатар Літвы" <a href="../figures/kalinowski.php">Канстанцін Каліноўскі</a>.".
 		</i>
-		</br><small>
+		<br><small>
 		<a target="_blank" href="../../images/img-terms/kraj_tut/Abramovich_Trzydziestolecie-ideologji-krajowej.pdf">
 		"Trzydziestolecie ideologji krajowej"
 		</a> Abramowicz Ludwik, 1936</small>		
@@ -131,8 +197,8 @@
 		<p class="img-float-center">
 		<a href="../../images/img-terms/filomaty/stoun.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Филоматы" src="../../images/img-terms/filomaty/stoun_thumb.jpg" height="160">
-		</br><small>Камень филоматов. Тугановичи</small>
+		<img alt="Филоматы" src="../../images/img-terms/filomaty/stoun_thumb.jpg" class="thumbInfo">
+		<br><small>Камень филоматов. Тугановичи</small>
 		</a>
 		</p>
 		
@@ -140,28 +206,13 @@
 		Камень филоматов  (усадьба Тугановичи, между Барановичами и Новогрудком). У этого камня молодые студенты читали стихи, говорили о политике и пили молоко.
 		</p>
 		
+		<h3>Piesn Filaretow 
+		<br><small>Песня филаретов. Адам Мицкевич</small>
+		<h3>
+		
 <!--Spoiler-->
-<!--http://forwebmaster.net/prostoy-spoyler-dlya-sayta-v-html/-->
-<div class="spoil">
-
-	<div class="smallfont">
-	<h3>Piesn Filaretow 
-	</br><small>Песня филаретов. Адам Мицкевич</small>
-	</h3>
-	
-	<input type="button" class="btn btn-default btn-sm" value="Показать / Скрыть" class="input-button" 
-	onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Свернуть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Текст спойлера'; }">
-	</div>
-
-<div class="alt2">
-<div style="display: none;">
-
-		<div class="col-md-12">
-   		 <ul class="nav nav-list">
-        <!--It's just line-->
-        <li class="nav-divider"></li>
-    	</ul>
-   		 </div>
+<!-- ***Spoiler Start *** -->
+<? include ("../_include/_include_spoiler-Start.php"); ?>
    		 
    <div class="col-md-12">	
    	 
@@ -171,87 +222,87 @@
    		 <div class="col-md-5 img-float-left">
 <p>  		 
 Hej, uzyjmy zywota!
-</br>Wszak zyjem tylko raz:
-</br>Niechaj ta czara zlota
-</br>Nie prozno wabi nas.
+<br>Wszak zyjem tylko raz:
+<br>Niechaj ta czara zlota
+<br>Nie prozno wabi nas.
 </p>
 <p>
 Hejze, do niej wesolo!
-</br>Niechaj obiega wkolo;
-</br>Chwytaj i do dna chyl
-</br>Zwiastunke slodkich chwil.
+<br>Niechaj obiega wkolo;
+<br>Chwytaj i do dna chyl
+<br>Zwiastunke slodkich chwil.
 </p>
 <p>
 Po co tu obce mowy?
-</br>Polski pijemy miod:
-</br>Lepszy spiew narodowy,
-</br>I lepszy bratni rod.
+<br>Polski pijemy miod:
+<br>Lepszy spiew narodowy,
+<br>I lepszy bratni rod.
 </p>
 <p>
 W ksiag greckich, rzymskich steki
-</br>Wlazles, nie zebys gnil;
-</br>Bys bawil sie jak Greki,
-</br>A jak Rzymianin bil.
+<br>Wlazles, nie zebys gnil;
+<br>Bys bawil sie jak Greki,
+<br>A jak Rzymianin bil.
 </p>
 <p>
 Ot tam siedza prawnicy,
-</br>I dla nich puhar staw:
-</br>Dzisiaj trzeba prawicy,
-</br>A jutro trzeba praw.
+<br>I dla nich puhar staw:
+<br>Dzisiaj trzeba prawicy,
+<br>A jutro trzeba praw.
 </p>
 <p>
 Wymowa wzniesc nie zdola
-</br>Dzis na wolnosci szczyt;
-</br>Gdzie przyjazn, milosc wola,
-</br>Tam bracia cyt, tam cyt!
+<br>Dzis na wolnosci szczyt;
+<br>Gdzie przyjazn, milosc wola,
+<br>Tam bracia cyt, tam cyt!
 </p>
 <p>
 Kto metal kwasi, pali,
-</br>Skwasi metal i czas:
-</br>My ze zlotych metali
-</br>Bacha ciagnijmy kwas.
+<br>Skwasi metal i czas:
+<br>My ze zlotych metali
+<br>Bacha ciagnijmy kwas.
 </p>
 <p>
 Ten sie srod medrcow liczy,
-</br>Zna chemia, ma gust,
-</br>Kto pierwiastek slodyczy
-</br>Z lubych wyciagnal ust.
+<br>Zna chemia, ma gust,
+<br>Kto pierwiastek slodyczy
+<br>Z lubych wyciagnal ust.
 </p>
 <p>
 Mierzacy swiata drogi,
-</br>Gwiazdy i nieba strop,
-</br>Archimed[2] byl ubogi,
-</br>Nie mial gdzie oprzec stop
+<br>Gwiazdy i nieba strop,
+<br>Archimed[2] byl ubogi,
+<br>Nie mial gdzie oprzec stop
 </p>
 <p>
 Dzis, gdy chce ruszac swiaty
-</br>Jego Newtonska[3] mosc,
-</br>Niechaj policzy braty
-</br>I niechaj powie dosc!
+<br>Jego Newtonska[3] mosc,
+<br>Niechaj policzy braty
+<br>I niechaj powie dosc!
 </p>
 <p>
 Cyrkla, wagi i miary
-</br>Do martwych uzyj bryl:
-</br>Mierz sile na zamiary,
-</br>Nie zamiar podlug sil!...
+<br>Do martwych uzyj bryl:
+<br>Mierz sile na zamiary,
+<br>Nie zamiar podlug sil!...
 </p>
 <p>
 Bo gdzie sie serca pala,
-</br>Cyrklem uniesien duch,
-</br>Dobro powszechne skala,
-</br>Jednosc wieksza od dwoch.
+<br>Cyrklem uniesien duch,
+<br>Dobro powszechne skala,
+<br>Jednosc wieksza od dwoch.
 </p>
 <p>
 Hej, uzyjmy zywota!
-</br>Wszak zyjem tylko raz;
-</br>Tu stoi czara zlota,
-</br>A wnet przeminie czas.
+<br>Wszak zyjem tylko raz;
+<br>Tu stoi czara zlota,
+<br>A wnet przeminie czas.
 </p>
 <p>
 Krew stygnie, wlos sie bieli,
-</br>W wiecznosci wpadniem ton;
-</br>To oko zamknie Feli,
-</br>To filarecka dlon.
+<br>W wiecznosci wpadniem ton;
+<br>To oko zamknie Feli,
+<br>To filarecka dlon.
 </p>
 
    		 </div>
@@ -264,20 +315,13 @@ Krew stygnie, wlos sie bieli,
 <p>
 За напоминание о том, что текст песни неплохо бы включить в статью, редакция благодарна <a target="_blank" href="https://www.facebook.com/january.kaminski.71">January Kaminski</a>
 </p>
-		<div class="col-md-12">
-   		 <ul class="nav nav-list">
-        <!--It's just line-->
-        <li class="nav-divider"></li>
-    	</ul>
-   		 </div>     
-      
-</div>
-</div>
-</div>	
+
+<!-- ***Spoiler End *** -->
+<? include ("../_include/_include_spoiler-End.php"); ?>	
 <!--/Spoiler-->
 		
 		<p>
-		</br>Экскурсия "По местам тайных обществ филоматов и филаретов". Кульминацией маршрута считается камень филаретов возле усадьбы Тугановичи. 
+		<br>Экскурсия "По местам тайных обществ филоматов и филаретов". Кульминацией маршрута считается камень филаретов возле усадьбы Тугановичи. 
 		</p>
 		<p>
 		Сюда на летние каникулы приезжали виленские студенты — собирались у камня, читали стихи, беседовали о политике и пели песни. 
@@ -306,15 +350,14 @@ Krew stygnie, wlos sie bieli,
 		</p>
 		
 	
-		</br></br></br>
+		<br><br><br>
 		<p><small>
-		http://www.liveinternet.ru/community/moja_polska/post146812845/</br>
-		http://www.tio.by/novosti/2890</br>
-		be-x-old.wikipedia.org</br>
-		be.wikipedia.org</br>
-		pl.wikipedia.org</br>
-		uk.wikipedia.org</br>
-		ru.wikipedia.org</br>
+		https://dlib.rsl.ru/viewer/01003549814#?page=1<br>
+		http://www.liveinternet.ru/community/moja_polska/post146812845/<br>
+		https://books.google.by/books?id=gcgIAwAAQBAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false<br>
+		http://www.tio.by/novosti/2890<br>
+		https://dlib.rsl.ru/viewer/01003549814#?page=1
+
 		</small></p>
 	</div>
 	

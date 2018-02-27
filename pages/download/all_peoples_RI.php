@@ -40,8 +40,8 @@
 			<p class="img-float-left">
 			<a href="../../images/img-download/all_peoples_RI/book_title.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/book_title_thumb.jpg" height="160"/>
-			</br><small>"Описание всех народов", 1799</small>
+			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/book_title_thumb.jpg" class="thumbInfo"/>
+			<br><small>"Описание народов"</small>
 			</a>
 			</p>
 			
@@ -67,12 +67,12 @@
 		
 		<h2>
 			Первое сводное этнографическое описание. 
-			</br><small>Хорошая отправная точка для рассмотрения миграции понятий "Русь", "Белая Русь", "Литва".
+			<br><small>Хорошая отправная точка для рассмотрения миграции понятий "Русь", "Белая Русь", "Литва".
 			</small>
 		</h2>
 
 		<h3>Часть I
-		</br><small>"О народах финского племени, известных под именем Руссов"</small>
+		<br><small>"О народах финского племени, известных под именем Руссов"</small>
 		</h3>
 		
 		<p>
@@ -88,10 +88,11 @@
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/all_peoples_RI/p1_review.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p1_review_thumb.jpg" height="120"/>
-			</br><small>Часть I (оглавление)</small>
+			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p1_review_thumb.jpg" class="thumb">
+			<br><small>Часть I (оглавление)</small>
 			</a>
-			</br>Часть I (файл .pdf, 5,9 Мб)</br>
+			
+			<br>Часть I (файл .pdf, 5,9 Мб)<br>
 			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DbU1wMmdZU29qNlk/view?usp=sharing" 
 			class="btn btn-info"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать
@@ -101,24 +102,24 @@
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/all_peoples_RI/p1_rus_people.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p1_rus_people_thumb.jpg" height="120"/>
-			</br><small><i>"Древние обитатели России"</i></small>
+			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p1_rus_people_thumb.jpg" class="thumb">
+			<br><small><i>"Древние обитатели России"</i></small>
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/all_peoples_RI/p1_intro.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p1_intro_thumb.jpg" height="120"/>
-			</br><small><i>"Финские народы, или руссы"</i></small>
+			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p1_intro_thumb.jpg" class="thumb">
+			<br><small><i>"Финские народы, или руссы"</i></small>
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/all_peoples_RI/p2_rossiany.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p2_rossiany_thumb.jpg" height="120"/>
-			</br><small><i>"О владычествующих россианах"</i></small>
+			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p2_rossiany_thumb.jpg" class="thumb">
+			<br><small><i>"О владычествующих россианах"</i></small>
 			</a>
 			</div>
 						
@@ -126,7 +127,7 @@
 		
 		
 		<h3>Часть IV
-		</br><small>"О народах монгольских, ..., поляках и владычествующих россиянах"</small>
+		<br><small>"О народах монгольских, ..., поляках и владычествующих россиянах"</small>
 		</h3>
 
 		
@@ -161,10 +162,10 @@
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/all_peoples_RI/p2_review.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p2_review_thumb.jpg" height="120"/>
-			</br><small>Часть IV (содержание)</small>
+			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p2_review_thumb.jpg" class="thumb">
+			<br><small>Часть IV (содержание)</small>
 			</a>
-			</br>Часть IV (файл .pdf, 15,7 Мб)</br>
+			<br>Часть IV (файл .pdf, 15,7 Мб)<br>
 			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DYTZreU1BOEFrcGM/view?usp=sharing" 
 			class="btn btn-info"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать
@@ -174,7 +175,7 @@
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/all_peoples_RI/p2_polen.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p2_polen_thumb.jpg" height="120"/>
+			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p2_polen_thumb.jpg" class="thumb">
 			</br><small><i>"Народ Польский"</i></small>
 			</a>
 			</div>
@@ -183,7 +184,7 @@
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/all_peoples_RI/p2_polenDress.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p2_polenDress_thumb.jpg" height="120"/>
+			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p2_polenDress_thumb.jpg" class="thumb">
 			</br><small>О шляхте и крестьянах</small>
 			</a>
 			</div>
@@ -191,7 +192,7 @@
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/all_peoples_RI/p2_litwa.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p2_litwa_thumb.jpg" height="120"/>
+			<img alt="1799 Описание народов государства Российского" src="../../images/img-download/all_peoples_RI/p2_litwa_thumb.jpg" class="thumb">
 			</br><small>О Литве</small>
 			</a>
 			</div>
@@ -203,7 +204,7 @@
 		</h2>
 		<p>
 			Для полноты восприятия использованы материалы:
-			</br><a href="../download/russia_blr.php">"Россия. Полное географическое описание."</a> Т. 9, 1905; 
+			<br><a href="../download/russia_blr.php">"Россия. Полное географическое описание."</a> Т. 9, 1905; 
 			А. Г. Киркор. <a href="../download/kirkor.php">"Живописная Россия."</a> Том 3, часть 1 и 2, 1882; 
 			П. Й. Шафарик, <a href="../download/shafarik.php">"Славянские древности"</a> 1847; 
 			карты <a href="../download/map_wkl_lotter.php">Lithuania</a>, T. Lotter 1778 и 1759; 
@@ -215,32 +216,32 @@
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-terms/slavs/brothers.jpg" class="highslide"
        		 onclick="return hs.expand(this)">
-			<img alt="1799 Описание народов государства Российского" src="../../images/img-terms/slavs/brothers_thumb.jpg" height="100"/>
-			</br><small>Балтская археология</small>
+			<img alt="1799 Описание народов государства Российского" src="../../images/img-terms/slavs/brothers_thumb.jpg" class="thumb">
+			<br><small>Балтская археология</small>
 			</a>				
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-terms/blr_etnos/shafarik_blr_people.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="1799 Описание народов государства Российского" src="../../images/img-terms/blr_etnos/shafarik_blr_people_thumb.jpg" height="100"/>
-			</br><small>Й. Шафарик "Племена и народы"</small>
+			<img alt="1799 Описание народов государства Российского" src="../../images/img-terms/blr_etnos/shafarik_blr_people_thumb.jpg" class="thumb">
+			<br><small>Й. Шафарик "Племена и народы"</small>
 			</a>						
 			</div>
 		
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/_img-index/blr_10ce_etno_variag_way.jpg" class="highslide"
      	   onclick="return hs.expand(this)">
-			<img alt="История Беларуси" src="../../images/_img-index/blr_10ce_etno_variag_way_thumb.jpg" height="100">
-			</br><small>Племенные союзы</small>
+			<img alt="История Беларуси" src="../../images/_img-index/blr_10ce_etno_variag_way_thumb.jpg" class="thumb">
+			<br><small>Племенные союзы</small>
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-terms/blr_etnos/slavic_shafarik.jpg" class="highslide"
        		 onclick="return hs.expand(this)">
-			<img alt="1799 Описание народов государства Российского" src="../../images/img-terms/blr_etnos/slavic_shafarik_thumb.jpg" height="100"/>
-			</br><small>Й. Шафарик "О славянах"</small>
+			<img alt="1799 Описание народов государства Российского" src="../../images/img-terms/blr_etnos/slavic_shafarik_thumb.jpg" class="thumb">
+			<br><small>Й. Шафарик "О славянах"</small>
 			</a>				
 			</div>
 			
@@ -251,33 +252,33 @@
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-terms/shliahta/Sarmatia_Sanson.jpg" class="highslide"
       	  onclick="return hs.expand(this)">
-			<img alt="Белорусская шляхта ВКЛ, сарматы, Сарматия" src="../../images/img-terms/shliahta/Sarmatia_Sanson_thumb.jpg" height="100">
-			</br><small>Сарматия. Sanson, 1660</small>
+			<img alt="Белорусская шляхта ВКЛ, сарматы, Сарматия" src="../../images/img-terms/shliahta/Sarmatia_Sanson_thumb.jpg" class="thumb">
+			<br><small>Сарматия. Sanson, 1660</small>
 			</a>				
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-events/razbor_rechi/razbor_rechi.jpg" class="highslide"
       	 	 onclick="return hs.expand(this)">
-			<img alt="Разделы Речи Посполитой" src="../../images/img-events/razbor_rechi/razbor_rechi_thumb.jpg" height="100" >
-			</br><small>Разделы Речи Посполитой</small>
+			<img alt="Разделы Речи Посполитой" src="../../images/img-events/razbor_rechi/razbor_rechi_thumb.jpg" class="thumb">
+			<br><small>Разделы Речи Посполитой</small>
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center" >
 			<a href="../../images/img-download/blr_people_now/map_Lotter_litwa_1770.jpg" class="highslide"
       	 	 onclick="return hs.expand(this)">
-			<img alt="ВКЛ Меркатор" src="../../images/img-download/blr_people_now/map_Lotter_litwa_1770_thumb.jpg" height="100">
-			</br><small>Lithuania, Т. Лоттер, 1778  
-			</br>(первый раздел Речи Посполитой)</small>
+			<img alt="ВКЛ Меркатор" src="../../images/img-download/blr_people_now/map_Lotter_litwa_1770_thumb.jpg" class="thumb">
+			<br><small>Lithuania, Т. Лоттер, 1778  
+			<br>(первый раздел Речи Посполитой)</small>
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center" >
 			<a href="../../images/img-terms/litwiny/smolensk_blr.jpg" class="highslide"
        		 onclick="return hs.expand(this)">
-			<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/smolensk_blr.jpg" width="120" height="100" >
-			</br><small>"Белоруссия — Смоленская губерния" 1768</small>
+			<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/smolensk_blr.jpg" class="thumb">
+			<br><small>"Белоруссия — Смоленская губерния" 1768</small>
 			</a>
 			</div>		
 		
@@ -288,32 +289,32 @@
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-figures/blr_polak.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="1799 Описание народов государства Российского" src="../../images/img-figures/blr_polak.jpg" height="100" width="100"/>
-			</br><small>"Кривичи польского племени"</small>
+			<img alt="1799 Описание народов государства Российского" src="../../images/img-figures/blr_polak.jpg" class="thumb">
+			<br><small>"Кривичи польского племени"</small>
 			</a>
 			</div>
 		
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-terms/shliahta/blr_shliahta1.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="Белорусская шляхта ВКЛ" src="../../images/img-terms/shliahta/blr_shliahta1_thumb.jpg" height="100">
-			</br><small>"Шляхта, как отдельная этнографическая группа", 1905 г</small>
+			<img alt="Белорусская шляхта ВКЛ" src="../../images/img-terms/shliahta/blr_shliahta1_thumb.jpg" class="thumb">
+			<br><small>"Шляхта, как отдельная этнографическая группа", 1905 г</small>
 			</a>				
 			</div>
 			
 			<div class="col-md-3 img-float-center" >
 			<a href="../../images/img-terms/litwiny/litvin_religion.jpg" class="highslide"
        		 onclick="return hs.expand(this)">
-			<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_religion_thumb.jpg" height="100" >
-			</br><small>"Литвины — белорусы и католики" 1631</small>
+			<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_religion_thumb.jpg" class="thumb">
+			<br><small>"Литвины — белорусы и католики" 1631</small>
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-terms/blr_etnos/blr_character.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/blr_etnos/blr_character_thumb.jpg" height="100"/>
-			</br><small>"Белоруссы", 1905</small>
+			<img src="../../images/img-terms/blr_etnos/blr_character_thumb.jpg" class="thumb">
+			<br><small>"Белоруссы", 1905</small>
 			</a>				
 			</div>
 			

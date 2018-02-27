@@ -78,7 +78,7 @@
 					Графічнае адраджэньне страчанай архітэктурнай спадчыны
 					</h3>
 					<p class="text-faded">
-					Пры інфармацыйнай падтрымке 
+					Пры інфармацыйнай падтрымцы 
 					
                     <a target="_blank" href="index.php" class="btn btn-default btn-xl-history-belarus"> 
 					<img src="../../img/logo.png" height="20" >
@@ -357,12 +357,12 @@
                 </div>
                 
                 <div class="col-lg-3 col-sm-6 col-md-6 img-float-center">
-                    <a href="/pages/arch_harodnia/harodnia_astaszin.php" class="portfolio-box" >
-                        <img src="images_legacy/img_harodnia/astaszin/astaszin_index.jpg"  class="img-responsive image-thumb_archIndex" alt="Асташын, Кальвінскі збор" >
+                    <a href="/pages/arch_harodnia/harodnia_berastawica.php" class="portfolio-box" >
+                        <img src="images_legacy/img_harodnia/berastawica/berastawica_index.jpg"  class="img-responsive image-thumb_archIndex" alt="В. Бераставіца:  Касцёл Звеставаньня Панны Марыі" >
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Асташын: Кальвінскі збор
+                                    В. Бераставіца:  Касцёл Звеставаньня Панны Марыі
                                 </div>
                             </div>
                         </div>

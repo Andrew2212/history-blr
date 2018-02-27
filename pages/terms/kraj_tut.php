@@ -81,13 +81,42 @@
 		 Toloczka (Dryhwicz) Wladyslaw, 1927</small>		
 		</p>
 		
-		<p class="img-float-center">
+		<div class="col-md-12 img-float-center">
+		
+		<div class="col-md-3">
+		<a href="../../images/img-figures/zeligowski/zapomin.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Люциан Желиговский, Zapomnianae prawdy (Забытые истины)" src="../../images/img-figures/zeligowski/zapomin_thumb.jpg" class="thumb" >
+			<br><small>"Что стало с Литвой?"</small>
+		</a>
+		</div>	
+		
+		<div class="col-md-3">
+		<a href="../../images/img-figures/zeligowski/zapominTut.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Люциан Желиговский, Zapomnianae prawdy (Забытые истины) - тутэйшыя" src="../../images/img-figures/zeligowski/zapominTut_thumb.jpg" class="thumb" >
+			<br><small>"Тутэйшыя" — кто они?</small>
+		</a>
+		</div>
+		
+		<div class="col-md-3">
 		<a href="../../images/img-terms/filomaty/tut_kraj.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Филоматы" src="../../images/img-terms/filomaty/tut_kraj_thumb.jpg" height="120">
-		</br><small>Истоки краевасьці</small>
+		<img alt="Филоматы" src="../../images/img-terms/filomaty/tut_kraj_thumb.jpg" class="thumb">
+		<br><small>Истоки краевасьці</small>
 		</a>
-		</p>
+		</div>
+		
+		<div class="col-md-3">
+		<a href="../../images/img-download/filomaty_note/1803vilno_univer.jpg" class="highslide"
+        onclick="return hs.expand(this)">
+			<img alt="Филоматы, 1803 Виленский учебный округ" src="../../images/img-download/filomaty_note/1803vilno_univer_thumb.jpg" class="thumb" >
+			<br><small>1803 Виленский учебный округ</small>
+		</a>
+		</div>
+		
+		</div>
+		
 		
 		<p>
 		<i>

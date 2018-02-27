@@ -8,16 +8,16 @@
 		<p class="img-float-left">
 		<a href="../../images/img-terms/kalumny/1684_Litwa-Rus-Zmudz-Woewodstwa.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Воеводства ВКЛ" src="../../images/img-terms/kalumny/1684_Litwa-Rus-Zmudz-Woewodstwa_thumb.jpg" height="120" >
-		</br><small>1684 Воеводства ВКЛ</small>
+		<img alt="Воеводства ВКЛ" src="../../images/img-terms/kalumny/1684_Litwa-Rus-Zmudz-Woewodstwa_thumb.jpg" class="thumbInfo" >
+		<br><small>1684 Воеводства ВКЛ</small>
 		</a>
 		</p>
 		
 		<p class="img-float-right">
 		<a href="../../images/img-terms/kalumny/RP_povety.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Воеводства ВКЛ" src="../../images/img-terms/kalumny/RP_povety_thumb.jpg" height="120" >
-		</br><small>1749 Воеводства ВКЛ</small>
+		<img alt="Воеводства ВКЛ" src="../../images/img-terms/kalumny/RP_povety_thumb.jpg" class="thumbInfo" >
+		<br><small>1749 Воеводства ВКЛ</small>
 		</a>
 		</p>
 		<p>
@@ -59,24 +59,24 @@
 		<div class=" col-md-4 ">
 		<a href="../../images/img-terms/kalumny/1584_herbPagonia.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Погоня ВКЛ" src="../../images/img-terms/kalumny/1584_herbPagonia_thumb.jpg" height="100" >
-		</br><small>1584 Погоня</small>
+		<img alt="Погоня ВКЛ" src="../../images/img-terms/kalumny/1584_herbPagonia_thumb.jpg" class="thumb" >
+		<br><small>1584 Погоня</small>
 		</a>
 		</div>
 		
 		<div class=" col-md-4 ">
 		<a href="../../images/img-terms/kalumny/1584_herbKalumny.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Калюмны, столпы Геимина" src="../../images/img-terms/kalumny/1584_herbKalumny_thumb.jpg" height="100" >
-		</br><small>1584 Калюмны</small>
+		<img alt="Калюмны, столпы Геимина" src="../../images/img-terms/kalumny/1584_herbKalumny_thumb.jpg" class="thumb" >
+		<br><small>1584 Калюмны</small>
 		</a>
 		</div>
 		
 		<div class=" col-md-4 ">
 		<a href="../../images/img-terms/kalumny/1584_herbVilnoTroki.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1584_herbVilnoTroki_thumb.jpg" height="100" >
-		</br><small>1584 Гербы воеводств ВКЛ</small>
+		<img alt="Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1584_herbVilnoTroki_thumb.jpg" class="thumb" >
+		<br><small>1584 Гербы воеводств ВКЛ</small>
 		</a>
 		</div>
 		
@@ -87,7 +87,7 @@
 		<div class=" col-md-4 ">
 		<a href="../../images/img-terms/kalumny/1584_herbMinskVitebsk.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1584_herbMinskVitebsk_thumb.jpg" height="100" >
+		<img alt="Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1584_herbMinskVitebsk_thumb.jpg" class="thumb" >
 		</br><small>1584 Гербы воеводств ВКЛ</small>
 		</a>
 		</div>
@@ -95,16 +95,16 @@
 		<div class=" col-md-4 ">
 		<a href="../../images/img-terms/kalumny/1584_herbZmudNowogrodek.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1584_herbZmudNowogrodek_thumb.jpg" height="100" >
-		</br><small>1584 Гербы воеводств ВКЛ</small>
+		<img alt="Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1584_herbZmudNowogrodek_thumb.jpg" class="thumb" >
+		<br><small>1584 Гербы воеводств ВКЛ</small>
 		</a>
 		</div>
 		
 		<div class=" col-md-4 ">
 		<a href="../../images/img-terms/kalumny/1584_herbVolynKijow.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1584_herbVolynKijow_thumb.jpg" height="100" >
-		</br><small>1584 Гербы воеводств ВКЛ</small>
+		<img alt="Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1584_herbVolynKijow_thumb.jpg" class="thumb" >
+		<br><small>1584 Гербы воеводств ВКЛ</small>
 		</a>
 		</div>
 		
@@ -134,32 +134,32 @@
 		<div class=" col-md-3">
 		<a href="../../images/img-terms/kalumny/1597_MartinChronicaBookTitle.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1597_MartinChronicaBookTitle_thumb.jpg" height="100" >
-		</br><small>1597 Kronika Polska</small>
+		<img alt="Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1597_MartinChronicaBookTitle_thumb.jpg" class="thumb" >
+		<br><small>1597 Kronika Polska</small>
 		</a>
 		</div>
 		
 		<div class=" col-md-3">
 		<a href="../../images/img-terms/kalumny/1597_MartinChronicaBookPogoniaKalumny.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="1597 Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1597_MartinChronicaBookPogoniaKalumny_thumb.jpg" height="100" >
-		</br><small>1597 Гербы воеводств ВКЛ</small>
+		<img alt="1597 Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1597_MartinChronicaBookPogoniaKalumny_thumb.jpg" class="thumb">
+		<br><small>1597 Гербы воеводств ВКЛ</small>
 		</a>
 		</div>
 		
 		<div class=" col-md-3">
 		<a href="../../images/img-terms/kalumny/1597_MartinChronicaBookMinskZmud.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="1597 Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1597_MartinChronicaBookMinskZmud_thumb.jpg" height="100" >
-		</br><small>1597 Гербы воеводств ВКЛ</small>
+		<img alt="1597 Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1597_MartinChronicaBookMinskZmud_thumb.jpg" class="thumb">
+		<br><small>1597 Гербы воеводств ВКЛ</small>
 		</a>
 		</div>
 		
 		<div class=" col-md-3">
 		<a href="../../images/img-terms/kalumny/1597_MartinChronica.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Погоня, Калюмны, ВКЛ" src="../../images/img-terms/kalumny/1597_MartinChronica_thumb.jpg" height="100" >
-		</br><small>1597 (1856) Погоня, Калюмны</small>
+		<img alt="Погоня, Калюмны, ВКЛ" src="../../images/img-terms/kalumny/1597_MartinChronica_thumb.jpg" class="thumb">
+		<br><small>1597 (1856) Погоня, Калюмны</small>
 		</a>
 		</div>
 		
@@ -183,24 +183,24 @@
 		<div class=" col-md-3">
 		<a href="../../images/img-terms/kalumny/1799_LeSageMap.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1799_LeSageMap_thumb.jpg" height="100" >
-		</br><small>1799 Карта ВКЛ</small>
+		<img alt="Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1799_LeSageMap_thumb.jpg" class="thumb">
+		<br><small>1799 Карта ВКЛ</small>
 		</a>
 		</div>
 		
 		<div class="col-md-6 img-float-center">
 		<a href="../../images/img-download/atlas_historyczny_sage/1844_herby.jpg" class="highslide"
        	onclick="return hs.expand(this)">
-		<img alt="гербы воеводств Речи Посполитой, гербы воеводств ВКЛ" src="../../images/img-download/atlas_historyczny_sage/1844_herby_thumb.jpg" height="100"/>
-		</br><small>Гербы воеводств Речи Посполитой</small>
+		<img alt="гербы воеводств Речи Посполитой, гербы воеводств ВКЛ" src="../../images/img-download/atlas_historyczny_sage/1844_herby_thumb.jpg" class="thumb">
+		<br><small>Гербы воеводств Речи Посполитой</small>
 		</a>
 		</div>		
 		
 		<div class=" col-md-3">
 		<a href="../../images/img-terms/kalumny/1799_LeSageHerby.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1799_LeSageHerby_thumb.jpg" height="100" >
-		</br><small>1799 Гербы воеводств ВКЛ</small>
+		<img alt="Гербы воеводств ВКЛ" src="../../images/img-terms/kalumny/1799_LeSageHerby_thumb.jpg" class="thumb">
+		<br><small>1799 Гербы воеводств ВКЛ</small>
 		</a>
 		</div>
 		

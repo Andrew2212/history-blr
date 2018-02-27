@@ -40,10 +40,10 @@
 			<p class="img-float-left">
 			<a href="../../images/img-download/blr_types/book_title.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках" src="../../images/img-download/blr_types/book_title_thumb.jpg" height="160"/>
-			</br><small>"Беларусы ў фотаздымках"</small>
+			<img alt="Беларусы ў фотаздымках" src="../../images/img-download/blr_types/book_title_thumb.jpg" class="thumbInfo">
+			<br><small>"Беларусы ў фотаздымках"</small>
 			</a>
-			</br>Файл .pdf, 128 Мб</br>
+			<br><br>Файл .pdf, 128 Мб<br>
 			<a target="_blank" href="https://drive.google.com/file/d/0B_T3PThCY39DSWZLc2V4WjRBNVU/view?usp=sharing" class="btn btn-default img-float-left"
 						data-toggle="modal"> <i class="glyphicon glyphicon-cloud-download"></i> Посмотреть и скачать
 			</a>
@@ -52,8 +52,8 @@
 			<p class="img-float-right">
 			<a href="../../images/img-download/blr_types/map_photo.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img src="../../images/img-download/blr_types/map_photo_thumb.jpg" height="140" class="img-float-left"/>
-			</br><small>Карта экспедиций, 1911</small>
+			<img src="../../images/img-download/blr_types/map_photo_thumb.jpg" class="thumbInfo">
+			<br><small>Карта экспедиций, 1911</small>
 			</a>
 			</p>
 			
@@ -77,37 +77,37 @@
 			
 			</p>
 			
-			<div class="col-md-12">
+			<div class="col-md-12 img-float-center">
 			
-			<div class="col-md-3 img-float-center">
+			<div class="col-md-3">
 			<a href="../../images/img-download/blr_types/menskWhiteFlower.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/menskWhiteFlower_thumb.jpg" height="100">
-			</br><small>Минск, Дзень Белай кветкі</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/menskWhiteFlower_thumb.jpg" class="thumb">
+			<br><small>Минск, Дзень Белай кветкі</small>	
 			</a>
 			</div>
 			
-			<div class="col-md-3 img-float-center">
+			<div class="col-md-3">
 			<a href="../../images/img-download/blr_types/turez.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/turez_thumb.jpg" height="100">
-			</br><small>Турец</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/turez_thumb.jpg" class="thumb">
+			<br><small>Турец</small>	
 			</a>
 			</div>
 			
-			<div class="col-md-3 img-float-center">
+			<div class="col-md-3">
 			<a href="../../images/img-download/blr_types/horval.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/horval_thumb.jpg" height="100">
-			</br><small>Горваль</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/horval_thumb.jpg" class="thumb">
+			<br><small>Горваль</small>	
 			</a>
 			</div>
 			
-			<div class="col-md-3 img-float-center">
+			<div class="col-md-3">
 			<a href="../../images/img-download/blr_types/bariskawiczy.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/bariskawiczy_thumb.jpg" height="100">
-			</br><small>Борисковичи</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/bariskawiczy_thumb.jpg" class="thumb">
+			<br><small>Борисковичи</small>	
 			</a>
 			</div>
 			
@@ -127,32 +127,32 @@
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/babuchna.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/babuchna_thumb.jpg" height="100">
-			</br><small>Бабухна, 70 год</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/babuchna_thumb.jpg" class="thumb">
+			<br><small>Бабухна, 70 год</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/wybranki.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/wybranki_thumb.jpg" height="100">
-			</br><small>Выбранцы</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/wybranki_thumb.jpg" class="thumb">
+			<br><small>Выбранцы</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/swjata.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/swjata_thumb.jpg" height="100">
-			</br><small>Сьвяточная улица</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/swjata_thumb.jpg" class="thumb">
+			<br><small>Сьвяточная улица</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/staryjaDarohi.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/staryjaDarohi_thumb.jpg" height="100">
-			</br><small>Женщины с детьми</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/staryjaDarohi_thumb.jpg" class="thumb">
+			<br><small>Женщины с детьми</small>	
 			</a>
 			</div>
 			
@@ -168,32 +168,32 @@
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/one_muz.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/one_muz_thumb.jpg" height="100">
-			</br><small>Аратай на волах</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/one_muz_thumb.jpg" class="thumb">
+			<br><small>Аратай на волах</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/three_muz.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/three_muz_thumb.jpg" height="100">
-			</br><small>Пинский повет</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/three_muz_thumb.jpg" class="thumb">
+			<br><small>Пинский повет</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/potter.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/potter_thumb.jpg" height="100">
-			</br><small>Гончар</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/potter_thumb.jpg" class="thumb">
+			<br><small>Гончар</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/gentry_yard.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/gentry_yard_thumb.jpg" height="100">
-			</br><small>Двор шляхты</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/gentry_yard_thumb.jpg" class="thumb">
+			<br><small>Двор шляхты</small>	
 			</a>
 			</div>
 			
@@ -209,32 +209,32 @@
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/muz_dudar.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/muz_dudar_thumb.jpg" height="100">
-			</br><small>Дудар</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/muz_dudar_thumb.jpg" class="thumb">
+			<br><small>Дудар</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/muz_lirnik.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/muz_lirnik_thumb.jpg" height="100">
-			</br><small>Колавая ліра</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/muz_lirnik_thumb.jpg" class="thumb">
+			<br><small>Колавая ліра</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/muz_liachaviczy.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/muz_liachaviczy_thumb.jpg" height="100">
-			</br><small>Музыкі з Лхавіч</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/muz_liachaviczy_thumb.jpg" class="thumb">
+			<br><small>Музыкі з Лхавіч</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/muz_kaljada.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/muz_kaljada_thumb.jpg" height="100">
-			</br><small>Каляды</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/muz_kaljada_thumb.jpg" class="thumb">
+			<br><small>Каляды</small>	
 			</a>
 			</div>
 			
@@ -252,32 +252,32 @@
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/old_blr.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/old_blr_thumb.jpg" height="100">
-			</br><small>Старики</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/old_blr_thumb.jpg" class="thumb">
+			<br><small>Старики</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/gentryPhoto.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/gentryPhoto_thumb.jpg" height="100">
-			</br><small>Дворянин и староста</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/gentryPhoto_thumb.jpg" class="thumb">
+			<br><small>Дворянин и староста</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/1904_blrPhoto.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/1904_blrPhoto_thumb.jpg" height="100">
-			</br><small>"Белорусска"</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/1904_blrPhoto_thumb.jpg" class="thumb">
+			<br><small>"Белорусска"</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-figures/szydlowski_mirskie/symon_szydlowski.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img alt="Сымон Шидловский и Святополк-Мирские" src="../../images/img-figures/szydlowski_mirskie/symon_szydlowski_thumb.jpg" height="100" >
-			</br><small>Сымон Шидловский</small>
+			<img alt="Сымон Шидловский и Святополк-Мирские" src="../../images/img-figures/szydlowski_mirskie/symon_szydlowski_thumb.jpg" class="thumb">
+			<br><small>Сымон Шидловский</small>
 			</a>
 			</div>
 			
@@ -295,32 +295,32 @@
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/other_harodnja.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/other_harodnja_thumb.jpg" height="100">
-			</br><small>Гродненские типажи</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/other_harodnja_thumb.jpg" class="thumb">
+			<br><small>Гродненские типажи</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/kaganez.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/kaganez_thumb.jpg" height="100">
-			</br><small>"Типы белоруссов"</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/kaganez_thumb.jpg" class="thumb">
+			<br><small>"Типы белоруссов"</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/RI_blr.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/RI_blr_thumb.jpg" height="100">
-			</br><small>"Белоруссы"</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/RI_blr_thumb.jpg" class="thumb">
+			<br><small>"Белоруссы"</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/other_pict.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/other_pict_thumb.jpg" height="100">
-			</br><small>Борисов и "грамницы"</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/other_pict_thumb.jpg" class="thumb">
+			<br><small>Борисов и "грамницы"</small>	
 			</a>
 			</div>
 					
@@ -337,32 +337,32 @@
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/litwiny.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/litwiny_thumb.jpg" height="100">
-			</br><small>Litwini</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/litwiny_thumb.jpg" class="thumb">
+			<br><small>Litwini</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/blrLit.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/blrLit_thumb.jpg" height="100">
-			</br><small>Литовцы и белорусы, 1882</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/blrLit_thumb.jpg" class="thumb">
+			<br><small>Литовцы и белорусы, 1882</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/litowcy-belarusy.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/litowcy-belarusy_thumb.jpg" height="100">
-			</br><small>Литовцы и белорусы, 1906</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/litowcy-belarusy_thumb.jpg" class="thumb">
+			<br><small>Литовцы и белорусы, 1906</small>	
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/shliachta_okolicz.jpg" class="highslide"
        	 	onclick="return hs.expand(this)">
-			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/shliachta_okolicz_thumb.jpg" height="100">
-			</br><small>Шляхта околичная, 1882</small>	
+			<img alt="Беларусы ў фотаздымках"  src="../../images/img-download/blr_types/shliachta_okolicz_thumb.jpg" class="thumb">
+			<br><small>Шляхта околичная, 1882</small>	
 			</a>
 			</div>
 			
@@ -379,32 +379,32 @@
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-terms/blr_etnos/blr_faceview.jpg" class="highslide"
        		 onclick="return hs.expand(this)">
-			<img alt="Беларусы" src="../../images/img-terms/blr_etnos/blr_faceview_thumb.jpg" height="100"/>
-			</br><small>"Облик белорусского племени"</small>
+			<img alt="Беларусы" src="../../images/img-terms/blr_etnos/blr_faceview_thumb.jpg" class="thumb">
+			<br><small>"Облик белорусского племени"</small>
 			</a>				
 			</div>
 		
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-terms/blr_etnos/blr_character.jpg" class="highslide"
        		 onclick="return hs.expand(this)">
-			<img alt="Беларусы" src="../../images/img-terms/blr_etnos/blr_character_thumb.jpg" height="100"/>
-			</br><small>"О характере белоруссов"</small>
+			<img alt="Беларусы" src="../../images/img-terms/blr_etnos/blr_character_thumb.jpg" class="thumb">
+			<br><small>"О характере белоруссов"</small>
 			</a>				
 			</div>
 		
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-terms/shliahta/blr_shliahta1.jpg" class="highslide"
        		 onclick="return hs.expand(this)">
-			<img alt="Беларусы" src="../../images/img-terms/shliahta/blr_shliahta1_thumb1.jpg" height="100">
-			</br><small>"Белорусская шляхта"</small>
+			<img alt="Беларусы" src="../../images/img-terms/shliahta/blr_shliahta1_thumb1.jpg" class="thumb">
+			<br><small>"Белорусская шляхта"</small>
 			</a>				
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-terms/blr_etnos/blr_etnos15ce.jpg" class="highslide"
       		  onclick="return hs.expand(this)">
-			<img alt="Беларусы" src="../../images/img-terms/blr_etnos/blr_etnos15ce_thumb.jpg" height="100"/>
-			</br><small>"Народность белорусская"</small>
+			<img alt="Беларусы" src="../../images/img-terms/blr_etnos/blr_etnos15ce_thumb.jpg" class="thumb">
+			<br><small>"Народность белорусская"</small>
 			</a>
 			</div>				
 	
@@ -423,32 +423,108 @@
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_nationalists_1957/blr_bursua.jpg" class="highslide"
        		 onclick="return hs.expand(this)">
-			<img src="../../images/img-download/blr_nationalists_1957/blr_bursua_thumb.jpg" height="100"/>
-			</br><small>Буржуа</small>
+			<img src="../../images/img-download/blr_nationalists_1957/blr_bursua_thumb.jpg" class="thumb">
+			<br><small>Буржуа</small>
 			</a>
 			</div>
 		
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_nationalists_1957/blr_wilna_1916.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img src="../../images/img-download/blr_nationalists_1957/blr_wilna_1916_thumb.jpg" height="100"/>
-			</br><small>Учителя</small>
+			<img src="../../images/img-download/blr_nationalists_1957/blr_wilna_1916_thumb.jpg" class="thumb">
+			<br><small>Учителя</small>
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/servants.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img src="../../images/img-download/blr_types/servants_thumb.jpg" height="100"/>
-			</br><small>Чиновники и служащие</small>
+			<img src="../../images/img-download/blr_types/servants_thumb.jpg" class="thumb">
+			<br><small>Чиновники и служащие</small>
 			</a>
 			</div>
 			
 			<div class="col-md-3 img-float-center">
 			<a href="../../images/img-download/blr_types/meszkancy.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img src="../../images/img-download/blr_types/meszkancy_thumb.jpg" height="100"/>
-			</br><small>Просто горожане</small>
+			<img src="../../images/img-download/blr_types/meszkancy_thumb.jpg" class="thumb">
+			<br><small>Просто горожане</small>
+			</a>
+			</div>
+			
+			</div>
+			
+			<p>
+			И еще несколько фоторгафий, которыми хочется поделиться
+			</p>
+			
+			<div class="col-md-12 img-float-center">
+			
+			<div class="col-md-3">
+			<a href="../../images/img-download/blr_types/1920_Vitebsk_Chernaya_troitsa.jpg" class="highslide"
+       	 	onclick="return hs.expand(this)">
+			<img alt="Витебск, Черная Тройца"  src="../../images/img-download/blr_types/1920_Vitebsk_Chernaya_troitsa_thumb.jpg" class="thumb">
+			<br><small>1920 Витебск, "Черная Тройца"</small>	
+			</a>
+			</div>
+			
+			<div class="col-md-3">
+			<a href="../../images/img-download/blr_types/1930_maiontak.jpg" class="highslide"
+       	 	onclick="return hs.expand(this)">
+			<img alt="1930 Маёнтак"  src="../../images/img-download/blr_types/1930_maiontak_thumb.jpg" class="thumb">
+			<br><small>1930 Маёнтак</small>	
+			</a>
+			</div>
+			
+			<div class="col-md-3">
+			<a href="../../images/img-download/blr_types/barysaw_dudary.jpg" class="highslide"
+       	 	onclick="return hs.expand(this)">
+			<img alt="Дудары, Борисов"  src="../../images/img-download/blr_types/barysaw_dudary_thumb.jpg" class="thumb">
+			<br><small>Дудары, Борисов</small>	
+			</a>
+			</div>
+			
+			<div class="col-md-3">
+			<a href="../../images/img-download/blr_types/barysaw_dudar.jpg" class="highslide"
+       	 	onclick="return hs.expand(this)">
+			<img alt="Дудары, Борисов"  src="../../images/img-download/blr_types/barysaw_dudar_thumb.jpg" class="thumb">
+			<br><small>Дудар, Борисов</small>	
+			</a>
+			</div>
+			
+			</div>
+			
+			<div class="col-md-12 img-float-center">
+			
+			<div class="col-md-3">
+			<a href="../../images/img-download/blr_types/1919_stroi.jpg" class="highslide"
+       	 	onclick="return hs.expand(this)">
+			<img alt="1919 беларуские строи"  src="../../images/img-download/blr_types/1919_stroi_thumb.jpg" class="thumb">
+			<br><small>1919 Уходящая натура</small>	
+			</a>
+			</div>
+			
+			<div class="col-md-3">
+			<a href="../../images/img-download/blr_types/1930_Hlybokae.jpg" class="highslide"
+       	 	onclick="return hs.expand(this)">
+			<img alt="1930 м. Глубокое"  src="../../images/img-download/blr_types/1930_Hlybokae_thumb.jpg" class="thumb">
+			<br><small>1930 м. Глубокое</small>	
+			</a>
+			</div>
+			
+			<div class="col-md-3">
+			<a href="../../images/img-download/blr_types/1939-1959_Peoples.jpg" class="highslide"
+       	 	onclick="return hs.expand(this)">
+			<img alt="1930 Маёнтак"  src="../../images/img-download/blr_types/1939-1959_Peoples_thumb.jpg" class="thumb">
+			<br><small>1939-МутацияСССР-1957</small>	
+			</a>
+			</div>
+			
+			<div class="col-md-3">
+			<a href="../../images/img-download/blr_types/1937_BSSR_leaders.jpg" class="highslide"
+       	 	onclick="return hs.expand(this)">
+			<img alt="Праздник весны БССР"  src="../../images/img-download/blr_types/1937_BSSR_leaders_thumb.jpg" class="thumb">
+			<br><small>"Праздник весны БССР"</small>	
 			</a>
 			</div>
 			

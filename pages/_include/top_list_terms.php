@@ -98,6 +98,9 @@
         <li>
           1795 - 1917 <a href="sewero_zapadny_kraj.php">Северо-Западный край</a> 
         </li>
+        <li>
+         1914 - 1922 <a href="bnr_chrono.php">Хронлогия событий и череда границ</a> 
+        </li>
 		<li>
          1918 - 1919 <a href="bnr.php">БНР</a> 
         </li>
