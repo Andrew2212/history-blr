@@ -99,6 +99,9 @@
           1795 - 1917 <a href="sewero_zapadny_kraj.php">Северо-Западный край</a> 
         </li>
         <li>
+          1795 - 2018 <a href="expansion_RPC.php">Экспансия МП РПЦ</a> 
+        </li>
+        <li>
          1914 - 1922 <a href="bnr_chrono.php">Хронлогия событий и череда границ</a> 
         </li>
 		<li>
@@ -111,7 +114,7 @@
          1920 - 1991 <a href="bssr.php" class="item-edit">БССР</a> 
         </li>
         <li>
-         1991 - н.в. <a href="rb.php" class="item-edit">Республика Беларусь</a> 
+         1991 - н.в. <a href="rb.php">Республика Беларусь</a> 
         </li>
         	</ul>
         	

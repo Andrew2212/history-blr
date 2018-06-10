@@ -36,15 +36,15 @@
 		<p class="img-float-left">
 		<a href="../../images/img-terms/kraj_tut/Mapa_6_gubernij_Litwy_i_Bialej_Rusi.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Тутэйшая краевасьць" src="../../images/img-terms/kraj_tut/Mapa_6_gubernij_Litwy_i_Bialej_Rusi_thumb.jpg" height="140" >
-			</br><small>Северо-Западный край</small>
+			<img alt="Тутэйшая краевасьць" src="../../images/img-terms/kraj_tut/Mapa_6_gubernij_Litwy_i_Bialej_Rusi_thumb.jpg" class="thumbInfo">
+			<br><small>Северо-Западный край</small>
 			</a>
 		</p>
 		<p class="img-float-right">
 		<a href="../../images/img-events/razbor_rechi/razbor_rechi.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Разделы Речи Посполитой" src="../../images/img-events/razbor_rechi/razbor_rechi_thumb.jpg" height="140" >
-			</br><small>Разделы Речи Посполитой</small>
+			<img alt="Разделы Речи Посполитой" src="../../images/img-events/razbor_rechi/razbor_rechi_thumb.jpg" class="thumbInfo">
+			<br><small>Разделы Речи Посполитой</small>
 			</a>
 		</p>
 		<p>
@@ -89,32 +89,32 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/sewero_zapadny_kraj/SHE_1965.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Северо-Западный край" src="../../images/img-terms/sewero_zapadny_kraj/SHE_1965_thumb.jpg" height="100" >
-			</br><small>Колонии. СИЭ, 1965</small>
+			<img alt="Северо-Западный край" src="../../images/img-terms/sewero_zapadny_kraj/SHE_1965_thumb.jpg" class="thumb">
+			<br><small>Колонии. СИЭ, 1965</small>
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/sewero_zapadny_kraj/russ_education.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Северо-Западный край" src="../../images/img-terms/sewero_zapadny_kraj/russ_education_thumb.jpg" height="100" >
-			</br><small>"Русское дело в Северо-Западном крае", 1864</small>
+			<img alt="Северо-Западный край" src="../../images/img-terms/sewero_zapadny_kraj/russ_education_thumb.jpg" class="thumb">
+			<br><small>"Русское дело в Северо-Западном крае", 1864</small>
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/sewero_zapadny_kraj/russ_educationLang.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Северо-Западный край" src="../../images/img-terms/sewero_zapadny_kraj/russ_educationLang_thumb.jpg" height="100" >
-			</br><small>"Русское дело в Северо-Западном крае", 1864</small>
+			<img alt="Северо-Западный край" src="../../images/img-terms/sewero_zapadny_kraj/russ_educationLang_thumb.jpg" class="thumb">
+			<br><small>"Русское дело в Северо-Западном крае", 1864</small>
 			</a>
 		</div>
 		
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/sewero_zapadny_kraj/russ_educationPeople.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Северо-Западный край" src="../../images/img-terms/sewero_zapadny_kraj/russ_educationPeople_thumb.jpg" height="100" >
-			</br><small>"Русское дело в Северо-Западном крае", 1864</small>
+			<img alt="Северо-Западный край" src="../../images/img-terms/sewero_zapadny_kraj/russ_educationPeople_thumb.jpg" class="thumb">
+			<br><small>"Русское дело в Северо-Западном крае", 1864</small>
 			</a>
 		</div>
 		
@@ -123,63 +123,64 @@
 		<h3>ВКЛ vs Северо-Запдный край. Что изменилось.</h3>
 		<p>
 			После <a href="../events/razbor_rechi.php">разделов Речи Посполитой</a> белорусские земли вошли в состав Российской империи.
-			</br>С новой властью многое изменилось в Северо-Западном крае, бывшем Великом княжестве Литовском:
-			<ui>
+			<br>С новой властью многое изменилось в Северо-Западном крае, бывшем Великом княжестве Литовском:
+			<ul>
 			<li>
 			ликвидировано <a href="../terms/magdeburg_law.php">Магдебургское право</a> и самоуправление городов.
-			</br><small> В ВКЛ им пользовались 147 городов и местечек, в том числе 52 в границах современной Беларуси.</small>
+			<br><small> В ВКЛ им пользовались 147 городов и местечек, в том числе 52 в границах современной Беларуси.</small>
 			</li>
-			</br>
+			<br>
 			<li>
 			в 1840 году отменен <a href="../terms/statut.php">Статут ВКЛ</a> и местное самоуправление (сеймики)
-			</br><small>Собрание шляхты повета или воеводства. Общий для нескольких воеводств сеймик назывался генеральным</small>
+			<br><small>Собрание шляхты повета или воеводства. Общий для нескольких воеводств сеймик назывался генеральным</small>
 			</li>
-			</br>
+			<br>
 			<li>
 			города утратили свой статус общественно-культурных центров 
-			</br><small>Так, Минск, <i>"удостоенный чести иметь верховный суд для всей Литвы, кроме Вильны, каждые три года поочередно"</i> стал 
+			<br><small>Так, Минск, <i>"удостоенный чести иметь верховный суд для всей Литвы, кроме Вильны, каждые три года поочередно"</i> стал 
 			окраинным губернским городом.</small>
 			</li>
-			</br>
+			<br>
 			<li>
 			многие местечки потеряли свой статус и  были приравнены к селу. 
-			</br><small><i>"Местечко — полугородской поселок с торгово-ремесленным населением в XVIII-XX вв. в Польше, 
+			<br><small><i>"Местечко — полугородской поселок с торгово-ремесленным населением в XVIII-XX вв. в Польше, 
 			на Украине и в Белоруссии."</i></small>
 			</li>
-			</br>
+			<br>
 			<li>
 			началась религиозная экспансия Московского патриархата. Разрушается <a href="../terms/religion_blr.php">пестрая религиозная картина</a> ВКЛ-Беларуси.
-			</br><small>В 1839 году униатские приходы переданы РПЦ. Униаты и католики, составлявшие абсолютное большинство населения (православных было к 1772 году только 6 %) 
+			<br><small>В 1839 году униатские приходы переданы РПЦ. Униаты и католики, составлявшие абсолютное большинство населения (православных было к 1772 году только 6 %) 
 			подверглись всевозможным ограничениям, храмы отбирались и передавались Московскому патриархату или закрывались.</small>
 			</li>
-			</br>
+			<br>
 			<li>
 			"<a href="../terms/shliahta.php">разбор шляхты</a>" (свыше 10% населения). 
-			</br><small>По закону "О проверке документов о дворянском происхождении" мелкая шляхта, 
+			<br><small>По закону "О проверке документов о дворянском происхождении" мелкая шляхта, 
 			<a href="../terms/zemiane.php">земяне и панцирные бояре</a> были массово 
 			переведены в крестьянское сословие.</small>
 			</li>
-			</br>
+			<br>
 			<li>
 			появилось крепостное право 
-			</br><small>В Европе "наследственное рабство" крестьян существовало только в двух странах — России и Пруссии, тогда как во всех 
+			<br><small>В Европе "наследственное рабство" крестьян существовало только в двух странах — России и Пруссии, тогда как во всех 
 			остальных — феодальная зависимость</small>	
 			</li>
-			</br>
+			<br>
 			<li>
 			появился рекрутский набор 
-			</br><small>"Воинская повинность": 1793-1834 год — по 25 лет; 1834-1855 год — по 20 лет; с 1855 года — 15 лет. В ВКЛ крестьяне в армии не служили — 
+			<br><small>"Воинская повинность": 1793-1834 год — по 25 лет; 1834-1855 год — по 20 лет; с 1855 года — 15 лет. В ВКЛ крестьяне в армии не служили — 
 			было "компутовое войско" (лат. computatio — расчёт), состоявшее из народного ауторамента и иностранных наемников.</small>
 			</li>
-			</br>
+			<br>
 			<li>
 			разрушена система образования,  
-			</br><small>Коллегиумы и школы базилиан и <a href="../terms/jesuity.php">иезуитов</a> сменила система церковно-приходских школ, вызывавшая насмешки современников</small>
+			<br><small>Коллегиумы и школы базилиан и <a href="../terms/jesuity.php">иезуитов</a> сменила система церковно-приходских школ, вызывавшая насмешки современников</small>
 			</li>
-			</br>
+			<br>
 			<li>
 			была введена цензура печатных изданий, никогда не существовавшая в ВКЛ.
 			</li>
+		</ul>
 			
 		</p>
 		
@@ -188,7 +189,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-terms/religion_blr/kirkor_unia.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/religion_blr/kirkor_unia_thumb.jpg" height="100"/>
+			<img src="../../images/img-terms/religion_blr/kirkor_unia_thumb.jpg" class="thumb">
 			</br><small>Школы базилиан и иезуитов</small>
 		</a>		
 		</div>
@@ -196,7 +197,7 @@
 		<div class="col-md-4 img-float-center">
 		<a href="../../images/img-terms/religion_blr/kirkor_maniushko.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/religion_blr/kirkor_maniushko_thumb.jpg" height="100">
+		<img src="../../images/img-terms/religion_blr/kirkor_maniushko_thumb.jpg" class="thumb">
 		</br><small>Упадок образования</small>	
 		</a>
 		</div>
@@ -204,7 +205,7 @@
 		<div class=" col-md-4 img-float-center">
 			<a href="../../images/img-places/nesviz/kirkor_neswiz_down.jpg" class="highslide"
         	onclick="return hs.expand(this)">
-			<img src="../../images/img-places/nesviz/kirkor_neswiz_down_thumb.jpg" height="100" >
+			<img src="../../images/img-places/nesviz/kirkor_neswiz_down_thumb.jpg" class="thumb">
 			</br><small>Упадок городов. Несвиж</small>
 			</a>
 		</div>
@@ -230,7 +231,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/sewero_zapadny_kraj/seljane.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Северо-Западный край" src="../../images/img-terms/sewero_zapadny_kraj/seljane_thumb.jpg" height="100" >
+			<img alt="Северо-Западный край" src="../../images/img-terms/sewero_zapadny_kraj/seljane_thumb.jpg" class="thumb">
 			</br><small>Северо-Западный край.
 			</br>Крестьяне.</small>
 			</a>
@@ -239,7 +240,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/sewero_zapadny_kraj/shliaszticzy.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Северо-Западный край" src="../../images/img-terms/sewero_zapadny_kraj/shliaszticzy_thumb.jpg" height="100" >
+			<img alt="Северо-Западный край" src="../../images/img-terms/sewero_zapadny_kraj/shliaszticzy_thumb.jpg" class="thumb">
 			</br><small>Северо-Западный край.
 			</br>Шляхта, 1860-75.</small>
 			</a>
@@ -248,7 +249,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/filomaty/tut_kraj.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img alt="Северо-Западный край" src="../../images/img-terms/filomaty/tut_kraj_thumb.jpg" height="100" >
+			<img alt="Северо-Западный край" src="../../images/img-terms/filomaty/tut_kraj_thumb.jpg" class="thumb">
 			</br><small>Северо-Западный край.
 			</br>Интеллигенция, 1817-23.</small>
 			</a>
@@ -257,7 +258,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/filomaty/1875_Rittih.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Филоматы" src="../../images/img-terms/filomaty/1875_Rittih_thumb.jpg" height="100">
+		<img alt="Филоматы" src="../../images/img-terms/filomaty/1875_Rittih_thumb.jpg" class="thumb">
 		</br><small>Северо-Западный край.
 			</br>Лингвистическая карта, 1875.</small>
 		</a>
@@ -275,7 +276,7 @@
 		<div class="col-md-3 img-float-center" >
 		<a href="../../images/img-terms/litwiny/litvin_religion.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_religion_thumb.jpg" height="100" >
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_religion_thumb.jpg" class="thumb">
 		</br><small>Литвины "белорусцы и католики"</small>
 		</a>
 		</div>
@@ -283,7 +284,7 @@
 		<div class="col-md-3 img-float-center" >
 		<a href="../../images/img-terms/litwiny/litvin_blr.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_blr.jpg" height="100" >
+		<img alt="литвины-белорусы" src="../../images/img-terms/litwiny/litvin_blr.jpg" class="thumb">
 		</br><small>"По минской губернии", 1886</small>
 		</a>
 		</div>
@@ -291,7 +292,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/blr_etnos/blr_character.jpg" class="highslide"
         onclick="return hs.expand(this)">
-			<img src="../../images/img-terms/blr_etnos/blr_character_thumb.jpg" height="100"/>
+			<img src="../../images/img-terms/blr_etnos/blr_character_thumb.jpg" class="thumb">
 			</br><small>"О характере белоруссов"</small>
 		</a>				
 		</div>
@@ -299,7 +300,7 @@
 		<div class="col-md-3 img-float-center">
 		<a href="../../images/img-terms/shliahta/blr_shliahta1.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img src="../../images/img-terms/shliahta/blr_shliahta1_thumb1.jpg" height="100">
+		<img src="../../images/img-terms/shliahta/blr_shliahta1_thumb1.jpg" class="thumb">
 		</br><small>"Белорусская шляхта и панцирные бояре"</small>
 		</a>				
 		</div>
@@ -331,44 +332,46 @@
    		 </div>
 <p>
 По материалам "Краткий курс истории Беларуси" А. Е. Тарас
-</br><i>"В массовом порядке власти отбирали храмы у католиков и протестантов, превращая их в православные церкви, либо закрывая вообще. 
+<br><i>"В массовом порядке власти отбирали храмы у католиков и протестантов, превращая их в православные церкви, либо закрывая вообще. 
 Возьмем к примеру Минск. Здесь из 10 костёлов царские власти закрыли 9"</i>:
-<ui>
+<ul>
 <li>
 Кармелитов (действовал с 1703 г.) — закрыли в 1832 г., костёл превратили в склад.
 </li>
-</br>
+<br>
 <li>
 Бонифратров (действовал с 1703 г.) — закрыли в 1836 г.
 </li>
-</br>
+<br>
 <li>
 Францисканский (действовал с 1680 г.) — закрыли в 1843 г., позже превратили в административное здание.
 </li>
-</br>
+<br>
 <li>
 Рохитов (действовал с 1752 г.) — закрыли в 1843 г.
 </li>
-</br>
+<br>
 <li>
 Сестер-бернардинок (действовап с 1630 г.) — закрыли в 1853 г., а в 1870 г. передали православному Свято-Духовому монастырю. Сейчас это православный кафедральный собор.
 </li>
-</br>
+<br>
 <li>
 Бернардинский (действовал с 1624 г.) — в 1864 г. передали военному ведомству.
 </li>
-</br>
+<br>
 <li>
 Сестер-мариавиток (действовал с 1771 г.) — закрыли в 1864 г.
 </li>
-</br>
+<br>
 <li>
 Доминиканский (действовал с 1605 г.) — в 1869 г. превратили в казарму.
 </li>
-</br>
+<br>
 <li>
 Сестер-бенедиктинок (действовал с 1770-х гг.) — в 1872 г. передали женскому православному Преображенскому монастырю.
 </li>
+
+</ul>
 
 </p>
 
@@ -384,15 +387,10 @@
 </div>	
 <!--/Spoiler-->
 		
-		</br></br></br>
+		<br><br><br>
 		<p><small>
 		<a target="_blank" href="../../images/img-terms/sewero_zapadny_kraj/historical_versions.pdf">"КАЛЕЙДАСКОП ГІСТАРЫЯГРАФІЧНЫХ КОНТРАВЕРСІЙ"</a> В. В. Яноўская, А. М. Філатава</br>
-		http://coollib.com/b/277966/read#n_147</br>
-		be-x-old.wikipedia.org</br>
-		be.wikipedia.org</br>
-		pl.wikipedia.org</br>
-		uk.wikipedia.org</br>
-		ru.wikipedia.org</br>
+		http://coollib.com/b/277966/read#n_147<br>
 		</small></p>
 	</div>
 	

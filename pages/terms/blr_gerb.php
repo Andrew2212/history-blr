@@ -271,6 +271,12 @@
 
 	<!-- ***HerbyWKL *** -->
   	<? include ("../_include/include_HerbyWKL.php"); ?>
+  	<!-- ***/HerbyWKL *** -->
+  	
+  	<h3>Погоня, векторные выявы</h3>
+	<!-- ***Pogonia vector *** -->
+  	<? include ("../_include/include_pogonia_vector.php"); ?>
+  	<!-- ***/Pogonia vector *** -->
 
 <div class="col-md-12 top-list">
 <!--It's just line-->

@@ -209,6 +209,13 @@
 		</i></small>
         </li>
         <br>
+        <li>
+          <a href="pogonia_vector.php">Погоня, вектор</a>
+		<br><small><i>
+          Погоня с гербовника Комина 1575 года и рестайлинг классики 1991.
+		</i></small>
+        </li>
+        <br>
 		<li>
           <a href="#" class="item-unable">Нация — элита vs крестьяство</a>
         </li>
@@ -220,6 +227,13 @@
           <a href="mova_standarts.php">"Где вы взяли это слово?"</a>
           <br><small>
           Артыкул з нагоды смешнай, але нуднай, нібы закарэлы сіфіліс, недарэчнасьці
+          </small>
+        </li>
+        <br>
+        <li>
+          <a href="vasil_s-pad_Wilni.php">Попыт на Беларушчыну</a>, <small>Васіль Віннікаў</small>
+          <br><small>
+          ці як знікла гісторыя беларускага народу
           </small>
         </li>
         <br>
@@ -236,7 +250,7 @@
         
       </ul>
 	  </div>
-	  
+	  vasil_s-pad_Wilni
 
 </div>
 </div>

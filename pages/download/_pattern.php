@@ -35,9 +35,9 @@
 		<h1>Шаблон страницы</h1>
 		
 		<div class="img-float-left">
-		<a href="../../images/img-about/stub.jpg" class="highslide"
+		<a href="../../images/img-download/stub.jpg" class="highslide"
         onclick="return hs.expand(this)">
-		<img alt="Описание картинки" src="../../images/img-about/stub_thumb.jpg" class="thumbInfo">
+		<img alt="Описание картинки" src="../../images/img-download/stub_thumb.jpg" class="thumbInfo">
 		<p class="img-float-center">
 		<small>Описание</small>
 		</p>

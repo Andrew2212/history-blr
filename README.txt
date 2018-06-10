@@ -5,8 +5,8 @@
 
 Картинки, чтобы не грузить ГитХаб, вынесены в архи на Гугль-диск.
 
-Скачать архив images.zip во ссылке (2018/02/27)
-https://drive.google.com/file/d/1tALtvKGkq88jTy5CVqJ736E5-HXcjBBy/view?usp=sharing
+Скачать архив images.zip во ссылке (2018/06/10)
+https://drive.google.com/file/d/1zORJYWSwDkFTuz6jUfzi5NqifAub5wp7/view?usp=sharing
 распаковать и заменить пустую папку www/images на полученную
 
 
